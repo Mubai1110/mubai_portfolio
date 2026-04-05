@@ -72,7 +72,7 @@ export async function onRequestPost(context) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${env.DEEPSEEK_API_KEY}`,
+        'Authorization': `Bearer ${env.DEEPSEEK}`,
       },
       body: JSON.stringify({
         model: 'deepseek-chat',
