@@ -515,25 +515,35 @@ a:hover { color: var(--accent-light); }
 .chat-widget { position: fixed; bottom: 24px; right: 24px; z-index: 200; }
 
 .chat-toggle {
-  width: 52px; height: 52px; border-radius: 14px;
+  width: auto; height: auto; border-radius: 28px;
   background: var(--accent); color: #fff; border: none;
-  font-size: 1.3rem; cursor: pointer;
-  box-shadow: 0 4px 16px rgba(28, 37, 65, 0.35);
+  font-size: 0.92rem; cursor: pointer;
+  box-shadow: 0 4px 20px rgba(28, 37, 65, 0.4);
   transition: all var(--transition);
   position: relative;
+  padding: 14px 22px;
+  display: flex; align-items: center; gap: 10px;
+  font-family: var(--font); font-weight: 600;
+  letter-spacing: 0.3px;
+  animation: chatPulse 3s ease-in-out infinite;
+  animation-delay: 2s;
 }
-.chat-toggle:hover { transform: scale(1.06); background: var(--accent-light); }
+.chat-toggle:hover {
+  transform: scale(1.05); background: var(--accent-light);
+  animation: none;
+}
+@keyframes chatPulse {
+  0%, 100% { box-shadow: 0 4px 20px rgba(28, 37, 65, 0.4); }
+  50% { box-shadow: 0 4px 28px rgba(28, 37, 65, 0.6), 0 0 0 6px rgba(28, 37, 65, 0.1); }
+}
+
+.chat-toggle-text {
+  display: inline;
+}
 
 .chat-badge {
-  position: absolute; bottom: calc(100% + 8px); right: 0;
-  white-space: nowrap; font-size: 0.76rem; font-weight: 500;
-  background: var(--card-bg); color: var(--text);
-  padding: 6px 14px; border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-  opacity: 0; transition: opacity 0.5s ease;
-  pointer-events: none;
+  display: none;
 }
-.chat-badge.visible { opacity: 1; }
 .chat-badge::after {
   content: ''; position: absolute; top: 100%; right: 18px;
   border: 6px solid transparent; border-top-color: var(--card-bg);
@@ -631,7 +641,7 @@ a:hover { color: var(--accent-light); }
 
 @media (max-width: 480px) {
   .chat-panel { width: calc(100vw - 32px); right: -8px; }
-  .chat-badge { display: none; }
+  .chat-toggle { padding: 12px 16px; font-size: 0.82rem; }
 }
 
 /* === Animations === */

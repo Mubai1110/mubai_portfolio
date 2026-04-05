@@ -92,6 +92,7 @@ const translations = {
     'contact.desc': 'Open to opportunities in PE/VC investment. Based in Shanghai, also considering Shenzhen/Hangzhou. Let\'s connect.',
     'footer.text': '&copy; 2026 Mubai Xiao. Built with curiosity and Claude Code.',
     'chat.badge': 'Ask me anything!',
+    'chat.toggle': 'Ask Me Anything',
     'chat.name': "Mubai's AI Assistant",
     'chat.subtitle': 'Ask anything about me',
     'chat.welcome': "Hi! I'm Mubai's AI assistant. Ask me anything about his background, investment experience, thesis, or skills!",
@@ -192,6 +193,7 @@ const translations = {
     'contact.desc': '欢迎PE/VC投资方向的交流与机会。常驻上海，也考虑深圳/杭州。',
     'footer.text': '&copy; 2026 肖慕白',
     'chat.badge': '有什么想问的？',
+    'chat.toggle': '想了解我？点这里',
     'chat.name': '慕白的AI助手',
     'chat.subtitle': '随时提问了解我',
     'chat.welcome': '你好！我是慕白的AI助手。关于他的背景、投资经历、投资框架或技能，随时可以问我！',
@@ -307,14 +309,8 @@ function initChat() {
   const input = document.getElementById('chatInput');
   const send = document.getElementById('chatSend');
   const messages = document.getElementById('chatMessages');
-  const badge = toggle.querySelector('.chat-badge');
-
-  // Show badge after delay
-  setTimeout(() => badge.classList.add('visible'), 3000);
-
   toggle.addEventListener('click', () => {
     panel.classList.toggle('active');
-    badge.classList.remove('visible');
     if (panel.classList.contains('active')) input.focus();
   });
   close.addEventListener('click', () => panel.classList.remove('active'));
