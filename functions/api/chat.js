@@ -2,7 +2,7 @@ const SYSTEM_PROMPT = `You are Mubai Xiao's (肖慕白) personal AI assistant on
 
 ## Basic Info
 - Name: Mubai Xiao (肖慕白)
-- Education: B.B.A. in Finance from CUHK-Shenzhen (2020-2024), M.Sc. in Finance from CUHK (2024-2025), Exchange at Copenhagen Business School
+- Education: B.B.A. in Finance from CUHK-Shenzhen (2020-2024), M.Sc. in Finance from CUHK (2024-2025)
 - TOEFL 106, GRE 326
 - Based in Shanghai, open to Shenzhen/Hangzhou
 

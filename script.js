@@ -14,7 +14,7 @@ const translations = {
     'hero.stat.funds': 'Fund Types',
     'about.title': 'About Me',
     'about.education': 'Education',
-    'about.edu.content': '<p><strong>The Chinese University of Hong Kong</strong><br>M.Sc. in Finance | 2024–2025<br>Quantitative Methods, Python, M&A, PE&VC</p><p><strong>CUHK-Shenzhen</strong><br>B.B.A. in Finance | 2020–2024<br>Corporate Finance, Portfolio Analysis, Behavioral Finance</p><p><strong>Copenhagen Business School</strong><br>Exchange Student</p>',
+    'about.edu.content': '<p><strong>The Chinese University of Hong Kong</strong><br>M.Sc. in Finance | 2024–2025<br>Quantitative Methods, Python, M&A, PE&VC</p><p><strong>CUHK-Shenzhen</strong><br>B.B.A. in Finance | 2020–2024<br>Corporate Finance, Portfolio Analysis, Behavioral Finance</p>',
     'about.philosophy': 'Investment Philosophy',
     'about.philosophy.content': '<p>Embrace value investing with a long-termist mindset. I believe the best investments come from genuinely understanding the technology and the people behind it — not just the numbers.</p><p>Energetic, resilient, and low on internal friction. I stay clear-headed under pressure, dig deep into every problem, and commit fully to what I believe in.</p>',
     'about.toolkit': 'Professional Toolkit',
@@ -114,7 +114,7 @@ const translations = {
     'hero.stat.funds': '基金类型',
     'about.title': '关于我',
     'about.education': '教育背景',
-    'about.edu.content': '<p><strong>香港中文大学</strong><br>金融学理学硕士 | 2024–2025<br>量化金融、并购、PE&VC</p><p><strong>香港中文大学（深圳）</strong><br>金融学工商管理学士 | 2020–2024<br>公司金融、投资组合分析、行为金融学</p><p><strong>哥本哈根商学院</strong><br>交换生</p>',
+    'about.edu.content': '<p><strong>香港中文大学</strong><br>金融学理学硕士 | 2024–2025<br>量化金融、并购、PE&VC</p><p><strong>香港中文大学（深圳）</strong><br>金融学工商管理学士 | 2020–2024<br>公司金融、投资组合分析、行为金融学</p>',
     'about.philosophy': '投资理念',
     'about.philosophy.content': '<p>践行价值投资与长期主义。好的投资来自于真正理解技术和背后的人——不仅是数字。</p><p>精力充沛、心态通透、不内耗。面对压力保持清醒，对每个问题刨根问底，为信任的事情全力以赴。</p>',
     'about.toolkit': '专业技能',
@@ -391,8 +391,8 @@ function escapeHtml(text) {
 const knowledgeBase = {
   background: {
     keywords: ['background', 'education', 'school', 'university', 'study', '背景', '教育', '学校', '大学', '学历'],
-    en: "Mubai holds an M.Sc. in Finance from CUHK (2024-2025) and a B.B.A. in Finance from CUHK-Shenzhen (2020-2024) with an exchange at Copenhagen Business School. He scored TOEFL 106 and GRE 326. His coursework spans quantitative finance, M&A, PE&VC, and corporate finance.",
-    zh: "慕白在香港中文大学获得金融学硕士（2024-2025），在港中文（深圳）获得金融学学士（2020-2024），并在哥本哈根商学院交换。托福106，GRE 326。课程涵盖量化金融、并购、PE&VC、公司金融等。"
+    en: "Mubai holds an M.Sc. in Finance from CUHK (2024-2025) and a B.B.A. in Finance from CUHK-Shenzhen (2020-2024). He scored TOEFL 106 and GRE 326. His coursework spans quantitative finance, M&A, PE&VC, and corporate finance.",
+    zh: "慕白在香港中文大学获得金融学硕士（2024-2025），在港中文（深圳）获得金融学学士（2020-2024）。托福106，GRE 326。课程涵盖量化金融、并购、PE&VC、公司金融等。"
   },
   experience: {
     keywords: ['experience', 'work', 'career', 'job', 'intern', 'vc', 'pe', '经历', '工作', '实习', '职业'],
