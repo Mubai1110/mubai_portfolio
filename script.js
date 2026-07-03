@@ -18,7 +18,7 @@ const translations = {
     'about.education': 'Education',
     'about.edu.content': '<p><strong>The Chinese University of Hong Kong</strong><br>M.Sc. in Finance | 2024.08–2025.10<br>Python, Quantitative Risk Management, M&A, Corporate Accounting, PE&VC, Machine Learning</p><p><strong>The Chinese University of Hong Kong, Shenzhen</strong><br>B.B.A. in Finance | 2020.09–2024.06<br>Corporate Finance, Portfolio Strategy & Analysis, International Finance, Behavioral Finance, Optimization</p>',
     'about.philosophy': 'Investment Philosophy',
-    'about.philosophy.content': '<p>I focus on the compounding layers of AI: foundation models, data, infrastructure, post-training/fine-tuning, and the tooling that lowers deployment cost. I prefer investments where technical depth, distribution, and business model can reinforce each other over time.</p><p>Energetic, resilient, and low on internal friction. I stay clear-headed under pressure, dig deep into every problem, and commit fully to what I believe in.</p>',
+    'about.philosophy.content': '<p>I focus on the foundational and compounding layers of AI: foundation models, data, infrastructure, post-training/fine-tuning, and tooling that materially lowers deployment cost.</p><p>I care less about short-term application heat and more about technical depth, distribution advantage, commercial validation, and whether the business can compound across multiple AI adoption cycles.</p>',
     'about.toolkit': 'Professional Toolkit',
     'about.skill.finance': 'Finance & Modeling',
     'about.skill.tech': 'Tech & Data',
@@ -31,9 +31,9 @@ const translations = {
     'exp.cc.role': 'Investment Analyst',
     'exp.cc.company': "Empyrean Global Investment (Dreame Technology's CVC)",
     'exp.cc.rmb': 'AI Sector Coverage',
-    'exp.cc.rmb.items': '<li>Engaged with <strong>100+ AI technology startups</strong> and held in-depth discussions with <strong>30+ founders</strong> across LLM infrastructure, data layer, post-training/fine-tuning, AI enterprise services, embodied intelligence, and intelligent hardware</li><li>Built proprietary sourcing channels through university labs, entrepreneurship centers, professors, alumni, and founder networks across CUHK, USTC, UC Berkeley, CMU, BUPT, and BIT</li>',
+    'exp.cc.rmb.items': '<li>Engaged with <strong>100+ AI technology startups</strong> and held in-depth discussions with <strong>30+ founders</strong> across LLM infrastructure, data layer, post-training/fine-tuning, AI enterprise services, embodied intelligence, and intelligent hardware</li><li>Led or supported <strong>4 investments</strong>, covering humanoid robotics, metal 3D printing, and two cleaning robotics projects</li>',
     'exp.cc.usd': 'Investment Execution',
-    'exp.cc.usd.items': '<li>Led or supported <strong>4 investments</strong> across humanoid robotics, metal 3D printing, and intelligent cleaning robots</li><li>Owned initial communication, due diligence, datapack preparation, valuation analysis, investment committee materials, closing, and government return-investment coordination</li>',
+    'exp.cc.usd.items': '<li>Owned initial communication, due diligence, datapack preparation, valuation analysis, investment committee materials, closing, and government return-investment coordination</li><li>Built proprietary sourcing channels through university labs, entrepreneurship centers, professors, alumni, and founder networks across CUHK, USTC, UC Berkeley, CMU, BUPT, and BIT</li>',
     'exp.qa.role': 'PE Investment Analyst',
     'exp.qa.company': 'Qianhai Ark Assets Management · Received Return Offer',
     'exp.qa.items': '<li>Participated in the full investment process for <strong>low-altitude economy</strong> and cleaning robot projects, covering aircraft, flight control & avionics, communication, data acquisition, and manufacturing</li><li>Conducted on-site executive interviews and due diligence for <strong>4 projects</strong>; independently prepared <strong>2 investment proposals</strong> with datapack, financial model, industry research, and investment logic</li><li>Organized financials and agreements of <strong>100+ portfolio companies</strong> to identify value-add needs including factory selection, client resources, repurchase triggers, and underperformance issues</li>',
@@ -42,10 +42,10 @@ const translations = {
     'exp.dc.items': '<li><strong>M&A Strategy:</strong> Studied 5+ non-IPO exit cases and proposed an M&A fund strategy based on reverse takeover, asset injection, and headquarters relocation incentives; the strategy was adopted by partners</li><li><strong>Digital Transformation:</strong> Led LP reporting template design and OA workflow optimization, reducing manual workload for 30+ funds</li><li><strong>Fund Operations:</strong> Managed AMAC/CSRC compliance and customized disclosures for institutional LPs with 100% timely filing</li>',
     'proj.title': 'Focus Areas',
     'proj.featured': 'Deal Lead',
-    'proj.confidential.title': 'Confidential Cleaning Robotics Deal',
-    'proj.confidential.desc': 'Led a confidential intelligent cleaning robotics investment from early tracking to TS, investment committee, valuation negotiation, closing, and government return-investment coordination.',
-    'proj.physical.title': 'AI Full-Stack Coverage',
-    'proj.physical.desc': 'Coverage across the AI value chain, from foundation models, data layer, post-training/fine-tuning, and AI infra to enterprise applications, embodied intelligence, and intelligent hardware.',
+    'proj.confidential.title': 'Confidential Pool-Cleaning Robotics Deal',
+    'proj.confidential.desc': 'Led a confidential pool-cleaning robotics investment from early tracking to TS, investment committee, valuation negotiation, closing, and government return-investment coordination. Company name is intentionally omitted for confidentiality.',
+    'proj.ai_stack.title': 'AI Full-Stack Coverage',
+    'proj.ai_stack.desc': 'Coverage across the AI value chain, from foundation models, data layer, post-training/fine-tuning, and AI infra to enterprise applications, embodied intelligence, and intelligent hardware.',
     'proj.lowalt.title': 'Low-Altitude Economy',
     'proj.lowalt.desc': 'Deep-dive research and project execution across the low-altitude industry chain — aircraft manufacturing, flight control & avionics, communication systems, and data acquisition.',
     'proj.intel.badge': 'Live Knowledge Base',
@@ -136,7 +136,7 @@ const translations = {
     'about.education': '教育背景',
     'about.edu.content': '<p><strong>香港中文大学</strong><br>金融学理学硕士 | 2024.08–2025.10<br>Python、量化风险管理、兼并与收购、公司会计、PE&VC、机器学习</p><p><strong>香港中文大学（深圳）</strong><br>金融学工商管理学士 | 2020.09–2024.06<br>公司金融、投资组合策略与分析、国际金融、行为金融学、最优化</p>',
     'about.philosophy': '投资理念',
-    'about.philosophy.content': '<p>我更关注 AI 底层和复利层：基础模型、数据、Infra、后训练/微调，以及真正降低部署成本的工具链。相比短期应用热度，我更看重技术深度、分发能力和商业模式能否长期互相强化。</p><p>精力充沛、心态通透、不内耗。面对压力保持清醒，对每个问题刨根问底，为信任的事情全力以赴。</p>',
+    'about.philosophy.content': '<p>我更关注 AI 底层和复利层：基础模型、数据、Infra、后训练/微调，以及真正降低部署成本的工具链。</p><p>相比短期应用热度，我更看重技术深度、分发优势、商业验证，以及这家公司能否在多轮 AI 产业周期里持续复利。</p>',
     'about.toolkit': '专业技能',
     'about.skill.finance': '金融建模',
     'about.skill.tech': '技术与数据',
@@ -149,9 +149,9 @@ const translations = {
     'exp.cc.role': '投资分析师',
     'exp.cc.company': '天空工厂创投 / Empyrean Global Investment（追觅科技 CVC）',
     'exp.cc.rmb': 'AI 赛道覆盖',
-    'exp.cc.rmb.items': '<li>累计接触 <strong>100+ AI 软硬件及科技创业项目</strong>，与 <strong>30+ 创始人</strong>深度交流，覆盖大模型 Infra、数据层、后训练/微调、AI 企业服务、具身智能及智能硬件</li><li>依托高校实验室、创业中心、教授及校友网络，拓展覆盖港中大、中科大、UC Berkeley、CMU、北邮、北理工等院校的早期项目来源</li>',
+    'exp.cc.rmb.items': '<li>累计接触 <strong>100+ AI 软硬件及科技创业项目</strong>，与 <strong>30+ 创始人</strong>深度交流，覆盖大模型 Infra、数据层、后训练/微调、AI 企业服务、具身智能及智能硬件</li><li>主导或协助完成 <strong>4 个项目投资</strong>，覆盖人形机器人、金属 3D 打印及两个清洁机器人项目</li>',
     'exp.cc.usd': '投资执行',
-    'exp.cc.usd.items': '<li>主导或协助完成 <strong>4 个项目投资</strong>，覆盖人形机器人、金属 3D 打印及智能清洁机器人</li><li>负责前期沟通、尽调、Datapack、估值分析、投决上会及交割，并协助企业推进政府返投与产业落地</li>',
+    'exp.cc.usd.items': '<li>负责前期沟通、尽调、Datapack、估值分析、投决上会及交割，并协助企业推进政府返投与产业落地</li><li>依托高校实验室、创业中心、教授及校友网络，拓展覆盖港中大、中科大、UC Berkeley、CMU、北邮、北理工等院校的早期项目来源</li>',
     'exp.qa.role': 'PE投资助理',
     'exp.qa.company': '前海方舟资产管理 · 获留用推荐',
     'exp.qa.items': '<li>深度参与<strong>低空经济</strong>（整机、飞控&航电、通信、数据采集）及清洁机器人项目从立项到投决全流程</li><li>完成 <strong>4 个项目</strong>现场高管访谈与尽职调查；协助撰写 <strong>2 份投资建议书</strong>，包含 Datapack、财务模型、行业研究与投资逻辑</li><li>投后管理：梳理 <strong>100+ 被投企业</strong>财务和协议信息，挖掘工厂选址、客户资源、回购触发、业绩不达标等赋能需求</li>',
@@ -160,10 +160,10 @@ const translations = {
     'exp.dc.items': '<li><strong>并购基金研究：</strong>梳理 5+ 外部同业收并购退出案例，提出“收购上市壳+注入资产+总部搬迁返投”的投资逻辑，该策略被采纳后公司成立并购小组</li><li><strong>信息化建设：</strong>与 IT、财务、股权等部门协作优化 OA 模块和 LP 报告模板，节省 2–3 位人力工作量</li><li><strong>信息披露：</strong>独立完成中基协、保协、政基系统上 <strong>30+ 基金</strong>信息披露，并对接多位机构 LP 的定制化披露</li>',
     'proj.title': '关注领域',
     'proj.featured': '项目负责人',
-    'proj.confidential.title': '匿名智能清洁机器人投资案例',
-    'proj.confidential.desc': '因保密要求隐去项目名称。该项目属于智能清洁机器人方向，持续跟踪后在融资开启第一时间签下 TS，主导前期追踪、高管访谈、Datapack、估值分析、上会、交割及政府返投协调。',
-    'proj.physical.title': 'AI 全产业链覆盖',
-    'proj.physical.desc': '覆盖 AI 从底层到应用的完整链条：基础模型、数据层、后训练/微调、AI Infra、企业服务、具身智能与智能硬件。',
+    'proj.confidential.title': '某泳池清洁机器人项目',
+    'proj.confidential.desc': '因保密要求隐去项目名称。该项目属于泳池清洁机器人方向，持续跟踪后在融资开启第一时间签下 TS，主导前期追踪、高管访谈、Datapack、估值分析、上会、交割及政府返投协调。',
+    'proj.ai_stack.title': 'AI 全产业链覆盖',
+    'proj.ai_stack.desc': '覆盖 AI 从底层到应用的完整链条：基础模型、数据层、后训练/微调、AI Infra、企业服务、具身智能与智能硬件。',
     'proj.lowalt.title': '低空经济',
     'proj.lowalt.desc': '深度参与低空产业链全流程——整机制造、飞控航电、通信系统、数据采集环节的项目研究与执行。',
     'proj.intel.badge': '实时知识库',
@@ -426,15 +426,15 @@ const knowledgeBase = {
   },
   experience: {
     keywords: ['experience', 'work', 'career', 'job', 'intern', 'vc', 'pe', '经历', '工作', '实习', '职业'],
-    en: "Mubai has worked across Empyrean Global Investment, Qianhai Ark, and Fortune CaiZhi. He has engaged with 100+ AI technology startups, held in-depth discussions with 30+ founders, and led or supported 4 investments across humanoid robotics, metal 3D printing, and intelligent cleaning robotics.",
-    zh: "慕白在天空工厂创投 / Empyrean Global Investment、前海方舟、达晨财智有投资与基金运营经历。他累计接触100+ AI软硬件及科技创业项目，与30+创始人深度交流，并主导或协助完成4个项目投资，覆盖人形机器人、金属3D打印和智能清洁机器人。"
+    en: "Mubai has worked across Empyrean Global Investment, Qianhai Ark, and Fortune CaiZhi. He has engaged with 100+ AI technology startups, held in-depth discussions with 30+ founders, and led or supported 4 investments across humanoid robotics, metal 3D printing, and two cleaning robotics projects.",
+    zh: "慕白在天空工厂创投 / Empyrean Global Investment、前海方舟、达晨财智有投资与基金运营经历。他累计接触100+ AI软硬件及科技创业项目，与30+创始人深度交流，并主导或协助完成4个项目投资，覆盖人形机器人、金属3D打印及两个清洁机器人项目。"
   },
   thesis: {
     keywords: ['thesis', 'framework', 'investment thesis', 'ai', 'strategy', '框架', '投资逻辑', '策略', '观点'],
     en: "Mubai's AI thesis is increasingly focused on the foundational layers: foundation models, data, AI infrastructure, post-training/fine-tuning, and tools that reduce deployment cost. He still tracks applications and hardware, but prefers opportunities where technical depth, distribution, and commercial validation reinforce each other.",
     zh: "慕白的AI投资框架更偏底层和复利层：基础模型、数据、AI Infra、后训练/微调，以及真正降低部署成本的工具链。他仍然跟踪应用和硬件，但更偏好技术深度、分发能力和商业验证可以互相强化的机会。"
   },
-  physical_ai: {
+  ai_value_chain: {
     keywords: ['ai', 'robot', 'robotics', 'humanoid', 'cleaning', 'lidar', 'infra', 'data', 'model', 'fine-tuning', '机器人', '人形', '清洁', '激光雷达', '大模型', '数据', '微调', '后训练', '算力'],
     en: "Mubai covers the full AI value chain: foundation models, data layer, post-training/fine-tuning, AI infra, enterprise services, embodied intelligence, intelligent hardware, and robotics. His work combines bottom-layer research with hands-on transaction experience.",
     zh: "慕白关注的是AI全产业链：基础模型、数据层、后训练/微调、AI Infra、企业服务、具身智能、智能硬件和机器人。他的特点是把底层研究和真实交易执行经验结合起来。"
@@ -456,8 +456,8 @@ const knowledgeBase = {
   },
   confidential_deal: {
     keywords: ['cleaning robot', 'pool robot', 'robotics deal', 'confidential', '清洁机器人', '泳池机器人', '保密项目', '投资案例'],
-    en: "One confidential case is an intelligent cleaning robotics investment. Mubai tracked the company before financing opened, moved quickly to sign the TS, led executive interviews, datapack preparation, valuation analysis, investment committee materials, closing, and government return-investment coordination. The company name is intentionally omitted for confidentiality.",
-    zh: "一个保密案例是智能清洁机器人方向。慕白在项目融资开启前持续跟踪，融资开启后快速签下TS，并主导高管访谈、Datapack、估值分析、上会、交割和政府返投协调。出于保密要求，页面不展示项目名称。"
+    en: "One confidential case is a pool-cleaning robotics investment. Mubai tracked the company before financing opened, moved quickly to sign the TS, led executive interviews, datapack preparation, valuation analysis, investment committee materials, closing, and government return-investment coordination. The company name is intentionally omitted for confidentiality.",
+    zh: "一个保密案例是某泳池清洁机器人项目。慕白在项目融资开启前持续跟踪，融资开启后快速签下TS，并主导高管访谈、Datapack、估值分析、上会、交割和政府返投协调。出于保密要求，页面不展示项目名称。"
   }
 };
 

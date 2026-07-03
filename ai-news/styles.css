@@ -150,14 +150,18 @@ input::placeholder {
 
 .tag-list {
   display: grid;
-  gap: 14px;
+  gap: 8px;
 }
 
 .facet-group {
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.045);
   overflow: hidden;
+}
+
+.facet-group[open] {
+  background: rgba(255, 255, 255, 0.07);
 }
 
 .facet-heading {
@@ -168,7 +172,7 @@ input::placeholder {
   list-style: none;
   cursor: pointer;
   padding: 10px 11px;
-  color: rgba(248, 250, 252, 0.76);
+  color: rgba(248, 250, 252, 0.84);
   font-size: 12px;
   font-weight: 750;
 }
@@ -178,14 +182,14 @@ input::placeholder {
 }
 
 .facet-heading::after {
-  content: "+";
+  content: "展开";
   color: rgba(248, 250, 252, 0.58);
-  font-size: 15px;
+  font-size: 11px;
   line-height: 1;
 }
 
 .facet-group[open] .facet-heading::after {
-  content: "−";
+  content: "收起";
 }
 
 .facet-count {
@@ -199,8 +203,8 @@ input::placeholder {
 
 .facet-buttons {
   display: grid;
-  gap: 6px;
-  padding: 0 10px 10px;
+  gap: 5px;
+  padding: 0 9px 9px;
 }
 
 .tag-button,
@@ -221,6 +225,10 @@ input::placeholder {
   color: rgba(248, 250, 252, 0.82);
   cursor: pointer;
   text-align: left;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 1.35;
 }
 
 .tag-button.active {

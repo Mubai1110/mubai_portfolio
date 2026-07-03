@@ -9,11 +9,11 @@
   };
 
   const facetGroups = [
-    { type: "tags", label: "主题标签", field: "tags", limit: 18, open: true },
-    { type: "companies", label: "公司", field: "companies", limit: 14 },
-    { type: "people", label: "人物", field: "people", limit: 14 },
-    { type: "products", label: "产品", field: "products", limit: 14 },
-    { type: "technologies", label: "技术", field: "technologies", limit: 14 },
+    { type: "tags", label: "主题标签", field: "tags", limit: 18 },
+    { type: "companies", label: "公司 / 机构", field: "companies", limit: 14 },
+    { type: "people", label: "关键人物", field: "people", limit: 14 },
+    { type: "products", label: "产品 / 应用", field: "products", limit: 14 },
+    { type: "technologies", label: "技术 / Infra", field: "technologies", limit: 14 },
   ];
 
   const elements = {
@@ -105,8 +105,9 @@
             return `<button class="tag-button${active}" type="button" data-facet-type="${escapeHtml(group.type)}" data-facet-value="${escapeHtml(value)}">${escapeHtml(value)} · ${count}</button>`;
           })
           .join("");
+        const isOpen = state.facetType === group.type;
         return `
-          <details class="facet-group" ${group.open ? "open" : ""}>
+          <details class="facet-group" ${isOpen ? "open" : ""}>
             <summary class="facet-heading">
               <span>${escapeHtml(group.label)}</span>
               <span class="facet-count">${facets.length}</span>
