@@ -9,7 +9,7 @@
   };
 
   const facetGroups = [
-    { type: "tags", label: "主题标签", field: "tags", limit: 18 },
+    { type: "tags", label: "主题标签", field: "tags", limit: 18, open: true },
     { type: "companies", label: "公司", field: "companies", limit: 14 },
     { type: "people", label: "人物", field: "people", limit: 14 },
     { type: "products", label: "产品", field: "products", limit: 14 },
@@ -106,10 +106,13 @@
           })
           .join("");
         return `
-          <div class="facet-group">
-            <div class="facet-heading">${escapeHtml(group.label)}</div>
+          <details class="facet-group" ${group.open ? "open" : ""}>
+            <summary class="facet-heading">
+              <span>${escapeHtml(group.label)}</span>
+              <span class="facet-count">${facets.length}</span>
+            </summary>
             <div class="facet-buttons">${buttons}</div>
-          </div>
+          </details>
         `;
       })
       .join("");

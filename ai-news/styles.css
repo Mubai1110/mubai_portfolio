@@ -154,20 +154,53 @@ input::placeholder {
 }
 
 .facet-group {
-  display: grid;
-  gap: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  overflow: hidden;
 }
 
 .facet-heading {
-  color: rgba(248, 250, 252, 0.62);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  list-style: none;
+  cursor: pointer;
+  padding: 10px 11px;
+  color: rgba(248, 250, 252, 0.76);
   font-size: 12px;
   font-weight: 750;
 }
 
+.facet-heading::-webkit-details-marker {
+  display: none;
+}
+
+.facet-heading::after {
+  content: "+";
+  color: rgba(248, 250, 252, 0.58);
+  font-size: 15px;
+  line-height: 1;
+}
+
+.facet-group[open] .facet-heading::after {
+  content: "−";
+}
+
+.facet-count {
+  margin-left: auto;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+  padding: 1px 7px;
+  color: rgba(248, 250, 252, 0.62);
+  font-size: 11px;
+}
+
 .facet-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+  display: grid;
+  gap: 6px;
+  padding: 0 10px 10px;
 }
 
 .tag-button,
@@ -182,10 +215,12 @@ input::placeholder {
 }
 
 .tag-button {
+  width: 100%;
   border-color: rgba(255, 255, 255, 0.16);
   background: rgba(255, 255, 255, 0.08);
   color: rgba(248, 250, 252, 0.82);
   cursor: pointer;
+  text-align: left;
 }
 
 .tag-button.active {
