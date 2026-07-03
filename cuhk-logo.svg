@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">CUHK logo mark</title>
+  <rect width="120" height="120" rx="18" fill="#6f2c91"/>
+  <circle cx="60" cy="43" r="18" fill="#ffffff" opacity="0.96"/>
+  <path d="M38 71c11-12 33-12 44 0v19H38z" fill="#ffffff" opacity="0.96"/>
+  <text x="60" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">CUHK</text>
+</svg>
