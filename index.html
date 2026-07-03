@@ -11,7 +11,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231c2541' rx='16' width='100' height='100'/><text x='50' y='68' text-anchor='middle' fill='white' font-family='Inter,sans-serif' font-weight='700' font-size='44'>MX</text></svg>">
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Noto+Sans+SC:wght@400;500;700;800&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
@@ -66,6 +66,7 @@
       <div class="hero-links">
         <a href="mailto:1142964325@qq.com" class="hero-btn hero-btn-primary"><i class="fas fa-envelope"></i> Contact</a>
         <a href="https://www.linkedin.com/in/mubai-xiao-1323b3343" target="_blank" class="hero-btn"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="ai-news/" class="hero-btn hero-btn-ai"><i class="fas fa-newspaper"></i> <span data-i18n="hero.ai_news">AI Intelligence</span></a>
         <a href="#experience" class="hero-btn"><i class="fas fa-briefcase"></i> <span data-i18n="hero.viewwork">View My Work</span></a>
       </div>
     </div>
@@ -84,7 +85,6 @@
           <div class="card-body">
             <div class="education-heading">
               <i class="fas fa-graduation-cap"></i>
-              <img class="education-logo" src="cuhk-logo.svg" alt="The Chinese University of Hong Kong logo">
             </div>
             <h3 data-i18n="about.education">Education</h3>
             <div data-i18n="about.edu.content" data-i18n-html="true">
@@ -152,20 +152,20 @@
         <div class="exp-card">
           <div class="exp-header">
             <div class="exp-date">2025.12 — <span data-i18n="exp.present">Present</span></div>
-            <div class="exp-type rmb-tag">RMB + USD Fund</div>
+            <div class="exp-type rmb-tag">CVC · AI</div>
           </div>
           <h3 data-i18n="exp.cc.role">Investment Analyst</h3>
-          <p class="exp-company" data-i18n="exp.cc.company">Chase Chuang VC & Empyrean VC</p>
+          <p class="exp-company" data-i18n="exp.cc.company">Empyrean Global Investments (Dreame Technology's CVC)</p>
           <div class="exp-details">
             <div class="exp-section">
-              <h4 data-i18n="exp.cc.rmb">RMB VC Fund</h4>
+              <h4 data-i18n="exp.cc.rmb">AI Sector Coverage</h4>
               <ul data-i18n="exp.cc.rmb.items" data-i18n-html="true">
                 <li>Led or supported end-to-end investment processes for <strong>5 projects</strong> — Pre-IPO metal 3D printing, Series A pool-cleaning robotics, Series A humanoid robotics, angel-stage window-cleaning robotics (Dreame ecosystem), and autonomous logistics vehicles</li>
                 <li>Assisted portfolio companies in government investment attraction — site selection, agreement drafting, cross-party coordination</li>
               </ul>
             </div>
             <div class="exp-section">
-              <h4 data-i18n="exp.cc.usd">USD AI & Robotics VC Fund</h4>
+              <h4 data-i18n="exp.cc.usd">Investment Execution</h4>
               <ul data-i18n="exp.cc.usd.items" data-i18n-html="true">
                 <li>Led bilingual fundraising materials — pitch decks, one-pagers, deal pipelines</li>
                 <li>Sourced <strong>100+ institutional LPs</strong> via Pitchbook/Preqin across HK, Singapore, Middle East & Europe</li>
@@ -212,6 +212,17 @@
     <div class="container">
       <h2 class="section-title" data-i18n="proj.title">Focus Areas</h2>
       <div class="projects-grid">
+        <a class="project-card intelligence-card intelligence-card-featured" href="ai-news/">
+          <div>
+            <span class="featured-badge" data-i18n="proj.intel.badge">Live Knowledge Base</span>
+            <div class="project-icon"><i class="fas fa-newspaper"></i></div>
+            <h3 data-i18n="proj.intel.title">AI Daily Intelligence</h3>
+            <p data-i18n="proj.intel.desc">A daily AI industry knowledge base tracking products, infrastructure, models, funding, key people, and frontier applications.</p>
+          </div>
+          <div class="project-tags">
+            <span data-i18n="tag.dailybrief">Daily Brief</span><span data-i18n="tag.aiinfra">AI Infra</span><span data-i18n="tag.signals">Market Signals</span>
+          </div>
+        </a>
         <div class="project-card featured">
           <span class="featured-badge" data-i18n="proj.featured">Deal Lead</span>
           <div class="project-icon"><i class="fas fa-globe"></i></div>
@@ -239,14 +250,6 @@
             <span data-i18n="tag.avionics">Avionics</span><span data-i18n="tag.dataacq">Data Acquisition</span>
           </div>
         </div>
-        <a class="project-card intelligence-card" href="ai-news/">
-          <div class="project-icon"><i class="fas fa-newspaper"></i></div>
-          <h3 data-i18n="proj.intel.title">AI Daily Intelligence</h3>
-          <p data-i18n="proj.intel.desc">A daily AI industry knowledge base tracking products, infrastructure, models, funding, key people, and frontier applications.</p>
-          <div class="project-tags">
-            <span data-i18n="tag.dailybrief">Daily Brief</span><span data-i18n="tag.aiinfra">AI Infra</span><span data-i18n="tag.signals">Market Signals</span>
-          </div>
-        </a>
       </div>
     </div>
   </section>
