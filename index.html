@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mubai Xiao | 肖慕白</title>
-  <meta name="description" content="Mubai Xiao (肖慕白) — PE/VC Investment Professional. B.B.A. & M.Sc. Finance at CUHK. Focused on Physical AI and frontier technology investing.">
+  <meta name="description" content="Mubai Xiao (肖慕白) — PE/VC Investment Professional. B.B.A. & M.Sc. Finance at CUHK. Focused on AI and frontier technology investing.">
   <meta property="og:title" content="Mubai Xiao | 肖慕白">
-  <meta property="og:description" content="PE/VC Investment Professional. Physical AI & Frontier Tech Investor.">
+  <meta property="og:description" content="PE/VC Investment Professional. AI & Frontier Tech Investor.">
   <meta property="og:type" content="website">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231c2541' rx='16' width='100' height='100'/><text x='50' y='68' text-anchor='middle' fill='white' font-family='Inter,sans-serif' font-weight='700' font-size='44'>MX</text></svg>">
   <link rel="stylesheet" href="style.css">
@@ -23,6 +23,7 @@
         <a href="#about" data-i18n="nav.about">About</a>
         <a href="#experience" data-i18n="nav.experience">Experience</a>
         <a href="#projects" data-i18n="nav.projects">Projects</a>
+        <a href="ai-news/" data-i18n="nav.ai_news">AI News</a>
         <a href="#contact" data-i18n="nav.contact">Contact</a>
         <button class="lang-toggle" id="langToggle" aria-label="Toggle language">EN | 中</button>
         <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
@@ -43,6 +44,7 @@
     <a href="#about" data-i18n="nav.about">About</a>
     <a href="#experience" data-i18n="nav.experience">Experience</a>
     <a href="#projects" data-i18n="nav.projects">Projects</a>
+    <a href="ai-news/" data-i18n="nav.ai_news">AI News</a>
     <a href="#contact" data-i18n="nav.contact">Contact</a>
   </div>
 
@@ -58,7 +60,7 @@
       <p class="hero-name-cn">肖慕白</p>
       <p class="hero-desc" data-i18n="hero.desc" data-i18n-html="true">
         B.B.A. & M.Sc. Finance at <strong>CUHK</strong>. Investment analyst with hands-on experience across RMB & USD VC funds.
-        Deeply passionate about <strong>Physical AI</strong> and frontier tech investing.
+        Deeply passionate about <strong>AI</strong> and frontier tech investing.
         Driven by curiosity, committed to long-termism.
       </p>
       <div class="hero-links">
@@ -80,7 +82,10 @@
         <div class="about-card">
           <div class="card-accent"></div>
           <div class="card-body">
-            <i class="fas fa-graduation-cap"></i>
+            <div class="education-heading">
+              <i class="fas fa-graduation-cap"></i>
+              <img class="education-logo" src="cuhk-logo.svg" alt="The Chinese University of Hong Kong logo">
+            </div>
             <h3 data-i18n="about.education">Education</h3>
             <div data-i18n="about.edu.content" data-i18n-html="true">
               <p><strong>The Chinese University of Hong Kong</strong><br>
@@ -120,7 +125,7 @@
                 <h4 data-i18n="about.skill.tech">Tech & Data</h4>
                 <div class="skills-tags">
                   <span>Python</span><span>R</span><span>Stata</span><span>Matlab</span>
-                  <span>Claude Code</span><span>NotebookLM</span><span>SQL</span>
+                  <span>Claude Code</span><span>NotebookLM</span><span>SQL</span><span>Vibe Coding</span>
                 </div>
               </div>
               <div class="skill-group">
@@ -150,12 +155,12 @@
             <div class="exp-type rmb-tag">RMB + USD Fund</div>
           </div>
           <h3 data-i18n="exp.cc.role">Investment Analyst</h3>
-          <p class="exp-company" data-i18n="exp.cc.company">Chase Chuang VC & Empyrean Global Investments</p>
+          <p class="exp-company" data-i18n="exp.cc.company">Chase Chuang VC & Empyrean VC</p>
           <div class="exp-details">
             <div class="exp-section">
               <h4 data-i18n="exp.cc.rmb">RMB VC Fund</h4>
               <ul data-i18n="exp.cc.rmb.items" data-i18n-html="true">
-                <li>Led & supported end-to-end investment processes for <strong>3 projects</strong> — Pre-IPO metal 3D printing, Series A humanoid robotics, angel-stage smart cleaning robotics</li>
+                <li>Led or supported end-to-end investment processes for <strong>5 projects</strong> — Pre-IPO metal 3D printing, Series A pool-cleaning robotics, Series A humanoid robotics, angel-stage window-cleaning robotics (Dreame ecosystem), and autonomous logistics vehicles</li>
                 <li>Assisted portfolio companies in government investment attraction — site selection, agreement drafting, cross-party coordination</li>
               </ul>
             </div>
@@ -164,7 +169,7 @@
               <ul data-i18n="exp.cc.usd.items" data-i18n-html="true">
                 <li>Led bilingual fundraising materials — pitch decks, one-pagers, deal pipelines</li>
                 <li>Sourced <strong>100+ institutional LPs</strong> via Pitchbook/Preqin across HK, Singapore, Middle East & Europe</li>
-                <li>Sourced a European distributor group with <strong>USD 2M committed intent</strong>; led dedicated fund roadshows</li>
+                <li>Sourced a European distributor group with <strong>USD 1M committed intent</strong>; led dedicated fund roadshows</li>
               </ul>
             </div>
           </div>
@@ -194,7 +199,7 @@
           <ul data-i18n="exp.dc.items" data-i18n-html="true">
             <li><strong>M&A Strategy:</strong> Proposed "shell acquisition + asset injection + HQ relocation" exit strategy — adopted by partners, leading to a new M&A team</li>
             <li><strong>Digital Transformation:</strong> Led OA system optimization, reducing 2–3 headcount workload through automation</li>
-            <li>Independently managed AMAC/CSRC compliance for <strong>30+ funds</strong> with 100% regulatory compliance</li>
+            <li>Independently managed AMAC/CSRC compliance for <strong>30+ funds</strong></li>
           </ul>
         </div>
 
@@ -218,8 +223,8 @@
         </div>
         <div class="project-card">
           <div class="project-icon"><i class="fas fa-robot"></i></div>
-          <h3 data-i18n="proj.physical.title">Physical AI Investment Track</h3>
-          <p data-i18n="proj.physical.desc">Hands-on investment experience across the Physical AI value chain — humanoid robots, cleaning robots (floor/window/pool), industrial robots, plus upstream components (LiDAR, gearbox, motors).</p>
+          <h3 data-i18n="proj.physical.title">AI Investment Track</h3>
+          <p data-i18n="proj.physical.desc">Hands-on investment experience across the AI value chain — humanoid robots, cleaning robots (floor/window/pool), industrial robots, plus upstream components (LiDAR, gearbox, motors).</p>
           <div class="project-tags">
             <span data-i18n="tag.humanoid">Humanoid Robotics</span><span data-i18n="tag.cleaning">Cleaning Robots</span>
             <span>LiDAR</span><span data-i18n="tag.industrial">Industrial Robots</span>
@@ -234,6 +239,14 @@
             <span data-i18n="tag.avionics">Avionics</span><span data-i18n="tag.dataacq">Data Acquisition</span>
           </div>
         </div>
+        <a class="project-card intelligence-card" href="ai-news/">
+          <div class="project-icon"><i class="fas fa-newspaper"></i></div>
+          <h3 data-i18n="proj.intel.title">AI Daily Intelligence</h3>
+          <p data-i18n="proj.intel.desc">A daily AI industry knowledge base tracking products, infrastructure, models, funding, key people, and frontier applications.</p>
+          <div class="project-tags">
+            <span data-i18n="tag.dailybrief">Daily Brief</span><span data-i18n="tag.aiinfra">AI Infra</span><span data-i18n="tag.signals">Market Signals</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
@@ -331,7 +344,7 @@
           <div class="chat-suggestions">
             <button class="chat-suggestion-btn" data-i18n="chat.q1">What's your investment thesis?</button>
             <button class="chat-suggestion-btn" data-i18n="chat.q2">Tell me about your PE/VC experience</button>
-            <button class="chat-suggestion-btn" data-i18n="chat.q3">Why Physical AI?</button>
+            <button class="chat-suggestion-btn" data-i18n="chat.q3">Why AI?</button>
           </div>
         </div>
       </div>
