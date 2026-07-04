@@ -143,7 +143,7 @@
   function render() {
     const visible = articles.filter(matchesState);
     elements.visibleCount.textContent = String(visible.length);
-    elements.pageTitle.textContent = state.date === "all" ? "AI Daily Intelligence" : `${state.date} 简报`;
+    elements.pageTitle.textContent = state.date === "all" ? "AI 每日情报库" : `${state.date} 简报`;
     elements.emptyState.hidden = visible.length > 0;
     elements.articleList.innerHTML = visible.map(renderArticle).join("");
     renderActiveFilters();

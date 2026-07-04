@@ -238,7 +238,8 @@ const translations = {
   }
 };
 
-let currentLang = 'en';
+const LANGUAGE_PREF_VERSION = '20260704-zh-default';
+let currentLang = 'zh';
 
 function setLanguage(lang) {
   currentLang = lang;
@@ -283,14 +284,17 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Language
-  const savedLang = localStorage.getItem('lang');
-  const browserLang = navigator.language.startsWith('zh') ? 'zh' : 'en';
-  currentLang = savedLang || browserLang;
+  const savedLangVersion = localStorage.getItem('langVersion');
+  const savedLang = savedLangVersion === LANGUAGE_PREF_VERSION ? localStorage.getItem('lang') : null;
+  currentLang = savedLang || 'zh';
+  localStorage.setItem('lang', currentLang);
+  localStorage.setItem('langVersion', LANGUAGE_PREF_VERSION);
   setLanguage(currentLang);
 
   function toggleLang() {
     currentLang = currentLang === 'en' ? 'zh' : 'en';
     localStorage.setItem('lang', currentLang);
+    localStorage.setItem('langVersion', LANGUAGE_PREF_VERSION);
     setLanguage(currentLang);
   }
   document.getElementById('langToggle').addEventListener('click', toggleLang);
