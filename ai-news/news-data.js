@@ -1,8 +1,309 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-03T02:44:49+00:00",
-  "digest_count": 3,
-  "article_count": 22,
+  "generated_at": "2026-07-04T10:05:59+00:00",
+  "digest_count": 4,
+  "article_count": 34,
   "digests": [
+    {
+      "date": "2026-07-04",
+      "count": 12,
+      "articles": [
+        {
+          "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+          "url": "https://www.qbitai.com/2026/07/442746.html",
+          "source": "量子位",
+          "published_at": "Fri, 03 Jul 2026 14:28:38 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "技术",
+          "summary": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部。四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。。",
+          "why_it_matters": "LLM对应底层模型或基础设施能力变化，会影响开发门槛、部署效率以及行业内的技术选型。",
+          "investment_observation": "可把LLM视为成本曲线变化的前瞻指标；若技术优势能稳定兑现，受益的不只是模型厂商，也包括工具链和云基础设施。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM"
+          ],
+          "tags": [
+            "技术",
+            "LLM"
+          ],
+          "importance_score": 9.28
+        },
+        {
+          "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+          "source": "The Verge AI",
+          "published_at": "2026-07-02T06:23:27-04:00",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "公司",
+          "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI。",
+          "why_it_matters": "AI 头部公司的发展越来越受政策、监管和公共利益分配影响。监管关系可能改变模型公司的资本结构、客户准入和长期利润分配方式。",
+          "investment_observation": "关注政策交换条件、政府客户收入占比和合规成本。头部模型公司可能以股权、数据安全承诺或本地部署换取政策空间，中小公司会被迫跟随。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman",
+            "Donald Trump"
+          ],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司",
+            "OpenAI",
+            "Sam Altman",
+            "Donald Trump"
+          ],
+          "importance_score": 9.18
+        },
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 02 Jul 2026 23:38:10 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "人物",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Mark Zuckerberg"
+          ],
+          "products": [],
+          "technologies": [
+            "AI agent"
+          ],
+          "tags": [
+            "人物",
+            "Meta",
+            "Mark Zuckerberg",
+            "AI agent"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 01 Jul 2026 14:25:23 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "融资",
+          "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said。",
+          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "companies": [
+            "Venice AI"
+          ],
+          "people": [
+            "Erik Voorhees"
+          ],
+          "products": [],
+          "technologies": [
+            "privacy-first AI platform"
+          ],
+          "tags": [
+            "融资",
+            "Venice AI",
+            "Erik Voorhees",
+            "privacy-first AI platform"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+          "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 30 Jun 2026 15:00:57 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "技术",
+          "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "inference"
+          ],
+          "tags": [
+            "技术",
+            "NVIDIA",
+            "inference"
+          ],
+          "importance_score": 8.28
+        },
+        {
+          "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+          "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 29 Jun 2026 10:59:38 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "公司",
+          "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U。",
+          "why_it_matters": "AI 头部公司的发展越来越受政策、监管和公共利益分配影响。监管关系可能改变模型公司的资本结构、客户准入和长期利润分配方式。",
+          "investment_observation": "关注政策交换条件、政府客户收入占比和合规成本。头部模型公司可能以股权、数据安全承诺或本地部署换取政策空间，中小公司会被迫跟随。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司",
+            "NVIDIA"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "url": "https://openai.com/index/patch-the-planet",
+          "source": "OpenAI News",
+          "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "公司",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review。",
+          "why_it_matters": "隐私和安全是企业采用 AI 的前置条件。能在数据保护、可控部署和安全审计上建立信任的产品，更容易进入高价值行业客户。",
+          "investment_observation": "隐私/安全优先产品需要验证是否能在合规行业形成付费，而不是停留在价值主张。重点看部署形态、客户续费和与大平台安全能力的差异化。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "Patch the Planet",
+            "Daybreak"
+          ],
+          "technologies": [],
+          "tags": [
+            "公司",
+            "OpenAI",
+            "Patch the Planet",
+            "Daybreak"
+          ],
+          "importance_score": 7.75
+        },
+        {
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "source": "OpenAI News",
+          "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "技术",
+          "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM",
+            "inference"
+          ],
+          "tags": [
+            "技术",
+            "OpenAI",
+            "LLM",
+            "inference"
+          ],
+          "importance_score": 7.7
+        },
+        {
+          "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+          "source": "The Verge AI",
+          "published_at": "2026-07-03T07:49:10-04:00",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "技术",
+          "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scen。",
+          "why_it_matters": "视频理解是多模态模型从图文问答走向真实世界任务的关键能力。它会影响客服、教育、安防、内容生产和机器人场景的产品边界。",
+          "investment_observation": "可验证视频理解的延迟、成本、长视频记忆和动作推理能力。若成本下降，垂直视频工作流和具身智能数据处理会先受益。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "RL"
+          ],
+          "tags": [
+            "技术",
+            "RL"
+          ],
+          "importance_score": 7.65
+        },
+        {
+          "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+          "url": "https://www.qbitai.com/2026/07/442958.html",
+          "source": "量子位",
+          "published_at": "Sat, 04 Jul 2026 05:52:21 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "融资",
+          "summary": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型，反映资本市场仍在积极寻找具备差异化定位和商业化进展的 AI 标的。",
+          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "融资"
+          ],
+          "importance_score": 7.57
+        },
+        {
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-04 09:03:44  +0800",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "产品",
+          "summary": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期C。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [
+            "Anthropic",
+            "Meta",
+            "Microsoft",
+            "GitHub"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [],
+          "tags": [
+            "产品",
+            "Anthropic",
+            "Meta",
+            "Claude"
+          ],
+          "importance_score": 7.45
+        },
+        {
+          "title": "Achieving operational excellence with AI",
+          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai",
+          "source": "MIT Technology Review AI",
+          "published_at": "Thu, 02 Jul 2026 15:37:08 +0000",
+          "selected_at": "2026-07-04T10:05:59+00:00",
+          "category": "公司",
+          "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, spra。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.12
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "count": 12,
