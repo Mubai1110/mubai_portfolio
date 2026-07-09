@@ -1,8 +1,273 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-06T00:04:39+00:00",
-  "digest_count": 6,
-  "article_count": 31,
+  "generated_at": "2026-07-07T00:42:26+00:00",
+  "digest_count": 7,
+  "article_count": 43,
   "digests": [
+    {
+      "date": "2026-07-07",
+      "count": 12,
+      "articles": [
+        {
+          "title": "I spy",
+          "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+          "source": "The Verge AI",
+          "published_at": "2026-07-06T12:00:00-04:00",
+          "selected_at": "2026-07-07T00:42:24+00:00",
+          "category": "公司",
+          "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 8.08
+        },
+        {
+          "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+          "url": "https://www.qbitai.com/2026/07/444733.html",
+          "source": "量子位",
+          "published_at": "Mon, 06 Jul 2026 10:40:27 +0000",
+          "selected_at": "2026-07-07T00:42:24+00:00",
+          "category": "硬件",
+          "summary": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”，是当天值得跟踪的 AI 行业动态。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "硬件"
+          ],
+          "importance_score": 8.03
+        },
+        {
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 06 Jul 2026 19:49:10 +0000",
+          "selected_at": "2026-07-07T00:42:24+00:00",
+          "category": "人物",
+          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "人物"
+          ],
+          "importance_score": 7.95
+        },
+        {
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 06 Jul 2026 19:01:59 +0000",
+          "selected_at": "2026-07-07T00:42:24+00:00",
+          "category": "公司",
+          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.65
+        },
+        {
+          "title": "How Nations Are Deploying AI for Strategic Priorities",
+          "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 06 Jul 2026 15:00:25 +0000",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "公司",
+          "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transp。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.53
+        },
+        {
+          "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+          "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 30 Jun 2026 17:00:38 +0000",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "硬件",
+          "summary": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libr。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [
+            "Anthropic",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [],
+          "tags": [
+            "硬件",
+            "Anthropic",
+            "NVIDIA",
+            "Claude"
+          ],
+          "importance_score": 7.47
+        },
+        {
+          "title": "Your family’s $300 stake in OpenAI",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 06 Jul 2026 18:00:00 +0000",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "人物",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed prom。",
+          "why_it_matters": "AI 编程工具正在从补全代码走向改变开发流程本身。社区热度说明开发者已经在重新试验任务拆解、代码审查和人机协作的边界。",
+          "investment_observation": "重点跟踪开发者留存、生成代码通过率、代码审查节省时间和团队级付费。能嵌进现有 IDE、仓库和 CI/CD 的工具，会比单点插件更有分发优势。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "人物",
+            "OpenAI",
+            "Sam Altman"
+          ],
+          "importance_score": 7.45
+        },
+        {
+          "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+          "url": "https://36kr.com/p/3884024701874183?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-06 18:39:24  +0800",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "硬件",
+          "summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至250。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "硬件"
+          ],
+          "importance_score": 7.45
+        },
+        {
+          "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+          "url": "https://www.qbitai.com/2026/07/444721.html",
+          "source": "量子位",
+          "published_at": "Mon, 06 Jul 2026 10:33:45 +0000",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "技术",
+          "summary": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文，是当天值得跟踪的 AI 行业动态。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "技术"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+          "source": "MIT Technology Review AI",
+          "published_at": "Wed, 01 Jul 2026 14:35:16 +0000",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "公司",
+          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type。",
+          "why_it_matters": "这类问题暴露了大模型在随机性、多样性和推理独立性上的结构性限制。它会影响模型评测、可靠性工具和企业级部署信任。",
+          "investment_observation": "可关注模型评测、输出多样性控制、可靠性监控和企业治理工具。模型能力越同质化，能证明“更可靠、更可控”的工具层越有机会。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "ChatGPT",
+            "Claude"
+          ],
+          "technologies": [
+            "LLM"
+          ],
+          "tags": [
+            "公司",
+            "ChatGPT",
+            "Claude",
+            "LLM"
+          ],
+          "importance_score": 6.72
+        },
+        {
+          "title": "Anthropic wants to develop its own drugs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "source": "The Verge AI",
+          "published_at": "2026-07-03T09:56:52-04:00",
+          "selected_at": "2026-07-07T00:42:25+00:00",
+          "category": "产品",
+          "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into。",
+          "why_it_matters": "Anthropic说明 AI 产品形态仍在快速迭代，谁能更快找到可复制的使用场景，谁就更可能先建立分发优势。",
+          "investment_observation": "若Anthropic带来真实使用频次或明显分发突破，相关产品层公司会比单纯模型能力展示更值得关注。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "RL"
+          ],
+          "tags": [
+            "产品",
+            "Anthropic",
+            "Claude",
+            "RL"
+          ],
+          "importance_score": 6.47
+        },
+        {
+          "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+          "url": "https://36kr.com/p/3883591654895873?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-06 15:53:03  +0800",
+          "selected_at": "2026-07-07T00:42:26+00:00",
+          "category": "人物",
+          "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "tags": [
+            "人物"
+          ],
+          "importance_score": 6.25
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "count": 10,
