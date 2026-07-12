@@ -1,5 +1,5 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-12T04:05:24+00:00",
+  "generated_at": "2026-07-12T04:04:19+00:00",
   "digest_count": 9,
   "article_count": 65,
   "digests": [
@@ -12,74 +12,41 @@ window.AI_NEWS_DATA = {
           "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue",
           "source": "TechCrunch AI",
           "published_at": "Fri, 10 Jul 2026 19:00:00 +0000",
-          "selected_at": "2026-07-12T04:05:24+00:00",
-          "category": "开源生态",
-          "summary": "Hugging Face CEO Clem Delangue 在 TechCrunch 访谈中强调，开源 AI 的战略价值正在上升，开发者越来越把 Hugging Face 当作模型、数据集和工具链的协作分发平台。",
-          "why_it_matters": "大模型竞争正在从“谁的模型更强”扩展到“谁能形成开发者网络效应”。开源社区如果持续活跃，会反向约束闭源模型的定价和生态控制力。",
-          "investment_observation": "优先关注开源生态层的分发入口、模型托管、评测、安全和企业化服务。真正有壁垒的不是单个开源模型，而是围绕开源工作流形成的数据、社区和部署基础设施。",
+          "selected_at": "2026-07-12T04:04:19+00:00",
+          "category": "公司",
+          "summary": "TechCrunch 对 Hugging Face CEO Clem Delangue 的访谈再次强调，在闭源大模型加速集中化的阶段，开源模型、社区协作和共享基础设施的重要性反而在上升。Hugging Face 希望继续扮演 AI 时代的 GitHub 和分发层角色。",
+          "why_it_matters": "这不是单一公司采访，而是开源生态在 AI 产业链中的地位判断。模型分发、数据集、评测和微调工具如果继续向社区集中，开源平台就会掌握越来越强的开发者入口。",
+          "investment_observation": "重点看开源模型托管、评测、数据工具、企业私有化部署和社区转商业化的路径。谁能同时抓住开发者流量和企业级治理需求，谁就更可能形成持久护城河。",
           "companies": [
             "Hugging Face"
           ],
           "people": [
             "Clem Delangue"
           ],
-          "products": [
-            "Hugging Face Hub"
-          ],
+          "products": [],
           "technologies": [
-            "Open source AI"
+            "开源模型"
           ],
           "tags": [
+            "公司",
             "开源生态",
             "Hugging Face",
-            "Clem Delangue",
-            "开发者平台"
+            "Clem Delangue"
           ],
           "importance_score": 10.0
-        },
-        {
-          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "source": "Hacker News",
-          "published_at": "2026-07-11T17:21:49Z",
-          "selected_at": "2026-07-12T04:05:24+00:00",
-          "category": "AI Infra",
-          "summary": "这篇分析文章聚焦 Nvidia、CoreWeave 与 Nebius 在 GPU 供给、客户需求和资本输血之间形成的联动关系，讨论算力繁荣背后的融资闭环和风险传导。",
-          "why_it_matters": "AI 基础设施的景气度不仅取决于模型需求，也取决于融资结构是否可持续。若算力供给建立在高杠杆和循环融资上，产业链波动会更快传导到云、模型服务和下游应用。",
-          "investment_observation": "需要把“GPU 需求强劲”拆成更细的指标：真实利用率、长期合同质量、客户集中度和融资成本。基础设施公司若同时依赖资本市场和少数大客户，估值弹性会很高，但脆弱性也更强。",
-          "companies": [
-            "NVIDIA",
-            "CoreWeave",
-            "Nebius"
-          ],
-          "people": [],
-          "products": [
-            "GPU Cloud"
-          ],
-          "technologies": [
-            "GPU infrastructure"
-          ],
-          "tags": [
-            "AI Infra",
-            "NVIDIA",
-            "CoreWeave",
-            "Nebius",
-            "GPU"
-          ],
-          "importance_score": 8.5
         },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
           "source": "Hacker News",
           "published_at": "2026-07-11T22:38:57Z",
-          "selected_at": "2026-07-12T04:05:24+00:00",
+          "selected_at": "2026-07-12T04:04:19+00:00",
           "category": "技术",
-          "summary": "iroh 发布 Mesh LLM，展示了把 LLM 计算分散到网络节点执行的思路，重点在于用分布式连接能力组织推理任务，而不是把所有负载都放在中心化云集群。",
-          "why_it_matters": "分布式推理是降低边缘部署成本、提升容错和减少对单一云资源依赖的一个方向。哪怕短期还偏实验性质，它也代表了 AI Infra 的另一条技术路线。",
-          "investment_observation": "这类项目短期更适合看成底层技术信号，而不是成熟商业化产品。若后续出现稳定的开发者采用、隐私敏感场景落地或边缘设备协同需求，相关网络层和推理编排工具会先受益。",
+          "summary": "Iroh 发布 Mesh LLM，尝试把大模型计算拆分到分布式节点和点对点网络上，而不是完全依赖中心化 GPU 集群。这类实验更像是去中心化推理与资源调度的新思路。",
+          "why_it_matters": "如果推理能部分转向边缘节点、局域网络或异构设备，AI 基础设施的成本结构和部署边界都会变化。它虽然还早期，但代表了“不是所有推理都必须回到中心云”的方向。",
+          "investment_observation": "短期更值得关注的不是单个项目本身，而是分布式推理、边缘 AI、P2P 传输、任务编排和隐私计算工具链是否出现可商用切口。",
           "companies": [
-            "iroh"
+            "Iroh"
           ],
           "people": [],
           "products": [
@@ -87,14 +54,14 @@ window.AI_NEWS_DATA = {
           ],
           "technologies": [
             "LLM",
-            "Distributed inference",
-            "iroh"
+            "分布式推理",
+            "P2P 网络"
           ],
           "tags": [
             "技术",
             "LLM",
             "分布式计算",
-            "iroh"
+            "开发者社区"
           ],
           "importance_score": 8.2
         },
@@ -103,11 +70,11 @@ window.AI_NEWS_DATA = {
           "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash",
           "source": "TechCrunch AI",
           "published_at": "Fri, 10 Jul 2026 23:55:07 +0000",
-          "selected_at": "2026-07-12T04:05:24+00:00",
-          "category": "产品",
-          "summary": "Meta 在争议和用户反弹后撤下 Instagram 上一项 AI 功能，并表示原意是提供创作工具，同时让用户决定自己的公开内容是否可被引用。",
-          "why_it_matters": "生成式 AI 正从“功能能不能做”进入“平台该不该做、默认权力归谁”的阶段。用户许可、训练数据边界和产品默认设置，都会直接影响大平台的 AI 上线节奏。",
-          "investment_observation": "面向消费者的 AI 产品要同时验证留存与社会接受度。未来更值得跟踪的是具备可解释开关、内容授权管理和创作者收益分配能力的产品层与基础设施层机会。",
+          "selected_at": "2026-07-12T04:04:19+00:00",
+          "category": "公司",
+          "summary": "Meta 在用户反弹后撤下 Instagram 上一项有争议的 AI 功能，说明消费级平台在引入生成式 AI 时，创作工具、内容引用和用户控制权之间的平衡仍然非常脆弱。",
+          "why_it_matters": "这类回撤比“发布新功能”更值得看，因为它直接暴露了消费者对 AI 功能的容忍度边界，也会反过来影响平台后续的默认设置、产品节奏和合规策略。",
+          "investment_observation": "关注内容同意管理、来源标识、版权风控、审核工具和用户可控开关等基础能力。消费级 AI 要真正放量，往往先要解决信任而不是模型能力问题。",
           "companies": [
             "Meta",
             "Instagram"
@@ -117,13 +84,13 @@ window.AI_NEWS_DATA = {
             "Instagram"
           ],
           "technologies": [
-            "Generative AI"
+            "生成式 AI"
           ],
           "tags": [
-            "产品",
+            "公司",
             "Meta",
             "Instagram",
-            "AI治理"
+            "平台治理"
           ],
           "importance_score": 8.05
         },
@@ -132,11 +99,11 @@ window.AI_NEWS_DATA = {
           "url": "https://www.qbitai.com/2026/07/447981.html",
           "source": "量子位",
           "published_at": "Sun, 12 Jul 2026 01:37:11 +0000",
-          "selected_at": "2026-07-12T04:05:24+00:00",
+          "selected_at": "2026-07-12T04:04:19+00:00",
           "category": "硬件",
-          "summary": "量子位报道称，英伟达在 Computex 展示过的 RTX Spark 一体化方案已出现实机展示，主打更紧凑的 CPU/GPU 结合形态，并以本地运行超大模型作为卖点。",
-          "why_it_matters": "AI PC 和端侧大模型的竞争，核心不是单次跑分，而是功耗、成本、散热和开发者适配能否一起成立。端侧算力如果继续增强，会改变部分推理负载的部署位置。",
-          "investment_observation": "看点不只是芯片本身，还包括本地推理框架、模型量化、端云协同和整机渠道。若终端硬件开始承接更多 AI 负载，受益的会是软硬一体优化能力强的厂商。",
+          "summary": "量子位报道称，RTX Spark 真机在 Bilibili World 亮相，采用 CPU 与 GPU 紧耦合封装，并把“本地跑超大模型”的 AI PC 叙事进一步往实机落地推进。",
+          "why_it_matters": "AI PC 和端侧推理不是新概念，但真正决定产业机会的是硬件形态是否能跑出可接受的模型规模、延迟和功耗。真机出现意味着供应链与整机厂的窗口正在打开。",
+          "investment_observation": "建议跟踪高带宽封装、端侧推理优化、模型压缩、AI PC OEM/ODM 和本地应用生态。未来价值未必只在芯片本身，也可能在把模型装进终端体验的软件层。",
           "companies": [
             "NVIDIA"
           ],
@@ -147,14 +114,14 @@ window.AI_NEWS_DATA = {
             "RTX Spark"
           ],
           "technologies": [
-            "Edge AI",
-            "On-device inference"
+            "端侧推理",
+            "AI PC"
           ],
           "tags": [
             "硬件",
             "NVIDIA",
             "Jensen Huang",
-            "端侧AI"
+            "AI PC"
           ],
           "importance_score": 8.03
         },
@@ -163,40 +130,67 @@ window.AI_NEWS_DATA = {
           "url": "https://36kr.com/p/3889516712065799?f=rss",
           "source": "36氪",
           "published_at": "2026-07-11 09:00:00  +0800",
-          "selected_at": "2026-07-12T04:05:24+00:00",
+          "selected_at": "2026-07-12T04:04:19+00:00",
           "category": "融资",
-          "summary": "36氪报道，具身智能仿生扑翼飞行机器人公司“鹰瞰智翼”完成数千万元 A 轮融资，且在三个月内完成三轮融资，资金将用于消费级产品量产、团队扩充和下一代机器人研发。",
-          "why_it_matters": "具身智能融资开始从通用机械臂扩散到更细分的机器人形态，说明资本愿意为“特定场景能力 + 可量产路径”买单，而不只是追逐通用叙事。",
-          "investment_observation": "这类项目早期最该盯的是量产良率、场景闭环和单位经济性，而不是技术演示视频。若消费级落地顺利，感知、控制和仿真工具链公司也会跟着受益。",
+          "summary": "36 氪报道，具身智能仿生扑翼机器人公司“鹰瞰智翼”完成数千万元 A 轮融资，并在三个月内连续完成三轮融资，资金将用于量产、市场拓展以及下一代机器人与流体仿真引擎研发。",
+          "why_it_matters": "具身智能的融资正在从通用人形机器人外溢到更垂直的细分方向，仿生飞行、流体控制和仿真引擎说明资本开始接受“先做窄场景、再做平台能力”的路径。",
+          "investment_observation": "重点看这类项目能否把科研叙事转成量产与订单，尤其是仿真能力是否沉淀为数据壁垒、控制算法壁垒或行业专用解决方案。",
           "companies": [
             "鹰瞰智翼"
           ],
           "people": [],
-          "products": [
-            "仿生扑翼机器人"
-          ],
+          "products": [],
           "technologies": [
-            "Embodied AI",
-            "Fluid simulation"
+            "具身智能",
+            "仿生机器人",
+            "流体仿真"
           ],
           "tags": [
             "融资",
             "机器人",
-            "具身智能",
-            "中国AI"
+            "具身智能"
           ],
           "importance_score": 7.75
+        },
+        {
+          "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+          "url": "https://www.qbitai.com/2026/07/447873.html",
+          "source": "量子位",
+          "published_at": "Sat, 11 Jul 2026 05:30:11 +0000",
+          "selected_at": "2026-07-12T04:04:19+00:00",
+          "category": "技术",
+          "summary": "量子位报道把焦点放在“64 个子 Agent + 长提示词”的组织方式，而不只是单次模型回答能力。即便标题带有传播色彩，这仍然反映多 Agent 编排正在成为复杂科研与推理任务的重要方法。",
+          "why_it_matters": "复杂任务的竞争重点，正在从“谁的底模更强”转向“谁更会拆任务、调工具、做验证和回路控制”。这会把价值往 Agent runtime、评测和工作流平台迁移。",
+          "investment_observation": "建议把关注点放在多 Agent 编排、长链路可观测性、自动验证和成本控制，而不是只追逐单次演示结果。真正可投资的环节通常在 orchestration 层。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-5.6"
+          ],
+          "technologies": [
+            "多 Agent",
+            "推理"
+          ],
+          "tags": [
+            "技术",
+            "OpenAI",
+            "GPT-5.6",
+            "Agent"
+          ],
+          "importance_score": 7.65
         },
         {
           "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
           "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
           "source": "The Verge AI",
           "published_at": "2026-07-09T13:00:00-04:00",
-          "selected_at": "2026-07-12T04:05:24+00:00",
-          "category": "产品",
-          "summary": "The Verge 报道，OpenAI 在监管放行后扩大 GPT-5.6 的推出范围，并同步发布面向更复杂任务执行的 ChatGPT Work，显示其在模型升级之外继续强化 Agent 化产品。",
-          "why_it_matters": "头部模型厂商的竞争焦点，已经从单纯发布更强模型转向把模型封装为可持续工作的生产力产品。监管放行与产品化能力，正在同时决定模型公司的增长上限。",
-          "investment_observation": "要重点拆解两个维度：一是新模型带来的性能/成本改善能否转化为更高 ARPU，二是 Agent 产品是否真的提升留存和团队级付费。模型优势若不能转化为工作流粘性，竞争会迅速回到价格战。",
+          "selected_at": "2026-07-12T04:04:19+00:00",
+          "category": "技术",
+          "summary": "The Verge 报道称，OpenAI 在获得监管放行后扩大 GPT-5.6 的可用范围，并同步推出面向工作场景的 ChatGPT Work。模型发布节奏与办公产品化正在明显绑定。",
+          "why_it_matters": "这条新闻把两个信号放在了一起：一是前沿模型的发布正越来越受政策约束，二是模型公司正把能力封装成工作流产品，争夺企业日常办公入口。",
+          "investment_observation": "后续要看企业版 seat 扩张、权限管理、安全合规和与 Microsoft 生态的协同或冲突。谁掌握“工作流入口”，谁就更有机会吃到长期高毛利收入。",
           "companies": [
             "OpenAI"
           ],
@@ -208,15 +202,13 @@ window.AI_NEWS_DATA = {
             "ChatGPT Work"
           ],
           "technologies": [
-            "LLM",
-            "AI agent"
+            "大模型"
           ],
           "tags": [
-            "产品",
+            "技术",
             "OpenAI",
-            "GPT-5.6",
-            "ChatGPT Work",
-            "Agent"
+            "Sam Altman",
+            "ChatGPT Work"
           ],
           "importance_score": 7.62
         },
@@ -225,11 +217,11 @@ window.AI_NEWS_DATA = {
           "url": "https://36kr.com/p/3891132709206784?f=rss",
           "source": "36氪",
           "published_at": "2026-07-11 19:28:29  +0800",
-          "selected_at": "2026-07-12T04:05:24+00:00",
+          "selected_at": "2026-07-12T04:04:19+00:00",
           "category": "公司",
-          "summary": "36氪披露，智谱创始人唐杰发布题为《巨浪已来》的内部信，回顾公司在资本市场和产品节奏上的高光时刻，并把“GLM 时刻”之后的组织与长期建设放到更重要位置。",
-          "why_it_matters": "中国头部模型公司的管理层表态，往往比单次产品发布更能反映接下来的战略重点。对于已进入上市或高估值阶段的模型厂商，组织效率和商业兑现开始比单点技术叙事更关键。",
-          "investment_observation": "观察智谱这类公司的核心，不只是模型能力，还包括收入结构、生态绑定和资本市场预期管理。若内部信之后跟随的是清晰的产品和商业动作，估值叙事才更可持续。",
+          "summary": "36 氪披露智谱创始人唐杰内部信，在“GLM 时刻”之后，公司开始把注意力从阶段性声量转向后续执行、商业化和组织能力建设。对中国大模型公司来说，这比单次发布更关键。",
+          "why_it_matters": "国内基础模型公司正在进入“高估值之后怎么兑现”的阶段。市场更关心的不再只是模型是否发布，而是收入、产品落地、生态位置和资本市场预期能否匹配。",
+          "investment_observation": "建议持续跟踪智谱的企业客户拓展、模型应用化、利润率和资本开支节奏。中国大模型公司接下来最重要的验证项是商业闭环，不是单次情绪高点。",
           "companies": [
             "智谱"
           ],
@@ -240,14 +232,13 @@ window.AI_NEWS_DATA = {
             "GLM"
           ],
           "technologies": [
-            "Foundation model"
+            "基础模型"
           ],
           "tags": [
             "公司",
             "智谱",
             "唐杰",
-            "中国AI",
-            "大模型"
+            "GLM"
           ],
           "importance_score": 7.45
         },
@@ -256,11 +247,11 @@ window.AI_NEWS_DATA = {
           "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
           "source": "MIT Technology Review AI",
           "published_at": "Thu, 09 Jul 2026 20:22:28 +0000",
-          "selected_at": "2026-07-12T04:05:24+00:00",
+          "selected_at": "2026-07-12T04:04:19+00:00",
           "category": "技术",
-          "summary": "MIT Technology Review 报道，Anthropic 开发出一种新技术，用来更清晰地观察 Claude 在回答问题和处理概念时内部表征的变化，相当于朝模型可解释性迈进一步。",
-          "why_it_matters": "模型可解释性不只是研究议题，它关系到安全评估、企业信任和高风险场景部署。谁能更早把“黑箱模型”变成可审计系统，谁就更有机会进入监管更严的市场。",
-          "investment_observation": "中短期可关注评测、安全、审计和对齐工具链的机会。即使基础模型公司率先做出突破，外部独立验证和企业级治理层仍可能形成新的软件市场。",
+          "summary": "MIT Technology Review 报道，Anthropic 用新的可解释性方法观察 Claude 在回答问题时内部概念空间的活动，希望更清楚地理解大模型在“想什么”和“如何联想”。",
+          "why_it_matters": "如果可解释性工具真正进步，模型安全、调优效率和企业信任门槛都会被重写。对前沿模型公司来说，这既是安全研究，也是未来卖给企业与政府客户的能力证明。",
+          "investment_observation": "可以关注模型可解释性、评测、安全审计和可控性工具链。长期看，这一层可能成为基础模型之外的重要高价值软件市场。",
           "companies": [
             "Anthropic"
           ],
@@ -269,14 +260,14 @@ window.AI_NEWS_DATA = {
             "Claude"
           ],
           "technologies": [
-            "Mechanistic interpretability",
-            "LLM"
+            "可解释性",
+            "模型安全"
           ],
           "tags": [
             "技术",
             "Anthropic",
             "Claude",
-            "可解释性"
+            "模型可解释性"
           ],
           "importance_score": 7.12
         },
@@ -285,24 +276,24 @@ window.AI_NEWS_DATA = {
           "url": "https://openai.com/index/government-national-security-partnerships",
           "source": "OpenAI News",
           "published_at": "Wed, 08 Jul 2026 13:30:00 GMT",
-          "selected_at": "2026-07-12T04:05:24+00:00",
-          "category": "政策",
-          "summary": "OpenAI 发布关于政府与国家安全合作的立场文章，强调其希望在负责任使用、民主问责和公共安全原则下推进相关合作。",
-          "why_it_matters": "模型公司与政府的关系，正在从单纯的合规沟通变成业务与战略层面的合作设计。国家安全、主权部署和审计要求，都会影响模型公司未来的市场边界。",
-          "investment_observation": "这类信号通常利好具备安全、私有化部署、身份权限和审计能力的供应链。也要警惕政策合作带来的客户结构变化，因为政府收入占比提升可能同时影响增长速度和监管义务。",
+          "selected_at": "2026-07-12T04:04:19+00:00",
+          "category": "公司",
+          "summary": "OpenAI 公布其面向政府与国家安全合作的原则框架，强调责任使用、民主问责与公共安全。这说明前沿模型公司正在把公共部门合作正式纳入长期战略。",
+          "why_it_matters": "政府关系已经不只是品牌背书，而可能成为模型公司获取预算、合规优势和基础设施地位的重要渠道。尤其在安全、主权与本地部署议题上，这类合作会持续放大。",
+          "investment_observation": "关注公共部门收入占比、安全与隔离部署能力、审计合规工具以及地缘政治带来的市场分化。未来一部分 AI 估值溢价，可能直接来自政府与关键行业合同。",
           "companies": [
             "OpenAI"
           ],
           "people": [],
           "products": [],
           "technologies": [
-            "AI governance"
+            "AI 安全"
           ],
           "tags": [
-            "政策",
+            "公司",
             "OpenAI",
-            "国家安全",
-            "AI治理"
+            "政府合作",
+            "AI 安全"
           ],
           "importance_score": 6.97
         }
