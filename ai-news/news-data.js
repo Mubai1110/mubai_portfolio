@@ -1,25 +1,406 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-17T12:48:00+08:00",
-  "digest_count": 11,
-  "article_count": 86,
+  "generated_at": "2026-07-21T04:32:40+00:00",
+  "digest_count": 8,
+  "article_count": 93,
   "digests": [
     {
-      "date": "2026-07-17",
-      "count": 10,
+      "date": "2026-07-21",
+      "count": 8,
       "articles": [
         {
-          "title": "Why AMI Labs' Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence'",
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 20 Jul 2026 19:33:25 +0000",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "模型",
+          "summary": "TechCrunch借OpenAI对中国开源权重模型的担忧，点出一个更深层变化：领先模型公司的护城河，正在从“能力领先”转向“分发、监管和生态控制”。当高性能模型越来越多以开放权重形式出现，美国闭源厂商的商业模式会受到直接挤压。",
+          "why_it_matters": "这不是单条公司新闻，而是全球模型竞争格局变化的信号。若开源权重持续逼近闭源前沿，模型层的利润会被压薄，价值将更多转向云算力、企业分发、安全合规和工作流入口。",
+          "why_important": "这不是单条公司新闻，而是全球模型竞争格局变化的信号。若开源权重持续逼近闭源前沿，模型层的利润会被压薄，价值将更多转向云算力、企业分发、安全合规和工作流入口。",
+          "investment_observation": "优先看两类受益者：一类是能承接开源模型部署、微调和推理成本下降的基础设施公司；另一类是掌握企业客户关系和分发入口的应用层公司。单纯依赖闭源溢价的模型厂商，估值弹性会被重新定价。",
+          "investment_angle": "优先看两类受益者：一类是能承接开源模型部署、微调和推理成本下降的基础设施公司；另一类是掌握企业客户关系和分发入口的应用层公司。单纯依赖闭源溢价的模型厂商，估值弹性会被重新定价。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Open-weight model",
+            "LLM"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Open-weight model",
+              "LLM"
+            ]
+          },
+          "tags": [
+            "模型",
+            "OpenAI",
+            "开源",
+            "LLM"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Nikkei Asia",
+          "published_at": "2026-07-21T03:56:03Z",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "融资",
+          "summary": "Nikkei称，美国五大科技公司因AI基础设施扩张形成的“隐性债务”在四年里膨胀至约1.65万亿美元，规模已超过表内债务。核心问题不是融资能力，而是数据中心、长期算力采购和复杂融资结构让真实风险更难被投资者直接看清。",
+          "why_it_matters": "这条新闻把AI资本开支的另一面揭开了。市场过去更关注谁在大举投算力，现在开始要回答“这些投入如何回收、风险如何定价”。这会影响云厂商、芯片、数据中心REITs和AI应用公司的估值锚。",
+          "why_important": "这条新闻把AI资本开支的另一面揭开了。市场过去更关注谁在大举投算力，现在开始要回答“这些投入如何回收、风险如何定价”。这会影响云厂商、芯片、数据中心REITs和AI应用公司的估值锚。",
+          "investment_observation": "短期继续利好卖铲人，但中期要盯资本开支回报率、推理利用率和企业客户付费兑现。若基础设施回本周期拉长，上游高估值会先承压，真正能把算力转成稳定现金流的平台会更稀缺。",
+          "investment_angle": "短期继续利好卖铲人，但中期要盯资本开支回报率、推理利用率和企业客户付费兑现。若基础设施回本周期拉长，上游高估值会先承压，真正能把算力转成稳定现金流的平台会更稀缺。",
+          "companies": [
+            "Microsoft",
+            "Amazon",
+            "Alphabet",
+            "Meta",
+            "Oracle"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI infrastructure",
+            "Data center"
+          ],
+          "entities": {
+            "companies": [
+              "Microsoft",
+              "Amazon",
+              "Alphabet",
+              "Meta",
+              "Oracle"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI infrastructure",
+              "Data center"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI基础设施",
+            "数据中心",
+            "资本开支"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+          "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+          "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 20 Jul 2026 15:00:53 +0000",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "基础设施",
+          "summary": "NVIDIA在SIGGRAPH集中展示了把AI代理、3D内容工具和物理仿真打通的路线，包括MCP连接创作软件、Cosmos 3 Edge世界模型、用于本地物理AI的工具链，以及可把动画和机器人控制联动起来的研究成果。",
+          "why_it_matters": "这说明NVIDIA不只卖GPU，而是在把“内容生产工具链 + 仿真 + 机器人训练环境”一起平台化。对机器人、数字孪生和工业AI来说，仿真环境正在成为新的基础设施层。",
+          "why_important": "这说明NVIDIA不只卖GPU，而是在把“内容生产工具链 + 仿真 + 机器人训练环境”一起平台化。对机器人、数字孪生和工业AI来说，仿真环境正在成为新的基础设施层。",
+          "investment_observation": "关注两条线：一条是围绕NVIDIA生态做仿真、数字孪生和机器人开发工具的公司；另一条是能把MCP、代理和专业软件工作流结合的垂类应用。硬件领先仍重要，但软件平台化会决定利润率上限。",
+          "investment_angle": "关注两条线：一条是围绕NVIDIA生态做仿真、数字孪生和机器人开发工具的公司；另一条是能把MCP、代理和专业软件工作流结合的垂类应用。硬件领先仍重要，但软件平台化会决定利润率上限。",
+          "companies": [
+            "NVIDIA",
+            "Adobe",
+            "Epic Games"
+          ],
+          "people": [],
+          "products": [
+            "Cosmos 3 Edge",
+            "NVIDIA Agent Toolkit",
+            "DGX Station"
+          ],
+          "technologies": [
+            "Physical AI",
+            "Simulation",
+            "MCP"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Adobe",
+              "Epic Games"
+            ],
+            "people": [],
+            "products": [
+              "Cosmos 3 Edge",
+              "NVIDIA Agent Toolkit",
+              "DGX Station"
+            ],
+            "technologies": [
+              "Physical AI",
+              "Simulation",
+              "MCP"
+            ]
+          },
+          "tags": [
+            "基础设施",
+            "NVIDIA",
+            "Physical AI",
+            "MCP",
+            "仿真"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 17 Jul 2026 22:12:56 +0000",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "公司",
+          "summary": "Databricks最新融资把估值推到1880亿美元。虽然报道发布时间是2026年7月17日，不是今天的新事件，但它仍是本轮AI基础软件估值的重要锚点，说明“数据平台 + 企业AI平台”仍被资本市场视为高确定性受益者。",
+          "why_it_matters": "这类融资不是单个独角兽的面子工程，它会影响整个企业AI软件层的估值预期。相比只卖模型能力，掌握企业数据、治理和开发入口的平台更容易解释长期收入。",
+          "why_important": "这类融资不是单个独角兽的面子工程，它会影响整个企业AI软件层的估值预期。相比只卖模型能力，掌握企业数据、治理和开发入口的平台更容易解释长期收入。",
+          "investment_observation": "应继续跟踪企业AI平台的续费率、跨产品渗透和模型中立能力。若客户希望同时接入多家模型，拥有数据层和治理层入口的平台会比单一模型厂商更抗波动。",
+          "investment_angle": "应继续跟踪企业AI平台的续费率、跨产品渗透和模型中立能力。若客户希望同时接入多家模型，拥有数据层和治理层入口的平台会比单一模型厂商更抗波动。",
+          "companies": [
+            "Databricks"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Lakehouse",
+            "Enterprise AI"
+          ],
+          "entities": {
+            "companies": [
+              "Databricks"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Lakehouse",
+              "Enterprise AI"
+            ]
+          },
+          "tags": [
+            "公司",
+            "Databricks",
+            "估值",
+            "企业AI"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "AI is more likely than humans to form biases when hiring",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+          "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 20 Jul 2026 08:39:01 +0000",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "治理",
+          "summary": "MIT Technology Review援引研究指出，招聘场景中的AI系统不仅会继承训练数据中的偏见，还可能在筛选候选人时放大偏见，造成比人工决策更系统化的歧视结果。问题不只是“模型不准”，而是它会规模化复制错误判断。",
+          "why_it_matters": "企业把AI推向招聘、客服、审核等高风险决策流程时，真正的瓶颈会从模型能力转向审计、解释性和合规。对行业来说，这类研究会加速监管要求，也会改变B端采购标准。",
+          "why_important": "企业把AI推向招聘、客服、审核等高风险决策流程时，真正的瓶颈会从模型能力转向审计、解释性和合规。对行业来说，这类研究会加速监管要求，也会改变B端采购标准。",
+          "investment_observation": "看好提供AI审计、可解释性、合规监控和人机协同审批流程的基础软件。相反，缺少透明度却直接进入高风险决策场景的AI应用，后续会面临更高销售阻力和法律风险。",
+          "investment_angle": "看好提供AI审计、可解释性、合规监控和人机协同审批流程的基础软件。相反，缺少透明度却直接进入高风险决策场景的AI应用，后续会面临更高销售阻力和法律风险。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM",
+            "AI governance"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "LLM",
+              "AI governance"
+            ]
+          },
+          "tags": [
+            "治理",
+            "招聘",
+            "偏见",
+            "合规",
+            "LLM"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+          "url": "https://36kr.com/p/3904049563731849?f=rss",
+          "link": "https://36kr.com/p/3904049563731849?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-21 09:30:00  +0800",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "机器人",
+          "summary": "36氪报道，心言集团在拥有6000多万用户、年营收数亿元的情感陪伴App基础上，推出家庭主动智能陪伴机器人 Buboo 1，试图把长期积累的情绪理解与家庭场景交互能力，从手机屏幕迁移到具身终端。",
+          "why_it_matters": "这条新闻的重点不在“又一台机器人”，而在于已有用户和收入的消费级AI应用，开始把软件能力外溢到家庭硬件。相比从零做机器人，先有情感陪伴数据和使用关系的团队更可能跑出差异化。",
+          "why_important": "这条新闻的重点不在“又一台机器人”，而在于已有用户和收入的消费级AI应用，开始把软件能力外溢到家庭硬件。相比从零做机器人，先有情感陪伴数据和使用关系的团队更可能跑出差异化。",
+          "investment_observation": "家庭机器人短期仍难规模化，但“高频陪伴App + 多模态感知 + 长期记忆”值得持续跟踪。投资上要看复购、家庭留存和硬件毛利，而不是只看展会演示效果。",
+          "investment_angle": "家庭机器人短期仍难规模化，但“高频陪伴App + 多模态感知 + 长期记忆”值得持续跟踪。投资上要看复购、家庭留存和硬件毛利，而不是只看展会演示效果。",
+          "companies": [
+            "心言集团"
+          ],
+          "people": [
+            "任永亮"
+          ],
+          "products": [
+            "测测",
+            "Buboo 1"
+          ],
+          "technologies": [
+            "Embodied AI",
+            "Multimodal"
+          ],
+          "entities": {
+            "companies": [
+              "心言集团"
+            ],
+            "people": [
+              "任永亮"
+            ],
+            "products": [
+              "测测",
+              "Buboo 1"
+            ],
+            "technologies": [
+              "Embodied AI",
+              "Multimodal"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "情感陪伴",
+            "消费级AI",
+            "具身智能"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "source": "The Verge AI",
+          "published_at": "2026-07-20T18:19:12-04:00",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "版权",
+          "summary": "The Verge报道，索尼对AI音乐生成公司Udio发起新的版权诉讼，指控其侵权歌曲扩大到3万多首。这是继2024年行业首次集中起诉后，版权方在证据发现阶段拿到更多训练数据线索后的一次升级追击。",
+          "why_it_matters": "生成式AI进入音乐、视频和出版后，版权清算不会自动消失，只会越来越精细。对内容型AI公司来说，训练数据合法性和商业授权能力正在从合规问题变成生死线。",
+          "why_important": "生成式AI进入音乐、视频和出版后，版权清算不会自动消失，只会越来越精细。对内容型AI公司来说，训练数据合法性和商业授权能力正在从合规问题变成生死线。",
+          "investment_observation": "文娱AI赛道要重点看授权能力、训练数据来源和与版权方的合作结构。能用合规授权换取分发和商业化渠道的公司会胜出，试图用诉讼拖时间的模式会越来越难拿到长期资本。",
+          "investment_angle": "文娱AI赛道要重点看授权能力、训练数据来源和与版权方的合作结构。能用合规授权换取分发和商业化渠道的公司会胜出，试图用诉讼拖时间的模式会越来越难拿到长期资本。",
+          "companies": [
+            "Sony Music",
+            "Udio",
+            "Universal Music Group",
+            "Warner Music"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI music generation"
+          ],
+          "entities": {
+            "companies": [
+              "Sony Music",
+              "Udio",
+              "Universal Music Group",
+              "Warner Music"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI music generation"
+            ]
+          },
+          "tags": [
+            "版权",
+            "音乐AI",
+            "诉讼",
+            "Udio"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "China delivers a one-two punch to America’s AI dominance",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+          "source": "The Verge AI",
+          "published_at": "2026-07-20T06:16:33-04:00",
+          "selected_at": "2026-07-21T04:32:40+00:00",
+          "category": "模型",
+          "summary": "The Verge称，Moonshot与阿里巴巴接连发布新的开放模型，分别以 Kimi K3 和 Qwen 3.8 向OpenAI、Anthropic的前沿模型逼近。报道的核心不是单次榜单成绩，而是中国厂商用更开放、更低成本的路径持续压缩与美国前沿模型的差距。",
+          "why_it_matters": "这是今天最值得关注的重复主线之一，我保留这一条、剔除了同主题的评论型重复报道。原因很简单：它包含最具体的产品发布信息，能直接反映全球模型能力、开源策略和算力投入回报的变化。",
+          "why_important": "这是今天最值得关注的重复主线之一，我保留这一条、剔除了同主题的评论型重复报道。原因很简单：它包含最具体的产品发布信息，能直接反映全球模型能力、开源策略和算力投入回报的变化。",
+          "investment_observation": "如果高性能开放模型继续增多，企业选型会更偏向“多模型 + 自主部署 + 成本优化”。受益方向是推理基础设施、模型路由、企业私有化部署和围绕开源模型做行业封装的应用公司。",
+          "investment_angle": "如果高性能开放模型继续增多，企业选型会更偏向“多模型 + 自主部署 + 成本优化”。受益方向是推理基础设施、模型路由、企业私有化部署和围绕开源模型做行业封装的应用公司。",
+          "companies": [
+            "Moonshot AI",
+            "Alibaba",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Kimi K3",
+            "Qwen 3.8"
+          ],
+          "technologies": [
+            "Open-weight model",
+            "LLM"
+          ],
+          "entities": {
+            "companies": [
+              "Moonshot AI",
+              "Alibaba",
+              "OpenAI",
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Kimi K3",
+              "Qwen 3.8"
+            ],
+            "technologies": [
+              "Open-weight model",
+              "LLM"
+            ]
+          },
+          "tags": [
+            "模型",
+            "中国AI",
+            "开源",
+            "Moonshot",
+            "阿里巴巴"
+          ],
+          "importance_score": 9.0
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "count": 9,
+      "articles": [
+        {
+          "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
           "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence",
           "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence",
           "source": "TechCrunch AI",
           "published_at": "Thu, 16 Jul 2026 14:40:00 +0000",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "人物",
-          "summary": "AMI Labs CEO Alexandre LeBrun 公开反对用“AGI”或“超级智能”包装自家系统，强调团队更关注世界模型在机器人和真实环境中的上下文理解能力，而不是追逐抽象口号。Yann LeCun 相关团队正在把叙事从通用幻想拉回可部署能力。",
-          "why_it_matters": "这是关键人物对技术路线和市场叙事的主动校准。若世界模型阵营持续淡化 AGI 概念、强化物理世界理解，机器人、具身智能和工业自动化会比通用聊天产品更早获得资本与人才倾斜。",
-          "why_important": "这是关键人物对技术路线和市场叙事的主动校准。若世界模型阵营持续淡化 AGI 概念、强化物理世界理解，机器人、具身智能和工业自动化会比通用聊天产品更早获得资本与人才倾斜。",
-          "investment_observation": "重点验证 AMI Labs 后续是否公布可复现的机器人/工业场景指标，比如任务成功率、异常恢复和数据闭环效率。若世界模型能先在窄场景证明 ROI，相关数据引擎、仿真平台和机器人软件栈会受益。",
-          "investment_angle": "重点验证 AMI Labs 后续是否公布可复现的机器人/工业场景指标，比如任务成功率、异常恢复和数据闭环效率。若世界模型能先在窄场景证明 ROI，相关数据引擎、仿真平台和机器人软件栈会受益。",
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "技术",
+          "summary": "TechCrunch 采访中，AMI Labs CEO Alexandre LeBrun 表示不愿把公司的 AI 路线包装成“AGI”或“超级智能”，而是强调以世界模型为核心的实用能力建设。",
+          "why_it_matters": "这代表 Yann LeCun 阵营继续公开押注与主流大模型叙事不同的技术路线。若世界模型在机器人、长期规划或环境建模上跑出效果，基础模型竞争格局会被重新讨论。",
+          "why_important": "这代表 Yann LeCun 阵营继续公开押注与主流大模型叙事不同的技术路线。若世界模型在机器人、长期规划或环境建模上跑出效果，基础模型竞争格局会被重新讨论。",
+          "investment_observation": "关注世界模型路线能否形成可验证的产品优势，尤其是机器人、工业仿真和长期任务 agent 场景。若只有概念、没有部署数据，资本市场很快会转向更能落地的路线。",
+          "investment_angle": "关注世界模型路线能否形成可验证的产品优势，尤其是机器人、工业仿真和长期任务 agent 场景。若只有概念、没有部署数据，资本市场很快会转向更能落地的路线。",
           "companies": [
             "AMI Labs"
           ],
@@ -29,8 +410,8 @@ window.AI_NEWS_DATA = {
           ],
           "products": [],
           "technologies": [
-            "world model",
-            "robotics"
+            "世界模型",
+            "AGI"
           ],
           "entities": {
             "companies": [
@@ -42,62 +423,56 @@ window.AI_NEWS_DATA = {
             ],
             "products": [],
             "technologies": [
-              "world model",
-              "robotics"
+              "世界模型",
+              "AGI"
             ]
           },
           "tags": [
-            "人物",
-            "AMI Labs",
-            "Yann LeCun",
-            "world model"
+            "技术",
+            "世界模型",
+            "Yann LeCun"
           ],
-          "importance_score": 8.9
+          "importance_score": 8.7
         },
         {
-          "title": "New York governor says she's using AI to analyze 'every single rule' in the state",
+          "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
           "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
           "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
           "source": "The Verge AI",
           "published_at": "2026-07-16T13:58:37-04:00",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "应用",
-          "summary": "纽约州州长 Kathy Hochul 表示，州政府正用 AI 审查全州监管规则，以识别冗余和过时条款；而就在此前，她又签署了针对新建 AI 数据中心的暂停令。政府一边用 AI 提效，一边收紧基础设施扩张。",
-          "why_it_matters": "这不是单纯的政务数字化新闻，而是“AI 应用需求上升”和“算力基础设施审批趋严”同时出现的信号。政策两端的错配会直接影响数据中心、政务 SaaS、本地部署模型和合规服务的订单结构。",
-          "why_important": "这不是单纯的政务数字化新闻，而是“AI 应用需求上升”和“算力基础设施审批趋严”同时出现的信号。政策两端的错配会直接影响数据中心、政务 SaaS、本地部署模型和合规服务的订单结构。",
-          "investment_observation": "优先关注能拿下公共部门采购的流程自动化、法规分析和审计工具，同时跟踪地方政府对算力建设的审批口径。如果更多州复制这一组合，合规型软件和区域算力供给会出现明显分化。",
-          "investment_angle": "优先关注能拿下公共部门采购的流程自动化、法规分析和审计工具，同时跟踪地方政府对算力建设的审批口径。如果更多州复制这一组合，合规型软件和区域算力供给会出现明显分化。",
-          "companies": [
-            "State of New York"
-          ],
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "政策",
+          "summary": "The Verge 报道称，纽约州州长 Kathy Hochul 表示正用 AI 梳理州内“每一条规则”，把生成式 AI 用到政府治理和监管流程中。",
+          "why_it_matters": "政府一边可能限制数据中心扩张，一边又成为 AI 的直接采购者和应用者，说明政策不只是外部约束，也在重塑行业需求结构。",
+          "why_important": "政府一边可能限制数据中心扩张，一边又成为 AI 的直接采购者和应用者，说明政策不只是外部约束，也在重塑行业需求结构。",
+          "investment_observation": "值得跟踪政务 AI、合规自动化和本地部署基础设施机会。对模型公司而言，谁更能满足公共部门的安全、审计和主权要求，谁就更容易拿到长期预算。",
+          "investment_angle": "值得跟踪政务 AI、合规自动化和本地部署基础设施机会。对模型公司而言，谁更能满足公共部门的安全、审计和主权要求，谁就更容易拿到长期预算。",
+          "companies": [],
           "people": [
             "Kathy Hochul"
           ],
           "products": [],
           "technologies": [
-            "government AI",
-            "regulatory analysis"
+            "政务AI",
+            "监管自动化"
           ],
           "entities": {
-            "companies": [
-              "State of New York"
-            ],
+            "companies": [],
             "people": [
               "Kathy Hochul"
             ],
             "products": [],
             "technologies": [
-              "government AI",
-              "regulatory analysis"
+              "政务AI",
+              "监管自动化"
             ]
           },
           "tags": [
-            "应用",
-            "Kathy Hochul",
-            "government AI",
+            "政策",
+            "政务AI",
             "监管"
           ],
-          "importance_score": 8.4
+          "importance_score": 8.9
         },
         {
           "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
@@ -105,50 +480,40 @@ window.AI_NEWS_DATA = {
           "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling",
           "source": "TechCrunch AI",
           "published_at": "Wed, 15 Jul 2026 18:04:06 +0000",
-          "selected_at": "2026-07-17T12:48:00+08:00",
+          "selected_at": "2026-07-17T04:37:26+00:00",
           "category": "技术",
-          "summary": "Mira Murati 创立的 Thinking Machines 发布首个开源模型 Inkling，主打“可调推理 effort”和更细颗粒度的开发者控制，而不是一刀切的大模型体验。公司把一年多的隐身基础设施建设第一次转成了公开产品证明。",
-          "why_it_matters": "这是头部创业公司在开源模型路线上的一次清晰定位：不是拼最大参数，而是拼可控性、效率和定制接口。若 Inkling 被开发者接受，开源模型竞争会从“谁更强”进一步转向“谁更好调、谁更易嵌入工作流”。",
-          "why_important": "这是头部创业公司在开源模型路线上的一次清晰定位：不是拼最大参数，而是拼可控性、效率和定制接口。若 Inkling 被开发者接受，开源模型竞争会从“谁更强”进一步转向“谁更好调、谁更易嵌入工作流”。",
-          "investment_observation": "关注 Inkling 的社区采用、企业托管需求和生态插件速度，而不只看 benchmark。若可调推理成为新标准，模型中间层、路由、评测和私有化部署工具会比纯模型层拥有更稳定的议价空间。",
-          "investment_angle": "关注 Inkling 的社区采用、企业托管需求和生态插件速度，而不只看 benchmark。若可调推理成为新标准，模型中间层、路由、评测和私有化部署工具会比纯模型层拥有更稳定的议价空间。",
+          "summary": "Thinking Machines 发布首个开放模型 Inkling，作为团队低调建设一年半之后首次较完整的对外技术展示，强调并非所有场景都适合“一套模型打天下”。",
+          "why_it_matters": "头部创业团队开始用开放模型证明差异化路线，说明新一轮竞争不只在闭源旗舰模型，也在模型组合、定制化和工具链能力。",
+          "why_important": "头部创业团队开始用开放模型证明差异化路线，说明新一轮竞争不只在闭源旗舰模型，也在模型组合、定制化和工具链能力。",
+          "investment_observation": "要看 Inkling 能否带动开发者采用、企业试点和后续商业承接。真正有价值的不是“开源”标签本身，而是能否把模型发布转成平台流量、服务收入和生态控制力。",
+          "investment_angle": "要看 Inkling 能否带动开发者采用、企业试点和后续商业承接。真正有价值的不是“开源”标签本身，而是能否把模型发布转成平台流量、服务收入和生态控制力。",
           "companies": [
             "Thinking Machines"
           ],
-          "people": [
-            "Mira Murati"
-          ],
+          "people": [],
           "products": [
             "Inkling"
           ],
           "technologies": [
-            "open model",
-            "reasoning control",
-            "multimodal"
+            "开源模型"
           ],
           "entities": {
             "companies": [
               "Thinking Machines"
             ],
-            "people": [
-              "Mira Murati"
-            ],
+            "people": [],
             "products": [
               "Inkling"
             ],
             "technologies": [
-              "open model",
-              "reasoning control",
-              "multimodal"
+              "开源模型"
             ]
           },
           "tags": [
             "技术",
-            "Thinking Machines",
-            "Inkling",
-            "开源"
+            "开源模型"
           ],
-          "importance_score": 9.5
+          "importance_score": 9.2
         },
         {
           "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -156,13 +521,13 @@ window.AI_NEWS_DATA = {
           "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat AI",
           "published_at": "Thu, 16 Jul 2026 19:02:38 GMT",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "应用",
-          "summary": "一项覆盖 107 家企业的调查显示，54% 的受访者已经发生过 AI agent 相关事故，但大量企业仍让 agent 共用凭证或直接接触真实系统。企业开始部署 agent 的速度，已经快于安全治理成熟速度。",
-          "why_it_matters": "Agent 从 demo 进入生产环境后，身份管理、权限边界和可观测性会变成刚需，而不是附属功能。谁能把 agent 访问控制、审计和回滚做成默认层，谁就更接近企业预算核心。",
-          "why_important": "Agent 从 demo 进入生产环境后，身份管理、权限边界和可观测性会变成刚需，而不是附属功能。谁能把 agent 访问控制、审计和回滚做成默认层，谁就更接近企业预算核心。",
-          "investment_observation": "优先看 agent 安全公司的真实部署深度：是否接入 IAM、日志、审批流和多系统编排，而不是只卖“风险提示”。如果事故率继续上升，身份治理、运行时防护和 agent sandbox 会形成独立赛道。",
-          "investment_angle": "优先看 agent 安全公司的真实部署深度：是否接入 IAM、日志、审批流和多系统编排，而不是只卖“风险提示”。如果事故率继续上升，身份治理、运行时防护和 agent sandbox 会形成独立赛道。",
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "安全",
+          "summary": "VentureBeat 援引对 107 家企业的调查称，54% 的受访企业已经发生过 AI agent 相关事故，而大量企业仍让多个 agent 共享凭证与系统权限。",
+          "why_it_matters": "企业 agent 的核心瓶颈正在从“能否演示”转向“能否安全落地”。权限控制、身份管理和可观测性如果跟不上，agent 预算很难从试点走向规模部署。",
+          "why_important": "企业 agent 的核心瓶颈正在从“能否演示”转向“能否安全落地”。权限控制、身份管理和可观测性如果跟不上，agent 预算很难从试点走向规模部署。",
+          "investment_observation": "安全编排、身份代理、审计日志和 agent runtime 监控会比单纯的 agent 前台更快兑现付费。未来企业更愿意为可控性买单，而不是为更花哨的 demo 买单。",
+          "investment_angle": "安全编排、身份代理、审计日志和 agent runtime 监控会比单纯的 agent 前台更快兑现付费。未来企业更愿意为可控性买单，而不是为更花哨的 demo 买单。",
           "companies": [
             "OpenAI",
             "Anthropic",
@@ -173,8 +538,8 @@ window.AI_NEWS_DATA = {
           "products": [],
           "technologies": [
             "AI agent",
-            "identity security",
-            "runtime guardrails"
+            "身份管理",
+            "权限控制"
           ],
           "entities": {
             "companies": [
@@ -187,17 +552,16 @@ window.AI_NEWS_DATA = {
             "products": [],
             "technologies": [
               "AI agent",
-              "identity security",
-              "runtime guardrails"
+              "身份管理",
+              "权限控制"
             ]
           },
           "tags": [
-            "应用",
-            "AI agent",
             "安全",
-            "企业"
+            "AI agent",
+            "企业软件"
           ],
-          "importance_score": 8.8
+          "importance_score": 9.0
         },
         {
           "title": "Why teens deserve access to safe AI",
@@ -205,13 +569,13 @@ window.AI_NEWS_DATA = {
           "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
           "source": "OpenAI News",
           "published_at": "Thu, 16 Jul 2026 16:00:00 GMT",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "公司",
-          "summary": "OpenAI 公布其面向青少年使用 ChatGPT 的安全框架，强调年龄分层保护、家长控制、学习场景设计和外部专家合作。重点不在模型能力升级，而在抢先建立面向未成年人的合规使用范式。",
-          "why_it_matters": "青少年场景是生成式 AI 进入教育和家庭入口前必须解决的合规关口。谁先形成可审计的安全标准，谁就更容易获得学校、家长和监管侧的信任与分发权限。",
-          "why_important": "青少年场景是生成式 AI 进入教育和家庭入口前必须解决的合规关口。谁先形成可审计的安全标准，谁就更容易获得学校、家长和监管侧的信任与分发权限。",
-          "investment_observation": "关注教育类 AI 产品是否跟进类似的未成年人保护设计，以及各地区监管是否开始要求默认安全配置。若安全基线被平台定义，垂直教育创业公司需要在课程、评估和校园渠道上建立更强差异化。",
-          "investment_angle": "关注教育类 AI 产品是否跟进类似的未成年人保护设计，以及各地区监管是否开始要求默认安全配置。若安全基线被平台定义，垂直教育创业公司需要在课程、评估和校园渠道上建立更强差异化。",
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "产品",
+          "summary": "OpenAI 说明其正为青少年版 ChatGPT 增加更适龄的保护机制、学习工具、家长控制与外部专家合作。",
+          "why_it_matters": "消费级 AI 想真正进入教育和家庭场景，安全设计必须先过监管和舆论这一关。头部平台的未成年人策略，往往会影响全行业默认标准。",
+          "why_important": "消费级 AI 想真正进入教育和家庭场景，安全设计必须先过监管和舆论这一关。头部平台的未成年人策略，往往会影响全行业默认标准。",
+          "investment_observation": "教育 AI、家长控制、内容过滤和青少年身份验证会成为实际需求。谁能把“安全”做成产品能力，而不是公关口号，谁更有机会拿到学校和家庭入口。",
+          "investment_angle": "教育 AI、家长控制、内容过滤和青少年身份验证会成为实际需求。谁能把“安全”做成产品能力，而不是公关口号，谁更有机会拿到学校和家庭入口。",
           "companies": [
             "OpenAI"
           ],
@@ -220,8 +584,8 @@ window.AI_NEWS_DATA = {
             "ChatGPT"
           ],
           "technologies": [
-            "AI safety",
-            "parental controls"
+            "内容安全",
+            "家长控制"
           ],
           "entities": {
             "companies": [
@@ -232,17 +596,16 @@ window.AI_NEWS_DATA = {
               "ChatGPT"
             ],
             "technologies": [
-              "AI safety",
-              "parental controls"
+              "内容安全",
+              "家长控制"
             ]
           },
           "tags": [
-            "公司",
+            "产品",
             "OpenAI",
-            "ChatGPT",
-            "AI safety"
+            "教育"
           ],
-          "importance_score": 7.3
+          "importance_score": 8.0
         },
         {
           "title": "Our approach to bioresilience",
@@ -250,13 +613,13 @@ window.AI_NEWS_DATA = {
           "link": "https://deepmind.google/blog/our-approach-to-bioresilience",
           "source": "Google DeepMind Blog",
           "published_at": "Thu, 16 Jul 2026 09:30:42 +0000",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "研究",
-          "summary": "Google DeepMind 与 Isomorphic Labs 披露其“生物韧性”框架，讨论如何在推进生物模型、药物发现和相关 AI 能力时同步建设风险评估与防滥用机制。文章核心是为生物 AI 的研发边界建立制度化方法。",
-          "why_it_matters": "生物 AI 的价值越来越大，但监管敏感度也越来越高。头部实验室开始提前把能力推进和风险治理绑定，意味着该赛道的进入门槛将不仅是模型效果，还包括评估、访问控制和科研合作规范。",
-          "why_important": "生物 AI 的价值越来越大，但监管敏感度也越来越高。头部实验室开始提前把能力推进和风险治理绑定，意味着该赛道的进入门槛将不仅是模型效果，还包括评估、访问控制和科研合作规范。",
-          "investment_observation": "看点不只是药物发现公司本身，还包括能服务高风险模型治理的评测、安全审查和科研基础设施工具。如果生物模型进入更严格的访问框架，合规中间层会先受益。",
-          "investment_angle": "看点不只是药物发现公司本身，还包括能服务高风险模型治理的评测、安全审查和科研基础设施工具。如果生物模型进入更严格的访问框架，合规中间层会先受益。",
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "安全",
+          "summary": "Google DeepMind 与 Isomorphic Labs 公布其在 bioresilience 方向的联合方法，讨论 AI 模型在生物风险防护和生命科学应用中的开发与治理原则。",
+          "why_it_matters": "前沿模型公司正在把生物安全从研究议题推向正式的产品与治理框架，这会影响它们与监管机构、科研机构和产业伙伴的合作边界。",
+          "why_important": "前沿模型公司正在把生物安全从研究议题推向正式的产品与治理框架，这会影响它们与监管机构、科研机构和产业伙伴的合作边界。",
+          "investment_observation": "关注生物安全评估、实验室工作流软件、模型访问控制和 AI for science 基础设施。随着监管要求提高，能提供合规工具链的公司更容易获得预算。",
+          "investment_angle": "关注生物安全评估、实验室工作流软件、模型访问控制和 AI for science 基础设施。随着监管要求提高，能提供合规工具链的公司更容易获得预算。",
           "companies": [
             "Google DeepMind",
             "Isomorphic Labs"
@@ -264,9 +627,8 @@ window.AI_NEWS_DATA = {
           "people": [],
           "products": [],
           "technologies": [
-            "bioresilience",
-            "biosecurity",
-            "scientific AI"
+            "生物安全",
+            "AI for science"
           ],
           "entities": {
             "companies": [
@@ -276,18 +638,16 @@ window.AI_NEWS_DATA = {
             "people": [],
             "products": [],
             "technologies": [
-              "bioresilience",
-              "biosecurity",
-              "scientific AI"
+              "生物安全",
+              "AI for science"
             ]
           },
           "tags": [
-            "研究",
+            "安全",
             "Google DeepMind",
-            "生物AI",
-            "安全"
+            "生命科学"
           ],
-          "importance_score": 7.6
+          "importance_score": 8.1
         },
         {
           "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
@@ -295,13 +655,13 @@ window.AI_NEWS_DATA = {
           "link": "https://www.qbitai.com/2026/07/451371.html",
           "source": "量子位",
           "published_at": "Thu, 16 Jul 2026 09:29:09 +0000",
-          "selected_at": "2026-07-17T12:48:00+08:00",
+          "selected_at": "2026-07-17T04:37:26+00:00",
           "category": "融资",
-          "summary": "中国移动投资友机技术，押注工业母机“计算化”方向，说明工业 AI 正从单点质检、视觉识别走向更底层的设备控制与制造基础设施。资本开始把工业软件和工业硬件一体化看作下一阶段机会。",
-          "why_it_matters": "工业 AI 如果能进入机床、产线和控制系统层，商业价值会明显高于表层 Copilot。中国移动这类产业资本入场，意味着订单资源、场景验证和行业集成能力开始比单纯算法故事更重要。",
-          "why_important": "工业 AI 如果能进入机床、产线和控制系统层，商业价值会明显高于表层 Copilot。中国移动这类产业资本入场，意味着订单资源、场景验证和行业集成能力开始比单纯算法故事更重要。",
-          "investment_observation": "重点跟踪友机技术后续在制造客户中的部署深度、节拍提升、停机率改善和渠道绑定。工业 AI 赛道真正能跑出来的公司，通常会先证明交付能力和系统集成效率，而不是通用模型能力。",
-          "investment_angle": "重点跟踪友机技术后续在制造客户中的部署深度、节拍提升、停机率改善和渠道绑定。工业 AI 赛道真正能跑出来的公司，通常会先证明交付能力和系统集成效率，而不是通用模型能力。",
+          "summary": "量子位报道称，中国移动投资友机技术，押注工业母机“计算化”方向，试图把工业 AI 能力前置到下一代制造基础设施里。",
+          "why_it_matters": "工业 AI 的价值不在演示，而在能否嵌入真实设备、工艺和产线。运营商资金进入，也说明产业资本开始把工业智能化视为长期基础设施机会。",
+          "why_important": "工业 AI 的价值不在演示，而在能否嵌入真实设备、工艺和产线。运营商资金进入，也说明产业资本开始把工业智能化视为长期基础设施机会。",
+          "investment_observation": "重点看设备数据接入、工控软件兼容、部署周期和客户复购。工业 AI 公司如果只能讲模型故事、不能进入产线闭环，融资热度很难持续。",
+          "investment_angle": "重点看设备数据接入、工控软件兼容、部署周期和客户复购。工业 AI 公司如果只能讲模型故事、不能进入产线闭环，融资热度很难持续。",
           "companies": [
             "中国移动",
             "友机技术"
@@ -309,8 +669,8 @@ window.AI_NEWS_DATA = {
           "people": [],
           "products": [],
           "technologies": [
-            "industrial AI",
-            "smart manufacturing"
+            "工业AI",
+            "工业母机"
           ],
           "entities": {
             "companies": [
@@ -320,17 +680,16 @@ window.AI_NEWS_DATA = {
             "people": [],
             "products": [],
             "technologies": [
-              "industrial AI",
-              "smart manufacturing"
+              "工业AI",
+              "工业母机"
             ]
           },
           "tags": [
             "融资",
-            "中国移动",
             "工业AI",
-            "制造"
+            "中国"
           ],
-          "importance_score": 8.1
+          "importance_score": 8.2
         },
         {
           "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
@@ -338,89 +697,39 @@ window.AI_NEWS_DATA = {
           "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026",
           "source": "NVIDIA Blog",
           "published_at": "Wed, 15 Jul 2026 10:51:37 +0000",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "硬件",
-          "summary": "NVIDIA 披露其与日本产业生态推进全栈 AI 与机器人方案的进展，覆盖制造、机器人、基础设施和游戏等行业。重点不是单颗 GPU，而是把算力、仿真、软件栈和机器人落地打包成国家级产业方案。",
-          "why_it_matters": "这类区域生态合作说明 AI 基础设施竞争正从芯片采购扩展到“整套产业操作系统”输出。谁能绑定本地制造业、机器人企业和系统集成商，谁就更可能锁定长期算力与软件预算。",
-          "why_important": "这类区域生态合作说明 AI 基础设施竞争正从芯片采购扩展到“整套产业操作系统”输出。谁能绑定本地制造业、机器人企业和系统集成商，谁就更可能锁定长期算力与软件预算。",
-          "investment_observation": "可跟踪日本本地机器人软件、仿真、边缘计算和工业部署伙伴是否随之起量。若 NVIDIA 继续用生态打法前推 physical AI，围绕其平台的垂直软件层会比单点硬件更具投资弹性。",
-          "investment_angle": "可跟踪日本本地机器人软件、仿真、边缘计算和工业部署伙伴是否随之起量。若 NVIDIA 继续用生态打法前推 physical AI，围绕其平台的垂直软件层会比单点硬件更具投资弹性。",
+          "selected_at": "2026-07-17T04:37:26+00:00",
+          "category": "公司",
+          "summary": "NVIDIA 宣布与日本生态伙伴推进覆盖制造、机器人、基础设施与游戏等行业的全栈 AI 和机器人布局，继续把国家级生态合作做深。",
+          "why_it_matters": "这类合作不是单点产品发布，而是算力、软件栈、机器人和本地产业链的系统绑定，会放大 NVIDIA 在区域 AI 基础设施中的平台地位。",
+          "why_important": "这类合作不是单点产品发布，而是算力、软件栈、机器人和本地产业链的系统绑定，会放大 NVIDIA 在区域 AI 基础设施中的平台地位。",
+          "investment_observation": "可关注日本本地机器人集成商、边缘计算、工业视觉和依附于 CUDA / NVIDIA 平台的软件层机会。区域生态一旦形成，后进入者会更难切入。",
+          "investment_angle": "可关注日本本地机器人集成商、边缘计算、工业视觉和依附于 CUDA / NVIDIA 平台的软件层机会。区域生态一旦形成，后进入者会更难切入。",
           "companies": [
             "NVIDIA"
           ],
-          "people": [
-            "Jensen Huang"
-          ],
+          "people": [],
           "products": [],
           "technologies": [
-            "robotics",
-            "physical AI",
-            "AI infrastructure"
+            "机器人",
+            "全栈AI"
           ],
           "entities": {
             "companies": [
               "NVIDIA"
             ],
-            "people": [
-              "Jensen Huang"
-            ],
-            "products": [],
-            "technologies": [
-              "robotics",
-              "physical AI",
-              "AI infrastructure"
-            ]
-          },
-          "tags": [
-            "硬件",
-            "NVIDIA",
-            "机器人",
-            "physical AI"
-          ],
-          "importance_score": 7.9
-        },
-        {
-          "title": "How to manage AI investments in the agentic era",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "source": "OpenAI News",
-          "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
-          "selected_at": "2026-07-17T12:48:00+08:00",
-          "category": "应用",
-          "summary": "OpenAI 面向企业客户发布 agentic 时代的 AI 投资管理方法，核心指标从“部署了多少模型”转向“每一美元带来多少有用工作量”。这更像企业采买逻辑的变化，而不是单一产品更新。",
-          "why_it_matters": "企业开始用单位产出衡量 AI，而不是只看试点数量，会加速淘汰缺少明确 ROI 的工具。未来赢家往往不是功能最全的平台，而是能清楚证明成本、效率和流程改造结果的供应商。",
-          "why_important": "企业开始用单位产出衡量 AI，而不是只看试点数量，会加速淘汰缺少明确 ROI 的工具。未来赢家往往不是功能最全的平台，而是能清楚证明成本、效率和流程改造结果的供应商。",
-          "investment_observation": "关注企业 AI 预算是否向 workflow automation、agent orchestration 和成本监控集中。若“useful work per dollar”成为共识，缺少测量与治理能力的应用层公司会更难获得续费。",
-          "investment_angle": "关注企业 AI 预算是否向 workflow automation、agent orchestration 和成本监控集中。若“useful work per dollar”成为共识，缺少测量与治理能力的应用层公司会更难获得续费。",
-          "companies": [
-            "OpenAI"
-          ],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "AI agent",
-            "workflow automation",
-            "ROI measurement"
-          ],
-          "entities": {
-            "companies": [
-              "OpenAI"
-            ],
             "people": [],
             "products": [],
             "technologies": [
-              "AI agent",
-              "workflow automation",
-              "ROI measurement"
+              "机器人",
+              "全栈AI"
             ]
           },
           "tags": [
-            "应用",
-            "OpenAI",
-            "AI agent",
-            "企业采购"
+            "公司",
+            "NVIDIA",
+            "机器人"
           ],
-          "importance_score": 6.9
+          "importance_score": 8.0
         },
         {
           "title": "Google is renaming NotebookLM to Gemini Notebook",
@@ -428,24 +737,23 @@ window.AI_NEWS_DATA = {
           "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
           "source": "The Verge AI",
           "published_at": "2026-07-16T12:00:00-04:00",
-          "selected_at": "2026-07-17T12:48:00+08:00",
+          "selected_at": "2026-07-17T04:37:26+00:00",
           "category": "产品",
-          "summary": "Google 将 NotebookLM 更名为 Gemini Notebook，并继续保持独立应用定位，同时把它与 Gemini、Search 和更广泛的 Google AI 品牌体系对齐。重命名背后是产品并轨与分发统一，而不只是换个名字。",
-          "why_it_matters": "当头部平台把实验性产品收编进统一品牌，通常意味着它已从“创新项目”转向“正式流量入口”。这会影响知识工作流、企业知识库助手和 AI 搜索/笔记类产品的获客成本。",
-          "why_important": "当头部平台把实验性产品收编进统一品牌，通常意味着它已从“创新项目”转向“正式流量入口”。这会影响知识工作流、企业知识库助手和 AI 搜索/笔记类产品的获客成本。",
-          "investment_observation": "继续跟踪 Google 是否把 Notebook 的能力深度嵌入 Workspace、浏览器或 Search。若品牌统一伴随默认分发入口增强，独立知识助手产品会面临更高流量挤压。",
-          "investment_angle": "继续跟踪 Google 是否把 Notebook 的能力深度嵌入 Workspace、浏览器或 Search。若品牌统一伴随默认分发入口增强，独立知识助手产品会面临更高流量挤压。",
+          "summary": "The Verge 报道称，Google 将 AI 笔记产品 NotebookLM 更名为 Gemini Notebook，但仍保留独立应用形态，而不是完全并入 Gemini 主应用。",
+          "why_it_matters": "这说明 Google 正把分散的 AI 产品线进一步统一到 Gemini 品牌下，同时又不想牺牲 NotebookLM 已经形成的独立使用场景。",
+          "why_important": "这说明 Google 正把分散的 AI 产品线进一步统一到 Gemini 品牌下，同时又不想牺牲 NotebookLM 已经形成的独立使用场景。",
+          "investment_observation": "品牌统一往往是商业化和分发整合的前兆。后续值得看 Google 是否把更多 workspace、搜索或教育场景流量导向 Gemini Notebook。",
+          "investment_angle": "品牌统一往往是商业化和分发整合的前兆。后续值得看 Google 是否把更多 workspace、搜索或教育场景流量导向 Gemini Notebook。",
           "companies": [
             "Google"
           ],
           "people": [],
           "products": [
-            "Gemini Notebook",
             "NotebookLM",
-            "Gemini"
+            "Gemini Notebook"
           ],
           "technologies": [
-            "knowledge assistant"
+            "AI 笔记"
           ],
           "entities": {
             "companies": [
@@ -453,21 +761,19 @@ window.AI_NEWS_DATA = {
             ],
             "people": [],
             "products": [
-              "Gemini Notebook",
               "NotebookLM",
-              "Gemini"
+              "Gemini Notebook"
             ],
             "technologies": [
-              "knowledge assistant"
+              "AI 笔记"
             ]
           },
           "tags": [
             "产品",
             "Google",
-            "Gemini Notebook",
-            "分发"
+            "Gemini"
           ],
-          "importance_score": 8.0
+          "importance_score": 7.9
         }
       ]
     },
