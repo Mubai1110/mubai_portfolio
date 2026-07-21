@@ -1,11 +1,11 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-21T04:36:13+00:00",
+  "generated_at": "2026-07-21T04:58:00+00:00",
   "digest_count": 12,
-  "article_count": 97,
+  "article_count": 95,
   "digests": [
     {
       "date": "2026-07-21",
-      "count": 12,
+      "count": 10,
       "articles": [
         {
           "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -13,19 +13,20 @@ window.AI_NEWS_DATA = {
           "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
           "source": "TechCrunch AI",
           "published_at": "Mon, 20 Jul 2026 19:33:25 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
+          "selected_at": "2026-07-21T04:58:00+00:00",
           "category": "公司",
-          "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business。",
-          "why_it_matters": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "why_important": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "investment_observation": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
-          "investment_angle": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "summary": "TechCrunch 关注的核心不是一条单独政策，而是 OpenAI 对中国开源权重模型的警惕已经外溢到美国政策讨论层面。开源权重模型正在把竞争焦点从“谁先发”转向“谁能在更低成本下扩散能力”。",
+          "why_it_matters": "如果美国头部公司开始通过政策而不是产品优势来延缓开源扩散，说明闭源模型的护城河正面临真实压力。这会直接影响模型分发、监管口径以及企业客户对开源替代路线的接受度。",
+          "why_important": "如果美国头部公司开始通过政策而不是产品优势来延缓开源扩散，说明闭源模型的护城河正面临真实压力。这会直接影响模型分发、监管口径以及企业客户对开源替代路线的接受度。",
+          "investment_observation": "重点跟踪美国后续是否出现更明确的出口、托管或开源限制信号，以及企业采购是否因此转向“美国闭源 + 中国开源”的双栈结构。受益方向包括模型网关、安全治理和低成本推理基础设施。",
+          "investment_angle": "重点跟踪美国后续是否出现更明确的出口、托管或开源限制信号，以及企业采购是否因此转向“美国闭源 + 中国开源”的双栈结构。受益方向包括模型网关、安全治理和低成本推理基础设施。",
           "companies": [
             "OpenAI"
           ],
           "people": [],
           "products": [],
           "technologies": [
+            "开源权重模型",
             "LLM"
           ],
           "entities": {
@@ -35,15 +36,17 @@ window.AI_NEWS_DATA = {
             "people": [],
             "products": [],
             "technologies": [
+              "开源权重模型",
               "LLM"
             ]
           },
           "tags": [
-            "公司",
+            "政策",
+            "开源模型",
             "OpenAI",
-            "LLM"
+            "中美AI竞争"
           ],
-          "importance_score": 8.65
+          "importance_score": 8.8
         },
         {
           "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
@@ -51,28 +54,48 @@ window.AI_NEWS_DATA = {
           "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
           "source": "Hacker News",
           "published_at": "2026-07-21T03:56:03Z",
-          "selected_at": "2026-07-21T04:36:13+00:00",
+          "selected_at": "2026-07-21T04:58:00+00:00",
           "category": "融资",
-          "summary": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding 在 Hacker News 获得较高讨论度，39, comments: 0，说明该项目或话题在开发者社区已有明显关注。",
-          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "companies": [],
+          "summary": "日经披露，美国五大科技公司围绕 AI 建设形成的表外承诺和长期资本开支已把隐性债务推高到 1.65 万亿美元。AI 竞赛不再只是模型能力之争，而是融资结构、资产负债表和数据中心回报周期的较量。",
+          "why_it_matters": "市场此前更关注 AI 带来的收入弹性，但这篇报道把视角拉回资本约束。若超大规模算力投资回收期被拉长，云厂商、芯片厂商与下游客户之间的议价关系都可能被重写。",
+          "why_important": "市场此前更关注 AI 带来的收入弹性，但这篇报道把视角拉回资本约束。若超大规模算力投资回收期被拉长，云厂商、芯片厂商与下游客户之间的议价关系都可能被重写。",
+          "investment_observation": "后续应盯 CapEx 增速、长期租赁承诺、数据中心融资工具和推理收入兑现速度。更值得关注的不是单季花了多少钱，而是谁能把高强度资本开支转化成可持续毛利。",
+          "investment_angle": "后续应盯 CapEx 增速、长期租赁承诺、数据中心融资工具和推理收入兑现速度。更值得关注的不是单季花了多少钱，而是谁能把高强度资本开支转化成可持续毛利。",
+          "companies": [
+            "Microsoft",
+            "Google",
+            "Meta",
+            "Amazon",
+            "Apple"
+          ],
           "people": [],
           "products": [],
-          "technologies": [],
+          "technologies": [
+            "AI基础设施",
+            "数据中心"
+          ],
           "entities": {
-            "companies": [],
+            "companies": [
+              "Microsoft",
+              "Google",
+              "Meta",
+              "Amazon",
+              "Apple"
+            ],
             "people": [],
             "products": [],
-            "technologies": []
+            "technologies": [
+              "AI基础设施",
+              "数据中心"
+            ]
           },
           "tags": [
-            "融资",
-            "开发者社区"
+            "AI融资",
+            "资本开支",
+            "数据中心",
+            "云计算"
           ],
-          "importance_score": 8.5
+          "importance_score": 8.6
         },
         {
           "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
@@ -80,257 +103,162 @@ window.AI_NEWS_DATA = {
           "link": "https://blogs.nvidia.com/blog/siggraph-news-2026",
           "source": "NVIDIA Blog",
           "published_at": "Mon, 20 Jul 2026 15:00:53 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "公司",
-          "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics。",
-          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
-          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "技术",
+          "summary": "NVIDIA 在 SIGGRAPH 2026 集中展示了神经渲染、世界模型、仿真和 Cosmos 3 Edge 等一整套“图形学 + 物理 AI”能力，目标是让内容生产工具、机器人和数字孪生共享同一套世界建模底座。",
+          "why_it_matters": "世界模型和实时仿真正在从研究演示变成机器人与工业 AI 的训练基础设施。谁能把仿真、生成和推理打通，谁就更可能掌握下一代具身智能的数据飞轮。",
+          "why_important": "世界模型和实时仿真正在从研究演示变成机器人与工业 AI 的训练基础设施。谁能把仿真、生成和推理打通，谁就更可能掌握下一代具身智能的数据飞轮。",
+          "investment_observation": "重点看仿真软件、合成数据、机器人训练平台和本地推理设备之间是否形成打包采购。真正的机会不只在模型本身，而在支撑“可训练、可部署、可验证”的工具链。",
+          "investment_angle": "重点看仿真软件、合成数据、机器人训练平台和本地推理设备之间是否形成打包采购。真正的机会不只在模型本身，而在支撑“可训练、可部署、可验证”的工具链。",
           "companies": [
             "NVIDIA"
           ],
-          "people": [],
-          "products": [],
-          "technologies": [],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [
+            "Cosmos 3 Edge",
+            "NemoClaw",
+            "DGX Station"
+          ],
+          "technologies": [
+            "世界模型",
+            "仿真",
+            "神经渲染",
+            "物理AI"
+          ],
           "entities": {
             "companies": [
               "NVIDIA"
             ],
-            "people": [],
-            "products": [],
-            "technologies": []
-          },
-          "tags": [
-            "公司",
-            "NVIDIA"
-          ],
-          "importance_score": 7.9
-        },
-        {
-          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act",
-          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act",
-          "source": "TechCrunch AI",
-          "published_at": "Fri, 17 Jul 2026 22:12:56 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "技术",
-          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding。",
-          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": []
-          },
-          "tags": [
-            "技术"
-          ],
-          "importance_score": 7.85
-        },
-        {
-          "title": "China’s open-weights AI strategy is winning",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News",
-          "published_at": "2026-07-20T14:21:47Z",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "公司",
-          "summary": "China’s open-weights AI strategy is winning 在 Hacker News 获得较高讨论度，1018, comments: 812，说明该项目或话题在开发者社区已有明显关注。",
-          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "why_important": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
-          "investment_angle": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": []
-          },
-          "tags": [
-            "公司",
-            "开发者社区"
-          ],
-          "importance_score": 7.83
-        },
-        {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself",
-          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself",
-          "source": "MIT Technology Review AI",
-          "published_at": "Mon, 20 Jul 2026 18:00:00 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "公司",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and form。",
-          "why_it_matters": "AI 头部公司的发展越来越受政策、监管和公共利益分配影响。监管关系可能改变模型公司的资本结构、客户准入和长期利润分配方式。",
-          "why_important": "AI 头部公司的发展越来越受政策、监管和公共利益分配影响。监管关系可能改变模型公司的资本结构、客户准入和长期利润分配方式。",
-          "investment_observation": "关注政策交换条件、政府客户收入占比和合规成本。头部模型公司可能以股权、数据安全承诺或本地部署换取政策空间，中小公司会被迫跟随。",
-          "investment_angle": "关注政策交换条件、政府客户收入占比和合规成本。头部模型公司可能以股权、数据安全承诺或本地部署换取政策空间，中小公司会被迫跟随。",
-          "companies": [],
-          "people": [
-            "Donald Trump"
-          ],
-          "products": [],
-          "technologies": [
-            "RL"
-          ],
-          "entities": {
-            "companies": [],
             "people": [
-              "Donald Trump"
+              "Jensen Huang"
             ],
-            "products": [],
+            "products": [
+              "Cosmos 3 Edge",
+              "NemoClaw",
+              "DGX Station"
+            ],
             "technologies": [
-              "RL"
+              "世界模型",
+              "仿真",
+              "神经渲染",
+              "物理AI"
             ]
           },
           "tags": [
-            "公司",
-            "Donald Trump",
-            "RL"
+            "NVIDIA",
+            "世界模型",
+            "具身智能",
+            "仿真"
           ],
-          "importance_score": 7.53
+          "importance_score": 8.4
         },
         {
-          "title": "AI is more likely than humans to form biases when hiring",
-          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
-          "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
-          "source": "MIT Technology Review AI",
-          "published_at": "Mon, 20 Jul 2026 08:39:01 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "技术",
-          "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already kno。",
-          "why_it_matters": "LLM对应底层模型或基础设施能力变化，会影响开发门槛、部署效率以及行业内的技术选型。",
-          "why_important": "LLM对应底层模型或基础设施能力变化，会影响开发门槛、部署效率以及行业内的技术选型。",
-          "investment_observation": "可把LLM视为成本曲线变化的前瞻指标；若技术优势能稳定兑现，受益的不只是模型厂商，也包括工具链和云基础设施。",
-          "investment_angle": "可把LLM视为成本曲线变化的前瞻指标；若技术优势能稳定兑现，受益的不只是模型厂商，也包括工具链和云基础设施。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "LLM",
-            "RL"
-          ],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "LLM",
-              "RL"
-            ]
-          },
-          "tags": [
-            "技术",
-            "LLM",
-            "RL"
-          ],
-          "importance_score": 7.53
-        },
-        {
-          "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
-          "url": "https://36kr.com/p/3904049563731849?f=rss",
-          "link": "https://36kr.com/p/3904049563731849?f=rss",
-          "source": "36氪",
-          "published_at": "2026-07-21 09:30:00  +0800",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "产品",
-          "summary": "作者 | 黄楠 编辑 | 袁斯来 在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。 心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，。",
-          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
-          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "LLM"
-          ],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "LLM"
-            ]
-          },
-          "tags": [
-            "产品",
-            "LLM"
-          ],
-          "importance_score": 7.45
-        },
-        {
-          "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
-          "url": "https://36kr.com/p/3903710346790535?f=rss",
-          "link": "https://36kr.com/p/3903710346790535?f=rss",
-          "source": "36氪",
-          "published_at": "2026-07-20 18:22:28  +0800",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "产品",
-          "summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。",
-          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
-          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
-          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": []
-          },
-          "tags": [
-            "产品"
-          ],
-          "importance_score": 7.45
-        },
-        {
-          "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-          "source": "The Verge AI",
-          "published_at": "2026-07-20T18:19:12-04:00",
-          "selected_at": "2026-07-21T04:36:13+00:00",
-          "category": "公司",
-          "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Pr。",
-          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+          "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+          "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+          "source": "NVIDIA Blog",
+          "published_at": "2026-07-15",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "硬件",
+          "summary": "NVIDIA 发布面向主流机器人和边缘 AI 的 Jetson Thor T3000 与 T2000 模组，配套新的内存优化和 agent skills，试图把多模态推理与机器人控制进一步压到低功耗本地设备上。",
+          "why_it_matters": "机器人商业化的瓶颈不只是模型，而是算力、功耗、成本和部署复杂度。Thor 系列把“能跑大模型”推进到更小、更便宜的边缘设备，是物理 AI 从样机走向规模化交付的重要信号。",
+          "why_important": "机器人商业化的瓶颈不只是模型，而是算力、功耗、成本和部署复杂度。Thor 系列把“能跑大模型”推进到更小、更便宜的边缘设备，是物理 AI 从样机走向规模化交付的重要信号。",
+          "investment_observation": "重点跟踪机器人厂商是否因此下探 BOM 成本、缩短部署周期，以及视觉 AI、AMR、工业机械臂客户是否开始从云端推理转向端侧混合架构。边缘算力软件层也会随之受益。",
+          "investment_angle": "重点跟踪机器人厂商是否因此下探 BOM 成本、缩短部署周期，以及视觉 AI、AMR、工业机械臂客户是否开始从云端推理转向端侧混合架构。边缘算力软件层也会随之受益。",
           "companies": [
-            "AWS"
+            "NVIDIA",
+            "Amazon Robotics",
+            "Boston Dynamics"
           ],
           "people": [],
-          "products": [],
-          "technologies": [],
+          "products": [
+            "Jetson Thor T3000",
+            "Jetson Thor T2000"
+          ],
+          "technologies": [
+            "边缘AI",
+            "机器人计算平台",
+            "Blackwell"
+          ],
           "entities": {
             "companies": [
-              "AWS"
+              "NVIDIA",
+              "Amazon Robotics",
+              "Boston Dynamics"
             ],
             "people": [],
-            "products": [],
-            "technologies": []
+            "products": [
+              "Jetson Thor T3000",
+              "Jetson Thor T2000"
+            ],
+            "technologies": [
+              "边缘AI",
+              "机器人计算平台",
+              "Blackwell"
+            ]
           },
           "tags": [
-            "公司",
-            "AWS"
+            "机器人",
+            "边缘AI",
+            "NVIDIA",
+            "硬件"
           ],
-          "importance_score": 7.28
+          "importance_score": 8.1
+        },
+        {
+          "title": "谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://36kr.com/p/3904704688048006",
+          "link": "https://36kr.com/p/3904704688048006",
+          "source": "36氪",
+          "published_at": "2026-07-21 09:25:00 +0800",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "硬件",
+          "summary": "据 The Information 报道并由 36 氪转述，谷歌正在研发代号 Frozen v2 的 Gemini 专用服务器芯片，把模型架构直接固化到硅片中，目标是在推理效率上达到现有自研芯片的 6 至 10 倍。",
+          "why_it_matters": "这意味着头部厂商开始从“通用 AI 芯片”走向“模型定制芯片”。如果架构固化路线成立，推理成本会显著下降，但也会增强模型和硬件的绑定效应，抬高后来者的系统门槛。",
+          "why_important": "这意味着头部厂商开始从“通用 AI 芯片”走向“模型定制芯片”。如果架构固化路线成立，推理成本会显著下降，但也会增强模型和硬件的绑定效应，抬高后来者的系统门槛。",
+          "investment_observation": "后续要看谷歌是否真的把 Gemini 架构长期锁定在这条芯片路线，以及专用推理芯片会不会促使云端形成更强的自研封闭栈。关注受益方向：EDA、先进封装、推理调度与成本优化软件。",
+          "investment_angle": "后续要看谷歌是否真的把 Gemini 架构长期锁定在这条芯片路线，以及专用推理芯片会不会促使云端形成更强的自研封闭栈。关注受益方向：EDA、先进封装、推理调度与成本优化软件。",
+          "companies": [
+            "Google"
+          ],
+          "people": [
+            "Jeff Dean"
+          ],
+          "products": [
+            "Gemini",
+            "Frozen v2",
+            "TPU"
+          ],
+          "technologies": [
+            "推理芯片",
+            "专用加速器"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [
+              "Jeff Dean"
+            ],
+            "products": [
+              "Gemini",
+              "Frozen v2",
+              "TPU"
+            ],
+            "technologies": [
+              "推理芯片",
+              "专用加速器"
+            ]
+          },
+          "tags": [
+            "Google",
+            "Gemini",
+            "AI芯片",
+            "推理效率"
+          ],
+          "importance_score": 8.0
         },
         {
           "title": "China delivers a one-two punch to America’s AI dominance",
@@ -338,63 +266,258 @@ window.AI_NEWS_DATA = {
           "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
           "source": "The Verge AI",
           "published_at": "2026-07-20T06:16:33-04:00",
-          "selected_at": "2026-07-21T04:36:13+00:00",
+          "selected_at": "2026-07-21T04:58:00+00:00",
           "category": "公司",
-          "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr。",
-          "why_it_matters": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "why_important": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "investment_observation": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
-          "investment_angle": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "summary": "The Verge 指出，月之暗面 Kimi K3 与阿里 Qwen 新模型连续发布，强化了中国开源模型对美国闭源阵营的压力。它们的共同点不是单次榜单成绩，而是在更低资源条件下逼近前沿性能。",
+          "why_it_matters": "这说明“美国砸钱做前沿，中国开源做扩散”的格局正在变得更清晰。对于创业公司和企业客户，模型选择将更多取决于成本、可控性和生态兼容性，而不是只看最强基准分。",
+          "why_important": "这说明“美国砸钱做前沿，中国开源做扩散”的格局正在变得更清晰。对于创业公司和企业客户，模型选择将更多取决于成本、可控性和生态兼容性，而不是只看最强基准分。",
+          "investment_observation": "建议重点跟踪中国开源模型在海外开发者生态、企业私有化部署和 MaaS 渠道中的渗透速度。若美国继续强化闭源路线，开源兼容层和低成本推理平台会显著受益。",
+          "investment_angle": "建议重点跟踪中国开源模型在海外开发者生态、企业私有化部署和 MaaS 渠道中的渗透速度。若美国继续强化闭源路线，开源兼容层和低成本推理平台会显著受益。",
           "companies": [
+            "Moonshot AI",
+            "Alibaba",
             "OpenAI",
             "Anthropic"
           ],
           "people": [],
-          "products": [],
-          "technologies": [],
+          "products": [
+            "Kimi K3",
+            "Qwen"
+          ],
+          "technologies": [
+            "开源模型",
+            "基础模型"
+          ],
           "entities": {
             "companies": [
+              "Moonshot AI",
+              "Alibaba",
               "OpenAI",
               "Anthropic"
             ],
             "people": [],
-            "products": [],
-            "technologies": []
+            "products": [
+              "Kimi K3",
+              "Qwen"
+            ],
+            "technologies": [
+              "开源模型",
+              "基础模型"
+            ]
           },
           "tags": [
-            "公司",
-            "OpenAI",
-            "Anthropic"
+            "中国AI",
+            "开源模型",
+            "Kimi",
+            "Qwen"
           ],
-          "importance_score": 7.28
+          "importance_score": 7.9
         },
         {
-          "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-          "url": "https://www.qbitai.com/2026/07/455963.html",
-          "link": "https://www.qbitai.com/2026/07/455963.html",
-          "source": "量子位",
-          "published_at": "Mon, 20 Jul 2026 10:42:09 +0000",
-          "selected_at": "2026-07-21T04:36:13+00:00",
+          "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "source": "The Verge AI",
+          "published_at": "2026-07-20T18:19:12-04:00",
+          "selected_at": "2026-07-21T04:58:00+00:00",
           "category": "公司",
-          "summary": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践，是当天值得跟踪的 AI 行业动态。",
-          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "why_important": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
-          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
-          "investment_angle": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "summary": "Sony 针对 Udio 再次提起版权诉讼，并把争议曲库扩大到 3 万首歌曲。争议点已经从“是否训练侵权”进入到“被发现了多少、能否追溯、谁愿意和平台和解”的阶段。",
+          "why_it_matters": "生成式内容平台的法律风险正在分化。大型版权方不再满足于原则性起诉，而是开始用更细粒度的证据链争夺赔偿和谈判优势，这会改变音乐、视频和图像生成平台的训练数据成本结构。",
+          "why_important": "生成式内容平台的法律风险正在分化。大型版权方不再满足于原则性起诉，而是开始用更细粒度的证据链争夺赔偿和谈判优势，这会改变音乐、视频和图像生成平台的训练数据成本结构。",
+          "investment_observation": "关注两类公司：一类是具备授权数据与商业合作能力的平台，另一类是做内容指纹、数据溯源和版权合规基础设施的供应商。纯靠“先做大再谈判”的模式风险显著上升。",
+          "investment_angle": "关注两类公司：一类是具备授权数据与商业合作能力的平台，另一类是做内容指纹、数据溯源和版权合规基础设施的供应商。纯靠“先做大再谈判”的模式风险显著上升。",
+          "companies": [
+            "Sony Music",
+            "Udio",
+            "Universal Music Group",
+            "Warner Music"
+          ],
+          "people": [],
+          "products": [
+            "Udio"
+          ],
+          "technologies": [
+            "音乐生成",
+            "版权溯源"
+          ],
+          "entities": {
+            "companies": [
+              "Sony Music",
+              "Udio",
+              "Universal Music Group",
+              "Warner Music"
+            ],
+            "people": [],
+            "products": [
+              "Udio"
+            ],
+            "technologies": [
+              "音乐生成",
+              "版权溯源"
+            ]
+          },
+          "tags": [
+            "版权",
+            "生成式音乐",
+            "Udio",
+            "法律风险"
+          ],
+          "importance_score": 7.7
+        },
+        {
+          "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+          "url": "https://36kr.com/p/3904049563731849",
+          "link": "https://36kr.com/p/3904049563731849",
+          "source": "36氪",
+          "published_at": "2026-07-21 09:30:00 +0800",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "产品",
+          "summary": "36 氪报道，心言集团在拥有 6000 多万用户、情感陪伴业务已形成数亿元营收的基础上，把能力从 App 延伸到家庭机器人，试图覆盖亲子陪伴、老人安抚和居家互动等更重场景。",
+          "why_it_matters": "这类公司比纯机器人创业更值得看，因为它先有高频内容和用户关系，再把 AI 能力迁移到硬件载体。对家庭机器人赛道来说，真正稀缺的不是外壳，而是持续交互、人格设定和用户留存能力。",
+          "why_important": "这类公司比纯机器人创业更值得看，因为它先有高频内容和用户关系，再把 AI 能力迁移到硬件载体。对家庭机器人赛道来说，真正稀缺的不是外壳，而是持续交互、人格设定和用户留存能力。",
+          "investment_observation": "应重点验证两件事：一是从 App 到硬件的转化率和复购逻辑，二是情感陪伴场景是否能形成足够高的日活与付费。若成立，家庭机器人会更像“新入口设备”，而不是一次性消费硬件。",
+          "investment_angle": "应重点验证两件事：一是从 App 到硬件的转化率和复购逻辑，二是情感陪伴场景是否能形成足够高的日活与付费。若成立，家庭机器人会更像“新入口设备”，而不是一次性消费硬件。",
+          "companies": [
+            "心言集团",
+            "腾讯"
+          ],
+          "people": [
+            "任永亮"
+          ],
+          "products": [
+            "测测"
+          ],
+          "technologies": [
+            "情感陪伴",
+            "家庭机器人"
+          ],
+          "entities": {
+            "companies": [
+              "心言集团",
+              "腾讯"
+            ],
+            "people": [
+              "任永亮"
+            ],
+            "products": [
+              "测测"
+            ],
+            "technologies": [
+              "情感陪伴",
+              "家庭机器人"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "消费级AI",
+            "情感陪伴",
+            "硬件入口"
+          ],
+          "importance_score": 7.6
+        },
+        {
+          "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+          "url": "https://www.qbitai.com/2026/07/455805.html",
+          "link": "https://www.qbitai.com/2026/07/455805.html",
+          "source": "量子位",
+          "published_at": "2026-07-20 18:33:23",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "技术",
+          "summary": "量子位报道，无问芯穹同时服务 Kimi、智谱、MiniMax 和阶跃星辰等头部模型厂，并在 WAIC 披露跨集群异构 PD 分离、运维智能体和 Agentic MaaS 进展，核心卖点是让推理效果、成本和稳定性同时可控。",
+          "why_it_matters": "推理需求增速已经超过训练，AI Infra 的价值正在从“卖卡”转向“把异构算力转成稳定 Token 供给”。谁能在模型效果不打折的前提下降低 TTFT 和单 Token 成本，谁就更接近大模型时代的基础设施层。",
+          "why_important": "推理需求增速已经超过训练，AI Infra 的价值正在从“卖卡”转向“把异构算力转成稳定 Token 供给”。谁能在模型效果不打折的前提下降低 TTFT 和单 Token 成本，谁就更接近大模型时代的基础设施层。",
+          "investment_observation": "关注无问芯穹这类 MaaS/推理基础设施平台是否能持续绑定多家头部模型厂，以及它们在异构芯片调度、运维自动化和行业解决方案上的毛利结构。中国 AI Infra 的护城河可能会比模型层更稳定。",
+          "investment_angle": "关注无问芯穹这类 MaaS/推理基础设施平台是否能持续绑定多家头部模型厂，以及它们在异构芯片调度、运维自动化和行业解决方案上的毛利结构。中国 AI Infra 的护城河可能会比模型层更稳定。",
+          "companies": [
+            "无问芯穹",
+            "MiniMax",
+            "阶跃星辰",
+            "智谱",
+            "月之暗面"
+          ],
+          "people": [
+            "杨植麟",
+            "张鹏"
+          ],
+          "products": [
+            "Agentic MaaS",
+            "TokenDance"
+          ],
+          "technologies": [
+            "AI Infra",
+            "异构算力调度",
+            "PD分离",
+            "强化学习"
+          ],
+          "entities": {
+            "companies": [
+              "无问芯穹",
+              "MiniMax",
+              "阶跃星辰",
+              "智谱",
+              "月之暗面"
+            ],
+            "people": [
+              "杨植麟",
+              "张鹏"
+            ],
+            "products": [
+              "Agentic MaaS",
+              "TokenDance"
+            ],
+            "technologies": [
+              "AI Infra",
+              "异构算力调度",
+              "PD分离",
+              "强化学习"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "无问芯穹",
+            "MaaS",
+            "推理优化"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "AI is more likely than humans to form biases when hiring",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+          "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 20 Jul 2026 08:39:01 +0000",
+          "selected_at": "2026-07-21T04:58:00+00:00",
+          "category": "研究",
+          "summary": "MIT Technology Review 援引研究指出，招聘场景中的大模型不仅会继承训练数据中的偏见，还可能在多轮决策里放大新的偏差。随着 AI 更深进入人事筛选，公平性问题开始从“伦理讨论”变成“合规风险”。",
+          "why_it_matters": "企业 AI 采购正在从效率导向转向“效率 + 审计 + 合规”三重要求。只要 AI 被用于雇佣、信贷、医疗等高风险场景，模型可解释性和偏差治理就会直接影响部署范围。",
+          "why_important": "企业 AI 采购正在从效率导向转向“效率 + 审计 + 合规”三重要求。只要 AI 被用于雇佣、信贷、医疗等高风险场景，模型可解释性和偏差治理就会直接影响部署范围。",
+          "investment_observation": "建议关注模型评测、AI 治理、审计日志和高风险决策场景的垂直 SaaS。未来真正能进入大企业工作流的，不一定是最强模型，而是最容易被审计和监管接受的模型系统。",
+          "investment_angle": "建议关注模型评测、AI 治理、审计日志和高风险决策场景的垂直 SaaS。未来真正能进入大企业工作流的，不一定是最强模型，而是最容易被审计和监管接受的模型系统。",
           "companies": [],
           "people": [],
           "products": [],
-          "technologies": [],
+          "technologies": [
+            "LLM",
+            "AI治理",
+            "模型评测"
+          ],
           "entities": {
             "companies": [],
             "people": [],
             "products": [],
-            "technologies": []
+            "technologies": [
+              "LLM",
+              "AI治理",
+              "模型评测"
+            ]
           },
           "tags": [
-            "公司"
+            "AI治理",
+            "偏见",
+            "招聘",
+            "合规"
           ],
-          "importance_score": 7.28
+          "importance_score": 7.4
         }
       ]
     },
