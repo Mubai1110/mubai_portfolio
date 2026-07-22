@@ -1,8 +1,397 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-21T07:54:24+00:00",
-  "digest_count": 13,
-  "article_count": 100,
+  "generated_at": "2026-07-22T02:23:39+00:00",
+  "digest_count": 14,
+  "article_count": 112,
   "digests": [
+    {
+      "date": "2026-07-22",
+      "count": 12,
+      "articles": [
+        {
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "source": "OpenAI News",
+          "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "技术",
+          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders。",
+          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "RL"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "RL"
+            ]
+          },
+          "tags": [
+            "技术",
+            "OpenAI",
+            "RL"
+          ],
+          "importance_score": 10.0
+        },
+        {
+          "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+          "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas",
+          "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 21 Jul 2026 22:35:45 +0000",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "公司",
+          "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "why_important": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "investment_angle": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "RL"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "RL"
+            ]
+          },
+          "tags": [
+            "公司",
+            "NVIDIA",
+            "RL"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Advancing next-gen AI with materials science innovation",
+          "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation",
+          "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 21 Jul 2026 10:37:34 +0000",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "硬件",
+          "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "why_important": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "investment_angle": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "硬件"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+          "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+          "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+          "source": "Hacker News",
+          "published_at": "2026-07-21T17:14:06Z",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "公司",
+          "summary": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting 在 Hacker News 获得较高讨论度，247, comments: 220，说明该项目或话题在开发者社区已有明显关注。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI agent"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI agent"
+            ]
+          },
+          "tags": [
+            "公司",
+            "AI agent",
+            "开发者社区"
+          ],
+          "importance_score": 7.83
+        },
+        {
+          "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+          "url": "https://www.getcomputable.com/",
+          "link": "https://www.getcomputable.com/",
+          "source": "Hacker News",
+          "published_at": "2026-07-21T21:48:19Z",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "硬件",
+          "summary": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want 在 Hacker News 获得较高讨论度，21, comments: 19，说明该项目或话题在开发者社区已有明显关注。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "why_important": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "investment_angle": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "硬件",
+            "开发者社区"
+          ],
+          "importance_score": 7.83
+        },
+        {
+          "title": "Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI News",
+          "published_at": "Tue, 21 Jul 2026 17:00:00 GMT",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "公司",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work。",
+          "why_it_matters": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "why_important": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "investment_angle": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": []
+          },
+          "tags": [
+            "公司",
+            "OpenAI",
+            "ChatGPT"
+          ],
+          "importance_score": 7.78
+        },
+        {
+          "title": "Substack adds an AI detector to help spot blogs written by no one",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+          "source": "The Verge AI",
+          "published_at": "2026-07-21T15:22:28-04:00",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "公司",
+          "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to p。",
+          "why_it_matters": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "why_important": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "investment_observation": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "investment_angle": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+          "source": "The Verge AI",
+          "published_at": "2026-07-21T12:53:37-04:00",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "技术",
+          "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported。",
+          "why_it_matters": "AI 编程工具正在从补全代码走向改变开发流程本身。社区热度说明开发者已经在重新试验任务拆解、代码审查和人机协作的边界。",
+          "why_important": "AI 编程工具正在从补全代码走向改变开发流程本身。社区热度说明开发者已经在重新试验任务拆解、代码审查和人机协作的边界。",
+          "investment_observation": "重点跟踪开发者留存、生成代码通过率、代码审查节省时间和团队级付费。能嵌进现有 IDE、仓库和 CI/CD 的工具，会比单点插件更有分发优势。",
+          "investment_angle": "重点跟踪开发者留存、生成代码通过率、代码审查节省时间和团队级付费。能嵌进现有 IDE、仓库和 CI/CD 的工具，会比单点插件更有分发优势。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "RL"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "RL"
+            ]
+          },
+          "tags": [
+            "技术",
+            "Anthropic",
+            "RL"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+          "url": "https://www.qbitai.com/2026/07/456061.html",
+          "link": "https://www.qbitai.com/2026/07/456061.html",
+          "source": "量子位",
+          "published_at": "Wed, 22 Jul 2026 00:34:33 +0000",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "技术",
+          "summary": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅。中国大模型首次获得IMO官方金牌水平认证。",
+          "why_it_matters": "这条动态对应底层模型或基础设施能力变化，会影响开发门槛、部署效率以及行业内的技术选型。",
+          "why_important": "这条动态对应底层模型或基础设施能力变化，会影响开发门槛、部署效率以及行业内的技术选型。",
+          "investment_observation": "可把这条动态视为成本曲线变化的前瞻指标；若技术优势能稳定兑现，受益的不只是模型厂商，也包括工具链和云基础设施。",
+          "investment_angle": "可把这条动态视为成本曲线变化的前瞻指标；若技术优势能稳定兑现，受益的不只是模型厂商，也包括工具链和云基础设施。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "技术"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+          "url": "https://www.qbitai.com/2026/07/456026.html",
+          "link": "https://www.qbitai.com/2026/07/456026.html",
+          "source": "量子位",
+          "published_at": "Tue, 21 Jul 2026 09:30:03 +0000",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "硬件",
+          "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行，是当天值得跟踪的 AI 行业动态。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "why_important": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "investment_angle": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "硬件"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "银河证券：算力需求高增，驱动光模块结构性升级与价值重构",
+          "url": "https://36kr.com/newsflashes/3906086764860549?f=rss",
+          "link": "https://36kr.com/newsflashes/3906086764860549?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-22 08:36:56  +0800",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "融资",
+          "summary": "36氪获悉，银河证券研报认为，当前光通信行业正经历由AI算力需求爆发驱动的深刻结构性变革，行业景气度已从传统的周期性波动转向由技术迭代与资本开支共振支撑的长期扩张通道。全球主要云厂商及AI企业持续上调算力基础设施投资预算，直接拉动高速光模块需求呈现非线性增长。研报认为2026年开始，高速产品在数通领域的渗透率正加速提升，1.6T产品已进入批量交付周期，需求端。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "why_important": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "investment_angle": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "融资"
+          ],
+          "importance_score": 6.5
+        },
+        {
+          "title": "三菱电机与索尼半导体解决方案公司将组建AI视觉合资企业",
+          "url": "https://36kr.com/newsflashes/3906186581775492?f=rss",
+          "link": "https://36kr.com/newsflashes/3906186581775492?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-22 10:18:28  +0800",
+          "selected_at": "2026-07-22T02:23:39+00:00",
+          "category": "公司",
+          "summary": "7月22日，三菱电机与索尼半导体解决方案公司宣布已签署最终协议，将共同成立一家名为Advanced Vision Solutions的合资企业，目标是为制造业自动化提供AI视觉传感器解决方案。该企业计划于2026年10月开始运营，目前尚需获得监管批准。其中，三菱电机将持股60%，索尼半导体解决方案持股40%。（界面）。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "why_important": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "investment_angle": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 6.2
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "count": 10,
