@@ -76,7 +76,21 @@
     </section>
   </main>
 
-  <script src="news-data.js?v=20260704-1"></script>
-  <script src="app.js?v=20260704-1"></script>
+  <script>
+    (function () {
+      const version =
+        new URLSearchParams(window.location.search).get("v") ||
+        String(Date.now());
+
+      const dataScript = document.createElement("script");
+      dataScript.src = `news-data.js?v=${encodeURIComponent(version)}`;
+      dataScript.onload = function () {
+        const appScript = document.createElement("script");
+        appScript.src = "app.js?v=20260704-1";
+        document.body.appendChild(appScript);
+      };
+      document.body.appendChild(dataScript);
+    })();
+  </script>
 </body>
 </html>
