@@ -1,50 +1,530 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-22T02:23:39+00:00",
-  "digest_count": 14,
-  "article_count": 112,
+  "generated_at": "2026-07-23T06:28:31+00:00",
+  "digest_count": 15,
+  "article_count": 122,
   "digests": [
     {
-      "date": "2026-07-22",
-      "count": 12,
+      "date": "2026-07-23",
+      "count": 11,
       "articles": [
         {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "selected_at": "2026-07-22T02:23:39+00:00",
-          "category": "技术",
-          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders。",
-          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
-          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
-          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "title": "OpenAI 测试环境配置失误，导致 Hugging Face 遭遇 AI 驱动攻击",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 22 Jul 2026 19:11:46 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "安全",
+          "summary": "OpenAI 在高度隔离的模型评估环境中出现人为配置失误，使攻击者得以利用 AI 代理攻击 Hugging Face。事件表明，具备工具调用能力的智能体会放大传统权限配置错误的后果。",
+          "why_it_matters": "这是智能体安全从模型风险转向运行环境风险的典型案例：沙箱、凭据隔离和最小权限将成为企业部署 AI 代理的基础要求。",
+          "why_important": "这是智能体安全从模型风险转向运行环境风险的典型案例：沙箱、凭据隔离和最小权限将成为企业部署 AI 代理的基础要求。",
+          "investment_observation": "关注智能体运行时安全、权限治理、密钥管理和行为审计产品。企业真正扩大 Agent 部署前，安全控制层可能先形成刚性预算。",
+          "investment_angle": "关注智能体运行时安全、权限治理、密钥管理和行为审计产品。企业真正扩大 Agent 部署前，安全控制层可能先形成刚性预算。",
           "companies": [
-            "OpenAI"
+            "OpenAI",
+            "Hugging Face"
           ],
           "people": [],
           "products": [],
           "technologies": [
-            "RL"
+            "AI Agent",
+            "Sandbox"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Hugging Face"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "Sandbox"
+            ]
+          },
+          "tags": [
+            "安全",
+            "Agent",
+            "OpenAI",
+            "Hugging Face"
+          ],
+          "importance_score": 9.65
+        },
+        {
+          "title": "NTT DATA 将 Codex 扩展至约 9,000 名员工，事故分析从三天降至 30 分钟",
+          "url": "https://openai.com/index/ntt-data",
+          "link": "https://openai.com/index/ntt-data",
+          "source": "OpenAI News",
+          "published_at": "Wed, 22 Jul 2026 00:00:00 GMT",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "产品应用",
+          "summary": "NTT DATA 在全公司采用 ChatGPT Enterprise 的基础上，将 Codex 扩展至约 9,000 名技术和非技术员工。一项原需五名工程师三天完成的复杂事故分析，被缩短至 30 分钟。",
+          "why_it_matters": "公开、可量化的企业案例证明编程智能体正在从代码补全进入端到端任务执行，并开始覆盖数据整理、办公自动化和非技术岗位。",
+          "why_important": "公开、可量化的企业案例证明编程智能体正在从代码补全进入端到端任务执行，并开始覆盖数据整理、办公自动化和非技术岗位。",
+          "investment_observation": "重点跟踪活跃使用率、可复用 Skills、治理成本与真实工时节省。能嵌入企业流程并给出可审计结果的 Agent 产品更容易获得持续预算。",
+          "investment_angle": "重点跟踪活跃使用率、可复用 Skills、治理成本与真实工时节省。能嵌入企业流程并给出可审计结果的 Agent 产品更容易获得持续预算。",
+          "companies": [
+            "OpenAI",
+            "NTT DATA"
+          ],
+          "people": [
+            "Yuji Shono",
+            "Hiroaki Sato"
+          ],
+          "products": [
+            "Codex",
+            "ChatGPT Enterprise"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "NTT DATA"
+            ],
+            "people": [
+              "Yuji Shono",
+              "Hiroaki Sato"
+            ],
+            "products": [
+              "Codex",
+              "ChatGPT Enterprise"
+            ],
+            "technologies": [
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "企业应用",
+            "Codex",
+            "OpenAI"
+          ],
+          "importance_score": 9.35
+        },
+        {
+          "title": "阿里平头哥开源 AI 软件栈 SAIL，适配 260 多个框架",
+          "url": "https://www.qbitai.com/2026/07/457405.html",
+          "link": "https://www.qbitai.com/2026/07/457405.html",
+          "source": "量子位",
+          "published_at": "Thu, 23 Jul 2026 02:09:03 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "AI Infra",
+          "summary": "在玄铁系列芯片累计出货约 56 万片后，阿里平头哥开源 AI 软件栈 SAIL，主打对 260 多个模型和框架的适配，降低开发者在国产芯片上部署 AI 工作负载的迁移门槛。",
+          "why_it_matters": "国产 AI 芯片竞争的瓶颈正在从单点算力转向软件生态。开源编译、算子和框架适配层，有助于扩大芯片可用场景并降低客户切换成本。",
+          "why_important": "国产 AI 芯片竞争的瓶颈正在从单点算力转向软件生态。开源编译、算子和框架适配层，有助于扩大芯片可用场景并降低客户切换成本。",
+          "investment_observation": "观察 SAIL 的社区活跃度、主流模型适配质量和真实部署量。软件栈若能形成开发者黏性，将提升芯片出货的持续性和生态议价权。",
+          "investment_angle": "观察 SAIL 的社区活跃度、主流模型适配质量和真实部署量。软件栈若能形成开发者黏性，将提升芯片出货的持续性和生态议价权。",
+          "companies": [
+            "阿里巴巴",
+            "平头哥"
+          ],
+          "people": [],
+          "products": [
+            "SAIL",
+            "玄铁"
+          ],
+          "technologies": [
+            "AI 软件栈",
+            "RISC-V"
+          ],
+          "entities": {
+            "companies": [
+              "阿里巴巴",
+              "平头哥"
+            ],
+            "people": [],
+            "products": [
+              "SAIL",
+              "玄铁"
+            ],
+            "technologies": [
+              "AI 软件栈",
+              "RISC-V"
+            ]
+          },
+          "tags": [
+            "开源",
+            "AI Infra",
+            "芯片",
+            "阿里巴巴"
+          ],
+          "importance_score": 9.05
+        },
+        {
+          "title": "美国海军研究生院启用 NVIDIA DGX GB300 AI 超级计算机",
+          "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer",
+          "link": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer",
+          "source": "NVIDIA Blog",
+          "published_at": "Thu, 23 Jul 2026 02:00:46 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "AI Infra",
+          "summary": "美国海军研究生院启用 NVIDIA DGX GB300 系统，用于国防相关研究、教育和 AI 工作负载。黄仁勋到访并参与系统启用，显示主权与国防 AI 基础设施需求继续升温。",
+          "why_it_matters": "高性能 AI 系统正从商业云扩展到政府、科研和国防机构，带动整机、网络、存储与安全部署的一体化需求。",
+          "why_important": "高性能 AI 系统正从商业云扩展到政府、科研和国防机构，带动整机、网络、存储与安全部署的一体化需求。",
+          "investment_observation": "关注主权 AI 与政府采购周期，以及高端 GPU 系统向软件、运维和安全服务带来的增量收入；同时留意出口和合规约束。",
+          "investment_angle": "关注主权 AI 与政府采购周期，以及高端 GPU 系统向软件、运维和安全服务带来的增量收入；同时留意出口和合规约束。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [
+            "DGX GB300"
+          ],
+          "technologies": [
+            "AI Supercomputer",
+            "Blackwell"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [
+              "DGX GB300"
+            ],
+            "technologies": [
+              "AI Supercomputer",
+              "Blackwell"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "NVIDIA",
+            "主权AI",
+            "关键人物"
+          ],
+          "importance_score": 8.95
+        },
+        {
+          "title": "Google 向美国 Genesis Mission 投入 4,000 万美元 AI Token 与云额度",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind Blog",
+          "published_at": "Wed, 22 Jul 2026 13:38:54 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "AI for Science",
+          "summary": "Google 承诺向美国能源部 Genesis Mission 提供价值 4,000 万美元的 AI token 与云额度，并向获奖研究者开放 AlphaEvolve、AlphaFold 3、AlphaGenome、WeatherNext 等科研工具。",
+          "why_it_matters": "头部模型与云平台正在通过公共科研项目扩大 AI for Science 的使用规模，也把科研机构转化为先进模型、算力和云服务的重要需求方。",
+          "why_important": "头部模型与云平台正在通过公共科研项目扩大 AI for Science 的使用规模，也把科研机构转化为先进模型、算力和云服务的重要需求方。",
+          "investment_observation": "关注科研工具从额度补贴走向长期付费的转化，以及材料、生命科学、气候和自动化实验平台对云算力的持续消耗。",
+          "investment_angle": "关注科研工具从额度补贴走向长期付费的转化，以及材料、生命科学、气候和自动化实验平台对云算力的持续消耗。",
+          "companies": [
+            "Google",
+            "Google DeepMind",
+            "Google Cloud"
+          ],
+          "people": [
+            "Pushmeet Kohli",
+            "Karthik Narain"
+          ],
+          "products": [
+            "AlphaEvolve",
+            "AlphaFold 3",
+            "AlphaGenome",
+            "WeatherNext",
+            "Gemini"
+          ],
+          "technologies": [
+            "AI for Science"
+          ],
+          "entities": {
+            "companies": [
+              "Google",
+              "Google DeepMind",
+              "Google Cloud"
+            ],
+            "people": [
+              "Pushmeet Kohli",
+              "Karthik Narain"
+            ],
+            "products": [
+              "AlphaEvolve",
+              "AlphaFold 3",
+              "AlphaGenome",
+              "WeatherNext",
+              "Gemini"
+            ],
+            "technologies": [
+              "AI for Science"
+            ]
+          },
+          "tags": [
+            "AI for Science",
+            "Google",
+            "云计算"
+          ],
+          "importance_score": 8.85
+        },
+        {
+          "title": "美国开源 AI 实验室 Arcee 呼吁以模型评测取代国别标签",
+          "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+          "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 22 Jul 2026 16:24:08 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "开源",
+          "summary": "美国开源 AI 实验室 Arcee 表示，中国开源模型不应被先验视为危险，主张基于透明度、安全评测和具体能力判断风险，而不是仅按开发来源做政策分类。",
+          "why_it_matters": "中国开源模型在美国企业中的采用扩大，使模型安全、供应链和技术政策发生碰撞；监管口径会直接影响企业模型选型和开源生态竞争。",
+          "why_important": "中国开源模型在美国企业中的采用扩大，使模型安全、供应链和技术政策发生碰撞；监管口径会直接影响企业模型选型和开源生态竞争。",
+          "investment_observation": "关注政府采购规则、模型审计标准和企业私有化部署需求。若监管转向可验证评测，模型安全测试与合规工具将获得更清晰的商业空间。",
+          "investment_angle": "关注政府采购规则、模型审计标准和企业私有化部署需求。若监管转向可验证评测，模型安全测试与合规工具将获得更清晰的商业空间。",
+          "companies": [
+            "Arcee AI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Open-weight Models",
+            "Model Evaluation"
+          ],
+          "entities": {
+            "companies": [
+              "Arcee AI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Open-weight Models",
+              "Model Evaluation"
+            ]
+          },
+          "tags": [
+            "开源",
+            "政策",
+            "模型评测"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Meta 自研 AI 内容检测方案面临互操作性质疑",
+          "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "source": "The Verge AI",
+          "published_at": "2026-07-22T07:00:00-04:00",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "安全",
+          "summary": "Meta 推进自有 AI 内容检测与标记方案，但报道指出其覆盖和互操作性不及 Google SynthID 等更成熟方案。生成内容水印标准碎片化，正在削弱跨平台识别效果。",
+          "why_it_matters": "AI 内容溯源只有形成跨模型、跨平台标准才具备公共价值；平台各自为政会抬高媒体、广告和监管机构的验证成本。",
+          "why_important": "AI 内容溯源只有形成跨模型、跨平台标准才具备公共价值；平台各自为政会抬高媒体、广告和监管机构的验证成本。",
+          "investment_observation": "关注 C2PA、SynthID 等标准的实际采用率，以及检测产品的误报率和跨平台覆盖。标准层胜出者可能掌握内容可信基础设施入口。",
+          "investment_angle": "关注 C2PA、SynthID 等标准的实际采用率，以及检测产品的误报率和跨平台覆盖。标准层胜出者可能掌握内容可信基础设施入口。",
+          "companies": [
+            "Meta",
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "SynthID",
+            "Content Seal"
+          ],
+          "technologies": [
+            "AI Watermarking",
+            "Content Provenance"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "SynthID",
+              "Content Seal"
+            ],
+            "technologies": [
+              "AI Watermarking",
+              "Content Provenance"
+            ]
+          },
+          "tags": [
+            "安全",
+            "内容溯源",
+            "Meta",
+            "Google"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "百度文心助手任务 Agent 登顶 PinchBench v2",
+          "url": "https://www.qbitai.com/2026/07/457117.html",
+          "link": "https://www.qbitai.com/2026/07/457117.html",
+          "source": "量子位",
+          "published_at": "Wed, 22 Jul 2026 07:31:19 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "Agent",
+          "summary": "百度文心助手任务 Agent 在 PinchBench v2 的 59 个参评系统中以最高 94.6%、平均 94.4% 排名第一。该评测覆盖 23 个真实工作场景、147 项任务，并公开执行快照和评分过程。",
+          "why_it_matters": "面向完整交付物的工程评测比单轮问答更接近 Agent 的真实价值，也表明模型能力之外，任务规划、工具调用与系统工程正在成为主要差异点。",
+          "why_important": "面向完整交付物的工程评测比单轮问答更接近 Agent 的真实价值，也表明模型能力之外，任务规划、工具调用与系统工程正在成为主要差异点。",
+          "investment_observation": "榜单成绩仍需结合真实用户留存和任务成功率验证。关注评测可复现性、复杂任务成本，以及产品能否把技术领先转化为付费使用。",
+          "investment_angle": "榜单成绩仍需结合真实用户留存和任务成功率验证。关注评测可复现性、复杂任务成本，以及产品能否把技术领先转化为付费使用。",
+          "companies": [
+            "百度"
+          ],
+          "people": [],
+          "products": [
+            "文心助手任务 Agent",
+            "PinchBench v2"
+          ],
+          "technologies": [
+            "AI Agent",
+            "Agent Benchmark"
+          ],
+          "entities": {
+            "companies": [
+              "百度"
+            ],
+            "people": [],
+            "products": [
+              "文心助手任务 Agent",
+              "PinchBench v2"
+            ],
+            "technologies": [
+              "AI Agent",
+              "Agent Benchmark"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "百度",
+            "评测"
+          ],
+          "importance_score": 8.15
+        },
+        {
+          "title": "OpenAI 宣布在佐治亚州推进 Project Camellia AI 基础设施项目",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI News",
+          "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "AI Infra",
+          "summary": "OpenAI 宣布在美国佐治亚州 Effingham County 推进 Project Camellia 数据中心项目，并承诺在能源、社区投资、就业与 Codex 使用机会等方面配套投入。",
+          "why_it_matters": "大模型竞争持续转化为土地、电力、建设和社区许可竞争。项目能否按期获得能源与地方支持，将直接影响算力扩张节奏。",
+          "why_important": "大模型竞争持续转化为土地、电力、建设和社区许可竞争。项目能否按期获得能源与地方支持，将直接影响算力扩张节奏。",
+          "investment_observation": "跟踪电力接入、资本开支、建设周期与本地利益协调。数据中心扩张利好电力设备、冷却和施工链条，但也增加资金与政策执行风险。",
+          "investment_angle": "跟踪电力接入、资本开支、建设周期与本地利益协调。数据中心扩张利好电力设备、冷却和施工链条，但也增加资金与政策执行风险。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "Project Camellia",
+            "Codex"
+          ],
+          "technologies": [
+            "Data Center"
           ],
           "entities": {
             "companies": [
               "OpenAI"
             ],
             "people": [],
-            "products": [],
+            "products": [
+              "Project Camellia",
+              "Codex"
+            ],
             "technologies": [
-              "RL"
+              "Data Center"
             ]
           },
           "tags": [
-            "技术",
+            "AI Infra",
             "OpenAI",
-            "RL"
+            "数据中心"
           ],
-          "importance_score": 10.0
+          "importance_score": 8.05
         },
+        {
+          "title": "NVIDIA 开源首个 GPU 加速医疗物理仿真框架",
+          "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source",
+          "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source",
+          "source": "NVIDIA Blog",
+          "published_at": "Wed, 22 Jul 2026 13:00:11 +0000",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "机器人",
+          "summary": "NVIDIA 开源 GPU 加速医疗物理仿真框架，用于模拟组织、器械与医疗机器人之间的物理交互，帮助开发者在真实部署前训练和验证医疗机器人。",
+          "why_it_matters": "高可信仿真能降低医疗机器人收集真实数据的成本与风险，是物理 AI 从实验室进入受监管场景的重要基础设施。",
+          "why_important": "高可信仿真能降低医疗机器人收集真实数据的成本与风险，是物理 AI 从实验室进入受监管场景的重要基础设施。",
+          "investment_observation": "关注框架能否进入医疗器械厂商的验证流程，以及仿真到真实环境的迁移效果。医疗场景周期较长，但一旦形成标准工具链，客户黏性较高。",
+          "investment_angle": "关注框架能否进入医疗器械厂商的验证流程，以及仿真到真实环境的迁移效果。医疗场景周期较长，但一旦形成标准工具链，客户黏性较高。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GPU Simulation",
+            "Medical Robotics",
+            "Physical AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GPU Simulation",
+              "Medical Robotics",
+              "Physical AI"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "医疗AI",
+            "开源",
+            "NVIDIA"
+          ],
+          "importance_score": 7.95
+        },
+        {
+          "title": "CACM：Text-to-SQL 基准应纳入真实数据仓库复杂性",
+          "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql",
+          "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql",
+          "source": "Hacker News",
+          "published_at": "2026-07-22T21:54:30Z",
+          "selected_at": "2026-07-23T06:28:31+00:00",
+          "category": "数据",
+          "summary": "CACM 文章指出，现有 Text-to-SQL 基准往往忽略真实数据仓库中的复杂模式、权限、脏数据和业务语义，导致排行榜表现难以代表企业环境中的可用性。",
+          "why_it_matters": "自然语言数据分析是企业 Agent 的核心入口，但可靠性瓶颈更多来自数据上下文与治理，而非单纯 SQL 生成准确率。",
+          "why_important": "自然语言数据分析是企业 Agent 的核心入口，但可靠性瓶颈更多来自数据上下文与治理，而非单纯 SQL 生成准确率。",
+          "investment_observation": "评估数据 Agent 时应关注真实仓库任务成功率、权限控制、语义层集成和人工纠错成本。能与企业数据治理体系结合的产品更具防御性。",
+          "investment_angle": "评估数据 Agent 时应关注真实仓库任务成功率、权限控制、语义层集成和人工纠错成本。能与企业数据治理体系结合的产品更具防御性。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Text-to-SQL",
+            "Data Agent"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Text-to-SQL",
+              "Data Agent"
+            ]
+          },
+          "tags": [
+            "数据",
+            "评测",
+            "企业AI"
+          ],
+          "importance_score": 7.75
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "count": 11,
+      "articles": [
         {
           "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
           "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas",
