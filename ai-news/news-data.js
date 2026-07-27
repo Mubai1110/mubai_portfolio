@@ -1,8 +1,496 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-26T10:45:42+00:00",
-  "digest_count": 16,
-  "article_count": 132,
+  "generated_at": "2026-07-27T08:25:52+00:00",
+  "digest_count": 17,
+  "article_count": 143,
   "digests": [
+    {
+      "date": "2026-07-27",
+      "count": 11,
+      "articles": [
+        {
+          "title": "DeepSeek被曝主动叫停第二轮融资签约",
+          "url": "https://www.qbitai.com/2026/07/461220.html",
+          "link": "https://www.qbitai.com/2026/07/461220.html",
+          "source": "量子位",
+          "published_at": "Mon, 27 Jul 2026 04:29:38 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "融资",
+          "summary": "据量子位报道，DeepSeek主动暂停了原计划至少募资100亿元的第二轮融资签约。相较融资规模本身，公司选择暂缓外部资本更值得关注。",
+          "why_it_matters": "头部基础模型公司的资本安排会影响算力投入、人才竞争和商业化节奏，也折射出中国模型公司的现金流与战略自主性。",
+          "why_important": "头部基础模型公司的资本安排会影响算力投入、人才竞争和商业化节奏，也折射出中国模型公司的现金流与战略自主性。",
+          "investment_observation": "需继续核实暂停原因及后续安排；若公司依靠自有现金流维持高强度研发，其议价权会增强，但算力扩张速度仍是关键变量。",
+          "investment_angle": "需继续核实暂停原因及后续安排；若公司依靠自有现金流维持高强度研发，其议价权会增强，但算力扩张速度仍是关键变量。",
+          "companies": [
+            "DeepSeek"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "基础模型"
+          ],
+          "entities": {
+            "companies": [
+              "DeepSeek"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "基础模型"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "融资",
+            "中国AI"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "NVIDIA用Vera CPU加速下一代CPU与GPU设计",
+          "url": "https://blogs.nvidia.com/blog/vera-cpu-eda",
+          "link": "https://blogs.nvidia.com/blog/vera-cpu-eda",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 27 Jul 2026 00:45:42 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA介绍了使用Vera CPU加速电子设计自动化工作负载的方法，目标是缩短下一代CPU、GPU及AI系统的设计周期。",
+          "why_it_matters": "AI芯片性能提升正在反向推动芯片设计流程本身采用更强计算平台，形成算力基础设施与EDA效率互相强化的循环。",
+          "why_important": "AI芯片性能提升正在反向推动芯片设计流程本身采用更强计算平台，形成算力基础设施与EDA效率互相强化的循环。",
+          "investment_observation": "关注Vera平台在主流EDA软件中的兼容性、真实加速比和客户采用；能够压缩验证时间的软硬件工具具有高价值。",
+          "investment_angle": "关注Vera平台在主流EDA软件中的兼容性、真实加速比和客户采用；能够压缩验证时间的软硬件工具具有高价值。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Vera CPU"
+          ],
+          "technologies": [
+            "EDA",
+            "CPU",
+            "GPU"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Vera CPU"
+            ],
+            "technologies": [
+              "EDA",
+              "CPU",
+              "GPU"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "NVIDIA"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "美团AI助手“小团”升级代理执行能力",
+          "url": "https://36kr.com/newsflashes/3913549997692288?f=rss",
+          "link": "https://36kr.com/newsflashes/3913549997692288?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-27 15:08:55 +0800",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "产品应用",
+          "summary": "美团宣布“小团”从搜索、问答和决策辅助进一步升级到代理执行，可结合实时信息协助下单、打车和订位；其信息服务已覆盖全国2800多个城市。",
+          "why_it_matters": "本地生活平台拥有实时供给、交易闭环和用户意图数据，Agent若能直接完成交易，比单纯问答更容易形成高频使用和商业价值。",
+          "why_important": "本地生活平台拥有实时供给、交易闭环和用户意图数据，Agent若能直接完成交易，比单纯问答更容易形成高频使用和商业价值。",
+          "investment_observation": "重点跟踪任务成功率、交易转化率、退款投诉和用户复用率；平台数据与履约网络构成壁垒，通用助手较难快速复制。",
+          "investment_angle": "重点跟踪任务成功率、交易转化率、退款投诉和用户复用率；平台数据与履约网络构成壁垒，通用助手较难快速复制。",
+          "companies": [
+            "美团"
+          ],
+          "people": [],
+          "products": [
+            "小团"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "美团"
+            ],
+            "people": [],
+            "products": [
+              "小团"
+            ],
+            "technologies": [
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "产品应用",
+            "本地生活"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Cognition收购Poke，把AI交互人格带入Devin",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+          "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 24 Jul 2026 18:07:32 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "产品应用",
+          "summary": "Cognition收购对话产品Poke，并计划将其交互风格和产品经验带入编程智能体Devin，显示AI助手的表达方式与用户关系正在成为竞争维度。",
+          "why_it_matters": "当基础能力逐渐趋同，交互设计、可信感和长期使用体验会影响留存；这笔交易也体现Agent公司通过并购补齐消费级产品能力。",
+          "why_important": "当基础能力逐渐趋同，交互设计、可信感和长期使用体验会影响留存；这笔交易也体现Agent公司通过并购补齐消费级产品能力。",
+          "investment_observation": "观察Poke能力整合后Devin的活跃度、任务完成率和团队付费变化；“人格”必须转化为留存，而不能只停留在新鲜感。",
+          "investment_angle": "观察Poke能力整合后Devin的活跃度、任务完成率和团队付费变化；“人格”必须转化为留存，而不能只停留在新鲜感。",
+          "companies": [
+            "Cognition",
+            "Poke"
+          ],
+          "people": [],
+          "products": [
+            "Devin"
+          ],
+          "technologies": [
+            "编程Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Cognition",
+              "Poke"
+            ],
+            "people": [],
+            "products": [
+              "Devin"
+            ],
+            "technologies": [
+              "编程Agent"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "并购",
+            "开发者工具"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Meta让AI聊天机器人更像生产力助手",
+          "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "source": "The Verge AI",
+          "published_at": "2026-07-24T13:00:00-04:00",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "产品应用",
+          "summary": "Meta为其AI聊天机器人增加生产力功能，并推动它接入更多个人信息与工作流，以缩小与ChatGPT、Gemini和Claude在助手能力上的差距。",
+          "why_it_matters": "Meta拥有庞大的社交分发入口，助手能力增强后可能把AI使用直接嵌入通信和内容场景，对独立消费级AI产品形成流量压力。",
+          "why_important": "Meta拥有庞大的社交分发入口，助手能力增强后可能把AI使用直接嵌入通信和内容场景，对独立消费级AI产品形成流量压力。",
+          "investment_observation": "关注功能开放范围、隐私授权、日活和跨应用任务完成率；分发优势明显，但用户信任与高价值任务深度决定商业化上限。",
+          "investment_angle": "关注功能开放范围、隐私授权、日活和跨应用任务完成率；分发优势明显，但用户信任与高价值任务深度决定商业化上限。",
+          "companies": [
+            "Meta",
+            "OpenAI",
+            "Google",
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Meta AI",
+            "ChatGPT",
+            "Gemini",
+            "Claude"
+          ],
+          "technologies": [
+            "AI助手"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "OpenAI",
+              "Google",
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Meta AI",
+              "ChatGPT",
+              "Gemini",
+              "Claude"
+            ],
+            "technologies": [
+              "AI助手"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI助手",
+            "Meta"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Moonshot Kimi引发美国市场对中国开源模型的再评估",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+          "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Sun, 26 Jul 2026 19:40:57 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "开源",
+          "summary": "TechCrunch讨论Moonshot AI的Kimi模型为何引发硅谷与华尔街关注，核心不只是单一模型指标，而是中国开源模型在成本、可用性和迭代速度上的竞争压力。",
+          "why_it_matters": "高性能开放权重模型会降低应用公司的模型成本，并迫使闭源厂商重新解释溢价，也会影响算力需求和全球模型生态的竞争格局。",
+          "why_important": "高性能开放权重模型会降低应用公司的模型成本，并迫使闭源厂商重新解释溢价，也会影响算力需求和全球模型生态的竞争格局。",
+          "investment_observation": "应区分舆论热度与实际迁移：重点看下载量、开发者留存、企业部署、推理成本以及生态工具是否持续增长。",
+          "investment_angle": "应区分舆论热度与实际迁移：重点看下载量、开发者留存、企业部署、推理成本以及生态工具是否持续增长。",
+          "companies": [
+            "Moonshot AI"
+          ],
+          "people": [],
+          "products": [
+            "Kimi"
+          ],
+          "technologies": [
+            "开放权重模型"
+          ],
+          "entities": {
+            "companies": [
+              "Moonshot AI"
+            ],
+            "people": [],
+            "products": [
+              "Kimi"
+            ],
+            "technologies": [
+              "开放权重模型"
+            ]
+          },
+          "tags": [
+            "开源",
+            "基础模型",
+            "中国AI"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "中国科学院团队把AI“情商”做成可测可训工程",
+          "url": "https://www.qbitai.com/2026/07/461160.html",
+          "link": "https://www.qbitai.com/2026/07/461160.html",
+          "source": "量子位",
+          "published_at": "Mon, 27 Jul 2026 05:00:12 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "后训练",
+          "summary": "中国科学院相关团队提出面向AI情绪与社交能力的评测和训练方法，尝试将通常依赖主观感受的“情商”拆成可量化、可优化的工程指标。",
+          "why_it_matters": "情绪理解与社交推理直接影响陪伴、客服、教育和具身交互体验，标准化评测有助于把产品体验问题转化为模型训练目标。",
+          "why_important": "情绪理解与社交推理直接影响陪伴、客服、教育和具身交互体验，标准化评测有助于把产品体验问题转化为模型训练目标。",
+          "investment_observation": "关注评测与真实用户满意度的相关性、跨文化泛化和训练数据质量；若指标可复现，可能催生新的评测与后训练工具。",
+          "investment_angle": "关注评测与真实用户满意度的相关性、跨文化泛化和训练数据质量；若指标可复现，可能催生新的评测与后训练工具。",
+          "companies": [
+            "中国科学院"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "情绪智能",
+            "模型评测",
+            "后训练"
+          ],
+          "entities": {
+            "companies": [
+              "中国科学院"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "情绪智能",
+              "模型评测",
+              "后训练"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "评测",
+            "研究"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "脑电信号会成为Physical AI的新数据源吗？",
+          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai",
+          "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 27 Jul 2026 00:19:14 +0000",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "机器人",
+          "summary": "物理AI训练正从公开视频走向多视角、密集标注等更丰富数据，研究者与创业公司开始探索脑电信号能否补充人类意图与动作规划信息。",
+          "why_it_matters": "具身模型的瓶颈越来越多地落在高质量真实世界数据，而不是单纯模型规模；新型数据采集方式可能改善意图对齐和复杂操作学习。",
+          "why_important": "具身模型的瓶颈越来越多地落在高质量真实世界数据，而不是单纯模型规模；新型数据采集方式可能改善意图对齐和复杂操作学习。",
+          "investment_observation": "脑电数据仍面临信噪比、设备成本、隐私和规模化难题，短期应关注受控工业场景，而不是把它视为通用机器人捷径。",
+          "investment_angle": "脑电数据仍面临信噪比、设备成本、隐私和规模化难题，短期应关注受控工业场景，而不是把它视为通用机器人捷径。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Physical AI",
+            "脑机接口",
+            "机器人学习"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Physical AI",
+              "脑机接口",
+              "机器人学习"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "数据",
+            "Physical AI"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "大众汽车与地平线机器人深化中国自动驾驶合作",
+          "url": "https://www.reuters.com/world/china/volkswagens-carizon-horizon-robotics-deepen-self-driving-partnership-china-2026-07-22/",
+          "link": "https://www.reuters.com/world/china/volkswagens-carizon-horizon-robotics-deepen-self-driving-partnership-china-2026-07-22/",
+          "source": "Reuters",
+          "published_at": "2026-07-22",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "自动驾驶",
+          "summary": "大众汽车旗下CARIZON扩大与地平线机器人的合作，将使用后者的AI基础模型加速L3和L4自动驾驶方案研发，并计划在中国推进L2++城市辅助驾驶。",
+          "why_it_matters": "国际车企正在更深地采用中国本土AI技术栈，以缩短研发周期并适应中国市场；这验证了本土智驾芯片与模型的产业价值。",
+          "why_important": "国际车企正在更深地采用中国本土AI技术栈，以缩短研发周期并适应中国市场；这验证了本土智驾芯片与模型的产业价值。",
+          "investment_observation": "关注量产车型、软件收入、单车价值量及海外复制；合作公告只有转化为大规模交付，才能持续支撑供应商估值。",
+          "investment_angle": "关注量产车型、软件收入、单车价值量及海外复制；合作公告只有转化为大规模交付，才能持续支撑供应商估值。",
+          "companies": [
+            "Volkswagen",
+            "CARIZON",
+            "地平线机器人"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "自动驾驶",
+            "基础模型"
+          ],
+          "entities": {
+            "companies": [
+              "Volkswagen",
+              "CARIZON",
+              "地平线机器人"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "自动驾驶",
+              "基础模型"
+            ]
+          },
+          "tags": [
+            "自动驾驶",
+            "智能汽车",
+            "中国AI"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "OpenAI提出用前沿AI加速美国国家科学研究",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science/",
+          "link": "https://openai.com/index/advancing-the-next-era-of-national-science/",
+          "source": "OpenAI News",
+          "published_at": "2026-07-22",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "基础模型",
+          "summary": "OpenAI表示将与美国政府、国家实验室、高校和研究人员合作，把前沿模型连接到超级计算、仿真和实验设施，以加快假设提出与验证。",
+          "why_it_matters": "AI for Science正从单点工具走向模型、算力、实验设施和机构合作的系统工程，可能成为前沿模型的重要高价值应用方向。",
+          "why_important": "AI for Science正从单点工具走向模型、算力、实验设施和机构合作的系统工程，可能成为前沿模型的重要高价值应用方向。",
+          "investment_observation": "关注实际科研项目、可验证成果、算力采购和数据治理；该方向周期长，但一旦进入国家实验室工作流，合作黏性通常较高。",
+          "investment_angle": "关注实际科研项目、可验证成果、算力采购和数据治理；该方向周期长，但一旦进入国家实验室工作流，合作黏性通常较高。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI for Science",
+            "基础模型",
+            "超级计算"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI for Science",
+              "基础模型",
+              "超级计算"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "科研",
+            "AI for Science"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "英国机器人公司Humanoid完成1.52亿美元A轮融资",
+          "url": "https://live.euronext.com/en/financial-news/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation",
+          "link": "https://live.euronext.com/en/financial-news/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation",
+          "source": "Reuters / Euronext",
+          "published_at": "2026-07-21",
+          "selected_at": "2026-07-27T08:25:52+00:00",
+          "category": "融资",
+          "summary": "英国机器人公司Humanoid完成1.52亿美元A轮融资，投后估值13.5亿美元；资金将用于KinetIQ软件、工业客户部署和轮式机器人量产。",
+          "why_it_matters": "大额早期融资表明资本继续押注Physical AI，但资金用途已从原型研发转向客户部署和制造体系，商业验证的重要性上升。",
+          "why_important": "大额早期融资表明资本继续押注Physical AI，但资金用途已从原型研发转向客户部署和制造体系，商业验证的重要性上升。",
+          "investment_observation": "重点看第四季度客户试点、单位制造成本、故障率和订单兑现；Bosch等产业伙伴能降低量产风险，但高估值需要真实交付支撑。",
+          "investment_angle": "重点看第四季度客户试点、单位制造成本、故障率和订单兑现；Bosch等产业伙伴能降低量产风险，但高估值需要真实交付支撑。",
+          "companies": [
+            "Humanoid",
+            "Bosch",
+            "Schaeffler",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "KinetIQ"
+          ],
+          "technologies": [
+            "人形机器人",
+            "Physical AI"
+          ],
+          "entities": {
+            "companies": [
+              "Humanoid",
+              "Bosch",
+              "Schaeffler",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "KinetIQ"
+            ],
+            "technologies": [
+              "人形机器人",
+              "Physical AI"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "Physical AI"
+          ],
+          "importance_score": 8.2
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "count": 11,
