@@ -1,8 +1,1032 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-07-27T08:25:52+00:00",
-  "digest_count": 17,
-  "article_count": 143,
+  "generated_at": "2026-07-31T03:35:14+00:00",
+  "digest_count": 19,
+  "article_count": 170,
   "digests": [
+    {
+      "date": "2026-07-31",
+      "count": 12,
+      "articles": [
+        {
+          "title": "Anthropic披露自家模型在安全测试中攻破三家公司",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+          "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 31 Jul 2026 01:06:54 +0000",
+          "selected_at": "2026-07-31T03:35:13+00:00",
+          "category": "安全",
+          "summary": "Anthropic回溯内部安全测试后称，其模型曾在获授权的评估中成功侵入三家公司；此前OpenAI模型也曾在Hugging Face测试中取得类似结果。",
+          "why_it_matters": "前沿模型的网络攻防能力已从辅助分析进入可执行阶段，企业安全边界、模型权限控制和红队测试标准需要同步升级。",
+          "why_important": "前沿模型的网络攻防能力已从辅助分析进入可执行阶段，企业安全边界、模型权限控制和红队测试标准需要同步升级。",
+          "investment_observation": "关注AI原生安全测试、权限隔离、审计与防御自动化厂商；商业价值取决于能否把高风险能力限定在可验证、可追责的工作流中。",
+          "investment_angle": "关注AI原生安全测试、权限隔离、审计与防御自动化厂商；商业价值取决于能否把高风险能力限定在可验证、可追责的工作流中。",
+          "companies": [
+            "Anthropic",
+            "OpenAI",
+            "Hugging Face"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "网络安全",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "OpenAI",
+              "Hugging Face"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "网络安全",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "安全",
+            "基础模型",
+            "红队测试"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "扎克伯格称Meta企业AI机会不止于Agent",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents",
+          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 29 Jul 2026 22:23:12 +0000",
+          "selected_at": "2026-07-31T03:35:13+00:00",
+          "category": "关键人物",
+          "summary": "Meta CEO马克·扎克伯格在二季度财报电话会上表示，公司看到覆盖AI Agent、API、算力和内部软件的大型企业级机会。",
+          "why_it_matters": "Meta正尝试把开源模型、广告与社交分发优势延伸到企业技术栈，意味着其AI商业化将不再只依赖消费者产品。",
+          "why_important": "Meta正尝试把开源模型、广告与社交分发优势延伸到企业技术栈，意味着其AI商业化将不再只依赖消费者产品。",
+          "investment_observation": "关注Meta企业API与算力服务的收入披露、客户案例和利润率；其优势是模型与分发，但企业服务能力仍需接受市场验证。",
+          "investment_angle": "关注Meta企业API与算力服务的收入披露、客户案例和利润率；其优势是模型与分发，但企业服务能力仍需接受市场验证。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Mark Zuckerberg"
+          ],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "API",
+            "AI算力"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [
+              "Mark Zuckerberg"
+            ],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "API",
+              "AI算力"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "企业AI",
+            "Meta"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Gemini Robotics ER 2强化视频理解与多机器人协作",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+          "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+          "source": "Google DeepMind Blog",
+          "published_at": "Thu, 30 Jul 2026 15:00:59 +0000",
+          "selected_at": "2026-07-31T03:35:13+00:00",
+          "category": "机器人",
+          "summary": "Google DeepMind发布Gemini Robotics ER 2，增强机器人对视频和现实环境的理解，并支持任务编排、工具调用及多机器人协作。",
+          "why_it_matters": "机器人模型正从单机动作控制转向长程任务规划和群体协同，这会扩大通用模型在工业、仓储和服务机器人中的可用范围。",
+          "why_important": "机器人模型正从单机动作控制转向长程任务规划和群体协同，这会扩大通用模型在工业、仓储和服务机器人中的可用范围。",
+          "investment_observation": "重点观察真实场景成功率、延迟、安全性及硬件适配成本；具备高质量机器人数据和部署渠道的公司将更有议价权。",
+          "investment_angle": "重点观察真实场景成功率、延迟、安全性及硬件适配成本；具备高质量机器人数据和部署渠道的公司将更有议价权。",
+          "companies": [
+            "Google DeepMind",
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Gemini Robotics ER 2"
+          ],
+          "technologies": [
+            "视频理解",
+            "任务编排",
+            "多机器人协作"
+          ],
+          "entities": {
+            "companies": [
+              "Google DeepMind",
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Gemini Robotics ER 2"
+            ],
+            "technologies": [
+              "视频理解",
+              "任务编排",
+              "多机器人协作"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "具身智能",
+            "多模态"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI介绍GPT-5.6的智能与推理效率提升",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source": "OpenAI News",
+          "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+          "selected_at": "2026-07-31T03:35:13+00:00",
+          "category": "基础模型",
+          "summary": "OpenAI介绍GPT-5.6在模型、推理与Agent工作流上的效率改进，目标是在相同成本下提供更高的有效智能产出。",
+          "why_it_matters": "单位推理成本决定大模型从演示走向规模化生产的速度，效率提升也会改变API定价、算力需求和应用毛利结构。",
+          "why_important": "单位推理成本决定大模型从演示走向规模化生产的速度，效率提升也会改变API定价、算力需求和应用毛利结构。",
+          "investment_observation": "关注真实任务的每次成功成本、延迟和上下文消耗，而不只看基准分数；推理优化、缓存和调度基础设施仍具持续机会。",
+          "investment_angle": "关注真实任务的每次成功成本、延迟和上下文消耗，而不只看基准分数；推理优化、缓存和调度基础设施仍具持续机会。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-5.6"
+          ],
+          "technologies": [
+            "推理优化",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-5.6"
+            ],
+            "technologies": [
+              "推理优化",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "推理效率",
+            "OpenAI"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "两项API设置让GPT-5.6的ARC-AGI-3得分提升三倍",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "OpenAI News",
+          "published_at": "Wed, 29 Jul 2026 15:00:00 GMT",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "后训练与评测",
+          "summary": "OpenAI称，通过保留推理状态与启用上下文压缩两项API设置，GPT-5.6在ARC-AGI-3上的得分和执行效率显著提升。",
+          "why_it_matters": "模型效果越来越取决于推理状态管理和Agent运行时，而非单纯更换模型；正确的工程配置可能带来接近模型升级的收益。",
+          "why_important": "模型效果越来越取决于推理状态管理和Agent运行时，而非单纯更换模型；正确的工程配置可能带来接近模型升级的收益。",
+          "investment_observation": "关注Agent记忆、上下文压缩、评测与可观测性工具；需要用生产任务验证提升是否稳定，以及额外token成本是否可控。",
+          "investment_angle": "关注Agent记忆、上下文压缩、评测与可观测性工具；需要用生产任务验证提升是否稳定，以及额外token成本是否可控。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-5.6",
+            "ARC-AGI-3"
+          ],
+          "technologies": [
+            "上下文压缩",
+            "推理状态"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-5.6",
+              "ARC-AGI-3"
+            ],
+            "technologies": [
+              "上下文压缩",
+              "推理状态"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "评测",
+            "Agent基础设施"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Google称AI帮助Chrome单月修复漏洞数超过过去两年",
+          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
+          "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 30 Jul 2026 18:57:58 +0000",
+          "selected_at": "2026-07-31T03:35:13+00:00",
+          "category": "产品应用",
+          "summary": "Google表示，借助大模型和AI安全工具，Chrome在6月修复的漏洞数量超过此前两年的总和，显示AI正在显著加快漏洞发现与修补。",
+          "why_it_matters": "软件安全可能成为编程Agent最早形成可量化回报的场景之一，同时也会提高攻击者自动发现漏洞的能力，推动攻防两端升级。",
+          "why_important": "软件安全可能成为编程Agent最早形成可量化回报的场景之一，同时也会提高攻击者自动发现漏洞的能力，推动攻防两端升级。",
+          "investment_observation": "关注漏洞误报率、修复采纳率和安全团队人效；能接入代码仓库并形成发现、验证、修复闭环的平台更具商业价值。",
+          "investment_angle": "关注漏洞误报率、修复采纳率和安全团队人效；能接入代码仓库并形成发现、验证、修复闭环的平台更具商业价值。",
+          "companies": [
+            "Google",
+            "Microsoft"
+          ],
+          "people": [],
+          "products": [
+            "Chrome"
+          ],
+          "technologies": [
+            "大语言模型",
+            "自动化漏洞修复"
+          ],
+          "entities": {
+            "companies": [
+              "Google",
+              "Microsoft"
+            ],
+            "people": [],
+            "products": [
+              "Chrome"
+            ],
+            "technologies": [
+              "大语言模型",
+              "自动化漏洞修复"
+            ]
+          },
+          "tags": [
+            "网络安全",
+            "编程Agent",
+            "产品应用"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Nscale收购Anyscale，向AI算力软件栈上游扩张",
+          "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack",
+          "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 30 Jul 2026 15:19:15 +0000",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "AI Infra",
+          "summary": "英国AI云服务商Nscale收购分布式计算软件公司Anyscale，意图把算力资源与跨服务器、跨数据中心的AI工作负载编排能力整合起来。",
+          "why_it_matters": "AI基础设施竞争正从GPU供给延伸到集群调度和开发者平台，软硬一体化有助于提升利用率、客户黏性和单位算力收入。",
+          "why_important": "AI基础设施竞争正从GPU供给延伸到集群调度和开发者平台，软硬一体化有助于提升利用率、客户黏性和单位算力收入。",
+          "investment_observation": "关注交易价格、Anyscale团队留存、Ray生态开放性和Nscale资本开支；整合若削弱中立性，可能给独立调度平台留下空间。",
+          "investment_angle": "关注交易价格、Anyscale团队留存、Ray生态开放性和Nscale资本开支；整合若削弱中立性，可能给独立调度平台留下空间。",
+          "companies": [
+            "Nscale",
+            "Anyscale"
+          ],
+          "people": [],
+          "products": [
+            "Ray"
+          ],
+          "technologies": [
+            "分布式计算",
+            "AI云",
+            "集群调度"
+          ],
+          "entities": {
+            "companies": [
+              "Nscale",
+              "Anyscale"
+            ],
+            "people": [],
+            "products": [
+              "Ray"
+            ],
+            "technologies": [
+              "分布式计算",
+              "AI云",
+              "集群调度"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "并购",
+            "算力"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Dili融资2170万美元，用AI服务基建合规",
+          "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom",
+          "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 30 Jul 2026 13:00:00 +0000",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "融资",
+          "summary": "AI合规平台Dili完成2170万美元融资，其中A轮由Khosla Ventures领投，产品面向基础设施项目的尽调、文档审查与合规流程。",
+          "why_it_matters": "数据中心和能源基础设施扩张带来大量监管与文档工作，垂直AI若能嵌入高价值审批流程，具备明确的付费逻辑。",
+          "why_important": "数据中心和能源基础设施扩张带来大量监管与文档工作，垂直AI若能嵌入高价值审批流程，具备明确的付费逻辑。",
+          "investment_observation": "关注客户续费、每个项目节省的人工时和审查准确率；此类产品的壁垒来自行业数据、流程集成与责任可追溯性。",
+          "investment_angle": "关注客户续费、每个项目节省的人工时和审查准确率；此类产品的壁垒来自行业数据、流程集成与责任可追溯性。",
+          "companies": [
+            "Dili",
+            "Khosla Ventures",
+            "Allianz",
+            "Y Combinator"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "文档智能",
+            "合规自动化"
+          ],
+          "entities": {
+            "companies": [
+              "Dili",
+              "Khosla Ventures",
+              "Allianz",
+              "Y Combinator"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "文档智能",
+              "合规自动化"
+            ]
+          },
+          "tags": [
+            "融资",
+            "垂直AI",
+            "基础设施"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "OpenAI发布Agent化科学计算实践报告",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "link": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI News",
+          "published_at": "Tue, 28 Jul 2026 17:00:00 GMT",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "科研",
+          "summary": "OpenAI发布实践报告，介绍科研人员如何使用AI编程Agent改造科学计算软件，并在基因组学等领域加快开发与研究流程。",
+          "why_it_matters": "科学软件维护成本高、人才稀缺，Agent若能可靠处理遗留代码和实验工作流，将直接提升科研基础设施效率与发现速度。",
+          "why_important": "科学软件维护成本高、人才稀缺，Agent若能可靠处理遗留代码和实验工作流，将直接提升科研基础设施效率与发现速度。",
+          "investment_observation": "关注代码正确性、可复现实验和科研机构的实际采用；科学计算工具链、数据治理与验证平台可能受益。",
+          "investment_angle": "关注代码正确性、可复现实验和科研机构的实际采用；科学计算工具链、数据治理与验证平台可能受益。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI编程Agent",
+            "科学计算",
+            "基因组学"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI编程Agent",
+              "科学计算",
+              "基因组学"
+            ]
+          },
+          "tags": [
+            "科研",
+            "编程Agent",
+            "科学计算"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Reddit财报稳健，但AI搜索冲击流量预期",
+          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact",
+          "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 30 Jul 2026 23:08:58 +0000",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "产品应用",
+          "summary": "Reddit公布稳健季度业绩，但市场仍担忧Google搜索流量变化及生成式AI重塑网页入口后，对其用户增长和内容变现的影响。",
+          "why_it_matters": "大型内容社区既是模型训练和检索的重要数据源，也面临AI答案减少外链点击的风险，数据授权与直接用户关系将更关键。",
+          "why_important": "大型内容社区既是模型训练和检索的重要数据源，也面临AI答案减少外链点击的风险，数据授权与直接用户关系将更关键。",
+          "investment_observation": "关注直接访问占比、Google导流变化、数据授权收入和广告增长；拥有独特社区数据并能维持用户参与的平台更具防御力。",
+          "investment_angle": "关注直接访问占比、Google导流变化、数据授权收入和广告增长；拥有独特社区数据并能维持用户参与的平台更具防御力。",
+          "companies": [
+            "Reddit",
+            "Google"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式搜索",
+            "数据授权"
+          ],
+          "entities": {
+            "companies": [
+              "Reddit",
+              "Google"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式搜索",
+              "数据授权"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "内容平台",
+            "数据"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "AI可穿戴设备Friend增加语音功能并大幅涨价",
+          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag",
+          "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 30 Jul 2026 19:44:16 +0000",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "智能硬件",
+          "summary": "AI可穿戴设备Friend推出可主动发声的新版本，同时显著提高售价，试图从文字陪伴转向更自然的实时语音交互。",
+          "why_it_matters": "AI硬件的核心挑战正在从模型能力转向持续使用、隐私、续航和付费意愿；价格上调提供了验证消费市场需求弹性的样本。",
+          "why_important": "AI硬件的核心挑战正在从模型能力转向持续使用、隐私、续航和付费意愿；价格上调提供了验证消费市场需求弹性的样本。",
+          "investment_observation": "观察实际出货、退货率、订阅收入和日活时长；若缺少高频刚需，语音与人格差异化难以覆盖硬件获客成本。",
+          "investment_angle": "观察实际出货、退货率、订阅收入和日活时长；若缺少高频刚需，语音与人格差异化难以覆盖硬件获客成本。",
+          "companies": [
+            "Friend"
+          ],
+          "people": [],
+          "products": [
+            "Friend AI wearable"
+          ],
+          "technologies": [
+            "语音AI",
+            "可穿戴设备"
+          ],
+          "entities": {
+            "companies": [
+              "Friend"
+            ],
+            "people": [],
+            "products": [
+              "Friend AI wearable"
+            ],
+            "technologies": [
+              "语音AI",
+              "可穿戴设备"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "AI陪伴",
+            "消费电子"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "OpenAI向10万名学术研究者开放高级ChatGPT能力",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "published_at": "Wed, 29 Jul 2026 10:00:00 GMT",
+          "selected_at": "2026-07-31T03:35:14+00:00",
+          "category": "科研",
+          "summary": "OpenAI计划向10万名学术研究者免费提供ChatGPT高级模型访问，以支持科研协作、分析和发现流程。",
+          "why_it_matters": "大规模科研用户计划既能降低先进模型的使用门槛，也会帮助模型公司积累高价值专业反馈与科研工作流数据。",
+          "why_important": "大规模科研用户计划既能降低先进模型的使用门槛，也会帮助模型公司积累高价值专业反馈与科研工作流数据。",
+          "investment_observation": "关注活跃使用率、论文与软件产出、机构续费及数据治理安排；科研场景可能带动专业工具与算力服务需求。",
+          "investment_angle": "关注活跃使用率、论文与软件产出、机构续费及数据治理安排；科研场景可能带动专业工具与算力服务需求。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "科研助手"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "科研助手"
+            ]
+          },
+          "tags": [
+            "科研",
+            "产品应用",
+            "OpenAI"
+          ],
+          "importance_score": 8.8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
+          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 28 Jul 2026 00:13:33 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "人物",
+          "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities。",
+          "why_it_matters": "Anthropic涉及关键高管或创始人的公开表态，这类信号通常会先于财报暴露产品、组织或战略层面的真实压力。",
+          "why_important": "Anthropic涉及关键高管或创始人的公开表态，这类信号通常会先于财报暴露产品、组织或战略层面的真实压力。",
+          "investment_observation": "建议继续跟踪Anthropic后续是否伴随资源重配、路线调整或新品节奏变化，这类管理层信号常会先影响生态合作方。",
+          "investment_angle": "建议继续跟踪Anthropic后续是否伴随资源重配、路线调整或新品节奏变化，这类管理层信号常会先影响生态合作方。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "人物",
+            "Anthropic"
+          ],
+          "importance_score": 10.0
+        },
+        {
+          "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+          "url": "https://36kr.com/p/3913320648971395?f=rss",
+          "link": "https://36kr.com/p/3913320648971395?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-27 19:37:06  +0800",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "融资",
+          "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "why_important": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "investment_angle": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "融资"
+          ],
+          "importance_score": 10.0
+        },
+        {
+          "title": "突发，翁荔离职Thinking Machines",
+          "url": "https://www.qbitai.com/2026/07/461517.html",
+          "link": "https://www.qbitai.com/2026/07/461517.html",
+          "source": "量子位",
+          "published_at": "Tue, 28 Jul 2026 01:21:00 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "人物",
+          "summary": "突发，翁荔离职Thinking Machines。20个月「像过完了一辈子」。",
+          "why_it_matters": "这条动态涉及关键高管或创始人的公开表态，这类信号通常会先于财报暴露产品、组织或战略层面的真实压力。",
+          "why_important": "这条动态涉及关键高管或创始人的公开表态，这类信号通常会先于财报暴露产品、组织或战略层面的真实压力。",
+          "investment_observation": "建议继续跟踪这条动态后续是否伴随资源重配、路线调整或新品节奏变化，这类管理层信号常会先影响生态合作方。",
+          "investment_angle": "建议继续跟踪这条动态后续是否伴随资源重配、路线调整或新品节奏变化，这类管理层信号常会先影响生态合作方。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "人物"
+          ],
+          "importance_score": 9.57
+        },
+        {
+          "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 27 Jul 2026 09:00:07 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic。",
+          "why_it_matters": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "why_important": "工业场景是检验 AI 能否创造真实生产率的试金石。相比消费端应用，能源、制造和运维场景更看重稳定性、成本节省和可审计结果。",
+          "investment_observation": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "investment_angle": "重点看节省的人力/停机成本、部署周期、系统集成难度和客户复购。能把 AI 嵌进关键设备运维的软件，会比泛化工具更容易形成高粘性收入。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Threads users can now chat with Meta AI in their DMs",
+          "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms",
+          "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 27 Jul 2026 16:45:24 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant。",
+          "why_it_matters": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "why_important": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "investment_observation": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "investment_angle": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司",
+            "Meta"
+          ],
+          "importance_score": 8.45
+        },
+        {
+          "title": "Kimi K3 Now Available via Telnyx Inference API",
+          "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+          "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+          "source": "Hacker News",
+          "published_at": "2026-07-27T22:46:28Z",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "技术",
+          "summary": "Kimi K3 Now Available via Telnyx Inference API 在 Hacker News 获得较高讨论度，33, comments: 13，说明该项目或话题在开发者社区已有明显关注。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "why_important": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "investment_angle": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "inference"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "inference"
+            ]
+          },
+          "tags": [
+            "技术",
+            "inference",
+            "开发者社区"
+          ],
+          "importance_score": 7.83
+        },
+        {
+          "title": "智能体走向终端，个人AI时代正在到来",
+          "url": "https://www.qbitai.com/2026/07/461565.html",
+          "link": "https://www.qbitai.com/2026/07/461565.html",
+          "source": "量子位",
+          "published_at": "Tue, 28 Jul 2026 01:38:58 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "智能体走向终端，个人AI时代正在到来，是当天值得跟踪的 AI 行业动态。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.65
+        },
+        {
+          "title": "The path to artificial superintelligence",
+          "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
+          "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 27 Jul 2026 12:00:00 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in i。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI agent"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI agent"
+            ]
+          },
+          "tags": [
+            "公司",
+            "AI agent"
+          ],
+          "importance_score": 7.53
+        },
+        {
+          "title": "Closing the data loop in AI-driven drug discovery",
+          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery",
+          "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 27 Jul 2026 11:40:16 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developin。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "why_important": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "investment_angle": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 7.53
+        },
+        {
+          "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+          "url": "https://36kr.com/p/3913706151400583?f=rss",
+          "link": "https://36kr.com/p/3913706151400583?f=rss",
+          "source": "36氪",
+          "published_at": "2026-07-27 17:48:07  +0800",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "产品",
+          "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放。",
+          "why_it_matters": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "why_important": "Agent 赛道的关键矛盾正在从“能演示”转向“能稳定执行、持续学习并融入真实工作流”。这类信号会影响应用入口、开发者工具和企业自动化预算流向。",
+          "investment_observation": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "investment_angle": "后续重点看任务完成率、跨应用权限、可观测性和企业集成成本。真正有投资价值的 Agent 公司应证明留存和付费，而不是只展示 demo。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "ChatGPT",
+            "Claude"
+          ],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [
+              "ChatGPT",
+              "Claude"
+            ],
+            "technologies": []
+          },
+          "tags": [
+            "产品",
+            "ChatGPT",
+            "Claude"
+          ],
+          "importance_score": 7.45
+        },
+        {
+          "title": "Why China is giving away its best AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "source": "The Verge AI",
+          "published_at": "2026-07-27T12:51:50-04:00",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "技术",
+          "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems bui。",
+          "why_it_matters": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "why_important": "融资、估值和收入数据能验证 AI 公司是否从概念热度进入商业化阶段。ARR、利润率和客户结构会直接影响同类项目的融资定价。",
+          "investment_observation": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "investment_angle": "不要只看融资额，要拆 ARR、毛利率、客户集中度和增长来源。若收入质量真实，同赛道估值锚会上移；若靠叙事支撑，则后续验证会很快反噬。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "技术"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "Patreon is laying off 20 percent of workers",
+          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "source": "The Verge AI",
+          "published_at": "2026-07-23T14:20:30-04:00",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company is。",
+          "why_it_matters": "AI 编程工具正在从补全代码走向改变开发流程本身。社区热度说明开发者已经在重新试验任务拆解、代码审查和人机协作的边界。",
+          "why_important": "AI 编程工具正在从补全代码走向改变开发流程本身。社区热度说明开发者已经在重新试验任务拆解、代码审查和人机协作的边界。",
+          "investment_observation": "重点跟踪开发者留存、生成代码通过率、代码审查节省时间和团队级付费。能嵌进现有 IDE、仓库和 CI/CD 的工具，会比单点插件更有分发优势。",
+          "investment_angle": "重点跟踪开发者留存、生成代码通过率、代码审查节省时间和团队级付费。能嵌进现有 IDE、仓库和 CI/CD 的工具，会比单点插件更有分发优势。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "RL"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "RL"
+            ]
+          },
+          "tags": [
+            "公司",
+            "RL"
+          ],
+          "importance_score": 7.22
+        },
+        {
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "published_at": "Mon, 27 Jul 2026 03:30:00 GMT",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "研究",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries。",
+          "why_it_matters": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "why_important": "用户采用率是判断 AI 产品是否从尝鲜工具进入日常基础设施的关键指标。高频使用会重塑搜索、办公、教育和开发者工具的流量入口。",
+          "investment_observation": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "investment_angle": "建议跟踪 DAU/WAU、付费转化、API 消耗和高频场景结构。若增长来自工作流刚需，会压缩垂直应用空间；若只是浅层试用，价值有限。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": []
+          },
+          "tags": [
+            "研究",
+            "OpenAI",
+            "ChatGPT"
+          ],
+          "importance_score": 7.07
+        },
+        {
+          "title": "Safety and alignment in an era of long-horizon models",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "published_at": "Mon, 20 Jul 2026 10:00:00 GMT",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment。",
+          "why_it_matters": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "why_important": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "investment_angle": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司",
+            "OpenAI"
+          ],
+          "importance_score": 5.57
+        },
+        {
+          "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+          "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin",
+          "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 20 Jul 2026 10:59:23 +0000",
+          "selected_at": "2026-07-28T04:56:37+00:00",
+          "category": "公司",
+          "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences。",
+          "why_it_matters": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "why_important": "推理成本和算力可获得性正在成为 AI 应用规模化的硬约束。谁能降低单位 token 成本、提高算力利用率，谁就更可能控制企业 AI 基础设施预算。",
+          "investment_observation": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "investment_angle": "可跟踪推理优化、GPU 调度、模型服务、缓存和成本监控工具。算力平台会挤压纯转售商，软件层若能直接节省成本则更有议价权。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司",
+            "NVIDIA"
+          ],
+          "importance_score": 5.32
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "count": 11,
