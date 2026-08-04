@@ -1,8 +1,455 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-04T06:49:51+00:00",
-  "digest_count": 22,
-  "article_count": 188,
+  "generated_at": "2026-08-04T15:20:00+08:00",
+  "digest_count": 23,
+  "article_count": 198,
   "digests": [
+    {
+      "date": "2026-08-04",
+      "count": 10,
+      "articles": [
+        {
+          "title": "城堡证券预计AI芯片扩张将催生逾5000亿美元债务融资",
+          "url": "https://36kr.com/newsflashes/3924702184176009?f=rss",
+          "link": "https://36kr.com/newsflashes/3924702184176009?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-04 13:04:18 +0800",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "AI Infra",
+          "summary": "城堡证券预计，到2028年科技公司还将在公开与私募信贷市场融资超过5000亿美元，用于支持AI园区建设所需的芯片和基础设施；这相当于彭博美国投资级债券指数规模的5%以上。",
+          "why_it_matters": "AI基础设施扩张正从科技公司的资本开支问题外溢到信用市场。融资期限、利差和偿债结构将直接影响数据中心与芯片需求能否按计划兑现。",
+          "why_important": "AI基础设施扩张正从科技公司的资本开支问题外溢到信用市场。融资期限、利差和偿债结构将直接影响数据中心与芯片需求能否按计划兑现。",
+          "investment_observation": "重点跟踪超大规模云厂商的自由现金流、债券期限和项目利用率。若融资成本持续上升，算力项目会更强调长期购电、芯片采购与客户预售合同，资产负债表较弱的运营商承压更大。",
+          "investment_angle": "重点跟踪超大规模云厂商的自由现金流、债券期限和项目利用率。若融资成本持续上升，算力项目会更强调长期购电、芯片采购与客户预售合同，资产负债表较弱的运营商承压更大。",
+          "companies": [
+            "Citadel Securities"
+          ],
+          "people": [
+            "Jeff Eason"
+          ],
+          "products": [],
+          "technologies": [
+            "AI芯片",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "Citadel Securities"
+            ],
+            "people": [
+              "Jeff Eason"
+            ],
+            "products": [],
+            "technologies": [
+              "AI芯片",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "债务融资",
+            "芯片"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "AWS允许Superblocks嵌入客户私有云，企业AI开发进一步模型解耦",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
+          "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 03 Aug 2026 20:00:00 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "产品",
+          "summary": "AWS允许AI应用开发平台Superblocks直接嵌入企业客户的私有云环境，使客户可以在受控数据边界内使用自然语言和Agent构建内部应用，并在不同模型之间切换。",
+          "why_it_matters": "企业采用AI编程工具的关键障碍是数据权限、部署边界和模型锁定。云内嵌部署把竞争焦点从单一模型能力转向工作流、治理和分发渠道。",
+          "why_important": "企业采用AI编程工具的关键障碍是数据权限、部署边界和模型锁定。云内嵌部署把竞争焦点从单一模型能力转向工作流、治理和分发渠道。",
+          "investment_observation": "关注Superblocks的企业席位扩张、应用上线率和AWS渠道贡献。云厂商可能扶持中立应用层以扩大算力消耗，但也保留复制高价值功能的能力。",
+          "investment_angle": "关注Superblocks的企业席位扩张、应用上线率和AWS渠道贡献。云厂商可能扶持中立应用层以扩大算力消耗，但也保留复制高价值功能的能力。",
+          "companies": [
+            "AWS",
+            "Superblocks"
+          ],
+          "people": [],
+          "products": [
+            "Superblocks"
+          ],
+          "technologies": [
+            "AI Agent",
+            "Vibe Coding",
+            "私有云"
+          ],
+          "entities": {
+            "companies": [
+              "AWS",
+              "Superblocks"
+            ],
+            "people": [],
+            "products": [
+              "Superblocks"
+            ],
+            "technologies": [
+              "AI Agent",
+              "Vibe Coding",
+              "私有云"
+            ]
+          },
+          "tags": [
+            "企业应用",
+            "AI编程",
+            "AWS",
+            "Agent"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Design Arena团队融资790万美元，用人类审美反馈训练AI模型",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
+          "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 03 Aug 2026 19:28:57 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "融资",
+          "summary": "Design Arena创始团队融资790万美元。平台已吸引约530万用户对AI生成设计进行成对比较，为前沿实验室提供审美偏好和人类评估数据。",
+          "why_it_matters": "当基础模型能力趋同，高质量人类偏好数据与细分评测成为后训练的重要壁垒。设计领域的主观判断尤其难以仅靠合成数据替代。",
+          "why_important": "当基础模型能力趋同，高质量人类偏好数据与细分评测成为后训练的重要壁垒。设计领域的主观判断尤其难以仅靠合成数据替代。",
+          "investment_observation": "重点核查付费客户集中度、每条评估数据的单位价值和数据授权。能持续获得真实用户反馈的平台具备数据飞轮，但需要防止激励偏差和模型厂商自建评测体系。",
+          "investment_angle": "重点核查付费客户集中度、每条评估数据的单位价值和数据授权。能持续获得真实用户反馈的平台具备数据飞轮，但需要防止激励偏差和模型厂商自建评测体系。",
+          "companies": [
+            "Design Arena"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "人类反馈",
+            "后训练",
+            "模型评测"
+          ],
+          "entities": {
+            "companies": [
+              "Design Arena"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "人类反馈",
+              "后训练",
+              "模型评测"
+            ]
+          },
+          "tags": [
+            "融资",
+            "数据",
+            "后训练",
+            "设计"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "研究指出LLM无法彻底免疫提示注入攻击",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+          "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+          "source": "MIT Technology Review AI",
+          "published_at": "Thu, 30 Jul 2026 10:15:19 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "安全",
+          "summary": "MIT Technology Review报道，一组研究人员认为，大语言模型把可信指令与不可信外部内容放在同一语言通道中处理，形成难以从根本消除的提示注入攻击面。",
+          "why_it_matters": "Agent一旦能读取网页、邮件并调用工具，提示注入就可能升级为数据泄露或越权操作。安全设计必须从追求完美过滤转向最小权限、隔离和可恢复执行。",
+          "why_important": "Agent一旦能读取网页、邮件并调用工具，提示注入就可能升级为数据泄露或越权操作。安全设计必须从追求完美过滤转向最小权限、隔离和可恢复执行。",
+          "investment_observation": "关注Agent网关、权限控制、运行时隔离和红队评测的企业预算。安全产品需要证明能降低真实事故率，而非仅在静态基准上提高拦截率。",
+          "investment_angle": "关注Agent网关、权限控制、运行时隔离和红队评测的企业预算。安全产品需要证明能降低真实事故率，而非仅在静态基准上提高拦截率。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM",
+            "提示注入",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "LLM",
+              "提示注入",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "研究",
+            "提示注入",
+            "Agent"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "苹果考虑通过iCloud+为Siri高级AI算力收费",
+          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
+          "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 31 Jul 2026 16:08:18 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "产品",
+          "summary": "TechCrunch援引苹果CEO Tim Cook的表态称，苹果设想让高需求用户通过现有iCloud+订阅购买更多Siri AI计算资源，把部分高级能力纳入付费服务。",
+          "why_it_matters": "消费级AI助手开始探索按算力和高级能力分层收费，说明推理成本仍难被硬件销售完全吸收，也可能重塑操作系统级订阅收入。",
+          "why_important": "消费级AI助手开始探索按算力和高级能力分层收费，说明推理成本仍难被硬件销售完全吸收，也可能重塑操作系统级订阅收入。",
+          "investment_observation": "观察实际定价、免费额度、设备覆盖和用户留存。苹果拥有系统入口与支付渠道，但若基础体验被过度付费墙切割，可能削弱Siri相对通用助手的竞争力。",
+          "investment_angle": "观察实际定价、免费额度、设备覆盖和用户留存。苹果拥有系统入口与支付渠道，但若基础体验被过度付费墙切割，可能削弱Siri相对通用助手的竞争力。",
+          "companies": [
+            "Apple"
+          ],
+          "people": [
+            "Tim Cook"
+          ],
+          "products": [
+            "Siri",
+            "iCloud+"
+          ],
+          "technologies": [
+            "端侧AI",
+            "推理算力"
+          ],
+          "entities": {
+            "companies": [
+              "Apple"
+            ],
+            "people": [
+              "Tim Cook"
+            ],
+            "products": [
+              "Siri",
+              "iCloud+"
+            ],
+            "technologies": [
+              "端侧AI",
+              "推理算力"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "AI助手",
+            "订阅",
+            "Apple"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "商汤预览开源生图模型SenseNova U1.5 Lite，支持4K输出",
+          "url": "https://www.qbitai.com/2026/08/465673.html",
+          "link": "https://www.qbitai.com/2026/08/465673.html",
+          "source": "量子位",
+          "published_at": "Mon, 03 Aug 2026 11:59:32 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "开源",
+          "summary": "商汤预览SenseNova U1.5 Lite图像生成模型，主打原生高分辨率与4K输出，并计划以开源方式提供，继续扩大国产视觉生成模型的可部署选择。",
+          "why_it_matters": "高分辨率开源模型降低了广告、电商和内容制作的私有化门槛，也把竞争从单张效果推进到推理成本、中文字形、可控编辑和商用授权。",
+          "why_important": "高分辨率开源模型降低了广告、电商和内容制作的私有化门槛，也把竞争从单张效果推进到推理成本、中文字形、可控编辑和商用授权。",
+          "investment_observation": "后续应核对权重、许可证、显存需求和社区采用率。开源影响力只有转化为API、企业部署或工具链收入，才能形成持续商业价值。",
+          "investment_angle": "后续应核对权重、许可证、显存需求和社区采用率。开源影响力只有转化为API、企业部署或工具链收入，才能形成持续商业价值。",
+          "companies": [
+            "商汤科技"
+          ],
+          "people": [],
+          "products": [
+            "SenseNova U1.5 Lite"
+          ],
+          "technologies": [
+            "图像生成",
+            "4K生成"
+          ],
+          "entities": {
+            "companies": [
+              "商汤科技"
+            ],
+            "people": [],
+            "products": [
+              "SenseNova U1.5 Lite"
+            ],
+            "technologies": [
+              "图像生成",
+              "4K生成"
+            ]
+          },
+          "tags": [
+            "开源",
+            "多模态",
+            "国产模型",
+            "图像生成"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "翰智推出GEO服务，品牌开始争夺AI答案入口",
+          "url": "https://www.qbitai.com/2026/08/465662.html",
+          "link": "https://www.qbitai.com/2026/08/465662.html",
+          "source": "量子位",
+          "published_at": "Mon, 03 Aug 2026 06:58:06 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "应用",
+          "summary": "翰智推出面向品牌的生成式引擎优化（GEO）服务，通过内容结构、知识表达和效果监测，提高品牌信息被AI搜索与问答产品引用的概率。",
+          "why_it_matters": "用户获取信息的入口正从传统搜索结果页延伸到AI直接生成的答案，品牌营销由争夺点击排名转向争夺模型引用与答案份额。",
+          "why_important": "用户获取信息的入口正从传统搜索结果页延伸到AI直接生成的答案，品牌营销由争夺点击排名转向争夺模型引用与答案份额。",
+          "investment_observation": "GEO仍处早期，重点看引用率能否稳定归因并转化为销售。具备权威数据源、内容分发和跨模型监测能力的平台更可能形成壁垒，单纯关键词包装容易被平台能力替代。",
+          "investment_angle": "GEO仍处早期，重点看引用率能否稳定归因并转化为销售。具备权威数据源、内容分发和跨模型监测能力的平台更可能形成壁垒，单纯关键词包装容易被平台能力替代。",
+          "companies": [
+            "翰智"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GEO",
+            "AI搜索"
+          ],
+          "entities": {
+            "companies": [
+              "翰智"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GEO",
+              "AI搜索"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI搜索",
+            "营销科技",
+            "GEO"
+          ],
+          "importance_score": 7.7
+        },
+        {
+          "title": "创作者版税能否缓解AI训练数据争议，Seedance合作模式受关注",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "source": "The Verge AI",
+          "published_at": "2026-08-02T09:00:00-04:00",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "数据",
+          "summary": "The Verge以插画师Pippa与Seedance的合作为例，讨论生成式AI公司通过授权和版税补偿创作者，能否建立比未经许可抓取训练数据更可持续的内容供给模式。",
+          "why_it_matters": "版权诉讼之外，可追踪授权与收入分成正在成为训练数据治理的现实路径。其可扩展性会影响模型公司的数据成本和创作者生态。",
+          "why_important": "版权诉讼之外，可追踪授权与收入分成正在成为训练数据治理的现实路径。其可扩展性会影响模型公司的数据成本和创作者生态。",
+          "investment_observation": "关注版税计算透明度、退出机制和授权覆盖面。若平台能形成标准化权利清算，可能出现新的数据授权基础设施；若补偿过低，则难以获得高质量创作者参与。",
+          "investment_angle": "关注版税计算透明度、退出机制和授权覆盖面。若平台能形成标准化权利清算，可能出现新的数据授权基础设施；若补偿过低，则难以获得高质量创作者参与。",
+          "companies": [
+            "Seedance"
+          ],
+          "people": [
+            "Pippa"
+          ],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "训练数据"
+          ],
+          "entities": {
+            "companies": [
+              "Seedance"
+            ],
+            "people": [
+              "Pippa"
+            ],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "训练数据"
+            ]
+          },
+          "tags": [
+            "数据",
+            "版权",
+            "创作者经济",
+            "生成式AI"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "手工重写AI生成代码引发开发者对“认知债务”的讨论",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "published_at": "2026-08-03T09:32:07Z",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "开发者",
+          "summary": "开发者Ankur Sethi提出，手工重新输入并理解LLM生成的代码，可以减少团队在快速接受AI输出时积累的“认知债务”；该观点在Hacker News引发数百条讨论。",
+          "why_it_matters": "AI编程的效率增益可能伴随代码理解、审查和维护能力下降。企业衡量工具价值时需要把返工率、安全缺陷和新人培养纳入总成本。",
+          "why_important": "AI编程的效率增益可能伴随代码理解、审查和维护能力下降。企业衡量工具价值时需要把返工率、安全缺陷和新人培养纳入总成本。",
+          "investment_observation": "关注代码审查、溯源、测试生成和团队知识管理工具。仅提高代码产量的产品容易同质化，能证明降低缺陷与维护成本的平台更有长期价值。",
+          "investment_angle": "关注代码审查、溯源、测试生成和团队知识管理工具。仅提高代码产量的产品容易同质化，能证明降低缺陷与维护成本的平台更有长期价值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM",
+            "AI编程"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "LLM",
+              "AI编程"
+            ]
+          },
+          "tags": [
+            "开发者工具",
+            "AI编程",
+            "软件工程",
+            "Hacker News"
+          ],
+          "importance_score": 7.5
+        },
+        {
+          "title": "Sam Altman继续为ChatGPT育儿场景辩护，引发可靠性争议",
+          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt",
+          "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt",
+          "source": "TechCrunch AI",
+          "published_at": "Sat, 01 Aug 2026 17:07:34 +0000",
+          "selected_at": "2026-08-04T15:20:00+08:00",
+          "category": "人物",
+          "summary": "TechCrunch报道，OpenAI CEO Sam Altman继续强调自己在育儿决策中使用ChatGPT的经验，同时文章质疑把通用AI助手用于高风险家庭建议时的可靠性、责任和过度依赖问题。",
+          "why_it_matters": "头部公司领导者对日常高频场景的公开背书会推动采用，也会把模型幻觉、年龄适配和责任边界带入消费产品监管讨论。",
+          "why_important": "头部公司领导者对日常高频场景的公开背书会推动采用，也会把模型幻觉、年龄适配和责任边界带入消费产品监管讨论。",
+          "investment_observation": "观察OpenAI是否推出更明确的育儿健康提示、年龄保护与责任机制。高频家庭场景有留存潜力，但错误建议带来的品牌与合规风险显著高于一般信息查询。",
+          "investment_angle": "观察OpenAI是否推出更明确的育儿健康提示、年龄保护与责任机制。高频家庭场景有留存潜力，但错误建议带来的品牌与合规风险显著高于一般信息查询。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "生成式AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "生成式AI"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "ChatGPT",
+            "消费应用",
+            "AI治理"
+          ],
+          "importance_score": 7.4
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "count": 10,
