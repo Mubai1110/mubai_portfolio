@@ -1,8 +1,442 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-04T15:20:00+08:00",
-  "digest_count": 23,
-  "article_count": 198,
+  "generated_at": "2026-08-05T09:18:00+08:00",
+  "digest_count": 24,
+  "article_count": 208,
   "digests": [
+    {
+      "date": "2026-08-05",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Anthropic与AI云厂商Volta签署100亿美元算力协议",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 04 Aug 2026 19:48:40 +0000",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "AI Infra",
+          "summary": "Anthropic与成立不久的AI云基础设施公司Volta签署一项为期六年、总额约100亿美元的算力协议，相关容量来自挪威数据中心；这笔订单也帮助Volta获得约24亿美元估值。",
+          "why_it_matters": "超大模型公司的长期算力锁定继续催生新一代云厂商，并把模型需求、低成本电力、GPU融资和数据中心建设绑定在同一张资产负债表上。",
+          "why_important": "超大模型公司的长期算力锁定继续催生新一代云厂商，并把模型需求、低成本电力、GPU融资和数据中心建设绑定在同一张资产负债表上。",
+          "investment_observation": "重点核查协议中的最低采购量、交付节奏、融资结构和利用率。长约可帮助新云厂商融资，但客户集中、建设延期与模型需求变化会放大项目风险。",
+          "investment_angle": "重点核查协议中的最低采购量、交付节奏、融资结构和利用率。长约可帮助新云厂商融资，但客户集中、建设延期与模型需求变化会放大项目风险。",
+          "companies": [
+            "Anthropic",
+            "Volta"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "GPU云",
+            "AI数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Volta"
+            ],
+            "people": [],
+            "products": [
+              "Claude"
+            ],
+            "technologies": [
+              "GPU云",
+              "AI数据中心"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "算力",
+            "云计算",
+            "Anthropic"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "AMD数据中心收入增长，AI芯片业务继续超过游戏板块",
+          "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "source": "The Verge AI",
+          "published_at": "2026-08-04T16:57:49-04:00",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "芯片",
+          "summary": "AMD最新季度业绩显示，数据中心业务在AI加速器和服务器CPU需求推动下继续扩张，而游戏业务在公司收入结构中的相对权重进一步下降。",
+          "why_it_matters": "AMD正在把增长重心从周期性更强的消费游戏市场转向AI数据中心，市场竞争也从单一GPU性能延伸到CPU、网络、软件栈和整机交付。",
+          "why_important": "AMD正在把增长重心从周期性更强的消费游戏市场转向AI数据中心，市场竞争也从单一GPU性能延伸到CPU、网络、软件栈和整机交付。",
+          "investment_observation": "关注Instinct出货、数据中心毛利率、客户集中度及ROCm生态。收入增长若主要依赖少数大客户，订单可见度虽高，但议价和执行风险也更集中。",
+          "investment_angle": "关注Instinct出货、数据中心毛利率、客户集中度及ROCm生态。收入增长若主要依赖少数大客户，订单可见度虽高，但议价和执行风险也更集中。",
+          "companies": [
+            "AMD"
+          ],
+          "people": [],
+          "products": [
+            "AMD Instinct",
+            "Ryzen"
+          ],
+          "technologies": [
+            "AI加速器",
+            "服务器CPU"
+          ],
+          "entities": {
+            "companies": [
+              "AMD"
+            ],
+            "people": [],
+            "products": [
+              "AMD Instinct",
+              "Ryzen"
+            ],
+            "technologies": [
+              "AI加速器",
+              "服务器CPU"
+            ]
+          },
+          "tags": [
+            "芯片",
+            "AI Infra",
+            "财报",
+            "AMD"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "OpenAI提出第三方网络安全评测的透明度与可复现规范",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "published_at": "Tue, 04 Aug 2026 19:00:00 GMT",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "安全",
+          "summary": "OpenAI总结涉及其模型的第三方网络安全评测，强调评测应说明测试主张、模型与工具配置、脚手架选择、人工复核和结果外推边界，避免用单一分数作过度结论。",
+          "why_it_matters": "当前模型的网络能力高度依赖工具、提示和执行环境。统一披露方法有助于区分模型真实能力、评测脚手架增益以及奖励作弊等测量误差。",
+          "why_important": "当前模型的网络能力高度依赖工具、提示和执行环境。统一披露方法有助于区分模型真实能力、评测脚手架增益以及奖励作弊等测量误差。",
+          "investment_observation": "安全评测将从排行榜走向审计级证据链。关注评测平台、隔离环境、人工复核与可复现实验工具的企业需求，以及模型厂商是否共同采用披露标准。",
+          "investment_angle": "安全评测将从排行榜走向审计级证据链。关注评测平台、隔离环境、人工复核与可复现实验工具的企业需求，以及模型厂商是否共同采用披露标准。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-5.4"
+          ],
+          "technologies": [
+            "网络安全评测",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-5.4"
+            ],
+            "technologies": [
+              "网络安全评测",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "模型评测",
+            "网络安全",
+            "OpenAI"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Runware推出可运输AI数据中心舱，瞄准快速部署推理算力",
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
+          "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 04 Aug 2026 13:00:00 +0000",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "AI Infra",
+          "summary": "AI推理平台Runware推出模块化可运输数据中心舱，希望把预集成的计算、供电和冷却系统运往具备电力条件的地点，以缩短新增AI算力的部署周期。",
+          "why_it_matters": "模块化设计试图绕过传统数据中心漫长的选址和建设周期，更贴近推理负载分散、快速扩容和靠近低价电力的需求。",
+          "why_important": "模块化设计试图绕过传统数据中心漫长的选址和建设周期，更贴近推理负载分散、快速扩容和靠近低价电力的需求。",
+          "investment_observation": "关注单舱建设成本、能效、联网条件、实际交付周期和客户利用率。可复制的工程标准可能形成设备与运营机会，但维护和并网复杂度不能被低估。",
+          "investment_angle": "关注单舱建设成本、能效、联网条件、实际交付周期和客户利用率。可复制的工程标准可能形成设备与运营机会，但维护和并网复杂度不能被低估。",
+          "companies": [
+            "Runware"
+          ],
+          "people": [],
+          "products": [
+            "Runware Pod"
+          ],
+          "technologies": [
+            "模块化数据中心",
+            "AI推理"
+          ],
+          "entities": {
+            "companies": [
+              "Runware"
+            ],
+            "people": [],
+            "products": [
+              "Runware Pod"
+            ],
+            "technologies": [
+              "模块化数据中心",
+              "AI推理"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "数据中心",
+            "推理",
+            "硬件"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "开源科研Agent框架主打零依赖与30余项研究技能",
+          "url": "https://www.qbitai.com/2026/08/466386.html",
+          "link": "https://www.qbitai.com/2026/08/466386.html",
+          "source": "量子位",
+          "published_at": "Tue, 04 Aug 2026 13:14:27 +0000",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "开源",
+          "summary": "一款被称为开源版“Claude Science”的科研Agent框架以MIT协议发布，提供30余项科研技能，覆盖文献处理、分析与研究工作流，并强调轻量、零依赖部署。",
+          "why_it_matters": "科研Agent的竞争正从对话能力转向可组合技能、可复现流程和工具调用。宽松许可证有利于高校和企业在私有环境中二次开发。",
+          "why_important": "科研Agent的竞争正从对话能力转向可组合技能、可复现流程和工具调用。宽松许可证有利于高校和企业在私有环境中二次开发。",
+          "investment_observation": "重点验证代码维护频率、真实科研任务准确率、引用可追溯性和社区采用。技能数量不是壁垒，稳定编排、数据接口与结果审计更能决定商业化价值。",
+          "investment_angle": "重点验证代码维护频率、真实科研任务准确率、引用可追溯性和社区采用。技能数量不是壁垒，稳定编排、数据接口与结果审计更能决定商业化价值。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "Claude Science开源框架"
+          ],
+          "technologies": [
+            "AI Agent",
+            "科研自动化"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [
+              "Claude Science开源框架"
+            ],
+            "technologies": [
+              "AI Agent",
+              "科研自动化"
+            ]
+          },
+          "tags": [
+            "开源",
+            "科研",
+            "Agent",
+            "开发者工具"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "研究系统梳理AI基准饱和，呼吁用更难且持续更新的评测",
+          "url": "https://arxiv.org/abs/2602.16763",
+          "link": "https://arxiv.org/abs/2602.16763",
+          "source": "Hacker News",
+          "published_at": "2026-08-04T16:10:39Z",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "研究",
+          "summary": "一项系统研究分析多个AI基准随时间出现的分数饱和现象，讨论训练数据污染、题目难度不足和模型区分度下降，并提出更新评测集与报告方式的建议。",
+          "why_it_matters": "基准一旦饱和，就难以判断新模型是真正能力提升还是针对题库优化，进而影响模型采购、研究路线和资本市场对技术进展的判断。",
+          "why_important": "基准一旦饱和，就难以判断新模型是真正能力提升还是针对题库优化，进而影响模型采购、研究路线和资本市场对技术进展的判断。",
+          "investment_observation": "评测基础设施需要从静态题库转向动态、私有和任务型测试。关注拥有真实工作流数据、持续出题能力和防污染机制的平台。",
+          "investment_angle": "评测基础设施需要从静态题库转向动态、私有和任务型测试。关注拥有真实工作流数据、持续出题能力和防污染机制的平台。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "模型评测",
+            "LLM"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "模型评测",
+              "LLM"
+            ]
+          },
+          "tags": [
+            "研究",
+            "基准测试",
+            "LLM",
+            "数据污染"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "NVIDIA加入美国NSF区域AI枢纽计划，扩大研究与教育基础设施",
+          "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+          "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 04 Aug 2026 16:00:56 +0000",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "生态",
+          "summary": "NVIDIA加入美国国家科学基金会的州级与区域AI枢纽计划，为各地高校、研究机构和人才培养项目提供计算平台、软件与培训资源。",
+          "why_it_matters": "公共科研算力和人才网络正成为AI产业政策的一部分。硬件厂商通过教育与研究项目扩大开发者基础，也可能提前锁定未来的软件栈和采购偏好。",
+          "why_important": "公共科研算力和人才网络正成为AI产业政策的一部分。硬件厂商通过教育与研究项目扩大开发者基础，也可能提前锁定未来的软件栈和采购偏好。",
+          "investment_observation": "关注项目覆盖地区、实际算力投入和后续政府采购。生态投入有长期平台价值，但短期收入贡献通常有限，需要与开发者活跃度和企业转化结合评估。",
+          "investment_angle": "关注项目覆盖地区、实际算力投入和后续政府采购。生态投入有长期平台价值，但短期收入贡献通常有限，需要与开发者活跃度和企业转化结合评估。",
+          "companies": [
+            "NVIDIA",
+            "NSF"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI计算",
+            "科研基础设施"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "NSF"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI计算",
+              "科研基础设施"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "研究",
+            "人才",
+            "NVIDIA"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "AI负载推高内存与存储需求，NVIDIA强调数据管线成为性能瓶颈",
+          "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
+          "link": "https://blogs.nvidia.com/blog/ai-storage-fms",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 04 Aug 2026 15:00:47 +0000",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA指出，训练、推理和Agent工作流产生的大规模数据访问正在提升高带宽内存、闪存与并行存储的重要性，存储系统需要更紧密地配合GPU数据管线。",
+          "why_it_matters": "AI基础设施瓶颈正在从纯计算扩展到内存容量、带宽和数据移动。系统级优化会影响GPU利用率与总体拥有成本。",
+          "why_important": "AI基础设施瓶颈正在从纯计算扩展到内存容量、带宽和数据移动。系统级优化会影响GPU利用率与总体拥有成本。",
+          "investment_observation": "关注HBM、企业级SSD、并行文件系统和数据编排厂商的订单，但需区分真实AI新增需求与行业宣传，并跟踪单位算力所需存储是否持续上升。",
+          "investment_angle": "关注HBM、企业级SSD、并行文件系统和数据编排厂商的订单，但需区分真实AI新增需求与行业宣传，并跟踪单位算力所需存储是否持续上升。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "HBM",
+            "AI存储",
+            "GPU"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "HBM",
+              "AI存储",
+              "GPU"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "存储",
+            "内存",
+            "NVIDIA"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "调查称非健康式使用AI聊天机器人比预期更普遍",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "source": "The Verge AI",
+          "published_at": "2026-08-04T13:33:46-04:00",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "治理",
+          "summary": "The Verge援引相关研究与案例讨论用户对AI聊天机器人的依赖、强迫性互动和现实判断受影响等现象，指出问题并不限于少数极端个案。",
+          "why_it_matters": "聊天机器人进入情感陪伴和心理支持场景后，留存机制与用户福祉可能发生冲突，平台需要更清晰地识别高风险对话并设计转介和限制机制。",
+          "why_important": "聊天机器人进入情感陪伴和心理支持场景后，留存机制与用户福祉可能发生冲突，平台需要更清晰地识别高风险对话并设计转介和限制机制。",
+          "investment_observation": "关注平台的风险识别指标、青少年保护、危机转介与监管要求。高互动时长不应被简单视为产品成功，安全事故可能带来显著品牌和合规成本。",
+          "investment_angle": "关注平台的风险识别指标、青少年保护、危机转介与监管要求。高互动时长不应被简单视为产品成功，安全事故可能带来显著品牌和合规成本。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM",
+            "情感陪伴"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "LLM",
+              "情感陪伴"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "消费应用",
+            "用户安全",
+            "LLM"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "国际刑警组织称AI已参与非洲过半网络犯罪案件",
+          "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol",
+          "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol",
+          "source": "Africanews",
+          "published_at": "2026-08-04T22:01:41Z",
+          "selected_at": "2026-08-05T09:18:00+08:00",
+          "category": "安全",
+          "summary": "Africanews援引国际刑警组织报告称，AI工具已参与非洲超过一半的网络犯罪案件，诈骗者利用生成内容、自动化和身份仿冒扩大攻击规模。",
+          "why_it_matters": "生成式AI降低了多语言诈骗和批量社会工程攻击的成本，而执法资源和数字身份基础设施不足的地区更容易受到冲击。",
+          "why_important": "生成式AI降低了多语言诈骗和批量社会工程攻击的成本，而执法资源和数字身份基础设施不足的地区更容易受到冲击。",
+          "investment_observation": "关注身份验证、反欺诈、深度伪造检测和跨境威胁情报需求。市场机会取决于本地支付与电信数据接入，同时需审慎核验统计口径。",
+          "investment_angle": "关注身份验证、反欺诈、深度伪造检测和跨境威胁情报需求。市场机会取决于本地支付与电信数据接入，同时需审慎核验统计口径。",
+          "companies": [
+            "Interpol"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "深度伪造",
+            "反欺诈"
+          ],
+          "entities": {
+            "companies": [
+              "Interpol"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "深度伪造",
+              "反欺诈"
+            ]
+          },
+          "tags": [
+            "网络安全",
+            "AI滥用",
+            "反欺诈",
+            "非洲"
+          ],
+          "importance_score": 7.6
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "count": 10,
