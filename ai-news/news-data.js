@@ -1,8 +1,277 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-08T08:57:58+00:00",
-  "digest_count": 25,
-  "article_count": 219,
+  "generated_at": "2026-08-09T00:06:30+00:00",
+  "digest_count": 26,
+  "article_count": 225,
   "digests": [
+    {
+      "date": "2026-08-09",
+      "count": 6,
+      "articles": [
+        {
+          "title": "NVIDIA 支持 Firebird 在亚美尼亚建设独联体地区最大 AI 工厂",
+          "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+          "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+          "source": "NVIDIA Blog",
+          "published_at": "Sat, 08 Aug 2026 10:24:54 +0000",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "AI Infra",
+          "summary": "新兴 AI 云服务商 Firebird 在亚美尼亚启动区域大型 AI 工厂，规划采用 NVIDIA Blackwell、Rubin 与 DSX 平台，为当地及周边市场提供主权算力。",
+          "why_it_matters": "AI 基础设施正从少数超大市场向区域主权算力节点扩散，算力供给、数据驻留和本地产业政策开始被打包为同一项竞争能力。",
+          "why_important": "AI 基础设施正从少数超大市场向区域主权算力节点扩散，算力供给、数据驻留和本地产业政策开始被打包为同一项竞争能力。",
+          "investment_observation": "关注项目实际装机、利用率、电力与网络条件，以及本地客户结构。区域 AI 云若能形成稳定推理负载，将带动数据中心、电力、散热和模型服务软件需求。",
+          "investment_angle": "关注项目实际装机、利用率、电力与网络条件，以及本地客户结构。区域 AI 云若能形成稳定推理负载，将带动数据中心、电力、散热和模型服务软件需求。",
+          "companies": [
+            "NVIDIA",
+            "Firebird"
+          ],
+          "people": [],
+          "products": [
+            "Blackwell",
+            "Rubin",
+            "DSX"
+          ],
+          "technologies": [
+            "AI 工厂",
+            "主权算力"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Firebird"
+            ],
+            "people": [],
+            "products": [
+              "Blackwell",
+              "Rubin",
+              "DSX"
+            ],
+            "technologies": [
+              "AI 工厂",
+              "主权算力"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "NVIDIA",
+            "数据中心",
+            "主权AI"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "ChatGPT 向免费用户开放不限量文本对话并增加 Think 按钮",
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
+          "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 06 Aug 2026 17:34:42 +0000",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "产品应用",
+          "summary": "OpenAI 调整 ChatGPT 免费层与 Go 套餐，免费用户可进行不限量文本对话，并可通过新的 Think 按钮主动调用更深入的推理体验。",
+          "why_it_matters": "免费层限制下降会扩大用户规模和使用频次，同时把竞争焦点从基础访问权转向推理质量、响应速度、生态入口与付费增值。",
+          "why_important": "免费层限制下降会扩大用户规模和使用频次，同时把竞争焦点从基础访问权转向推理质量、响应速度、生态入口与付费增值。",
+          "investment_observation": "重点跟踪免费用户留存、推理功能使用率、付费转化和单位服务成本。若成本控制有效，头部助手将进一步挤压缺少专有数据或工作流壁垒的通用应用。",
+          "investment_angle": "重点跟踪免费用户留存、推理功能使用率、付费转化和单位服务成本。若成本控制有效，头部助手将进一步挤压缺少专有数据或工作流壁垒的通用应用。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT",
+            "Think"
+          ],
+          "technologies": [
+            "推理模型"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT",
+              "Think"
+            ],
+            "technologies": [
+              "推理模型"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "OpenAI",
+            "ChatGPT",
+            "推理"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "阿里发布 CosyVoice Studio，将语义理解整合进一站式 AI 语音平台",
+          "url": "https://www.qbitai.com/2026/08/468324.html",
+          "link": "https://www.qbitai.com/2026/08/468324.html",
+          "source": "量子位",
+          "published_at": "Fri, 07 Aug 2026 07:43:06 +0000",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "产品应用",
+          "summary": "阿里推出 CosyVoice Studio，将语音理解、合成与内容创作能力整合到统一平台，面向开发者和内容生产者提供从“听”到“说”和“创”的工作流。",
+          "why_it_matters": "语音模型正从单点合成工具升级为理解与生成一体化平台，竞争会更依赖中文语义、情感控制、低延迟和企业工作流集成。",
+          "why_important": "语音模型正从单点合成工具升级为理解与生成一体化平台，竞争会更依赖中文语义、情感控制、低延迟和企业工作流集成。",
+          "investment_observation": "观察 API 调用增长、企业客户留存、实时语音成本与版权治理。平台若能沉淀声音资产和开发者生态，将比单一语音模型具备更强商业黏性。",
+          "investment_angle": "观察 API 调用增长、企业客户留存、实时语音成本与版权治理。平台若能沉淀声音资产和开发者生态，将比单一语音模型具备更强商业黏性。",
+          "companies": [
+            "阿里巴巴"
+          ],
+          "people": [],
+          "products": [
+            "CosyVoice Studio"
+          ],
+          "technologies": [
+            "语音合成",
+            "语义理解"
+          ],
+          "entities": {
+            "companies": [
+              "阿里巴巴"
+            ],
+            "people": [],
+            "products": [
+              "CosyVoice Studio"
+            ],
+            "technologies": [
+              "语音合成",
+              "语义理解"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "语音AI",
+            "阿里巴巴",
+            "开发者平台"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "AI 批量提交冲击苹果漏洞赏金计划，审核团队一度下线",
+          "url": "https://www.qbitai.com/2026/08/466738.html",
+          "link": "https://www.qbitai.com/2026/08/466738.html",
+          "source": "量子位",
+          "published_at": "Fri, 07 Aug 2026 06:21:05 +0000",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "AI安全",
+          "summary": "大量利用 AI 生成的漏洞报告涌入苹果漏洞赏金渠道，显著增加审核负担并导致团队一度下线，暴露自动化安全研究在质量控制上的副作用。",
+          "why_it_matters": "AI 降低漏洞发现和报告门槛，也会制造海量误报与重复提交；安全团队需要机器可验证证据、去重和信誉体系来维持响应能力。",
+          "why_important": "AI 降低漏洞发现和报告门槛，也会制造海量误报与重复提交；安全团队需要机器可验证证据、去重和信誉体系来维持响应能力。",
+          "investment_observation": "关注自动化漏洞复现、报告去重、风险排序和研究者信誉产品。能减少人工审核时间并输出可验证利用链的安全工具，更容易形成企业预算。",
+          "investment_angle": "关注自动化漏洞复现、报告去重、风险排序和研究者信誉产品。能减少人工审核时间并输出可验证利用链的安全工具，更容易形成企业预算。",
+          "companies": [
+            "苹果"
+          ],
+          "people": [],
+          "products": [
+            "Apple Security Bounty"
+          ],
+          "technologies": [
+            "AI漏洞挖掘",
+            "自动化安全验证"
+          ],
+          "entities": {
+            "companies": [
+              "苹果"
+            ],
+            "people": [],
+            "products": [
+              "Apple Security Bounty"
+            ],
+            "technologies": [
+              "AI漏洞挖掘",
+              "自动化安全验证"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "网络安全",
+            "苹果",
+            "漏洞赏金"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "前 Spotify 团队融资 1000 万美元，把推荐 AI 引入电商",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+          "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 06 Aug 2026 13:00:00 +0000",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "融资",
+          "summary": "由前 Spotify 员工创办的推荐技术公司完成 1000 万美元融资，其平台根据购物者实时行为持续学习偏好，预测下一件可能购买的商品。",
+          "why_it_matters": "推荐系统仍是最容易用收入指标验证 AI 价值的场景之一；实时个性化若能替代规则和批处理方案，可直接影响转化率与客单价。",
+          "why_important": "推荐系统仍是最容易用收入指标验证 AI 价值的场景之一；实时个性化若能替代规则和批处理方案，可直接影响转化率与客单价。",
+          "investment_observation": "重点核验客户数量、增量转化、数据接入成本和对主流电商平台的依赖。只有能用对照实验持续证明收入提升，才足以支撑独立软件预算。",
+          "investment_angle": "重点核验客户数量、增量转化、数据接入成本和对主流电商平台的依赖。只有能用对照实验持续证明收入提升，才足以支撑独立软件预算。",
+          "companies": [
+            "Spotify"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "推荐系统",
+            "实时个性化"
+          ],
+          "entities": {
+            "companies": [
+              "Spotify"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "推荐系统",
+              "实时个性化"
+            ]
+          },
+          "tags": [
+            "融资",
+            "电商AI",
+            "推荐系统",
+            "产品应用"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "丹麦拟用口头答辩核验书面作业，应对 AI 代写",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Mezha",
+          "published_at": "2026-08-08T18:09:31Z",
+          "selected_at": "2026-08-09T00:06:30+00:00",
+          "category": "政策监管",
+          "summary": "丹麦教育体系拟要求学生对书面作业进行口头答辩，以验证其真实理解与独立完成程度，应对生成式 AI 带来的代写和评价失真。",
+          "why_it_matters": "教育机构开始从“检测文本是否由 AI 生成”转向验证学习成果本身，意味着评估方式和教学流程会被重新设计。",
+          "why_important": "教育机构开始从“检测文本是否由 AI 生成”转向验证学习成果本身，意味着评估方式和教学流程会被重新设计。",
+          "investment_observation": "教育 AI 的机会将从生成内容转向过程证据、个性化辅导、口试管理与可信评估。采购方会更看重与学校流程、身份认证和隐私合规的整合。",
+          "investment_angle": "教育 AI 的机会将从生成内容转向过程证据、个性化辅导、口试管理与可信评估。采购方会更看重与学校流程、身份认证和隐私合规的整合。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "学习评估"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "学习评估"
+            ]
+          },
+          "tags": [
+            "政策监管",
+            "教育AI",
+            "可信评估"
+          ],
+          "importance_score": 7.6
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "count": 11,
