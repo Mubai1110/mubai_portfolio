@@ -1,8 +1,278 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-09T00:06:30+00:00",
-  "digest_count": 26,
-  "article_count": 225,
+  "generated_at": "2026-08-10T00:56:35+00:00",
+  "digest_count": 27,
+  "article_count": 231,
   "digests": [
+    {
+      "date": "2026-08-10",
+      "count": 6,
+      "articles": [
+        {
+          "title": "Situational Awareness 向 AI 芯片初创公司 Source Foundry 投资 4 亿美元",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
+          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
+          "source": "TechCrunch",
+          "published_at": "Sun, 09 Aug 2026 20:35:17 +0000",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "融资",
+          "summary": "AI 专注型对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元，显示大型资本仍在围绕新型 AI 算力供给进行集中下注。",
+          "why_it_matters": "单笔 4 亿美元投资说明 AI 芯片创业仍需要重资本支持，也反映投资者希望在英伟达之外寻找新的算力供给与收益入口。",
+          "why_important": "单笔 4 亿美元投资说明 AI 芯片创业仍需要重资本支持，也反映投资者希望在英伟达之外寻找新的算力供给与收益入口。",
+          "investment_observation": "后续应核实 Source Foundry 的芯片路线、量产时间、客户订单和单位经济性；大额融资能延长研发窗口，但无法替代流片、软件生态和交付能力验证。",
+          "investment_angle": "后续应核实 Source Foundry 的芯片路线、量产时间、客户订单和单位经济性；大额融资能延长研发窗口，但无法替代流片、软件生态和交付能力验证。",
+          "companies": [
+            "Situational Awareness",
+            "Source Foundry"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 芯片"
+          ],
+          "entities": {
+            "companies": [
+              "Situational Awareness",
+              "Source Foundry"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 芯片"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "芯片"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "微链智能获近千万元天使轮融资，推进视觉售后技术客服机器人",
+          "url": "https://36kr.com/p/3931000539692164?f=rss",
+          "link": "https://36kr.com/p/3931000539692164?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-09 09:00:30 +0800",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "融资",
+          "summary": "视觉模型企业微链智能完成近千万元天使轮融资，投资方包括李泽湘、陆奇相关主体；资金将主要用于研发视觉售后技术客服机器人，让 AI 通过图像理解协助设备故障诊断与服务。",
+          "why_it_matters": "这类产品把多模态模型嵌入售后服务的真实工作流，价值取决于能否减少人工排障时间、提升一次解决率，而非单纯展示视觉问答能力。",
+          "why_important": "这类产品把多模态模型嵌入售后服务的真实工作流，价值取决于能否减少人工排障时间、提升一次解决率，而非单纯展示视觉问答能力。",
+          "investment_observation": "重点跟踪设备品类覆盖、故障识别准确率、客户续费和交付成本；若能积累专有维修数据，可能形成比通用模型更稳固的垂直壁垒。",
+          "investment_angle": "重点跟踪设备品类覆盖、故障识别准确率、客户续费和交付成本；若能积累专有维修数据，可能形成比通用模型更稳固的垂直壁垒。",
+          "companies": [
+            "微链智能"
+          ],
+          "people": [
+            "宁冬冬",
+            "李泽湘",
+            "陆奇"
+          ],
+          "products": [
+            "视觉售后技术客服机器人"
+          ],
+          "technologies": [
+            "机器视觉",
+            "多模态模型"
+          ],
+          "entities": {
+            "companies": [
+              "微链智能"
+            ],
+            "people": [
+              "宁冬冬",
+              "李泽湘",
+              "陆奇"
+            ],
+            "products": [
+              "视觉售后技术客服机器人"
+            ],
+            "technologies": [
+              "机器视觉",
+              "多模态模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "多模态",
+            "企业应用"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "研究团队探索数据层 RSI：让 AI 自动生成下一代训练与评测题目",
+          "url": "https://www.qbitai.com/2026/08/468782.html",
+          "link": "https://www.qbitai.com/2026/08/468782.html",
+          "source": "量子位",
+          "published_at": "Sun, 09 Aug 2026 03:40:25 +0000",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "数据",
+          "summary": "研究团队展示数据层递归自我改进（RSI）方法：模型参与生成更有区分度的训练和评测题目，以缓解固定题库迅速饱和、难以持续衡量前沿模型进步的问题。",
+          "why_it_matters": "当公开基准被模型能力追平后，高质量、可验证且持续更新的数据成为后训练和评测的关键瓶颈；自动造题可能改变数据生产成本曲线。",
+          "why_important": "当公开基准被模型能力追平后，高质量、可验证且持续更新的数据成为后训练和评测的关键瓶颈；自动造题可能改变数据生产成本曲线。",
+          "investment_observation": "应关注题目新颖性、答案可验证性、污染控制和跨模型泛化；若这些指标成立，数据引擎、评测平台和后训练工具链会直接受益。",
+          "investment_angle": "应关注题目新颖性、答案可验证性、污染控制和跨模型泛化；若这些指标成立，数据引擎、评测平台和后训练工具链会直接受益。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "递归自我改进",
+            "合成数据",
+            "后训练"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "递归自我改进",
+              "合成数据",
+              "后训练"
+            ]
+          },
+          "tags": [
+            "数据",
+            "后训练",
+            "评测"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "GPT-5.6 与 Fable 协作解决一项长期悬而未决的数学问题",
+          "url": "https://www.qbitai.com/2026/08/468913.html",
+          "link": "https://www.qbitai.com/2026/08/468913.html",
+          "source": "量子位",
+          "published_at": "Sun, 09 Aug 2026 09:16:58 +0000",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "研究",
+          "summary": "报道显示，GPT-5.6 与 Fable 被用于推进并解决一项研究者长期关注的数学难题，体现前沿模型在提出思路、推演和验证过程中的协作潜力。",
+          "why_it_matters": "相比标准化考试分数，能否对真实开放问题产生可被专家核验的新结果，更能检验 AI 作为科研工具的实际价值。",
+          "why_important": "相比标准化考试分数，能否对真实开放问题产生可被专家核验的新结果，更能检验 AI 作为科研工具的实际价值。",
+          "investment_observation": "需要继续核对完整证明、专家复核和模型各自贡献；若可重复，数学、材料和药物研发等高价值科研工作流的 AI 工具预算可能加速增长。",
+          "investment_angle": "需要继续核对完整证明、专家复核和模型各自贡献；若可重复，数学、材料和药物研发等高价值科研工作流的 AI 工具预算可能加速增长。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-5.6",
+            "Fable"
+          ],
+          "technologies": [
+            "数学推理"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-5.6",
+              "Fable"
+            ],
+            "technologies": [
+              "数学推理"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "AI for Science",
+            "推理"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "《经济学人》讨论 AI 使用中的“公地悲剧”与社会成本",
+          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+          "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+          "source": "The Economist",
+          "published_at": "2026-08-06",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "政策",
+          "summary": "《经济学人》以“公地悲剧”为框架讨论 AI 带来的外部性：个人和企业获得效率收益的同时，内容生态、公共信息空间与社会信任可能承担累积成本。",
+          "why_it_matters": "AI 的社会成本若无法通过市场内部化，监管重点可能从模型能力本身转向内容责任、数据使用、平台治理与成本分摊。",
+          "why_important": "AI 的社会成本若无法通过市场内部化，监管重点可能从模型能力本身转向内容责任、数据使用、平台治理与成本分摊。",
+          "investment_observation": "关注内容溯源、版权许可、身份认证和模型治理基础设施；监管若要求平台承担更多外部成本，这些合规工具会由可选项变成刚需。",
+          "investment_angle": "关注内容溯源、版权许可、身份认证和模型治理基础设施；监管若要求平台承担更多外部成本，这些合规工具会由可选项变成刚需。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式 AI"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式 AI"
+            ]
+          },
+          "tags": [
+            "政策",
+            "内容治理",
+            "社会影响"
+          ],
+          "importance_score": 7.6
+        },
+        {
+          "title": "中信建投研报关注大厂 Capex、国产芯片与 B 端 AI 应用",
+          "url": "https://36kr.com/newsflashes/3932927029771398?f=rss",
+          "link": "https://36kr.com/newsflashes/3932927029771398?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-10 08:04:21 +0800",
+          "selected_at": "2026-08-10T00:56:35+00:00",
+          "category": "投资",
+          "summary": "中信建投研报认为，前沿模型扩展正从单一预训练转向参数规模、长轨迹后训练、工具调用和持续任务等多路径并行，并继续看好大厂 Capex、国产芯片与超节点、算力服务及 B 端 AI 应用。",
+          "why_it_matters": "研报把模型能力演进与资本开支链条直接关联，反映市场关注点已从单纯参数竞赛扩展到推理基础设施和企业场景兑现。",
+          "why_important": "研报把模型能力演进与资本开支链条直接关联，反映市场关注点已从单纯参数竞赛扩展到推理基础设施和企业场景兑现。",
+          "investment_observation": "报告中的超大参数估算仍需谨慎核实；更值得跟踪的是云厂商实际 Capex、国产芯片出货、集群利用率以及 B 端应用的付费与续费数据。",
+          "investment_angle": "报告中的超大参数估算仍需谨慎核实；更值得跟踪的是云厂商实际 Capex、国产芯片出货、集群利用率以及 B 端应用的付费与续费数据。",
+          "companies": [
+            "中信建投",
+            "Anthropic",
+            "月之暗面",
+            "字节跳动"
+          ],
+          "people": [],
+          "products": [
+            "Mythos 5",
+            "Fable 5",
+            "Kimi K3"
+          ],
+          "technologies": [
+            "AI 芯片",
+            "超节点",
+            "后训练"
+          ],
+          "entities": {
+            "companies": [
+              "中信建投",
+              "Anthropic",
+              "月之暗面",
+              "字节跳动"
+            ],
+            "people": [],
+            "products": [
+              "Mythos 5",
+              "Fable 5",
+              "Kimi K3"
+            ],
+            "technologies": [
+              "AI 芯片",
+              "超节点",
+              "后训练"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "国产芯片",
+            "企业应用"
+          ],
+          "importance_score": 7.4
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "count": 6,
