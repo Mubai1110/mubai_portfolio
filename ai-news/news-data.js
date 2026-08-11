@@ -1,8 +1,468 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-10T00:56:35+00:00",
-  "digest_count": 27,
-  "article_count": 231,
+  "generated_at": "2026-08-11T05:49:23+00:00",
+  "digest_count": 28,
+  "article_count": 241,
   "digests": [
+    {
+      "date": "2026-08-11",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Meta 发布可在消费级设备运行的开放权重模型 Muse Glimmer",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+          "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 10 Aug 2026 16:20:13 +0000",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "基础模型",
+          "summary": "Meta 推出约 300 亿参数的开放权重智能体模型 Muse Glimmer，可在配备 24GB 显存的个人电脑上本地运行；公司还预告将开放更强的 Muse Spark 1.2 权重。这是扎克伯格“个人超级智能”路线首次落到可下载模型上。",
+          "why_it_matters": "本地可运行的多模态智能体把隐私、延迟和云端推理成本同时拉入竞争，Meta 也借开放权重重新争夺开发者生态。",
+          "why_important": "本地可运行的多模态智能体把隐私、延迟和云端推理成本同时拉入竞争，Meta 也借开放权重重新争夺开发者生态。",
+          "investment_observation": "关注消费级 GPU 上的真实任务完成率、许可证与下游微调活跃度。若生态形成，端侧推理、模型压缩和本地智能体工具链将直接受益。",
+          "investment_angle": "关注消费级 GPU 上的真实任务完成率、许可证与下游微调活跃度。若生态形成，端侧推理、模型压缩和本地智能体工具链将直接受益。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Mark Zuckerberg"
+          ],
+          "products": [
+            "Muse Glimmer",
+            "Muse Spark 1.2"
+          ],
+          "technologies": [
+            "开放权重模型",
+            "端侧推理",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [
+              "Mark Zuckerberg"
+            ],
+            "products": [
+              "Muse Glimmer",
+              "Muse Spark 1.2"
+            ],
+            "technologies": [
+              "开放权重模型",
+              "端侧推理",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "开源",
+            "端侧AI",
+            "Meta"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI 向得州州长提交负责任 AI 基础设施承诺",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "source": "OpenAI News",
+          "published_at": "Mon, 10 Aug 2026 14:00:00 GMT",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "AI Infra",
+          "summary": "OpenAI 致信得州州长 Greg Abbott，提出以可靠供电、成本透明、社区收益和负责任扩张为原则建设 AI 基础设施，回应大型数据中心对电网、水资源和地方财政的影响。",
+          "why_it_matters": "算力扩张正从芯片采购转向能源、土地和社区许可的系统工程；地方政府能否接受项目，已成为模型公司扩容速度的重要约束。",
+          "why_important": "算力扩张正从芯片采购转向能源、土地和社区许可的系统工程；地方政府能否接受项目，已成为模型公司扩容速度的重要约束。",
+          "investment_observation": "重点跟踪电力采购、并网周期、水耗方案和由谁承担基础设施成本。电网设备、储能、冷却和数据中心工程服务商的订单确定性可能继续提高。",
+          "investment_angle": "重点跟踪电力采购、并网周期、水耗方案和由谁承担基础设施成本。电网设备、储能、冷却和数据中心工程服务商的订单确定性可能继续提高。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Greg Abbott"
+          ],
+          "products": [
+            "Stargate"
+          ],
+          "technologies": [
+            "AI 数据中心",
+            "算力基础设施"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Greg Abbott"
+            ],
+            "products": [
+              "Stargate"
+            ],
+            "technologies": [
+              "AI 数据中心",
+              "算力基础设施"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "能源",
+            "OpenAI",
+            "政策"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Bose CEO：耳机将从音频设备转向 AI 可穿戴入口",
+          "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "source": "The Verge AI",
+          "published_at": "2026-08-10T10:00:00-04:00",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "智能硬件",
+          "summary": "Bose CEO Lila Snyder 讨论生成式 AI、可穿戴设备和品牌授权对耳机行业的影响。随着语音助手与环境感知进入音频设备，耳机可能从播放终端升级为全天候的人机交互入口。",
+          "why_it_matters": "耳机拥有高频佩戴、语音输入和私密输出三项优势，是 AI 助手争夺入口时少数已规模化的硬件形态。",
+          "why_important": "耳机拥有高频佩戴、语音输入和私密输出三项优势，是 AI 助手争夺入口时少数已规模化的硬件形态。",
+          "investment_observation": "关注端侧唤醒、续航、麦克风阵列、隐私处理和服务订阅能否形成差异化；只有 AI 功能带来换机或付费，硬件溢价才可持续。",
+          "investment_angle": "关注端侧唤醒、续航、麦克风阵列、隐私处理和服务订阅能否形成差异化；只有 AI 功能带来换机或付费，硬件溢价才可持续。",
+          "companies": [
+            "Bose"
+          ],
+          "people": [
+            "Lila Snyder"
+          ],
+          "products": [],
+          "technologies": [
+            "AI 可穿戴设备",
+            "语音交互"
+          ],
+          "entities": {
+            "companies": [
+              "Bose"
+            ],
+            "people": [
+              "Lila Snyder"
+            ],
+            "products": [],
+            "technologies": [
+              "AI 可穿戴设备",
+              "语音交互"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "可穿戴",
+            "语音AI",
+            "Bose"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "AI for Science 的下一道门槛是推理能力而非更多数据",
+          "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+          "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 10 Aug 2026 09:00:00 +0000",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "AI for Science",
+          "summary": "MIT Technology Review 指出，科研智能体若要提出假设、设计实验并解释反常结果，仅靠扩大训练数据不够，还需要因果推理、工具使用和对不确定性的校准。",
+          "why_it_matters": "科学发现是检验模型能否越过模式匹配、创造高价值知识的关键场景，也会反向推动推理与评测体系升级。",
+          "why_important": "科学发现是检验模型能否越过模式匹配、创造高价值知识的关键场景，也会反向推动推理与评测体系升级。",
+          "investment_observation": "投资上应区分通用科研助手与拥有专有实验数据、湿实验闭环的平台；后者更容易形成数据壁垒，但验证周期和资本开支也更高。",
+          "investment_angle": "投资上应区分通用科研助手与拥有专有实验数据、湿实验闭环的平台；后者更容易形成数据壁垒，但验证周期和资本开支也更高。",
+          "companies": [
+            "MIT Technology Review"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI for Science",
+            "科学智能体",
+            "推理模型"
+          ],
+          "entities": {
+            "companies": [
+              "MIT Technology Review"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI for Science",
+              "科学智能体",
+              "推理模型"
+            ]
+          },
+          "tags": [
+            "研究",
+            "AI for Science",
+            "推理",
+            "Agent"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Needle2：14MB 小模型瞄准手机、家居与机器人端侧智能体",
+          "url": "https://cactuscompute.com/needle",
+          "link": "https://cactuscompute.com/needle",
+          "source": "Hacker News",
+          "published_at": "2026-08-10T17:22:07Z",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "端侧AI",
+          "summary": "Cactus Compute 展示 Needle2，一款约 14MB 的智能体小模型，目标是在手机、可穿戴、智能家居和机器人等资源受限设备上本地执行任务。项目在 Hacker News 获得较高开发者讨论度。",
+          "why_it_matters": "极小模型若能可靠完成结构化任务，可把部分智能体能力从云端下沉到设备，降低延迟、成本和隐私风险。",
+          "why_important": "极小模型若能可靠完成结构化任务，可把部分智能体能力从云端下沉到设备，降低延迟、成本和隐私风险。",
+          "investment_observation": "需用真实任务成功率而非模型体积判断价值，并关注芯片适配、量化工具和设备厂商集成。开发者热度是早期信号，尚不等同商业验证。",
+          "investment_angle": "需用真实任务成功率而非模型体积判断价值，并关注芯片适配、量化工具和设备厂商集成。开发者热度是早期信号，尚不等同商业验证。",
+          "companies": [
+            "Cactus Compute"
+          ],
+          "people": [],
+          "products": [
+            "Needle2"
+          ],
+          "technologies": [
+            "小语言模型",
+            "端侧推理",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Cactus Compute"
+            ],
+            "people": [],
+            "products": [
+              "Needle2"
+            ],
+            "technologies": [
+              "小语言模型",
+              "端侧推理",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "端侧AI",
+            "小模型",
+            "Agent",
+            "开发者生态"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "h3.c 为 Apple Silicon 提供原生 MiniMax-H3 推理",
+          "url": "https://github.com/antirez/h3.c",
+          "link": "https://github.com/antirez/h3.c",
+          "source": "Hacker News",
+          "published_at": "2026-08-11T01:22:09Z",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "AI Infra",
+          "summary": "开源项目 h3.c 为 MiniMax-H3 实现面向 Apple Silicon 的原生 Metal 推理，尝试用轻量 C 代码降低本地部署门槛，并在 Hacker News 引发开发者关注。",
+          "why_it_matters": "开源模型能否进入个人电脑，取决于高效推理运行时而不只是权重开放；Apple Silicon 是重要的本地 AI 开发与消费市场。",
+          "why_important": "开源模型能否进入个人电脑，取决于高效推理运行时而不只是权重开放；Apple Silicon 是重要的本地 AI 开发与消费市场。",
+          "investment_observation": "关注速度、内存占用、量化精度和模型版本兼容性。此类项目商业化空间更多在工具链、企业支持和设备集成，而非单一开源仓库。",
+          "investment_angle": "关注速度、内存占用、量化精度和模型版本兼容性。此类项目商业化空间更多在工具链、企业支持和设备集成，而非单一开源仓库。",
+          "companies": [
+            "MiniMax",
+            "Apple"
+          ],
+          "people": [],
+          "products": [
+            "MiniMax-H3",
+            "h3.c"
+          ],
+          "technologies": [
+            "Metal",
+            "本地推理"
+          ],
+          "entities": {
+            "companies": [
+              "MiniMax",
+              "Apple"
+            ],
+            "people": [],
+            "products": [
+              "MiniMax-H3",
+              "h3.c"
+            ],
+            "technologies": [
+              "Metal",
+              "本地推理"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "开源",
+            "Apple Silicon",
+            "推理优化"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "全球智能体安全实战测评中，中国方案 DoGNAVY 进入前三",
+          "url": "https://www.qbitai.com/2026/08/469869.html",
+          "link": "https://www.qbitai.com/2026/08/469869.html",
+          "source": "量子位",
+          "published_at": "Tue, 11 Aug 2026 03:11:12 +0000",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "AI安全",
+          "summary": "一项面向自主智能体的实战化安全测评聚焦越权操作、恶意工具调用与长期任务失控，中国团队方案 DoGNAVY 位列前三，显示智能体防护正在从静态内容过滤走向运行时行为约束。",
+          "why_it_matters": "智能体接入浏览器、代码和企业系统后，风险边界扩展到权限与行动链；运行时安全将成为规模部署的前置条件。",
+          "why_important": "智能体接入浏览器、代码和企业系统后，风险边界扩展到权限与行动链；运行时安全将成为规模部署的前置条件。",
+          "investment_observation": "关注策略执行、最小权限、审计回放和异常中止产品能否嵌入主流 Agent 框架。评测名次只是信号，企业落地与误报率更关键。",
+          "investment_angle": "关注策略执行、最小权限、审计回放和异常中止产品能否嵌入主流 Agent 框架。评测名次只是信号，企业落地与误报率更关键。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "DoGNAVY"
+          ],
+          "technologies": [
+            "智能体安全",
+            "运行时防护"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [
+              "DoGNAVY"
+            ],
+            "technologies": [
+              "智能体安全",
+              "运行时防护"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "Agent",
+            "评测",
+            "中国团队"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Discovered Materials 融资 900 万美元，用 AI 寻找更高效芯片材料",
+          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+          "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 10 Aug 2026 12:00:00 +0000",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "融资",
+          "summary": "材料发现初创公司 Discovered Materials 融资 900 万美元，利用 AI 筛选和实验迭代寻找可降低芯片发热、提升效率的新材料，把模型用于半导体材料研发而非终端应用。",
+          "why_it_matters": "AI 算力的能源和散热瓶颈正在把价值链推向材料层；即使模型效率提升，先进封装与热管理仍是持续约束。",
+          "why_important": "AI 算力的能源和散热瓶颈正在把价值链推向材料层；即使模型效率提升，先进封装与热管理仍是持续约束。",
+          "investment_observation": "关注候选材料从计算预测到量产验证的转化率、与晶圆厂的认证周期及知识产权。材料公司周期长，但一旦进入供应链黏性较强。",
+          "investment_angle": "关注候选材料从计算预测到量产验证的转化率、与晶圆厂的认证周期及知识产权。材料公司周期长，但一旦进入供应链黏性较强。",
+          "companies": [
+            "Discovered Materials"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 材料发现",
+            "半导体材料"
+          ],
+          "entities": {
+            "companies": [
+              "Discovered Materials"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 材料发现",
+              "半导体材料"
+            ]
+          },
+          "tags": [
+            "融资",
+            "芯片",
+            "材料科学",
+            "AI for Science"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "具身智能创业者郎咸朋：物理 AGI 不能只靠融资堆出来",
+          "url": "https://www.qbitai.com/2026/08/469520.html",
+          "link": "https://www.qbitai.com/2026/08/469520.html",
+          "source": "量子位",
+          "published_at": "Mon, 10 Aug 2026 06:58:58 +0000",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "机器人",
+          "summary": "具身智能创业者郎咸朋认为，行业未来会出现类似智能汽车“蔚小理”的头部格局，但物理 AGI 依赖数据、硬件、供应链和真实场景闭环，单靠融资扩张无法跨越工程化门槛。",
+          "why_it_matters": "这类一线创业者表态揭示机器人赛道的核心约束已从概念与资本转向量产、可靠性和数据回流。",
+          "why_important": "这类一线创业者表态揭示机器人赛道的核心约束已从概念与资本转向量产、可靠性和数据回流。",
+          "investment_observation": "对高估值项目应重点核查真实出货、单机成本、故障率、场景复购和数据闭环，避免把融资速度误判为技术成熟度。",
+          "investment_angle": "对高估值项目应重点核查真实出货、单机成本、故障率、场景复购和数据闭环，避免把融资速度误判为技术成熟度。",
+          "companies": [],
+          "people": [
+            "郎咸朋"
+          ],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "物理AGI",
+            "机器人"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "郎咸朋"
+            ],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "物理AGI",
+              "机器人"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "具身智能",
+            "关键人物",
+            "创业"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "帕西尼累计融资近 40 亿元，资本押注机器人触觉感知",
+          "url": "https://36kr.com/p/3933515490884744?f=rss",
+          "link": "https://36kr.com/p/3933515490884744?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-10 19:17:11 +0800",
+          "selected_at": "2026-08-11T05:49:23+00:00",
+          "category": "融资",
+          "summary": "触觉传感与具身智能公司帕西尼近两年累计融资接近 40 亿元。其路线聚焦让机器人在插接、抓取等接触任务中感知力、滑移和材料变化，补足仅靠视觉难以处理的精细操作。",
+          "why_it_matters": "触觉是机器人从‘看见’走向稳定操作的关键数据模态，也可能成为灵巧手与工业机器人升级中的高价值部件。",
+          "why_important": "触觉是机器人从‘看见’走向稳定操作的关键数据模态，也可能成为灵巧手与工业机器人升级中的高价值部件。",
+          "investment_observation": "关注传感器良率、寿命、单位成本、客户验证和触觉数据是否形成模型壁垒。巨额融资提高扩产能力，也放大商业化兑现压力。",
+          "investment_angle": "关注传感器良率、寿命、单位成本、客户验证和触觉数据是否形成模型壁垒。巨额融资提高扩产能力，也放大商业化兑现压力。",
+          "companies": [
+            "帕西尼"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "触觉传感",
+            "具身智能",
+            "机器人"
+          ],
+          "entities": {
+            "companies": [
+              "帕西尼"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "触觉传感",
+              "具身智能",
+              "机器人"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "传感器",
+            "具身智能"
+          ],
+          "importance_score": 9.0
+        }
+      ]
+    },
     {
       "date": "2026-08-10",
       "count": 6,
@@ -1932,7 +2392,7 @@ window.AI_NEWS_DATA = {
     },
     {
       "date": "2026-08-03",
-      "count": 10,
+      "count": 9,
       "articles": [
         {
           "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -2323,46 +2783,12 @@ window.AI_NEWS_DATA = {
             "NVIDIA"
           ],
           "importance_score": 7.9
-        },
-        {
-          "title": "The AI Hype Index: Unsexy AI",
-          "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
-          "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
-          "source": "MIT Technology Review AI",
-          "published_at": "Wed, 29 Jul 2026 08:42:57 +0000",
-          "selected_at": "2026-08-03T23:30:00+08:00",
-          "category": "行业观察",
-          "summary": "MIT Technology Review 的 AI Hype Index 复盘低调但实用的 AI 进展，并对劳动力替代与家务机器人等高热叙事作区分。",
-          "why_it_matters": "把真实部署与概念热度分开，有助于识别 AI 应用是否创造可量化生产率，而不是被短期演示牵引。",
-          "why_important": "把真实部署与概念热度分开，有助于识别 AI 应用是否创造可量化生产率，而不是被短期演示牵引。",
-          "investment_observation": "优先验证收入、留存、节省工时和部署成本；缺少可重复使用数据的热门赛道应折价。",
-          "investment_angle": "优先验证收入、留存、节省工时和部署成本；缺少可重复使用数据的热门赛道应折价。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "AI adoption"
-          ],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "AI adoption"
-            ]
-          },
-          "tags": [
-            "行业观察",
-            "AI应用",
-            "商业化"
-          ],
-          "importance_score": 7.6
         }
       ]
     },
     {
       "date": "2026-08-02",
-      "count": 5,
+      "count": 6,
       "articles": [
         {
           "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
@@ -2508,6 +2934,34 @@ window.AI_NEWS_DATA = {
             "硬件"
           ],
           "importance_score": 8.4
+        },
+        {
+          "title": "The AI Hype Index: Unsexy AI",
+          "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
+          "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
+          "source": "MIT Technology Review AI",
+          "published_at": "Wed, 29 Jul 2026 08:42:57 +0000",
+          "selected_at": "2026-08-04T06:49:51+00:00",
+          "category": "公司",
+          "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury。",
+          "why_it_matters": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "why_important": "这条动态反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "investment_angle": "围绕这条动态，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "公司"
+          ],
+          "importance_score": 6.72
         },
         {
           "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
