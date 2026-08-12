@@ -1,8 +1,468 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-11T05:49:23+00:00",
-  "digest_count": 28,
-  "article_count": 241,
+  "generated_at": "2026-08-12T02:30:00+00:00",
+  "digest_count": 29,
+  "article_count": 251,
   "digests": [
+    {
+      "date": "2026-08-12",
+      "count": 10,
+      "articles": [
+        {
+          "title": "英伟达联合华尔街推动 5000 亿美元 AI 算力融资平台",
+          "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+          "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+          "source": "NVIDIA Blog",
+          "published_at": "Wed, 12 Aug 2026 00:38:21 +0000",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "AI Infra",
+          "summary": "英伟达宣布与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 和 KKR 合作，建立独立融资平台，目标动员逾 5000 亿美元资金建设 AI 工厂，并把 GPU 算力进一步包装为可融资、可配置的基础设施资产。",
+          "why_it_matters": "AI 算力从科技公司的资本开支变成机构资金可参与的资产类别，可能显著扩大数据中心建设速度，同时把利用率、电力成本和设备残值变成核心风险指标。",
+          "why_important": "AI 算力从科技公司的资本开支变成机构资金可参与的资产类别，可能显著扩大数据中心建设速度，同时把利用率、电力成本和设备残值变成核心风险指标。",
+          "investment_observation": "关注融资结构、长期包销合同、GPU 折旧与算力利用率。电力、冷却、网络和算力调度将受益，但高杠杆项目也会放大技术迭代和供需错配风险。",
+          "investment_angle": "关注融资结构、长期包销合同、GPU 折旧与算力利用率。电力、冷却、网络和算力调度将受益，但高杠杆项目也会放大技术迭代和供需错配风险。",
+          "companies": [
+            "NVIDIA",
+            "Apollo",
+            "BlackRock",
+            "Blackstone",
+            "Brookfield",
+            "Goldman Sachs",
+            "KKR"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [],
+          "technologies": [
+            "AI 工厂",
+            "GPU 算力融资"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Apollo",
+              "BlackRock",
+              "Blackstone",
+              "Brookfield",
+              "Goldman Sachs",
+              "KKR"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [],
+            "technologies": [
+              "AI 工厂",
+              "GPU 算力融资"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "融资",
+            "GPU",
+            "NVIDIA"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "xAI 联合创始人创办 River AI，两个月获 11 亿美元融资",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 11 Aug 2026 17:41:22 +0000",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "融资",
+          "summary": "xAI 联合创始人 Igor Babuschkin 创办的 River AI 在成立约两个月后获得 11 亿美元融资，由 General Catalyst 领投，方向是能够跨应用持续工作的个人智能体。",
+          "why_it_matters": "超早期公司获得十亿美元级融资，显示顶级团队和个人智能体愿景仍能吸引巨额资本，也进一步推高 Agent 赛道的人才与算力门槛。",
+          "why_important": "超早期公司获得十亿美元级融资，显示顶级团队和个人智能体愿景仍能吸引巨额资本，也进一步推高 Agent 赛道的人才与算力门槛。",
+          "investment_observation": "重点验证产品可用性、权限安全、跨应用任务成功率和用户留存；在商业指标形成前，估值高度依赖团队信誉与资本供给。",
+          "investment_angle": "重点验证产品可用性、权限安全、跨应用任务成功率和用户留存；在商业指标形成前，估值高度依赖团队信誉与资本供给。",
+          "companies": [
+            "River AI",
+            "General Catalyst",
+            "xAI"
+          ],
+          "people": [
+            "Igor Babuschkin"
+          ],
+          "products": [],
+          "technologies": [
+            "个人智能体",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "River AI",
+              "General Catalyst",
+              "xAI"
+            ],
+            "people": [
+              "Igor Babuschkin"
+            ],
+            "products": [],
+            "technologies": [
+              "个人智能体",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Agent",
+            "关键人物"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "ChatGPT 与 Gemini 月度用户均突破 10 亿",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge AI",
+          "published_at": "2026-08-11T15:41:42-04:00",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "产品应用",
+          "summary": "OpenAI 的 ChatGPT 与 Google 的 Gemini 均达到十亿级月度用户。Gemini 成为 Google 第 14 个跨过十亿用户门槛的产品，通用 AI 助手由早期采用正式进入大众基础设施阶段。",
+          "why_it_matters": "双平台同时达到十亿级覆盖，意味着竞争焦点将从获客转向留存、付费、分发入口和单位推理经济性，垂直应用也面临更强平台挤压。",
+          "why_important": "双平台同时达到十亿级覆盖，意味着竞争焦点将从获客转向留存、付费、分发入口和单位推理经济性，垂直应用也面临更强平台挤压。",
+          "investment_observation": "关注付费转化、活跃深度、推理成本和搜索/办公入口带来的交叉补贴。垂直产品需要用专有工作流与数据壁垒证明独立价值。",
+          "investment_angle": "关注付费转化、活跃深度、推理成本和搜索/办公入口带来的交叉补贴。垂直产品需要用专有工作流与数据壁垒证明独立价值。",
+          "companies": [
+            "OpenAI",
+            "Google"
+          ],
+          "people": [
+            "Sundar Pichai"
+          ],
+          "products": [
+            "ChatGPT",
+            "Gemini"
+          ],
+          "technologies": [
+            "生成式 AI 助手"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Google"
+            ],
+            "people": [
+              "Sundar Pichai"
+            ],
+            "products": [
+              "ChatGPT",
+              "Gemini"
+            ],
+            "technologies": [
+              "生成式 AI 助手"
+            ]
+          },
+          "tags": [
+            "产品",
+            "用户增长",
+            "OpenAI",
+            "Google"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "英伟达提出 800V 直流架构应对 AI 工厂供电瓶颈",
+          "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+          "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 11 Aug 2026 15:00:06 +0000",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "AI Infra",
+          "summary": "英伟达阐述面向下一代高密度 AI 工厂的 800V 直流供电架构，用更高电压和更少转换环节支撑持续上升的机架功率，并改善能源效率与规模化部署能力。",
+          "why_it_matters": "电力传输与转换正成为算力扩张的硬约束，数据中心架构升级会重塑电源、配电、储能、冷却和工程服务的供应链。",
+          "why_important": "电力传输与转换正成为算力扩张的硬约束，数据中心架构升级会重塑电源、配电、储能、冷却和工程服务的供应链。",
+          "investment_observation": "跟踪标准落地、供应商认证、机架功率密度和整体能效。受益机会不只在 GPU，也在高压直流设备、连接器、散热和电网侧改造。",
+          "investment_angle": "跟踪标准落地、供应商认证、机架功率密度和整体能效。受益机会不只在 GPU，也在高压直流设备、连接器、散热和电网侧改造。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "800V 直流供电",
+            "AI 数据中心",
+            "高密度机架"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "800V 直流供电",
+              "AI 数据中心",
+              "高密度机架"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "电力",
+            "数据中心",
+            "NVIDIA"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "研究揭示可从闭源 LLM API 窃取推理轨迹",
+          "url": "https://stolen-thoughts.com/",
+          "link": "https://stolen-thoughts.com/",
+          "source": "Hacker News",
+          "published_at": "2026-08-11T13:22:00Z",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "安全",
+          "summary": "安全研究显示，攻击者可能通过精心设计的少量查询，从专有大模型 API 中诱导或重建隐藏推理轨迹；相关研究在开发者社区引发广泛讨论。",
+          "why_it_matters": "隐藏思维链并不天然等于安全边界。若推理痕迹可被侧信道提取，模型提供商的知识产权、防护策略与敏感信息隔离都需要重新评估。",
+          "why_important": "隐藏思维链并不天然等于安全边界。若推理痕迹可被侧信道提取，模型提供商的知识产权、防护策略与敏感信息隔离都需要重新评估。",
+          "investment_observation": "关注研究复现、厂商缓解措施和是否影响 API 输出质量。模型网关、红队评测、泄漏检测与安全推理中间件可能获得新增需求。",
+          "investment_angle": "关注研究复现、厂商缓解措施和是否影响 API 输出质量。模型网关、红队评测、泄漏检测与安全推理中间件可能获得新增需求。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "大模型安全",
+            "推理轨迹",
+            "侧信道攻击"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "大模型安全",
+              "推理轨迹",
+              "侧信道攻击"
+            ]
+          },
+          "tags": [
+            "安全",
+            "LLM",
+            "研究"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "AI 超级计算中心建设重心向电力系统迁移",
+          "url": "https://www.qbitai.com/2026/08/470621.html",
+          "link": "https://www.qbitai.com/2026/08/470621.html",
+          "source": "量子位",
+          "published_at": "Tue, 11 Aug 2026 11:36:42 +0000",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "AI Infra",
+          "summary": "量子位以大型 AI 算力超级单体为案例，梳理新能源与数据中心工程能力如何支撑高密度算力集群，指出供电容量、并网速度和能源管理正在决定算力项目能否落地。",
+          "why_it_matters": "当 GPU 供给相对改善后，稳定电力与工程交付成为新瓶颈，拥有能源资源和大型项目经验的企业可能切入 AI 基础设施价值链。",
+          "why_important": "当 GPU 供给相对改善后，稳定电力与工程交付成为新瓶颈，拥有能源资源和大型项目经验的企业可能切入 AI 基础设施价值链。",
+          "investment_observation": "关注项目真实装机规模、PUE、并网条件与长期客户合同，避免只按规划容量估值；储能、配电、液冷和能源管理软件值得持续跟踪。",
+          "investment_angle": "关注项目真实装机规模、PUE、并网条件与长期客户合同，避免只按规划容量估值；储能、配电、液冷和能源管理软件值得持续跟踪。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 超算中心",
+            "能源管理",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 超算中心",
+              "能源管理",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "能源",
+            "算力"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "OpenAI CFO 总结建设 AI 原生财务部门的五项经验",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "产品应用",
+          "summary": "OpenAI CFO Sarah Friar 分享内部财务团队采用 AI 的五项经验，包括自动化预测、强化控制、重构流程以及用可衡量的业务结果评估 AI 投资回报。",
+          "why_it_matters": "来自模型公司的内部实践为企业从零散助手走向核心职能改造提供了样板，也强调自动化必须与审计、权限和责任机制同步建设。",
+          "why_important": "来自模型公司的内部实践为企业从零散助手走向核心职能改造提供了样板，也强调自动化必须与审计、权限和责任机制同步建设。",
+          "investment_observation": "企业软件机会将集中在可审计工作流、数据连接和权限治理。重点看预测准确率、结账周期、人均产出与合规事故，而非简单统计调用量。",
+          "investment_angle": "企业软件机会将集中在可审计工作流、数据连接和权限治理。重点看预测准确率、结账周期、人均产出与合规事故，而非简单统计调用量。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sarah Friar"
+          ],
+          "products": [],
+          "technologies": [
+            "企业 AI",
+            "财务自动化"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sarah Friar"
+            ],
+            "products": [],
+            "technologies": [
+              "企业 AI",
+              "财务自动化"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "企业AI",
+            "OpenAI",
+            "关键人物"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Spotify 标记 AI 虚拟艺人并默认移出推荐系统",
+          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+          "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 11 Aug 2026 13:00:00 +0000",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "内容治理",
+          "summary": "Spotify 将为代表 AI 生成身份的艺人资料添加“AI Persona”标签，并默认不让相关音乐进入编辑、算法和个性化推荐，以提高来源透明度并抑制低成本生成内容冲击生态。",
+          "why_it_matters": "大型分发平台开始把 AI 内容身份直接写入推荐规则，平台治理将实质影响生成内容的流量、收益和商业可行性。",
+          "why_important": "大型分发平台开始把 AI 内容身份直接写入推荐规则，平台治理将实质影响生成内容的流量、收益和商业可行性。",
+          "investment_observation": "关注识别准确率、创作者申诉机制和其他平台是否跟进。内容溯源与版权管理需求上升，但纯 AI 内容公司的分发风险也明显增大。",
+          "investment_angle": "关注识别准确率、创作者申诉机制和其他平台是否跟进。内容溯源与版权管理需求上升，但纯 AI 内容公司的分发风险也明显增大。",
+          "companies": [
+            "Spotify"
+          ],
+          "people": [],
+          "products": [
+            "AI Persona"
+          ],
+          "technologies": [
+            "生成式音乐",
+            "推荐系统",
+            "内容溯源"
+          ],
+          "entities": {
+            "companies": [
+              "Spotify"
+            ],
+            "people": [],
+            "products": [
+              "AI Persona"
+            ],
+            "technologies": [
+              "生成式音乐",
+              "推荐系统",
+              "内容溯源"
+            ]
+          },
+          "tags": [
+            "产品",
+            "内容治理",
+            "音乐AI"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "研究人员用不到 20 次 AI 提示发现 Zoom 高危漏洞",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "source": "The Verge AI",
+          "published_at": "2026-08-11T10:45:44-04:00",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "安全",
+          "summary": "安全研究人员借助 AI、用不到 20 次提示发现被称为“Zoomsday”的高危漏洞，攻击者可在会议期间劫持设备；Zoom 已完成修补。",
+          "why_it_matters": "案例说明 AI 能显著降低漏洞研究门槛并缩短攻击链开发时间，防守方的补丁速度、代码审计和红队自动化必须同步提升。",
+          "why_important": "案例说明 AI 能显著降低漏洞研究门槛并缩短攻击链开发时间，防守方的补丁速度、代码审计和红队自动化必须同步提升。",
+          "investment_observation": "网络安全预算可能向 AI 辅助代码审计、持续暴露管理和自动修复迁移。评估厂商时应看真实发现率、误报率和企业工作流集成。",
+          "investment_angle": "网络安全预算可能向 AI 辅助代码审计、持续暴露管理和自动修复迁移。评估厂商时应看真实发现率、误报率和企业工作流集成。",
+          "companies": [
+            "Zoom",
+            "A Security"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 辅助漏洞挖掘",
+            "网络安全"
+          ],
+          "entities": {
+            "companies": [
+              "Zoom",
+              "A Security"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 辅助漏洞挖掘",
+              "网络安全"
+            ]
+          },
+          "tags": [
+            "安全",
+            "AI编程",
+            "Zoom"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "西湖机器人完成 A 轮融资，半年累计募资 5 亿元",
+          "url": "https://36kr.com/newsflashes/3935843089907075?f=rss",
+          "link": "https://36kr.com/newsflashes/3935843089907075?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-12 09:06:37  +0800",
+          "selected_at": "2026-08-12T02:30:00+00:00",
+          "category": "机器人",
+          "summary": "具身智能通用大脑公司西湖机器人完成 A 轮融资，六个月累计募资 5 亿元，资金将用于人形机器人全身统一大模型研发和具身智能人才建设。",
+          "why_it_matters": "资本继续向机器人“大脑”层集中，竞争核心从单点感知或控制模块转向可跨本体迁移的统一模型与真实场景数据。",
+          "why_important": "资本继续向机器人“大脑”层集中，竞争核心从单点感知或控制模块转向可跨本体迁移的统一模型与真实场景数据。",
+          "investment_observation": "重点验证上机任务成功率、跨本体泛化、数据获取成本和商业客户部署。融资节奏快不等于产品成熟，后续订单与量产伙伴更关键。",
+          "investment_angle": "重点验证上机任务成功率、跨本体泛化、数据获取成本和商业客户部署。融资节奏快不等于产品成熟，后续订单与量产伙伴更关键。",
+          "companies": [
+            "西湖机器人",
+            "赛富投资基金",
+            "河南投资集团"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "人形机器人",
+            "全身统一大模型"
+          ],
+          "entities": {
+            "companies": [
+              "西湖机器人",
+              "赛富投资基金",
+              "河南投资集团"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "人形机器人",
+              "全身统一大模型"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "具身智能"
+          ],
+          "importance_score": 8.5
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "count": 10,
