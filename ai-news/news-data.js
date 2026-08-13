@@ -1,8 +1,456 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-12T02:30:00+00:00",
-  "digest_count": 29,
-  "article_count": 251,
+  "generated_at": "2026-08-13T09:30:00+08:00",
+  "digest_count": 30,
+  "article_count": 261,
   "digests": [
+    {
+      "date": "2026-08-13",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Hinton、李飞飞与吴恩达呼吁在AI安全压力下保持开放生态",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
+          "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 12 Aug 2026 17:51:00 +0000",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "人物",
+          "summary": "Geoffrey Hinton、李飞飞和吴恩达在Ai4会议讨论AI安全、监管与开放模型。三人立场并不完全相同，但都认为封闭能力和研究访问并不能单独解决风险，美国还需在安全治理与开放创新之间维持平衡。",
+          "why_it_matters": "三位关键人物的共同表态显示，开放权重、研究透明度和国家竞争力正被放进同一政策框架；未来监管很可能按能力与用途分层，而不是简单划分开源与闭源。",
+          "why_important": "三位关键人物的共同表态显示，开放权重、研究透明度和国家竞争力正被放进同一政策框架；未来监管很可能按能力与用途分层，而不是简单划分开源与闭源。",
+          "investment_observation": "关注开放模型许可证、能力阈值、评测披露和算力监管。规则若保留研究与商业微调空间，将利好开源工具链和私有部署；若限制集中在前沿能力，头部厂商的合规成本优势会扩大。",
+          "investment_angle": "关注开放模型许可证、能力阈值、评测披露和算力监管。规则若保留研究与商业微调空间，将利好开源工具链和私有部署；若限制集中在前沿能力，头部厂商的合规成本优势会扩大。",
+          "companies": [],
+          "people": [
+            "Geoffrey Hinton",
+            "李飞飞",
+            "吴恩达"
+          ],
+          "products": [],
+          "technologies": [
+            "开放模型",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Geoffrey Hinton",
+              "李飞飞",
+              "吴恩达"
+            ],
+            "products": [],
+            "technologies": [
+              "开放模型",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "开源",
+            "AI治理",
+            "AI安全"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Amazon将默认使用Twitch主播内容训练AI，创作者可选择退出",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out",
+          "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 12 Aug 2026 20:10:40 +0000",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "数据",
+          "summary": "Twitch计划默认允许Amazon使用主播的公开视频和相关内容训练AI，创作者需要主动选择退出。Twitch产品负责人承认，若采用主动加入机制，参与者可能很少，引发创作者对授权、补偿和平台权力的争议。",
+          "why_it_matters": "平台把用户生成内容转化为训练资产的默认规则，将直接影响数据成本、创作者信任和版权治理，也可能成为其他内容平台调整条款的参照。",
+          "why_important": "平台把用户生成内容转化为训练资产的默认规则，将直接影响数据成本、创作者信任和版权治理，也可能成为其他内容平台调整条款的参照。",
+          "investment_observation": "重点观察退出率、是否提供收入分成、训练用途边界以及监管反应。拥有独家内容库的平台具备数据优势，但强制式授权可能带来创作者流失、诉讼和品牌成本。",
+          "investment_angle": "重点观察退出率、是否提供收入分成、训练用途边界以及监管反应。拥有独家内容库的平台具备数据优势，但强制式授权可能带来创作者流失、诉讼和品牌成本。",
+          "companies": [
+            "Amazon",
+            "Twitch"
+          ],
+          "people": [
+            "Mike Minton"
+          ],
+          "products": [],
+          "technologies": [
+            "训练数据"
+          ],
+          "entities": {
+            "companies": [
+              "Amazon",
+              "Twitch"
+            ],
+            "people": [
+              "Mike Minton"
+            ],
+            "products": [],
+            "technologies": [
+              "训练数据"
+            ]
+          },
+          "tags": [
+            "数据",
+            "版权",
+            "内容平台",
+            "AI治理"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Google DeepMind推出手语转文字模型并开放用户端功能",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "source": "Google DeepMind Blog",
+          "published_at": "Wed, 12 Aug 2026 14:01:59 +0000",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "基础模型",
+          "summary": "Google DeepMind发布手语转文字模型SL2T，并将其用于面向聋人和听障用户的新功能。系统把连续手语视频转换为文字，目标是让相关辅助能力从研究演示进入实际沟通场景。",
+          "why_it_matters": "手语存在地域差异、连续动作和面部表情等复杂信号，是多模态模型的重要真实世界测试；产品化也说明专用数据和无障碍场景可以形成基础模型之外的差异化价值。",
+          "why_important": "手语存在地域差异、连续动作和面部表情等复杂信号，是多模态模型的重要真实世界测试；产品化也说明专用数据和无障碍场景可以形成基础模型之外的差异化价值。",
+          "investment_observation": "关注不同手语体系的覆盖、端侧延迟、真实用户准确率和隐私处理。无障碍AI市场规模未必最大，但高需求强度、公共采购和平台级分发可支持可持续应用。",
+          "investment_angle": "关注不同手语体系的覆盖、端侧延迟、真实用户准确率和隐私处理。无障碍AI市场规模未必最大，但高需求强度、公共采购和平台级分发可支持可持续应用。",
+          "companies": [
+            "Google DeepMind"
+          ],
+          "people": [],
+          "products": [
+            "SL2T"
+          ],
+          "technologies": [
+            "多模态模型",
+            "手语识别"
+          ],
+          "entities": {
+            "companies": [
+              "Google DeepMind"
+            ],
+            "people": [],
+            "products": [
+              "SL2T"
+            ],
+            "technologies": [
+              "多模态模型",
+              "手语识别"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "多模态",
+            "无障碍",
+            "产品应用"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "CoreWeave披露单一依赖NVIDIA芯片带来的切换风险",
+          "url": "https://36kr.com/newsflashes/3937237486222467?f=rss",
+          "link": "https://36kr.com/newsflashes/3937237486222467?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-13 08:56:59 +0800",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "AI Infra",
+          "summary": "CoreWeave在申报文件中警告，目前算力基础设施主要依赖NVIDIA GPU；若客户转向其他芯片，公司需要投入大量时间、资金和工程资源完成采购与平台迁移，并可能影响交付能力。",
+          "why_it_matters": "新型云厂商的竞争力建立在GPU供给和软件栈优化之上，但单一供应商依赖会放大采购、残值、兼容性和客户需求变化风险。",
+          "why_important": "新型云厂商的竞争力建立在GPU供给和软件栈优化之上，但单一供应商依赖会放大采购、残值、兼容性和客户需求变化风险。",
+          "investment_observation": "评估CoreWeave等neocloud不能只看已签订单，还需跟踪芯片资产期限、客户集中度、利用率与跨芯片调度能力。异构推理软件和迁移工具可能因供应多元化获得机会。",
+          "investment_angle": "评估CoreWeave等neocloud不能只看已签订单，还需跟踪芯片资产期限、客户集中度、利用率与跨芯片调度能力。异构推理软件和迁移工具可能因供应多元化获得机会。",
+          "companies": [
+            "CoreWeave",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GPU云",
+            "异构计算"
+          ],
+          "entities": {
+            "companies": [
+              "CoreWeave",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GPU云",
+              "异构计算"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "GPU",
+            "供应链",
+            "风险披露"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "摩根士丹利称AI算力供应瓶颈可能持续数年",
+          "url": "https://36kr.com/newsflashes/3937224303836548?f=rss",
+          "link": "https://36kr.com/newsflashes/3937224303836548?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-13 08:42:36 +0800",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "AI Infra",
+          "summary": "摩根士丹利策略师Michelle Weaver表示，企业AI应用开始产生可量化收益，但电力、政策和劳动力等约束使算力成为稀缺资源，供应瓶颈可能持续数年；其称约四分之一标普500公司已能量化AI投资回报。",
+          "why_it_matters": "需求验证与供给受限同时出现，意味着AI基础设施周期的约束已从GPU扩展到电网、建设许可和工程人才，资本开支的兑现速度将决定应用增长上限。",
+          "why_important": "需求验证与供给受限同时出现，意味着AI基础设施周期的约束已从GPU扩展到电网、建设许可和工程人才，资本开支的兑现速度将决定应用增长上限。",
+          "investment_observation": "关注电力接入、液冷、配电设备、数据中心建设周期和算力利用率。供给紧张利好基础设施链条，但高估值项目仍需验证长期合同、融资成本和交付能力。",
+          "investment_angle": "关注电力接入、液冷、配电设备、数据中心建设周期和算力利用率。供给紧张利好基础设施链条，但高估值项目仍需验证长期合同、融资成本和交付能力。",
+          "companies": [
+            "摩根士丹利"
+          ],
+          "people": [
+            "Michelle Weaver"
+          ],
+          "products": [],
+          "technologies": [
+            "AI算力",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "摩根士丹利"
+            ],
+            "people": [
+              "Michelle Weaver"
+            ],
+            "products": [],
+            "technologies": [
+              "AI算力",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "电力",
+            "数据中心",
+            "投资观点"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "国产具身模型以低成本提升异形包裹拣选效率",
+          "url": "https://www.qbitai.com/2026/08/471049.html",
+          "link": "https://www.qbitai.com/2026/08/471049.html",
+          "source": "量子位",
+          "published_at": "Wed, 12 Aug 2026 13:10:55 +0000",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "机器人",
+          "summary": "量子位报道，一套国产具身智能系统在异形包裹拣选任务中实现每小时1816件的处理量，并称其部署成本约为对标方案的30%、效率高出45%。核心思路是用具身模型提升视觉理解、抓取决策和泛化能力。",
+          "why_it_matters": "物流拣选是具身智能较早具备明确ROI的场景，吞吐量、异常处理和部署成本比通用演示更能检验模型与硬件的协同能力。",
+          "why_important": "物流拣选是具身智能较早具备明确ROI的场景，吞吐量、异常处理和部署成本比通用演示更能检验模型与硬件的协同能力。",
+          "investment_observation": "这些指标仍需在不同仓库、连续运行和人工接管率下复核。若性能可复现，受益环节包括具身模型、机器视觉、末端执行器和仓储集成商。",
+          "investment_angle": "这些指标仍需在不同仓库、连续运行和人工接管率下复核。若性能可复现，受益环节包括具身模型、机器视觉、末端执行器和仓储集成商。",
+          "companies": [
+            "Figure AI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身模型",
+            "机器人拣选",
+            "机器视觉"
+          ],
+          "entities": {
+            "companies": [
+              "Figure AI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身模型",
+              "机器人拣选",
+              "机器视觉"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "具身智能",
+            "物流",
+            "智能硬件"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "NVIDIA发布Nemotron 3.5 Lightning与NeMo Switchyard",
+          "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+          "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 11 Aug 2026 13:00:05 +0000",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "开源",
+          "summary": "NVIDIA扩展Nemotron开放模型系列，推出面向高效Agent推理的Nemotron 3.5 Lightning，并以NeMo Switchyard帮助工作负载在不同模型之间动态路由；方案覆盖RTX与DGX等本地和数据中心部署环境。",
+          "why_it_matters": "Agent系统需要在质量、延迟、成本与隐私之间按任务选择模型。模型路由与小型高效开放模型结合，可能降低持续运行Agent的推理成本并增强私有部署能力。",
+          "why_important": "Agent系统需要在质量、延迟、成本与隐私之间按任务选择模型。模型路由与小型高效开放模型结合，可能降低持续运行Agent的推理成本并增强私有部署能力。",
+          "investment_observation": "关注开放许可证、真实任务基准、单位token成本和Switchyard对非NVIDIA模型的兼容度。路由层若形成标准入口，将增强NVIDIA软件栈黏性，也会与独立推理平台竞争。",
+          "investment_angle": "关注开放许可证、真实任务基准、单位token成本和Switchyard对非NVIDIA模型的兼容度。路由层若形成标准入口，将增强NVIDIA软件栈黏性，也会与独立推理平台竞争。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Nemotron 3.5 Lightning",
+            "NeMo Switchyard"
+          ],
+          "technologies": [
+            "开放模型",
+            "模型路由",
+            "Agentic AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Nemotron 3.5 Lightning",
+              "NeMo Switchyard"
+            ],
+            "technologies": [
+              "开放模型",
+              "模型路由",
+              "Agentic AI"
+            ]
+          },
+          "tags": [
+            "开源",
+            "后训练",
+            "AI Infra",
+            "Agent"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Discovered Materials用AI Agent自动搜索新材料候选",
+          "url": "https://discoveredmaterials.com/research",
+          "link": "https://discoveredmaterials.com/research",
+          "source": "Hacker News",
+          "published_at": "2026-08-12T07:51:20Z",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "产品",
+          "summary": "YC项目Discovered Materials展示以AI Agent组织文献检索、假设生成、模拟与候选筛选的材料发现流程，希望缩短从研究问题到可验证材料方案的周期；项目在Hacker News获得开发者关注。",
+          "why_it_matters": "材料研发的实验周期长、搜索空间大，适合Agent把文献、计算工具和实验反馈串成闭环，也是AI for Science能否创造可验证经济价值的重要场景。",
+          "why_important": "材料研发的实验周期长、搜索空间大，适合Agent把文献、计算工具和实验反馈串成闭环，也是AI for Science能否创造可验证经济价值的重要场景。",
+          "investment_observation": "早期项目应重点核查湿实验验证、发现新颖性、数据授权和与实验室的集成成本。若只提高文献处理效率，壁垒有限；若能形成专有实验反馈数据，价值会显著提高。",
+          "investment_angle": "早期项目应重点核查湿实验验证、发现新颖性、数据授权和与实验室的集成成本。若只提高文献处理效率，壁垒有限；若能形成专有实验反馈数据，价值会显著提高。",
+          "companies": [
+            "Discovered Materials",
+            "Y Combinator"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "材料发现"
+          ],
+          "entities": {
+            "companies": [
+              "Discovered Materials",
+              "Y Combinator"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "材料发现"
+            ]
+          },
+          "tags": [
+            "AI for Science",
+            "Agent",
+            "产品应用",
+            "材料科学"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "RingCentral披露ChatGPT Work与Codex在研发和运营中的落地",
+          "url": "https://openai.com/index/ringcentral",
+          "link": "https://openai.com/index/ringcentral",
+          "source": "OpenAI News",
+          "published_at": "Wed, 12 Aug 2026 00:00:00 GMT",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "产品",
+          "summary": "RingCentral在工程和运营团队使用ChatGPT Work与Codex，加速AI产品开发，并把分散的运营知识集中到可查询、可执行的工作流中；案例覆盖编码、知识检索和跨团队协作。",
+          "why_it_matters": "企业AI采购正在从个人助手转向嵌入研发和运营流程。能否连接内部知识、权限和执行工具，将决定模型使用量能否转化为组织生产率。",
+          "why_important": "企业AI采购正在从个人助手转向嵌入研发和运营流程。能否连接内部知识、权限和执行工具，将决定模型使用量能否转化为组织生产率。",
+          "investment_observation": "厂商案例可能偏重成功样本，需继续跟踪席位渗透、活跃率、节省工时和安全审计。企业通信与协作平台拥有分发入口，但也面临基础模型厂商直接下沉的压力。",
+          "investment_angle": "厂商案例可能偏重成功样本，需继续跟踪席位渗透、活跃率、节省工时和安全审计。企业通信与协作平台拥有分发入口，但也面临基础模型厂商直接下沉的压力。",
+          "companies": [
+            "RingCentral",
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Work",
+            "Codex"
+          ],
+          "technologies": [
+            "企业Agent"
+          ],
+          "entities": {
+            "companies": [
+              "RingCentral",
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Work",
+              "Codex"
+            ],
+            "technologies": [
+              "企业Agent"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "企业AI",
+            "开发者工具",
+            "工作流"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "AI对软件工程岗位结构的影响引发开发者社区热议",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "source": "Hacker News",
+          "published_at": "2026-08-12T13:20:05Z",
+          "selected_at": "2026-08-13T09:30:00+08:00",
+          "category": "开发者",
+          "summary": "一篇分析文章认为，AI编程工具可能压缩承担常规实现工作的中层软件工程岗位，同时扩大能定义系统、审查架构和承担结果责任的高级人才价值。该观点在Hacker News获得逾700分和600余条讨论。",
+          "why_it_matters": "这不是就业统计结论，但高讨论度反映开发团队正重新界定初级执行、中层协调和高级系统判断的边界，人才培养与组织梯队可能先于岗位总量发生变化。",
+          "why_important": "这不是就业统计结论，但高讨论度反映开发团队正重新界定初级执行、中层协调和高级系统判断的边界，人才培养与组织梯队可能先于岗位总量发生变化。",
+          "investment_observation": "关注企业招聘结构、每名工程师产出、代码审查负担和初级人才培养成本。开发工具机会将从代码生成转向验证、可观测性、安全与架构知识沉淀。",
+          "investment_angle": "关注企业招聘结构、每名工程师产出、代码审查负担和初级人才培养成本。开发工具机会将从代码生成转向验证、可观测性、安全与架构知识沉淀。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI编程",
+            "软件工程"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI编程",
+              "软件工程"
+            ]
+          },
+          "tags": [
+            "开发者",
+            "AI编程",
+            "组织变革",
+            "人才"
+          ],
+          "importance_score": 7.7
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "count": 10,
