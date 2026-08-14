@@ -1,8 +1,444 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-13T09:30:00+08:00",
-  "digest_count": 30,
-  "article_count": 261,
+  "generated_at": "2026-08-14T10:20:00+08:00",
+  "digest_count": 31,
+  "article_count": 271,
   "digests": [
+    {
+      "date": "2026-08-14",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI任命Dali Rajic为首席营收官，接替即将离任的Denise Dresser",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "published_at": "Thu, 13 Aug 2026 09:00:00 GMT",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "关键人物",
+          "summary": "OpenAI宣布任命Dali Rajic为首席营收官，负责全球营收组织和企业客户增长。该任命与现任首席营收官Denise Dresser即将离任同步发生，因此合并为一条管理层变动，不重复收录媒体的离任报道。",
+          "why_it_matters": "营收负责人更替发生在企业AI竞争和商业化投入加速之际，新任高管能否把模型能力转化为可持续企业收入，将影响OpenAI的销售效率、渠道策略和大客户关系。",
+          "why_important": "营收负责人更替发生在企业AI竞争和商业化投入加速之际，新任高管能否把模型能力转化为可持续企业收入，将影响OpenAI的销售效率、渠道策略和大客户关系。",
+          "investment_observation": "关注企业产品定价、销售费用率、渠道伙伴政策和大客户续约。管理层变动本身不是投资结论，但后续组织调整与订单节奏可作为商业化执行力的早期信号。",
+          "investment_angle": "关注企业产品定价、销售费用率、渠道伙伴政策和大客户续约。管理层变动本身不是投资结论，但后续组织调整与订单节奏可作为商业化执行力的早期信号。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Dali Rajic",
+            "Denise Dresser"
+          ],
+          "products": [],
+          "technologies": [],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Dali Rajic",
+              "Denise Dresser"
+            ],
+            "products": [],
+            "technologies": []
+          },
+          "tags": [
+            "关键人物",
+            "OpenAI",
+            "企业AI",
+            "组织变动"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Writer基于GLM-5.2推出低成本模型与升级版Agent运行框架",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 13 Aug 2026 21:13:24 +0000",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "后训练",
+          "summary": "企业AI公司Writer推出基于Z.ai开源GLM-5.2后训练的新模型，并升级负责上下文、工具调用和执行流程的Agent运行框架，目标是在保持可部署能力的同时压低token消耗与推理费用。",
+          "why_it_matters": "企业部署成本不再只由底层模型决定，后训练、上下文管理和运行框架同样影响质量与账单。基于开放模型做行业化改造，也显示应用厂商正强化对模型供应链的控制。",
+          "why_important": "企业部署成本不再只由底层模型决定，后训练、上下文管理和运行框架同样影响质量与账单。基于开放模型做行业化改造，也显示应用厂商正强化对模型供应链的控制。",
+          "investment_observation": "重点比较真实企业任务的完成率、总token消耗、延迟和切换模型的成本。能持续量化节省费用的运行框架与可观测性工具，可能获得比单纯模型转售更强的议价权。",
+          "investment_angle": "重点比较真实企业任务的完成率、总token消耗、延迟和切换模型的成本。能持续量化节省费用的运行框架与可观测性工具，可能获得比单纯模型转售更强的议价权。",
+          "companies": [
+            "Writer",
+            "Z.ai"
+          ],
+          "people": [],
+          "products": [
+            "GLM-5.2"
+          ],
+          "technologies": [
+            "后训练",
+            "Agent运行框架",
+            "推理优化"
+          ],
+          "entities": {
+            "companies": [
+              "Writer",
+              "Z.ai"
+            ],
+            "people": [],
+            "products": [
+              "GLM-5.2"
+            ],
+            "technologies": [
+              "后训练",
+              "Agent运行框架",
+              "推理优化"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "开源模型",
+            "Agent",
+            "推理成本"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Databricks以1900亿美元估值融资50亿美元",
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+          "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 13 Aug 2026 20:14:39 +0000",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "融资",
+          "summary": "Databricks原计划融资约10亿美元，在投资者认购需求远超计划后将规模扩大至50亿美元，对应约1900亿美元估值。CEO Ali Ghodsi表示AI基础设施与产品投入昂贵，但公司并非因短期现金压力被迫融资。",
+          "why_it_matters": "超大额私募融资表明资本仍愿为企业数据与AI平台支付高估值，也进一步推高未上市AI基础设施公司的估值锚，并延长其推迟IPO的空间。",
+          "why_important": "超大额私募融资表明资本仍愿为企业数据与AI平台支付高估值，也进一步推高未上市AI基础设施公司的估值锚，并延长其推迟IPO的空间。",
+          "investment_observation": "除融资额外，应持续核查收入增速、AI产品占比、毛利率、资本开支和二级份额安排。高估值需要企业Agent与数据库产品形成可验证的新增收入，而非只靠AI叙事。",
+          "investment_angle": "除融资额外，应持续核查收入增速、AI产品占比、毛利率、资本开支和二级份额安排。高估值需要企业Agent与数据库产品形成可验证的新增收入，而非只靠AI叙事。",
+          "companies": [
+            "Databricks"
+          ],
+          "people": [
+            "Ali Ghodsi"
+          ],
+          "products": [],
+          "technologies": [
+            "数据智能平台",
+            "企业AI"
+          ],
+          "entities": {
+            "companies": [
+              "Databricks"
+            ],
+            "people": [
+              "Ali Ghodsi"
+            ],
+            "products": [],
+            "technologies": [
+              "数据智能平台",
+              "企业AI"
+            ]
+          },
+          "tags": [
+            "融资",
+            "数据",
+            "企业AI",
+            "估值"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "端侧Agent芯片公司获4.8亿美元融资并推进首颗芯片量产",
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "link": "https://www.qbitai.com/2026/08/472059.html",
+          "source": "量子位",
+          "published_at": "Thu, 13 Aug 2026 12:34:42 +0000",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "智能硬件",
+          "summary": "量子位报道，一家面向端侧Agent计算的芯片公司获得4.8亿美元融资，其首颗AI芯片已进入量产阶段。项目试图把更强的本地推理、低延迟交互和隐私处理能力放入终端设备。",
+          "why_it_matters": "端侧Agent若能持续感知并调用设备能力，会提高对能效、内存带宽和软硬件协同的要求；量产进度比实验室峰值性能更能检验供应链和客户需求。",
+          "why_important": "端侧Agent若能持续感知并调用设备能力，会提高对能效、内存带宽和软硬件协同的要求；量产进度比实验室峰值性能更能检验供应链和客户需求。",
+          "investment_observation": "重点核实出货客户、制程与代工安排、单机功耗、开发工具链和量产良率。大额融资降低短期资金压力，但终端设计导入周期长，需防范客户集中与库存风险。",
+          "investment_angle": "重点核实出货客户、制程与代工安排、单机功耗、开发工具链和量产良率。大额融资降低短期资金压力，但终端设计导入周期长，需防范客户集中与库存风险。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "端侧AI芯片",
+            "Agent",
+            "本地推理"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "端侧AI芯片",
+              "Agent",
+              "本地推理"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "芯片",
+            "融资",
+            "端侧AI"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "具身数据基础设施公司40天内完成两轮数千万元融资",
+          "url": "https://www.qbitai.com/2026/08/472060.html",
+          "link": "https://www.qbitai.com/2026/08/472060.html",
+          "source": "量子位",
+          "published_at": "Thu, 13 Aug 2026 11:53:02 +0000",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "数据",
+          "summary": "一家面向物理AI的具身数据基础设施公司在40天内完成两轮数千万元融资，业务聚焦机器人数据采集、治理与训练闭环，希望解决真实场景数据成本高、格式分散和复用困难的问题。",
+          "why_it_matters": "具身模型的瓶颈正在从算法扩展到高质量交互数据。能覆盖采集、标注、仿真和训练反馈的数据平台，有机会成为机器人厂商之间可复用的基础设施。",
+          "why_important": "具身模型的瓶颈正在从算法扩展到高质量交互数据。能覆盖采集、标注、仿真和训练反馈的数据平台，有机会成为机器人厂商之间可复用的基础设施。",
+          "investment_observation": "关注付费客户数量、每小时有效数据成本、跨机器人平台兼容性和数据权属。若收入仍以定制采集项目为主，规模化有限；形成标准格式与持续反馈闭环才可能建立网络效应。",
+          "investment_angle": "关注付费客户数量、每小时有效数据成本、跨机器人平台兼容性和数据权属。若收入仍以定制采集项目为主，规模化有限；形成标准格式与持续反馈闭环才可能建立网络效应。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身数据",
+            "物理AI",
+            "机器人训练"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身数据",
+              "物理AI",
+              "机器人训练"
+            ]
+          },
+          "tags": [
+            "数据",
+            "具身智能",
+            "融资",
+            "机器人"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Bullet推出强调速度的AI编程Agent",
+          "url": "https://www.codewithbullet.com/",
+          "link": "https://www.codewithbullet.com/",
+          "source": "Hacker News",
+          "published_at": "2026-08-13T08:14:30Z",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "开发者工具",
+          "summary": "Y Combinator S26项目Bullet发布面向软件开发的AI编程Agent，主打更快的任务执行与代码迭代，并在Hacker News获得开发者讨论。作为早期产品，其公开信息更适合作为需求信号而非成熟能力证明。",
+          "why_it_matters": "AI编程竞争正从单次代码生成转向完整任务执行，速度、验证机制和开发环境集成共同决定留存。新进入者仍可能通过垂直工作流和更低延迟切入。",
+          "why_important": "AI编程竞争正从单次代码生成转向完整任务执行，速度、验证机制和开发环境集成共同决定留存。新进入者仍可能通过垂直工作流和更低延迟切入。",
+          "investment_observation": "重点观察真实仓库任务成功率、回滚与审查能力、付费留存和单位任务成本。演示速度容易复制，能减少返工并融入团队权限体系才会形成商业壁垒。",
+          "investment_angle": "重点观察真实仓库任务成功率、回滚与审查能力、付费留存和单位任务成本。演示速度容易复制，能减少返工并融入团队权限体系才会形成商业壁垒。",
+          "companies": [
+            "Bullet",
+            "Y Combinator"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI编程Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Bullet",
+              "Y Combinator"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI编程Agent"
+            ]
+          },
+          "tags": [
+            "开发者工具",
+            "Agent",
+            "AI编程",
+            "早期产品"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "Suno Studio 2.0加入MIDI、对话编辑与自定义效果",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+          "source": "The Verge AI",
+          "published_at": "2026-08-13T12:00:00-04:00",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "产品应用",
+          "summary": "Suno发布Studio 2.0，加入MIDI处理、对话式编辑和自定义效果等功能，使产品从一键生成歌曲进一步靠近数字音频工作站，瞄准更持续、更精细的音乐制作流程。",
+          "why_it_matters": "生成式音乐若进入编辑、编曲和协作环节，使用频率与付费深度可能高于一次性娱乐生成；同时也会更直接地进入专业软件和版权生态。",
+          "why_important": "生成式音乐若进入编辑、编曲和协作环节，使用频率与付费深度可能高于一次性娱乐生成；同时也会更直接地进入专业软件和版权生态。",
+          "investment_observation": "关注专业创作者留存、订阅升级率、工程文件兼容性以及训练和输出版权安排。工作流黏性可提升商业价值，但诉讼、授权和音乐人关系仍是核心风险。",
+          "investment_angle": "关注专业创作者留存、订阅升级率、工程文件兼容性以及训练和输出版权安排。工作流黏性可提升商业价值，但诉讼、授权和音乐人关系仍是核心风险。",
+          "companies": [
+            "Suno"
+          ],
+          "people": [],
+          "products": [
+            "Suno Studio 2.0"
+          ],
+          "technologies": [
+            "生成式音乐",
+            "数字音频工作站"
+          ],
+          "entities": {
+            "companies": [
+              "Suno"
+            ],
+            "people": [],
+            "products": [
+              "Suno Studio 2.0"
+            ],
+            "technologies": [
+              "生成式音乐",
+              "数字音频工作站"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI音乐",
+            "创作者工具",
+            "版权"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "线控科技完成数千万元A轮融资，推进重载线控机器人量产",
+          "url": "https://36kr.com/p/3938721849113730?f=rss",
+          "link": "https://36kr.com/p/3938721849113730?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-14 09:55:21 +0800",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "机器人",
+          "summary": "南京线控科技完成数千万元A轮融资，由江宁科创基金领投、云时资本跟投。资金将用于底层技术迭代、产品扩充和量产，并继续拓展船舶、钢铁等大空间重载工业场景。",
+          "why_it_matters": "线控机器人可覆盖传统机械臂难以处理的大空间、大负载任务，是具身智能在重工业中的差异化形态。融资从Pre-A轮推进至A轮，也反映项目正由首套验证走向复制交付。",
+          "why_important": "线控机器人可覆盖传统机械臂难以处理的大空间、大负载任务，是具身智能在重工业中的差异化形态。融资从Pre-A轮推进至A轮，也反映项目正由首套验证走向复制交付。",
+          "investment_observation": "重点看已签订单、交付周期、毛利率、安全认证和客户复购。重工业自动化需求真实，但项目制集成和回款周期可能限制规模；模块化与标准化程度决定长期盈利能力。",
+          "investment_angle": "重点看已签订单、交付周期、毛利率、安全认证和客户复购。重工业自动化需求真实，但项目制集成和回款周期可能限制规模；模块化与标准化程度决定长期盈利能力。",
+          "companies": [
+            "线控科技",
+            "江宁科创基金",
+            "云时资本"
+          ],
+          "people": [],
+          "products": [
+            "线控机器人"
+          ],
+          "technologies": [
+            "重载机器人",
+            "线控技术"
+          ],
+          "entities": {
+            "companies": [
+              "线控科技",
+              "江宁科创基金",
+              "云时资本"
+            ],
+            "people": [],
+            "products": [
+              "线控机器人"
+            ],
+            "technologies": [
+              "重载机器人",
+              "线控技术"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "智能制造",
+            "量产"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "中芯国际称AI需求的产业推动与溢出效应下半年仍将持续",
+          "url": "https://36kr.com/newsflashes/3938684263300229?f=rss",
+          "link": "https://36kr.com/newsflashes/3938684263300229?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-14 09:16:49 +0800",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "半导体",
+          "summary": "中芯国际联合CEO赵海军在二季度业绩会上表示，AI带来的产业推动与溢出效应预计下半年继续，为集成电路制造带来广泛需求；公司正灵活调配并验证新增产能，同时应对供应链成本向制造环节传导。",
+          "why_it_matters": "AI半导体需求不仅覆盖先进加速器，也会外溢到电源管理、连接、存储和成熟制程器件。晶圆厂的产能调度与成本传导情况可作为产业景气度的现实观察点。",
+          "why_important": "AI半导体需求不仅覆盖先进加速器，也会外溢到电源管理、连接、存储和成熟制程器件。晶圆厂的产能调度与成本传导情况可作为产业景气度的现实观察点。",
+          "investment_observation": "关注产能利用率、晶圆均价、资本开支和非AI终端复苏。AI外溢能改善需求结构，但供应链涨价若无法传递给客户，制造端利润率仍可能承压。",
+          "investment_angle": "关注产能利用率、晶圆均价、资本开支和非AI终端复苏。AI外溢能改善需求结构，但供应链涨价若无法传递给客户，制造端利润率仍可能承压。",
+          "companies": [
+            "中芯国际"
+          ],
+          "people": [
+            "赵海军"
+          ],
+          "products": [],
+          "technologies": [
+            "晶圆制造",
+            "AI芯片"
+          ],
+          "entities": {
+            "companies": [
+              "中芯国际"
+            ],
+            "people": [
+              "赵海军"
+            ],
+            "products": [],
+            "technologies": [
+              "晶圆制造",
+              "AI芯片"
+            ]
+          },
+          "tags": [
+            "半导体",
+            "AI Infra",
+            "产业链",
+            "关键人物"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "MIT Technology Review梳理青少年对AI的真实使用与担忧",
+          "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words",
+          "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words",
+          "source": "MIT Technology Review AI",
+          "published_at": "Thu, 13 Aug 2026 09:00:00 +0000",
+          "selected_at": "2026-08-14T10:20:00+08:00",
+          "category": "AI治理",
+          "summary": "MIT Technology Review通过青少年访谈呈现他们对AI学习、娱乐和社交用途的看法。受访者既认可辅助解释与创作的便利，也担心依赖、作弊、隐私和难以辨别合成内容等问题。",
+          "why_it_matters": "未成年人是教育AI与消费级助手的重要用户，但其风险承受能力和知情同意条件不同于成年人。真实用户反馈可帮助产品团队识别单靠基准测试无法发现的依赖与信任问题。",
+          "why_important": "未成年人是教育AI与消费级助手的重要用户，但其风险承受能力和知情同意条件不同于成年人。真实用户反馈可帮助产品团队识别单靠基准测试无法发现的依赖与信任问题。",
+          "investment_observation": "关注学校采购规则、年龄验证、家长控制、数据最小化和学习效果评估。儿童与教育场景具有长期需求，但合规和声誉风险高，增长不能只看使用时长。",
+          "investment_angle": "关注学校采购规则、年龄验证、家长控制、数据最小化和学习效果评估。儿童与教育场景具有长期需求，但合规和声誉风险高，增长不能只看使用时长。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "教育AI"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "教育AI"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "教育",
+            "青少年",
+            "产品安全"
+          ],
+          "importance_score": 7.9
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "count": 10,
