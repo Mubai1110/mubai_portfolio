@@ -1,8 +1,354 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-14T10:05:00+08:00",
-  "digest_count": 31,
-  "article_count": 271,
+  "generated_at": "2026-08-15T09:10:00+08:00",
+  "digest_count": 32,
+  "article_count": 279,
   "digests": [
+    {
+      "date": "2026-08-15",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Meta以开放权重模型重申“AI面向所有人”，商业边界仍待验证",
+          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+          "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 14 Aug 2026 15:43:28 +0000",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "基础模型",
+          "summary": "Meta本周发布可在本地硬件运行的开放权重模型Glimmer，与更偏闭源产品路线的Muse Spark形成对照。TechCrunch据此追问扎克伯格“AI面向所有人”的承诺，是否能与Meta的平台控制和商业利益长期兼容。",
+          "why_it_matters": "开放权重既能扩大开发者覆盖，也会把模型安全、分发控制和商业化之间的张力推到台前。Meta的选择会影响开源模型的行业预期与竞争门槛。",
+          "why_important": "开放权重既能扩大开发者覆盖，也会把模型安全、分发控制和商业化之间的张力推到台前。Meta的选择会影响开源模型的行业预期与竞争门槛。",
+          "investment_observation": "重点观察Glimmer的许可证、下载量、开发者采用和后续托管服务。若开放策略能带动应用生态而非只形成舆论声量，Meta将获得模型之外的分发收益。",
+          "investment_angle": "重点观察Glimmer的许可证、下载量、开发者采用和后续托管服务。若开放策略能带动应用生态而非只形成舆论声量，Meta将获得模型之外的分发收益。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Mark Zuckerberg"
+          ],
+          "products": [
+            "Glimmer",
+            "Muse Spark"
+          ],
+          "technologies": [
+            "开放权重模型"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [
+              "Mark Zuckerberg"
+            ],
+            "products": [
+              "Glimmer",
+              "Muse Spark"
+            ],
+            "technologies": [
+              "开放权重模型"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "开源",
+            "关键人物"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Google用全同态加密推进隐私AI实用化",
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "source": "Google Security Blog",
+          "published_at": "2026-08-14T15:43:10Z",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "安全",
+          "summary": "Google介绍其将全同态加密用于私密AI计算的进展：数据可在保持加密的状态下参与模型处理，从而减少云端服务直接接触明文敏感信息的需要。该话题在开发者社区引发高热度讨论。",
+          "why_it_matters": "隐私计算若能跨过性能与工程复杂度门槛，将扩大医疗、金融、政务等高敏感数据场景采用AI的空间，并改变云端模型服务的安全架构。",
+          "why_important": "隐私计算若能跨过性能与工程复杂度门槛，将扩大医疗、金融、政务等高敏感数据场景采用AI的空间，并改变云端模型服务的安全架构。",
+          "investment_observation": "关注加密计算的延迟、成本、支持的模型操作和客户试点。短期机会更可能落在编译优化、密钥管理和合规部署工具，而非通用模型层。",
+          "investment_angle": "关注加密计算的延迟、成本、支持的模型操作和客户试点。短期机会更可能落在编译优化、密钥管理和合规部署工具，而非通用模型层。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "全同态加密",
+            "隐私计算"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "全同态加密",
+              "隐私计算"
+            ]
+          },
+          "tags": [
+            "安全",
+            "隐私AI",
+            "数据"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Kog用更深层GPU优化提升Agent推理效率",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+          "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "AI Infra",
+          "summary": "法国初创公司Kog认为GPU并非天然不适合Agent工作负载，并尝试通过更底层的软件与执行优化，从现有GPU中释放更多推理吞吐，降低多步骤Agent任务的单位计算成本。",
+          "why_it_matters": "Agent会放大推理调用次数，基础设施竞争正从单纯扩充GPU转向提高利用率。能直接降低每项任务成本的软件层，可能成为算力预算的重要入口。",
+          "why_important": "Agent会放大推理调用次数，基础设施竞争正从单纯扩充GPU转向提高利用率。能直接降低每项任务成本的软件层，可能成为算力预算的重要入口。",
+          "investment_observation": "应跟踪真实工作负载下的吞吐、延迟、兼容模型范围及客户节省金额。若优化依赖少数模型或硬件，商业天花板会受限；跨栈适配能力决定议价权。",
+          "investment_angle": "应跟踪真实工作负载下的吞吐、延迟、兼容模型范围及客户节省金额。若优化依赖少数模型或硬件，商业天花板会受限；跨栈适配能力决定议价权。",
+          "companies": [
+            "Kog"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GPU推理",
+            "Agent工作负载",
+            "推理优化"
+          ],
+          "entities": {
+            "companies": [
+              "Kog"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GPU推理",
+              "Agent工作负载",
+              "推理优化"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "推理",
+            "Agent"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "苹果与阿里巴巴为中国市场训练定制AI模型",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "source": "The Verge AI",
+          "published_at": "2026-08-14T05:21:17-04:00",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "产品",
+          "summary": "据The Verge报道，苹果在阿里巴巴协助下为中国市场训练定制AI模型，以适配本地语言、服务生态和监管要求。这是苹果推进Apple Intelligence中国落地的重要本地化动作。",
+          "why_it_matters": "中国是苹果关键市场，而生成式AI功能已成为高端终端竞争要素。本地模型合作说明全球厂商进入中国需要同时解决能力、数据合规和渠道生态问题。",
+          "why_important": "中国是苹果关键市场，而生成式AI功能已成为高端终端竞争要素。本地模型合作说明全球厂商进入中国需要同时解决能力、数据合规和渠道生态问题。",
+          "investment_observation": "关注监管审批、正式上线时间、支持设备范围及阿里云资源投入。若落地顺利，阿里巴巴可能获得模型服务、云资源和端侧生态协同收益。",
+          "investment_angle": "关注监管审批、正式上线时间、支持设备范围及阿里云资源投入。若落地顺利，阿里巴巴可能获得模型服务、云资源和端侧生态协同收益。",
+          "companies": [
+            "Apple",
+            "Alibaba"
+          ],
+          "people": [],
+          "products": [
+            "Apple Intelligence"
+          ],
+          "technologies": [
+            "本地化模型"
+          ],
+          "entities": {
+            "companies": [
+              "Apple",
+              "Alibaba"
+            ],
+            "people": [],
+            "products": [
+              "Apple Intelligence"
+            ],
+            "technologies": [
+              "本地化模型"
+            ]
+          },
+          "tags": [
+            "产品",
+            "中国市场",
+            "智能硬件"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "机器人算力需求两年增十倍，研发平台争夺基础设施入口",
+          "url": "https://www.qbitai.com/2026/08/472722.html",
+          "link": "https://www.qbitai.com/2026/08/472722.html",
+          "source": "量子位",
+          "published_at": "Fri, 14 Aug 2026 07:29:22 +0000",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "机器人",
+          "summary": "量子位报道，机器人从仿真走向真实物理环境后，训练、数据回放、仿真和部署带来的算力需求两年增长约十倍；面向机器人研发的基础设施方案宣称可降低成本并提升部署效率。",
+          "why_it_matters": "具身智能的瓶颈不只在本体和模型，还在数据闭环、仿真、算力调度与部署工具。基础设施标准化将影响机器人公司的研发速度和资本效率。",
+          "why_important": "具身智能的瓶颈不只在本体和模型，还在数据闭环、仿真、算力调度与部署工具。基础设施标准化将影响机器人公司的研发速度和资本效率。",
+          "investment_observation": "重点核查客户数量、单位机器人训练成本、平台留存和软硬件兼容性。能够跨本体与模型复用的数据/算力平台，比一次性交付项目更具规模化潜力。",
+          "investment_angle": "重点核查客户数量、单位机器人训练成本、平台留存和软硬件兼容性。能够跨本体与模型复用的数据/算力平台，比一次性交付项目更具规模化潜力。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "机器人训练",
+            "仿真",
+            "算力调度"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "机器人训练",
+              "仿真",
+              "算力调度"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "AI Infra",
+            "具身智能"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "Qwen3.8-27B开放权重，消费级显卡可本地部署",
+          "url": "https://www.qbitai.com/2026/08/473379.html",
+          "link": "https://www.qbitai.com/2026/08/473379.html",
+          "source": "量子位",
+          "published_at": "Fri, 14 Aug 2026 15:41:12 +0000",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "开源",
+          "summary": "Qwen3.8-27B发布开放权重版本，允许免费下载、部署和商业使用，并把消费级显卡本地运行作为主要卖点之一，进一步降低中等规模模型的使用门槛。",
+          "why_it_matters": "可本地部署的高能力模型会推动私有化、端侧应用和低成本微调，也会加剧中型模型在性能、显存和许可友好度上的竞争。",
+          "why_important": "可本地部署的高能力模型会推动私有化、端侧应用和低成本微调，也会加剧中型模型在性能、显存和许可友好度上的竞争。",
+          "investment_observation": "关注真实基准、量化后能力、显存占用、社区下载量及云端托管需求。商业机会更可能集中在推理服务、行业微调、安全评测和企业支持。",
+          "investment_angle": "关注真实基准、量化后能力、显存占用、社区下载量及云端托管需求。商业机会更可能集中在推理服务、行业微调、安全评测和企业支持。",
+          "companies": [
+            "Alibaba"
+          ],
+          "people": [],
+          "products": [
+            "Qwen3.8-27B"
+          ],
+          "technologies": [
+            "开放权重模型",
+            "本地推理"
+          ],
+          "entities": {
+            "companies": [
+              "Alibaba"
+            ],
+            "people": [],
+            "products": [
+              "Qwen3.8-27B"
+            ],
+            "technologies": [
+              "开放权重模型",
+              "本地推理"
+            ]
+          },
+          "tags": [
+            "开源",
+            "基础模型",
+            "端侧AI"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "印尼首个大学AI中心落地，NVIDIA与Indosat扩展本地人才生态",
+          "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+          "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+          "source": "NVIDIA Blog",
+          "published_at": "Fri, 14 Aug 2026 17:13:05 +0000",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "生态",
+          "summary": "日惹加查马达大学、Indosat与NVIDIA成立印度尼西亚首个大学AI中心，计划培养本地AI人才并支持研究、产业项目和本地语言技术开发。",
+          "why_it_matters": "主权AI建设正从采购算力延伸到人才、大学和本地模型生态。教育中心虽然短期收入有限，却可为云服务和加速计算建立长期开发者入口。",
+          "why_important": "主权AI建设正从采购算力延伸到人才、大学和本地模型生态。教育中心虽然短期收入有限，却可为云服务和加速计算建立长期开发者入口。",
+          "investment_observation": "关注课程覆盖人数、算力投入、本地模型成果及企业合作转化。NVIDIA与运营商的联合模式若可复制，将强化其在新兴市场的生态黏性。",
+          "investment_angle": "关注课程覆盖人数、算力投入、本地模型成果及企业合作转化。NVIDIA与运营商的联合模式若可复制，将强化其在新兴市场的生态黏性。",
+          "companies": [
+            "NVIDIA",
+            "Indosat Ooredoo Hutchison",
+            "Universitas Gadjah Mada"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "主权AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Indosat Ooredoo Hutchison",
+              "Universitas Gadjah Mada"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "主权AI"
+            ]
+          },
+          "tags": [
+            "生态",
+            "人才",
+            "东南亚"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "开源深度研究Agent Mole强调预算、引文验证与本地数据边界",
+          "url": "https://github.com/lajosdeme/mole",
+          "link": "https://github.com/lajosdeme/mole",
+          "source": "GitHub / Hacker News",
+          "published_at": "2026-08-14T18:52:48Z",
+          "selected_at": "2026-08-15T09:10:00+08:00",
+          "category": "开源工具",
+          "summary": "开源项目Mole是一款运行在终端的深度研究Agent，可设定强制预算、逐条验证引用，并通过隐私边界让本地数据分析只向模型暴露聚合结果；项目同时提供MCP接口。",
+          "why_it_matters": "研究Agent的竞争点正从能否搜索转向成本可控、证据可追溯和敏感数据治理。Mole把三项约束做成产品机制，代表Agent工具走向可审计化。",
+          "why_important": "研究Agent的竞争点正从能否搜索转向成本可控、证据可追溯和敏感数据治理。Mole把三项约束做成产品机制，代表Agent工具走向可审计化。",
+          "investment_observation": "该项目当前仍属早期开发者工具，重点观察社区增长、企业集成和托管商业模式。其价值更可能来自可审计研究组件与MCP生态，而非单一聊天入口。",
+          "investment_angle": "该项目当前仍属早期开发者工具，重点观察社区增长、企业集成和托管商业模式。其价值更可能来自可审计研究组件与MCP生态，而非单一聊天入口。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "Mole"
+          ],
+          "technologies": [
+            "深度研究Agent",
+            "MCP",
+            "本地数据分析"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [
+              "Mole"
+            ],
+            "technologies": [
+              "深度研究Agent",
+              "MCP",
+              "本地数据分析"
+            ]
+          },
+          "tags": [
+            "开源工具",
+            "Agent",
+            "开发者生态"
+          ],
+          "importance_score": 7.6
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "count": 10,
