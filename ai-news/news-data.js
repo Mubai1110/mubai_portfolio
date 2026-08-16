@@ -1,8 +1,288 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-15T09:10:00+08:00",
-  "digest_count": 32,
-  "article_count": 279,
+  "generated_at": "2026-08-16T12:30:00+08:00",
+  "digest_count": 33,
+  "article_count": 285,
   "digests": [
+    {
+      "date": "2026-08-16",
+      "count": 6,
+      "articles": [
+        {
+          "title": "SpaceX完成对Cursor的收购，AI编程进入超级平台整合阶段",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+          "source": "TechCrunch AI",
+          "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "并购",
+          "summary": "SpaceX正式完成对AI编程公司Cursor的收购。交易把成熟的开发者入口、代码生成产品与SpaceX及其AI基础设施体系结合，标志着AI编程赛道从独立工具竞争进一步走向大型平台整合。",
+          "why_it_matters": "Cursor已成为AI编程最重要的产品入口之一，控制权转移会改变其模型选择、算力采购和企业客户策略，也可能加速OpenAI Codex、Claude Code等竞品的生态绑定。",
+          "why_important": "Cursor已成为AI编程最重要的产品入口之一，控制权转移会改变其模型选择、算力采购和企业客户策略，也可能加速OpenAI Codex、Claude Code等竞品的生态绑定。",
+          "investment_observation": "重点关注收购后的用户留存、产品独立性、企业数据隔离及模型供应关系。大型平台能补贴算力，但若削弱中立性，也可能给独立开发工具和多模型编排层留下机会。",
+          "investment_angle": "重点关注收购后的用户留存、产品独立性、企业数据隔离及模型供应关系。大型平台能补贴算力，但若削弱中立性，也可能给独立开发工具和多模型编排层留下机会。",
+          "companies": [
+            "SpaceX",
+            "Cursor"
+          ],
+          "people": [
+            "Elon Musk"
+          ],
+          "products": [
+            "Cursor"
+          ],
+          "technologies": [
+            "AI编程",
+            "代码智能体"
+          ],
+          "entities": {
+            "companies": [
+              "SpaceX",
+              "Cursor"
+            ],
+            "people": [
+              "Elon Musk"
+            ],
+            "products": [
+              "Cursor"
+            ],
+            "technologies": [
+              "AI编程",
+              "代码智能体"
+            ]
+          },
+          "tags": [
+            "并购",
+            "AI编程",
+            "产品应用"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "英伟达考虑为AI算力项目提供最高25%的残值支持",
+          "url": "https://36kr.com/newsflashes/3940579113713025?f=rss",
+          "link": "https://36kr.com/newsflashes/3940579113713025?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-15 17:24:21 +0800",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "AI Infra",
+          "summary": "黄仁勋表示，英伟达可能针对单个AI算力投资项目提供最高25%的残值支持，并逐项审慎评估。该机制旨在降低资管机构对GPU资产折旧与二手价值的担忧，推动算力成为可融资的独立资产类别。",
+          "why_it_matters": "GPU项目正在从企业资本开支演变为带杠杆的基础设施资产。厂商提供残值支持可降低融资成本，却也把英伟达更深地绑定到客户项目的资产价格和信用风险。",
+          "why_important": "GPU项目正在从企业资本开支演变为带杠杆的基础设施资产。厂商提供残值支持可降低融资成本，却也把英伟达更深地绑定到客户项目的资产价格和信用风险。",
+          "investment_observation": "应跟踪支持机制的适用范围、期限、定价与实际违约承担方式，同时警惕循环融资和过度建设。受益方包括数据中心融资、设备租赁和资产管理平台，风险则集中在利用率与残值假设。",
+          "investment_angle": "应跟踪支持机制的适用范围、期限、定价与实际违约承担方式，同时警惕循环融资和过度建设。受益方包括数据中心融资、设备租赁和资产管理平台，风险则集中在利用率与残值假设。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [
+            "GPU"
+          ],
+          "technologies": [
+            "AI算力",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [
+              "GPU"
+            ],
+            "technologies": [
+              "AI算力",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "融资",
+            "关键人物"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Grok照片滥用指控再次暴露生成式AI的未成年人安全缺口",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+          "source": "TechCrunch AI",
+          "published_at": "Sat, 15 Aug 2026 21:29:19 +0000",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "安全",
+          "summary": "一名女性指控其继父使用Grok将她的童年照片转换为露骨图像。事件把非自愿图像编辑、未成年人保护以及平台责任再次推向监管与公众审视中心。",
+          "why_it_matters": "这不是单次不当输出，而是图像模型的身份验证、内容拦截和传播治理能否形成闭环的问题。儿童安全失守会直接带来监管、诉讼、支付渠道和品牌风险。",
+          "why_important": "这不是单次不当输出，而是图像模型的身份验证、内容拦截和传播治理能否形成闭环的问题。儿童安全失守会直接带来监管、诉讼、支付渠道和品牌风险。",
+          "investment_observation": "关注xAI是否上线更严格的年龄识别、真人照片编辑限制和可追溯机制，以及监管机构是否采取执法行动。安全审核、内容溯源与未成年人保护基础设施的采购需求可能上升。",
+          "investment_angle": "关注xAI是否上线更严格的年龄识别、真人照片编辑限制和可追溯机制，以及监管机构是否采取执法行动。安全审核、内容溯源与未成年人保护基础设施的采购需求可能上升。",
+          "companies": [
+            "xAI",
+            "X"
+          ],
+          "people": [],
+          "products": [
+            "Grok"
+          ],
+          "technologies": [
+            "生成式图像",
+            "内容安全"
+          ],
+          "entities": {
+            "companies": [
+              "xAI",
+              "X"
+            ],
+            "people": [],
+            "products": [
+              "Grok"
+            ],
+            "technologies": [
+              "生成式图像",
+              "内容安全"
+            ]
+          },
+          "tags": [
+            "安全",
+            "治理",
+            "未成年人保护"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "至知研究院提出直接拆解模型权重的低成本可解释性路线",
+          "url": "https://www.qbitai.com/2026/08/473876.html",
+          "link": "https://www.qbitai.com/2026/08/473876.html",
+          "source": "量子位",
+          "published_at": "Sat, 15 Aug 2026 06:42:23 +0000",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "研究",
+          "summary": "至知研究院提出一种直接分析和拆解大模型权重的可解释性方法，不再依赖重新训练替代网络，并称所需数据成本可降至传统路线的1%以下。该工作试图以更低门槛定位模型内部能力与行为来源。",
+          "why_it_matters": "可解释性是模型审计、安全评估和高风险行业落地的基础能力。若该方法能在不同架构和规模上稳定复现，将降低理解模型内部机制的计算与数据门槛。",
+          "why_important": "可解释性是模型审计、安全评估和高风险行业落地的基础能力。若该方法能在不同架构和规模上稳定复现，将降低理解模型内部机制的计算与数据门槛。",
+          "investment_observation": "后续应重点核验论文、代码、跨模型复现实验和解释结果的因果有效性。商业机会更可能出现在模型评测、合规审计和安全工具链，而非单独售卖研究指标。",
+          "investment_angle": "后续应重点核验论文、代码、跨模型复现实验和解释结果的因果有效性。商业机会更可能出现在模型评测、合规审计和安全工具链，而非单独售卖研究指标。",
+          "companies": [
+            "至知研究院"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "大模型可解释性",
+            "权重分析"
+          ],
+          "entities": {
+            "companies": [
+              "至知研究院"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "大模型可解释性",
+              "权重分析"
+            ]
+          },
+          "tags": [
+            "研究",
+            "可解释性",
+            "模型安全"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "硅臻芯片完成超亿元融资，推进光计算集群与量子芯片组",
+          "url": "https://36kr.com/p/3940103536491910?f=rss",
+          "link": "https://36kr.com/p/3940103536491910?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-15 09:20:56 +0800",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "融资",
+          "summary": "中科大孵化的硅臻芯片完成超亿元融资，由韦豪创芯、共达电声联合领投，多家产业与地方资本跟投。资金将用于万比特专用光计算集群和通用量子计算芯片组研发。",
+          "why_it_matters": "光计算与量子计算虽仍处早期，但都瞄准传统电子计算在能耗和特定任务上的瓶颈。产业资本共同进入，说明硬科技融资正围绕下一代计算架构提前布局。",
+          "why_important": "光计算与量子计算虽仍处早期，但都瞄准传统电子计算在能耗和特定任务上的瓶颈。产业资本共同进入，说明硬科技融资正围绕下一代计算架构提前布局。",
+          "investment_observation": "应区分专用光计算的近期交付能力与通用量子计算的长期研发价值，重点跟踪样机性能、客户验证、制造良率和收入结构，避免只以技术概念衡量估值。",
+          "investment_angle": "应区分专用光计算的近期交付能力与通用量子计算的长期研发价值，重点跟踪样机性能、客户验证、制造良率和收入结构，避免只以技术概念衡量估值。",
+          "companies": [
+            "硅臻芯片",
+            "韦豪创芯",
+            "共达电声"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "光计算",
+            "量子计算",
+            "计算芯片"
+          ],
+          "entities": {
+            "companies": [
+              "硅臻芯片",
+              "韦豪创芯",
+              "共达电声"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "光计算",
+              "量子计算",
+              "计算芯片"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "芯片"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "国产AI音乐模型瞄准结构一致性并开放音潮API",
+          "url": "https://www.qbitai.com/2026/08/473866.html",
+          "link": "https://www.qbitai.com/2026/08/473866.html",
+          "source": "量子位",
+          "published_at": "Sat, 15 Aug 2026 06:36:05 +0000",
+          "selected_at": "2026-08-16T12:30:00+08:00",
+          "category": "产品",
+          "summary": "国产音乐生成团队发布面向AI音乐常见结构与一致性问题的新模型，并开放音潮API，直接对标Suno等产品。其目标是提升完整歌曲的段落组织、旋律连续性和可控生成能力。",
+          "why_it_matters": "音乐生成正从短片段演示进入创作工作流竞争，模型质量之外，版权治理、编辑能力和分发渠道将共同决定商业化上限。",
+          "why_important": "音乐生成正从短片段演示进入创作工作流竞争，模型质量之外，版权治理、编辑能力和分发渠道将共同决定商业化上限。",
+          "investment_observation": "关注API调用增长、创作者留存、单曲生成成本及版权授权安排。能提供可编辑工程文件、商用授权和平台分发闭环的产品，比单纯音频生成更可能形成稳定收入。",
+          "investment_angle": "关注API调用增长、创作者留存、单曲生成成本及版权授权安排。能提供可编辑工程文件、商用授权和平台分发闭环的产品，比单纯音频生成更可能形成稳定收入。",
+          "companies": [
+            "音潮"
+          ],
+          "people": [],
+          "products": [
+            "音潮API",
+            "Suno"
+          ],
+          "technologies": [
+            "AI音乐生成"
+          ],
+          "entities": {
+            "companies": [
+              "音潮"
+            ],
+            "people": [],
+            "products": [
+              "音潮API",
+              "Suno"
+            ],
+            "technologies": [
+              "AI音乐生成"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI音乐",
+            "多模态"
+          ],
+          "importance_score": 7.8
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "count": 8,
