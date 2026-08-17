@@ -1,8 +1,296 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-16T12:30:00+08:00",
-  "digest_count": 33,
-  "article_count": 285,
+  "generated_at": "2026-08-17T09:10:00+08:00",
+  "digest_count": 34,
+  "article_count": 291,
   "digests": [
+    {
+      "date": "2026-08-17",
+      "count": 6,
+      "articles": [
+        {
+          "title": "Stripe据报拟以逾70亿美元收购OpenRouter，AI模型路由层进入整合期",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+          "source": "TechCrunch AI",
+          "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "并购",
+          "summary": "TechCrunch援引报道表示，Stripe正推进以超过70亿美元收购AI模型网关OpenRouter。OpenRouter为开发者统一接入多家模型并进行价格、性能与路由选择，交易若完成，将把模型调用入口与支付、计费和风控基础设施进一步合并。",
+          "why_it_matters": "模型越来越多、价格变化越来越快，多模型路由正从开发工具变成AI应用的关键控制层。Stripe若取得这一入口，可同时掌握模型消费、实时计费与企业支付数据，并改变独立模型网关的竞争格局。",
+          "why_important": "模型越来越多、价格变化越来越快，多模型路由正从开发工具变成AI应用的关键控制层。Stripe若取得这一入口，可同时掌握模型消费、实时计费与企业支付数据，并改变独立模型网关的竞争格局。",
+          "investment_observation": "重点核对最终成交价与交易条款，并观察OpenRouter能否保持模型中立性、开发者留存和企业客户增长。并购也会抬升模型网关、AI计费和推理成本优化公司的战略估值。",
+          "investment_angle": "重点核对最终成交价与交易条款，并观察OpenRouter能否保持模型中立性、开发者留存和企业客户增长。并购也会抬升模型网关、AI计费和推理成本优化公司的战略估值。",
+          "companies": [
+            "Stripe",
+            "OpenRouter"
+          ],
+          "people": [],
+          "products": [
+            "OpenRouter"
+          ],
+          "technologies": [
+            "模型路由",
+            "AI网关",
+            "推理基础设施"
+          ],
+          "entities": {
+            "companies": [
+              "Stripe",
+              "OpenRouter"
+            ],
+            "people": [],
+            "products": [
+              "OpenRouter"
+            ],
+            "technologies": [
+              "模型路由",
+              "AI网关",
+              "推理基础设施"
+            ]
+          },
+          "tags": [
+            "并购",
+            "AI Infra",
+            "模型路由"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Dario Amodei回应AI反弹：行业面对的根本问题是信任危机",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+          "source": "TechCrunch AI",
+          "published_at": "Sun, 16 Aug 2026 16:53:51 +0000",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "关键人物",
+          "summary": "Anthropic CEO Dario Amodei回应外界对AI风险叙事和行业扩张的批评，称当前反弹本质上是公众对科技公司、政府和AI承诺的信任危机。他强调，真正改善信任需要让AI在科研、医疗等领域交付可验证的社会价值，同时正视失业与滥用风险。",
+          "why_it_matters": "头部模型公司正从单纯争夺能力领先，转向争夺政策与社会许可。Amodei的表态显示，透明度、风险治理和可衡量的公共收益将直接影响Anthropic的监管关系、企业采购与品牌差异化。",
+          "why_important": "头部模型公司正从单纯争夺能力领先，转向争夺政策与社会许可。Amodei的表态显示，透明度、风险治理和可衡量的公共收益将直接影响Anthropic的监管关系、企业采购与品牌差异化。",
+          "investment_observation": "关注Anthropic是否把表态落实为模型评测披露、经济影响研究和医疗科研产品。信任成本若持续上升，安全评测、审计、内容溯源和行业合规工具将获得更稳定的企业预算。",
+          "investment_angle": "关注Anthropic是否把表态落实为模型评测披露、经济影响研究和医疗科研产品。信任成本若持续上升，安全评测、审计、内容溯源和行业合规工具将获得更稳定的企业预算。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [
+            "Dario Amodei"
+          ],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "大语言模型",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [
+              "Dario Amodei"
+            ],
+            "products": [
+              "Claude"
+            ],
+            "technologies": [
+              "大语言模型",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "Anthropic",
+            "AI治理"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "AI算力积分出现二级转售市场，Token正在金融化",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Vectoral / Hacker News",
+          "published_at": "2026-08-16T14:44:55Z",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "AI Infra",
+          "summary": "Vectoral梳理了AI算力积分的转售链条：部分中间商从云厂商、模型平台或促销渠道获得折扣额度，再向推理用户转售。随着Token用量扩大，算力信用正在形成类似带期限、折价和对手方风险的二级市场。",
+          "why_it_matters": "这反映AI推理成本已大到足以催生专门的套利和流动性服务，也暴露账户封禁、额度失效、服务条款和资金安全风险。模型价格不透明会进一步强化独立计费、路由和成本治理层的价值。",
+          "why_important": "这反映AI推理成本已大到足以催生专门的套利和流动性服务，也暴露账户封禁、额度失效、服务条款和资金安全风险。模型价格不透明会进一步强化独立计费、路由和成本治理层的价值。",
+          "investment_observation": "关注正规化的算力采购、Token预算管理、实时路由和信用风控服务，而非依赖灰色额度套利的模式。可审计的企业合同、稳定供给和毛利来源是判断商业质量的核心。",
+          "investment_angle": "关注正规化的算力采购、Token预算管理、实时路由和信用风控服务，而非依赖灰色额度套利的模式。可审计的企业合同、稳定供给和毛利来源是判断商业质量的核心。",
+          "companies": [
+            "Vectoral"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Token",
+            "推理成本优化",
+            "算力交易"
+          ],
+          "entities": {
+            "companies": [
+              "Vectoral"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Token",
+              "推理成本优化",
+              "算力交易"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "Token经济",
+            "成本优化"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "李飞飞谈人机关系：AI应放大人的能力，而不是简单替代人",
+          "url": "https://www.qbitai.com/2026/08/474140.html",
+          "link": "https://www.qbitai.com/2026/08/474140.html",
+          "source": "量子位",
+          "published_at": "Sun, 16 Aug 2026 10:45:47 +0000",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "关键人物",
+          "summary": "李飞飞在最新访谈中强调，AI更应被理解为个人能力的放大器，而非人的替代者。她将以人为本、空间智能和现实世界交互放在同一框架下，主张技术设计应服务人的创造力、尊严与实际需求。",
+          "why_it_matters": "作为计算机视觉和空间智能领域的关键人物，李飞飞的判断会影响机器人、教育、医疗和工作场景的产品路线。竞争焦点可能从追求通用替代，转向更可控、更贴近真实任务的人机协作。",
+          "why_important": "作为计算机视觉和空间智能领域的关键人物，李飞飞的判断会影响机器人、教育、医疗和工作场景的产品路线。竞争焦点可能从追求通用替代，转向更可控、更贴近真实任务的人机协作。",
+          "investment_observation": "关注能量化增强效果的产品指标，例如任务质量、学习效率、事故率和专业人员产能。空间智能与机器人项目还需验证数据闭环、部署成本和从演示到规模收入的路径。",
+          "investment_angle": "关注能量化增强效果的产品指标，例如任务质量、学习效率、事故率和专业人员产能。空间智能与机器人项目还需验证数据闭环、部署成本和从演示到规模收入的路径。",
+          "companies": [
+            "World Labs",
+            "斯坦福大学"
+          ],
+          "people": [
+            "李飞飞"
+          ],
+          "products": [],
+          "technologies": [
+            "空间智能",
+            "计算机视觉",
+            "人机协作"
+          ],
+          "entities": {
+            "companies": [
+              "World Labs",
+              "斯坦福大学"
+            ],
+            "people": [
+              "李飞飞"
+            ],
+            "products": [],
+            "technologies": [
+              "空间智能",
+              "计算机视觉",
+              "人机协作"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "空间智能",
+            "机器人"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "Alphabet拟首次发行澳元债券，全球融资为AI资本开支续航",
+          "url": "https://36kr.com/newsflashes/3942897284971909?f=rss",
+          "link": "https://36kr.com/newsflashes/3942897284971909?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-17 08:42:31 +0800",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "融资",
+          "summary": "Alphabet已聘请银行筹备首次澳元债券发行，潜在期限最长20年。公司此前已在美元及多种国际货币市场融资，显示超大规模云与模型企业正通过全球债券市场为持续增长的AI数据中心和算力投入配置长期资金。",
+          "why_it_matters": "AI竞争正在从研发竞赛演变为资产负债表竞赛。多币种、长期限融资可降低单一市场依赖，但也把数据中心利用率、电力成本和AI收入兑现速度更直接地传导到信用定价。",
+          "why_important": "AI竞争正在从研发竞赛演变为资产负债表竞赛。多币种、长期限融资可降低单一市场依赖，但也把数据中心利用率、电力成本和AI收入兑现速度更直接地传导到信用定价。",
+          "investment_observation": "重点跟踪发行规模、票息、期限结构以及Alphabet资本开支与AI收入的匹配度。与此同时，电力、数据中心、光网络和冷却环节的订单持续性比单次融资额更值得观察。",
+          "investment_angle": "重点跟踪发行规模、票息、期限结构以及Alphabet资本开支与AI收入的匹配度。与此同时，电力、数据中心、光网络和冷却环节的订单持续性比单次融资额更值得观察。",
+          "companies": [
+            "Alphabet",
+            "Google",
+            "澳新银行"
+          ],
+          "people": [],
+          "products": [
+            "Google Cloud",
+            "Gemini"
+          ],
+          "technologies": [
+            "AI数据中心",
+            "云计算"
+          ],
+          "entities": {
+            "companies": [
+              "Alphabet",
+              "Google",
+              "澳新银行"
+            ],
+            "people": [],
+            "products": [
+              "Google Cloud",
+              "Gemini"
+            ],
+            "technologies": [
+              "AI数据中心",
+              "云计算"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Alphabet",
+            "AI Capex"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "A股半年报显现AI硬件景气，服务器需求开始进入业绩验证",
+          "url": "https://36kr.com/newsflashes/3942882466102662?f=rss",
+          "link": "https://36kr.com/newsflashes/3942882466102662?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-17 08:35:26 +0800",
+          "selected_at": "2026-08-17T09:10:00+08:00",
+          "category": "智能硬件",
+          "summary": "截至8月16日晚，已有476家A股公司披露2026年半年报，报道指出AI算力需求成为科技制造板块的重要增长引擎，工业富联等服务器产业链公司受益于AI服务器及相关业务放量。",
+          "why_it_matters": "AI基础设施主题正在从订单预期进入财报验证阶段。服务器、散热、电源、光模块和高端制造环节能否兑现收入与利润，将决定产业链估值能否继续由资本开支支撑。",
+          "why_important": "AI基础设施主题正在从订单预期进入财报验证阶段。服务器、散热、电源、光模块和高端制造环节能否兑现收入与利润，将决定产业链估值能否继续由资本开支支撑。",
+          "investment_observation": "不只看收入增速，还要拆解AI业务占比、毛利率、客户集中度、存货与现金流。若订单增长伴随应收和库存过快上升，需要警惕景气预期提前透支。",
+          "investment_angle": "不只看收入增速，还要拆解AI业务占比、毛利率、客户集中度、存货与现金流。若订单增长伴随应收和库存过快上升，需要警惕景气预期提前透支。",
+          "companies": [
+            "工业富联"
+          ],
+          "people": [],
+          "products": [
+            "AI服务器"
+          ],
+          "technologies": [
+            "AI算力",
+            "服务器",
+            "智能制造"
+          ],
+          "entities": {
+            "companies": [
+              "工业富联"
+            ],
+            "people": [],
+            "products": [
+              "AI服务器"
+            ],
+            "technologies": [
+              "AI算力",
+              "服务器",
+              "智能制造"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "AI服务器",
+            "业绩验证"
+          ],
+          "importance_score": 7.6
+        }
+      ]
+    },
     {
       "date": "2026-08-16",
       "count": 6,
