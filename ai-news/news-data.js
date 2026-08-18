@@ -1,8 +1,396 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-17T09:10:00+08:00",
-  "digest_count": 34,
-  "article_count": 291,
+  "generated_at": "2026-08-18T09:15:00+08:00",
+  "digest_count": 35,
+  "article_count": 299,
   "digests": [
+    {
+      "date": "2026-08-18",
+      "count": 8,
+      "articles": [
+        {
+          "title": "美国电影协会与字节跳动建立生成式AI版权保护合作框架",
+          "url": "https://36kr.com/newsflashes/3944329757064581?f=rss",
+          "link": "https://36kr.com/newsflashes/3944329757064581?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-18 08:59:43  +0800",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "治理",
+          "summary": "美国电影协会（MPA）与字节跳动签署谅解备忘录，围绕Seedance视频模型和Seedream图像模型建立知识产权保护合作框架。双方表示将继续完善生成内容的版权保护措施；这也标志着此前围绕影视角色与作品生成的冲突，开始转向制度化协商。",
+          "why_it_matters": "影视版权方与头部生成式视频平台从公开对抗走向合作，会影响训练数据授权、生成内容过滤和商业客户使用边界。若框架形成可执行标准，视频模型竞争将不再只看画质与成本，还要看版权合规能力。",
+          "why_important": "影视版权方与头部生成式视频平台从公开对抗走向合作，会影响训练数据授权、生成内容过滤和商业客户使用边界。若框架形成可执行标准，视频模型竞争将不再只看画质与成本，还要看版权合规能力。",
+          "investment_observation": "关注合作是否落地为授权内容库、角色识别、提示词拦截和可追溯水印，以及Seedance商业客户能否因此降低侵权风险。版权清算、内容识别和授权交易基础设施可能获得新增需求。",
+          "investment_angle": "关注合作是否落地为授权内容库、角色识别、提示词拦截和可追溯水印，以及Seedance商业客户能否因此降低侵权风险。版权清算、内容识别和授权交易基础设施可能获得新增需求。",
+          "companies": [
+            "ByteDance",
+            "Motion Picture Association"
+          ],
+          "people": [],
+          "products": [
+            "Seedance",
+            "Seedream"
+          ],
+          "technologies": [
+            "生成式视频",
+            "生成式图像",
+            "内容版权保护"
+          ],
+          "entities": {
+            "companies": [
+              "ByteDance",
+              "Motion Picture Association"
+            ],
+            "people": [],
+            "products": [
+              "Seedance",
+              "Seedream"
+            ],
+            "technologies": [
+              "生成式视频",
+              "生成式图像",
+              "内容版权保护"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "版权",
+            "生成式视频"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Groq融资3.5亿美元转向AI云，NVIDIA参与新一轮押注",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+          "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 17 Aug 2026 16:15:12 +0000",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "融资",
+          "summary": "Groq完成3.5亿美元融资，估值约35亿美元，由Disruptive领投、NVIDIA参投。公司在与NVIDIA达成芯片技术授权安排后，正从自研AI芯片公司转向以NVIDIA GPU建设推理云和数据中心服务。",
+          "why_it_matters": "这不是普通扩张融资，而是Groq商业模式与资产结构的重置：专用推理芯片路线弱化，客户、团队与云运营能力成为核心。NVIDIA既获得技术，也参与后续云业务，进一步巩固其对AI算力生态的影响力。",
+          "why_important": "这不是普通扩张融资，而是Groq商业模式与资产结构的重置：专用推理芯片路线弱化，客户、团队与云运营能力成为核心。NVIDIA既获得技术，也参与后续云业务，进一步巩固其对AI算力生态的影响力。",
+          "investment_observation": "重点跟踪Groq新云业务的GPU采购成本、利用率、推理毛利率和客户迁移情况。若缺少自有芯片差异化，其估值应更接近重资产neocloud，而非高毛利芯片平台。",
+          "investment_angle": "重点跟踪Groq新云业务的GPU采购成本、利用率、推理毛利率和客户迁移情况。若缺少自有芯片差异化，其估值应更接近重资产neocloud，而非高毛利芯片平台。",
+          "companies": [
+            "Groq",
+            "NVIDIA",
+            "Disruptive"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI推理云",
+            "GPU数据中心",
+            "AI芯片"
+          ],
+          "entities": {
+            "companies": [
+              "Groq",
+              "NVIDIA",
+              "Disruptive"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI推理云",
+              "GPU数据中心",
+              "AI芯片"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "推理"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "AI自动化创业公司Relay关闭，团队加入Google Chrome",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+          "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 17 Aug 2026 21:27:05 +0000",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "并购与人才",
+          "summary": "AI工作流自动化公司Relay宣布停止服务，创始人Jacob Bank及团队加入Google Chrome。Bank表示Chrome团队正在推进更具野心的浏览器AI执行能力，Relay付费用户服务将于9月中旬结束。",
+          "why_it_matters": "浏览器天然拥有网页上下文、身份与操作入口，是通用AI代理的重要分发层。Google吸收成熟自动化团队，说明Chrome正从信息访问工具向可执行任务的代理平台演进，也压缩独立浏览器自动化产品的生存空间。",
+          "why_important": "浏览器天然拥有网页上下文、身份与操作入口，是通用AI代理的重要分发层。Google吸收成熟自动化团队，说明Chrome正从信息访问工具向可执行任务的代理平台演进，也压缩独立浏览器自动化产品的生存空间。",
+          "investment_observation": "关注Chrome后续是否推出跨网站执行、权限确认和企业审计能力。独立自动化创业公司需要证明垂直工作流深度、企业数据连接和安全治理优势，否则容易被浏览器与操作系统平台吸收。",
+          "investment_angle": "关注Chrome后续是否推出跨网站执行、权限确认和企业审计能力。独立自动化创业公司需要证明垂直工作流深度、企业数据连接和安全治理优势，否则容易被浏览器与操作系统平台吸收。",
+          "companies": [
+            "Relay",
+            "Google"
+          ],
+          "people": [
+            "Jacob Bank"
+          ],
+          "products": [
+            "Relay",
+            "Google Chrome"
+          ],
+          "technologies": [
+            "浏览器AI代理",
+            "工作流自动化"
+          ],
+          "entities": {
+            "companies": [
+              "Relay",
+              "Google"
+            ],
+            "people": [
+              "Jacob Bank"
+            ],
+            "products": [
+              "Relay",
+              "Google Chrome"
+            ],
+            "technologies": [
+              "浏览器AI代理",
+              "工作流自动化"
+            ]
+          },
+          "tags": [
+            "AI Agent",
+            "浏览器",
+            "人才并购"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "OpenAI提出“防守者窗口”，判断AI网络攻防优势仍可塑造",
+          "url": "https://openai.com/index/the-defenders-window",
+          "link": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "published_at": "Mon, 17 Aug 2026 05:30:00 GMT",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "安全",
+          "summary": "OpenAI发布网络安全判断，认为AI正在同时增强攻击者与防守者能力，但当前结果尚未注定。公司总结自身强化模型防护、监测滥用和支持安全团队的做法，并建议组织尽快把AI用于漏洞发现、告警分析和响应自动化。",
+          "why_it_matters": "头部模型公司开始把网络安全从风险披露转向攻防能力建设。谁能更快把模型能力接入真实安全运营流程，可能决定AI最终放大攻击规模，还是提升防守者覆盖面与响应速度。",
+          "why_important": "头部模型公司开始把网络安全从风险披露转向攻防能力建设。谁能更快把模型能力接入真实安全运营流程，可能决定AI最终放大攻击规模，还是提升防守者覆盖面与响应速度。",
+          "investment_observation": "关注可验证的漏洞发现率、误报率、响应时间和安全团队人效，而不是泛化的“AI安全助手”叙事。模型安全层、代理权限控制、攻击监测和安全评测会持续获得预算。",
+          "investment_angle": "关注可验证的漏洞发现率、误报率、响应时间和安全团队人效，而不是泛化的“AI安全助手”叙事。模型安全层、代理权限控制、攻击监测和安全评测会持续获得预算。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI网络安全",
+            "漏洞发现",
+            "安全运营自动化"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI网络安全",
+              "漏洞发现",
+              "安全运营自动化"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "网络安全",
+            "OpenAI"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Anthropic详解Claude文本隐形水印，以满足欧盟AI透明规则",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge AI",
+          "published_at": "2026-08-17T06:57:13-04:00",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "治理",
+          "summary": "Anthropic说明Claude新模型将如何在生成文本中嵌入机器可检测的统计水印，并为图像等文件加入来源元数据，以履行欧盟AI透明义务。文本标记借鉴SynthID思路，通过影响词元选择形成信号，而不是插入可见字符。",
+          "why_it_matters": "文本比图像更容易被改写、截断或翻译，水印的鲁棒性和误判风险直接决定其能否成为可信的内容溯源工具。Anthropic的实施会推动其他模型厂商明确标记策略，也可能影响企业对AI写作内容的合规流程。",
+          "why_important": "文本比图像更容易被改写、截断或翻译，水印的鲁棒性和误判风险直接决定其能否成为可信的内容溯源工具。Anthropic的实施会推动其他模型厂商明确标记策略，也可能影响企业对AI写作内容的合规流程。",
+          "investment_observation": "关注水印在改写、翻译和短文本上的检出率与误报率，以及检测接口是否对企业开放。内容溯源、C2PA、模型输出审计和合规编排可能形成新的基础设施层。",
+          "investment_angle": "关注水印在改写、翻译和短文本上的检出率与误报率，以及检测接口是否对企业开放。内容溯源、C2PA、模型输出审计和合规编排可能形成新的基础设施层。",
+          "companies": [
+            "Anthropic",
+            "Google DeepMind"
+          ],
+          "people": [],
+          "products": [
+            "Claude",
+            "SynthID"
+          ],
+          "technologies": [
+            "文本水印",
+            "内容溯源"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Google DeepMind"
+            ],
+            "people": [],
+            "products": [
+              "Claude",
+              "SynthID"
+            ],
+            "technologies": [
+              "文本水印",
+              "内容溯源"
+            ]
+          },
+          "tags": [
+            "Anthropic",
+            "AI治理",
+            "水印"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Rust原生GPU Offload框架实现跨厂商、安全且接近原生性能",
+          "url": "https://arxiv.org/abs/2608.13759",
+          "link": "https://arxiv.org/abs/2608.13759",
+          "source": "Hacker News",
+          "published_at": "2026-08-17T17:54:59Z",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "AI Infra",
+          "summary": "研究团队提出集成于rustc和LLVM后端的GPU Offload框架，利用Rust所有权与类型系统管理主机和设备之间的数据移动，并通过两阶段编译支持NVIDIA与AMD GPU。RAJAPerf测试显示，其安全Rust内核性能可与手工优化的CUDA和HIP C++基线竞争。",
+          "why_it_matters": "GPU软件长期被CUDA生态和不安全底层接口锁定。若Rust能在不牺牲性能的前提下提供跨厂商、内存安全的编程路径，将降低高性能计算与AI基础设施开发成本，并为自动生成GPU内核提供更可信的验证边界。",
+          "why_important": "GPU软件长期被CUDA生态和不安全底层接口锁定。若Rust能在不牺牲性能的前提下提供跨厂商、内存安全的编程路径，将降低高性能计算与AI基础设施开发成本，并为自动生成GPU内核提供更可信的验证边界。",
+          "investment_observation": "该技术仍在进入Rust nightly前的开发阶段，需跟踪工具链稳定性、Intel支持和真实AI工作负载表现。受益方向包括跨GPU编译器、推理引擎、内核优化和开发者工具，而非短期替代CUDA。",
+          "investment_angle": "该技术仍在进入Rust nightly前的开发阶段，需跟踪工具链稳定性、Intel支持和真实AI工作负载表现。受益方向包括跨GPU编译器、推理引擎、内核优化和开发者工具，而非短期替代CUDA。",
+          "companies": [
+            "Rust Project",
+            "LLVM"
+          ],
+          "people": [
+            "Manuel S. Drehwald",
+            "Alán Aspuru-Guzik",
+            "Johannes Doerfert"
+          ],
+          "products": [
+            "rustc",
+            "std::offload"
+          ],
+          "technologies": [
+            "GPU Offload",
+            "Rust",
+            "LLVM"
+          ],
+          "entities": {
+            "companies": [
+              "Rust Project",
+              "LLVM"
+            ],
+            "people": [
+              "Manuel S. Drehwald",
+              "Alán Aspuru-Guzik",
+              "Johannes Doerfert"
+            ],
+            "products": [
+              "rustc",
+              "std::offload"
+            ],
+            "technologies": [
+              "GPU Offload",
+              "Rust",
+              "LLVM"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "GPU",
+            "开源"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "NVIDIA发布AI工厂全栈安全框架，覆盖芯片到代理运行层",
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 17 Aug 2026 12:34:51 +0000",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA将AI工厂安全定义为从芯片、固件、网络与机密计算，到模型、数据和代理运行时的全栈问题，提出以硬件信任根、隔离、可观测性和供应链验证保护大规模AI基础设施。",
+          "why_it_matters": "AI数据中心正在从通用计算设施变成高价值、持续运行的“智能生产系统”，攻击面也随模型、代理和多租户环境扩大。安全能力被纳入参考架构，会影响企业和主权AI项目的采购标准。",
+          "why_important": "AI数据中心正在从通用计算设施变成高价值、持续运行的“智能生产系统”，攻击面也随模型、代理和多租户环境扩大。安全能力被纳入参考架构，会影响企业和主权AI项目的采购标准。",
+          "investment_observation": "关注安全功能能否转化为平台附加收入、合作伙伴认证和大型项目中标优势。机密计算、固件验证、AI工作负载隔离与运行时监控是更直接的受益环节。",
+          "investment_angle": "关注安全功能能否转化为平台附加收入、合作伙伴认证和大型项目中标优势。机密计算、固件验证、AI工作负载隔离与运行时监控是更直接的受益环节。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI工厂",
+            "机密计算",
+            "硬件信任根",
+            "运行时安全"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI工厂",
+              "机密计算",
+              "硬件信任根",
+              "运行时安全"
+            ]
+          },
+          "tags": [
+            "NVIDIA",
+            "AI Infra",
+            "安全"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "共生知行用卡丁车测试人形机器人全身智能与动态控制",
+          "url": "https://www.qbitai.com/2026/08/474537.html",
+          "link": "https://www.qbitai.com/2026/08/474537.html",
+          "source": "量子位",
+          "published_at": "Mon, 17 Aug 2026 09:30:49 +0000",
+          "selected_at": "2026-08-18T09:15:00+08:00",
+          "category": "机器人",
+          "summary": "具身智能创业公司共生知行展示双足人形机器人驾驶卡丁车：机器人需要在车体振动、转向与加减速过程中保持姿态，并协调视觉感知、上肢操控和全身平衡。该演示用于检验跨任务控制与动态环境适应能力。",
+          "why_it_matters": "相比单项动作表演，驾驶任务把感知、规划、手脚协同和抗扰动控制放在同一闭环中，更接近通用具身系统的能力验证。不过Demo仍不能替代长期可靠性和真实生产任务数据。",
+          "why_important": "相比单项动作表演，驾驶任务把感知、规划、手脚协同和抗扰动控制放在同一闭环中，更接近通用具身系统的能力验证。不过Demo仍不能替代长期可靠性和真实生产任务数据。",
+          "investment_observation": "重点跟踪同一控制栈能否迁移到物流、制造或户外作业，以及任务成功率、接管次数和硬件损耗。只有跨场景复用与稳定交付得到验证，演示价值才可能转化为订单。",
+          "investment_angle": "重点跟踪同一控制栈能否迁移到物流、制造或户外作业，以及任务成功率、接管次数和硬件损耗。只有跨场景复用与稳定交付得到验证，演示价值才可能转化为订单。",
+          "companies": [
+            "共生知行"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "人形机器人",
+            "全身控制",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "共生知行"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "人形机器人",
+              "全身控制",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "具身智能",
+            "产品演示"
+          ],
+          "importance_score": 7.8
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "count": 6,
