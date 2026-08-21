@@ -1,8 +1,452 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-18T09:15:00+08:00",
-  "digest_count": 35,
-  "article_count": 299,
+  "generated_at": "2026-08-21T00:49:39+00:00",
+  "digest_count": 36,
+  "article_count": 309,
   "digests": [
+    {
+      "date": "2026-08-21",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge AI",
+          "published_at": "2026-08-19T13:10:09-04:00",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "关键人物",
+          "summary": "在IPO预期、Anthropic竞争和开源模型压力并存的背景下，OpenAI主动放慢部分产品与能力推进节奏，把安全评估、组织治理和产品可靠性置于更高优先级。报道讨论了这种“自愿减速”能否在商业压力下持续。",
+          "why_it_matters": "头部模型公司的发布节奏正在从单纯追求能力领先，转向能力、安全与资本市场预期之间的平衡。OpenAI的选择会影响行业安全标准、开发者路线和竞争对手的发布策略。",
+          "why_important": "头部模型公司的发布节奏正在从单纯追求能力领先，转向能力、安全与资本市场预期之间的平衡。OpenAI的选择会影响行业安全标准、开发者路线和竞争对手的发布策略。",
+          "investment_observation": "关注减速是否对应更严格的评测门槛、事故率下降和企业客户留存，而非仅是公关表态。若IPO临近，治理可信度与收入增速的平衡将直接影响估值折价。",
+          "investment_angle": "关注减速是否对应更严格的评测门槛、事故率下降和企业客户留存，而非仅是公关表态。若IPO临近，治理可信度与收入增速的平衡将直接影响估值折价。",
+          "companies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [],
+          "technologies": [
+            "前沿模型",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Anthropic"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [],
+            "technologies": [
+              "前沿模型",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "关键人物",
+            "AI安全",
+            "公司治理"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Debates over AI consciousness are a trap",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+          "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+          "source": "MIT Technology Review AI",
+          "published_at": "Thu, 20 Aug 2026 15:42:39 +0000",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "AI安全",
+          "summary": "文章认为，把当前AI系统描述为“觉醒”“愤怒”或具有自主意志，会把注意力从现实的责任主体、系统设计和部署激励上移开。真正需要治理的是人类如何赋予代理权限，以及机构如何为结果负责。",
+          "why_it_matters": "AI意识争论会影响监管叙事和公众认知，但短期风险更多来自权限配置、错误目标和责任模糊。把问题重新落到可审计、可控制的系统工程上，更有助于形成可执行的安全规范。",
+          "why_important": "AI意识争论会影响监管叙事和公众认知，但短期风险更多来自权限配置、错误目标和责任模糊。把问题重新落到可审计、可控制的系统工程上，更有助于形成可执行的安全规范。",
+          "investment_observation": "安全投资应优先关注代理权限管理、行为监控、审计日志和事故响应，而不是难以验证的意识判断。能把抽象治理转化为企业控制面的产品，更可能形成刚需。",
+          "investment_angle": "安全投资应优先关注代理权限管理、行为监控、审计日志和事故响应，而不是难以验证的意识判断。能把抽象治理转化为企业控制面的产品，更可能形成刚需。",
+          "companies": [],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "AI治理"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "AI治理"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "Agent",
+            "治理",
+            "观点"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 19 Aug 2026 21:51:23 +0000",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "公司动态",
+          "summary": "针对SpaceX曾洽购AI编程公司Cognition的报道，Cognition CEO公开否认。事件反映头部科技公司正争夺代码智能、软件工程自动化和高端AI研发团队，市场对并购传闻也高度敏感。",
+          "why_it_matters": "AI编程正从独立开发工具升级为大型科技公司的战略能力，关系到研发效率、人才密度和企业软件入口。即使交易未发生，潜在买方兴趣也说明赛道进入整合预期阶段。",
+          "why_important": "AI编程正从独立开发工具升级为大型科技公司的战略能力，关系到研发效率、人才密度和企业软件入口。即使交易未发生，潜在买方兴趣也说明赛道进入整合预期阶段。",
+          "investment_observation": "不要按并购传闻给估值溢价，应继续验证Cognition的团队付费、代码任务完成率、单位推理成本和企业续费。并购竞争升温会抬高优质团队价格，也会加速独立厂商分化。",
+          "investment_angle": "不要按并购传闻给估值溢价，应继续验证Cognition的团队付费、代码任务完成率、单位推理成本和企业续费。并购竞争升温会抬高优质团队价格，也会加速独立厂商分化。",
+          "companies": [
+            "Cognition",
+            "SpaceX",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Devin"
+          ],
+          "technologies": [
+            "AI编程",
+            "软件Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Cognition",
+              "SpaceX",
+              "OpenAI",
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Devin"
+            ],
+            "technologies": [
+              "AI编程",
+              "软件Agent"
+            ]
+          },
+          "tags": [
+            "AI编程",
+            "Agent",
+            "并购",
+            "公司动态"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+          "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 19 Aug 2026 19:11:40 +0000",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "产品应用",
+          "summary": "尽管生成式AI的使用范围持续扩大，消费者对隐私、工作替代、内容真实性和被强制嵌入产品的担忧并未消退。高使用量并不等同于高信任度，科技公司仍未完成公众接受度建设。",
+          "why_it_matters": "AI产品的下一阶段竞争不仅是模型能力，也包括信任、透明度和用户控制权。若接受度长期落后于渗透率，监管、品牌风险和获客成本都可能上升。",
+          "why_important": "AI产品的下一阶段竞争不仅是模型能力，也包括信任、透明度和用户控制权。若接受度长期落后于渗透率，监管、品牌风险和获客成本都可能上升。",
+          "investment_observation": "评估消费级AI公司时，应区分主动高频使用与平台默认带来的被动触达，并跟踪留存、付费、退出率和负面事件。隐私控制、来源标注与可解释体验可能成为产品差异化。",
+          "investment_angle": "评估消费级AI公司时，应区分主动高频使用与平台默认带来的被动触达，并跟踪留存、付费、退出率和负面事件。隐私控制、来源标注与可解释体验可能成为产品差异化。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "用户信任",
+            "消费AI",
+            "治理"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单",
+          "url": "https://36kr.com/p/3947288204770693?f=rss",
+          "link": "https://36kr.com/p/3947288204770693?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-20 11:10:00 +0800",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "融资",
+          "summary": "具身智能企业中科第五纪连续完成A1、A2轮融资，总额超过10亿元，投资方包括中银AIC基金、地方产业资本和多家上市公司关联资本。公司聚焦“具身大脑”，并称已获得数亿元海外订单。",
+          "why_it_matters": "大额融资与海外订单把具身智能的竞争焦点从样机展示推进到通用控制、交付和商业化。金融机构、地方产业资本与战略投资者共同入场，也显示产业链整合正在加速。",
+          "why_important": "大额融资与海外订单把具身智能的竞争焦点从样机展示推进到通用控制、交付和商业化。金融机构、地方产业资本与战略投资者共同入场，也显示产业链整合正在加速。",
+          "investment_observation": "重点核验海外订单的交付节奏、毛利率、回款和客户集中度，以及具身大脑能否跨机器人本体复用。融资规模很大，但估值能否兑现取决于真实部署量和数据闭环。",
+          "investment_angle": "重点核验海外订单的交付节奏、毛利率、回款和客户集中度，以及具身大脑能否跨机器人本体复用。融资规模很大，但估值能否兑现取决于真实部署量和数据闭环。",
+          "companies": [
+            "中科第五纪",
+            "中银AIC基金"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "机器人控制模型"
+          ],
+          "entities": {
+            "companies": [
+              "中科第五纪",
+              "中银AIC基金"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "机器人控制模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "具身智能",
+            "机器人",
+            "海外订单"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "产品应用",
+          "summary": "OpenAI推出面向青少年的ChatGPT体验，强调学习辅助、批判性思考、健康使用提示、更强的默认保护以及家长控制。产品试图在教育价值和未成年人安全之间建立独立的设计边界。",
+          "why_it_matters": "青少年是AI原生用户的重要入口，同时也是监管最敏感的人群。专门产品意味着模型公司开始把年龄识别、安全策略和家庭控制做成产品层能力，而非仅依赖通用条款。",
+          "why_important": "青少年是AI原生用户的重要入口，同时也是监管最敏感的人群。专门产品意味着模型公司开始把年龄识别、安全策略和家庭控制做成产品层能力，而非仅依赖通用条款。",
+          "investment_observation": "关注学校和家庭采用率、家长控制的实际使用、误伤率及安全事件。教育场景可能扩大长期用户基础，但合规成本、未成年人数据治理和渠道合作会决定商业化速度。",
+          "investment_angle": "关注学校和家庭采用率、家长控制的实际使用、误伤率及安全事件。教育场景可能扩大长期用户基础，但合规成本、未成年人数据治理和渠道合作会决定商业化速度。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT for Teens",
+            "ChatGPT"
+          ],
+          "technologies": [
+            "内容安全",
+            "年龄适配"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT for Teens",
+              "ChatGPT"
+            ],
+            "technologies": [
+              "内容安全",
+              "年龄适配"
+            ]
+          },
+          "tags": [
+            "OpenAI",
+            "教育AI",
+            "未成年人安全",
+            "产品"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Google Discover is getting an AI chatbot-tuned feed",
+          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "source": "The Verge AI",
+          "published_at": "2026-08-20T17:50:22-04:00",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "产品应用",
+          "summary": "Google计划允许用户用自然语言描述兴趣，从而定制Discover信息流。AI将把聊天式意图转化为持续的内容推荐，尝试让传统推荐流从隐式行为推断升级为用户可直接表达和调整的偏好。",
+          "why_it_matters": "搜索、聊天和推荐正在融合。Google若把自然语言控制嵌入大规模分发入口，将改变内容发现方式，并进一步影响出版商流量、广告库存和用户数据反馈。",
+          "why_important": "搜索、聊天和推荐正在融合。Google若把自然语言控制嵌入大规模分发入口，将改变内容发现方式，并进一步影响出版商流量、广告库存和用户数据反馈。",
+          "investment_observation": "观察功能是否提高Discover停留时长和广告效率，以及是否减少外链点击。受益方包括推荐基础设施和内容理解工具，但出版商可能面临更强的平台依赖与流量再分配。",
+          "investment_angle": "观察功能是否提高Discover停留时长和广告效率，以及是否减少外链点击。受益方包括推荐基础设施和内容理解工具，但出版商可能面临更强的平台依赖与流量再分配。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Google Discover"
+          ],
+          "technologies": [
+            "推荐系统",
+            "自然语言交互"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Google Discover"
+            ],
+            "technologies": [
+              "推荐系统",
+              "自然语言交互"
+            ]
+          },
+          "tags": [
+            "Google",
+            "产品应用",
+            "内容分发",
+            "推荐系统"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "AI’s recursive self-improvement might not come so quickly after all",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 18 Aug 2026 09:00:00 +0000",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "基础模型",
+          "summary": "文章审视“AI很快能够持续改进自身”的判断：模型虽已能写代码、生成合成数据并辅助研究，但可靠评测、实验闭环、算力约束和错误累积仍限制真正的递归自我改进。进展可能更渐进，而非突然失控式跃迁。",
+          "why_it_matters": "递归自我改进是当前前沿模型估值和安全讨论的重要假设。若工程瓶颈长期存在，算力、数据、评测与人类监督仍会是核心投入，行业时间表也需重新校准。",
+          "why_important": "递归自我改进是当前前沿模型估值和安全讨论的重要假设。若工程瓶颈长期存在，算力、数据、评测与人类监督仍会是核心投入，行业时间表也需重新校准。",
+          "investment_observation": "应关注能量化提升研发闭环效率的工具，如自动评测、可验证代码生成、实验平台和合成数据质量控制。避免仅因“自我改进”叙事给模型或Agent公司过高远期估值。",
+          "investment_angle": "应关注能量化提升研发闭环效率的工具，如自动评测、可验证代码生成、实验平台和合成数据质量控制。避免仅因“自我改进”叙事给模型或Agent公司过高远期估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "大语言模型",
+            "递归自我改进",
+            "合成数据",
+            "自动评测"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "大语言模型",
+              "递归自我改进",
+              "合成数据",
+              "自动评测"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "后训练",
+            "AI安全",
+            "研究"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发",
+          "url": "https://36kr.com/p/3946560900185480?f=rss",
+          "link": "https://36kr.com/p/3946560900185480?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-20 10:00:00 +0800",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "融资",
+          "summary": "中性原子量子计算公司原子矩阵完成数亿元A+轮融资，一年内四轮融资接近10亿元。公司称已具备超千比特规模整机交付能力，资金将用于硬件工程化、控制系统和商业部署。",
+          "why_it_matters": "量子计算并非生成式AI本身，但属于长期高性能计算版图。超千比特整机若能稳定交付，将把竞争从实验指标推进到系统可靠性、开发工具和真实任务验证。",
+          "why_important": "量子计算并非生成式AI本身，但属于长期高性能计算版图。超千比特整机若能稳定交付，将把竞争从实验指标推进到系统可靠性、开发工具和真实任务验证。",
+          "investment_observation": "重点看逻辑比特质量、门保真度、可用计算时长、客户验收和收入，而不能只看物理比特数量。产业资本密集进入有利于工程化，但商业回报周期仍长、技术风险高。",
+          "investment_angle": "重点看逻辑比特质量、门保真度、可用计算时长、客户验收和收入，而不能只看物理比特数量。产业资本密集进入有利于工程化，但商业回报周期仍长、技术风险高。",
+          "companies": [
+            "原子矩阵",
+            "MatriQ"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "中性原子量子计算",
+            "高性能计算"
+          ],
+          "entities": {
+            "companies": [
+              "原子矩阵",
+              "MatriQ"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "中性原子量子计算",
+              "高性能计算"
+            ]
+          },
+          "tags": [
+            "融资",
+            "量子计算",
+            "硬科技",
+            "算力"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+          "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 21 Aug 2026 00:13:44 +0000",
+          "selected_at": "2026-08-21T00:49:39+00:00",
+          "category": "数据",
+          "summary": "AI训练数据公司Micro1称，在模型训练需求增长推动下，其年度化总交易额已达到5亿美元。公司为模型开发者组织和交付专家数据，反映后训练、评测和高质量人工反馈仍具有旺盛需求。",
+          "why_it_matters": "模型竞争正从抓取海量公开数据转向专业、可验证和任务相关的数据。Micro1的增长说明数据供应链仍是模型能力提升的重要瓶颈，但总交易额不等同于净收入。",
+          "why_important": "模型竞争正从抓取海量公开数据转向专业、可验证和任务相关的数据。Micro1的增长说明数据供应链仍是模型能力提升的重要瓶颈，但总交易额不等同于净收入。",
+          "investment_observation": "核验指标应包括净收入、平台抽成率、毛利率、客户集中度、专家留存和数据质检成本。若收入质量成立，专业数据与评测平台仍有空间；若主要是低毛利转付，估值需谨慎。",
+          "investment_angle": "核验指标应包括净收入、平台抽成率、毛利率、客户集中度、专家留存和数据质检成本。若收入质量成立，专业数据与评测平台仍有空间；若主要是低毛利转付，估值需谨慎。",
+          "companies": [
+            "Micro1"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "训练数据",
+            "后训练",
+            "人工反馈",
+            "模型评测"
+          ],
+          "entities": {
+            "companies": [
+              "Micro1"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "训练数据",
+              "后训练",
+              "人工反馈",
+              "模型评测"
+            ]
+          },
+          "tags": [
+            "数据",
+            "后训练",
+            "融资观察",
+            "AI Infra"
+          ],
+          "importance_score": 9.0
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "count": 8,
