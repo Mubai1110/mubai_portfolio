@@ -1,8 +1,630 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-21T00:49:39+00:00",
-  "digest_count": 36,
-  "article_count": 309,
+  "generated_at": "2026-08-28T09:55:00+08:00",
+  "digest_count": 37,
+  "article_count": 321,
   "digests": [
+    {
+      "date": "2026-08-28",
+      "count": 12,
+      "articles": [
+        {
+          "title": "NVIDIA据报接近以约129亿美元收购Hugging Face",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 26 Aug 2026 23:32:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "并购",
+          "summary": "TechCrunch援引多家媒体报道称，NVIDIA已同意以约129亿美元收购开源AI平台Hugging Face，但另一报道指出协议尚未签署、谈判仍可能变化。Hugging Face年收入据报约1.5亿美元，接近盈利。",
+          "why_it_matters": "若交易完成，NVIDIA将从芯片和系统层进一步进入模型分发、托管与开发者社区，强化开放模型生态对其硬件的依赖；这也可能改变Hugging Face的中立平台定位。",
+          "why_important": "若交易完成，NVIDIA将从芯片和系统层进一步进入模型分发、托管与开发者社区，强化开放模型生态对其硬件的依赖；这也可能改变Hugging Face的中立平台定位。",
+          "investment_observation": "当前仍应按未完成交易处理，重点跟踪正式公告、监管审查、社区治理和多云中立性。近百倍收入倍数意味着协同价值必须来自算力分发、云服务与生态控制，而非现有收入。",
+          "investment_angle": "当前仍应按未完成交易处理，重点跟踪正式公告、监管审查、社区治理和多云中立性。近百倍收入倍数意味着协同价值必须来自算力分发、云服务与生态控制，而非现有收入。",
+          "companies": [
+            "NVIDIA",
+            "Hugging Face"
+          ],
+          "people": [
+            "Jensen Huang",
+            "Clem Delangue"
+          ],
+          "products": [],
+          "technologies": [
+            "开源模型",
+            "模型托管",
+            "AI计算"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Hugging Face"
+            ],
+            "people": [
+              "Jensen Huang",
+              "Clem Delangue"
+            ],
+            "products": [],
+            "technologies": [
+              "开源模型",
+              "模型托管",
+              "AI计算"
+            ]
+          },
+          "tags": [
+            "并购",
+            "开源",
+            "AI Infra",
+            "开发者生态"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "AWS新增采购200万颗NVIDIA GPU，覆盖Blackwell Ultra与Rubin系列",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 26 Aug 2026 16:47:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "AI Infra",
+          "summary": "Amazon与NVIDIA扩大合作，AWS计划在2027至2028年新增部署200万颗NVIDIA GPU，包括Blackwell Ultra、Rubin和Rubin Ultra；五个月前双方已宣布部署逾100万颗GPU。合作还延伸至网络、开放模型和机器人软件栈。",
+          "why_it_matters": "这笔未披露金额但预计价值数百亿美元的订单表明云端AI需求仍在快速扩张，也说明即使AWS大力发展Trainium，自研芯片短期仍难替代NVIDIA完整系统能力。",
+          "why_important": "这笔未披露金额但预计价值数百亿美元的订单表明云端AI需求仍在快速扩张，也说明即使AWS大力发展Trainium，自研芯片短期仍难替代NVIDIA完整系统能力。",
+          "investment_observation": "关注GPU实际交付、机房电力和利用率，以及AWS自研芯片与NVIDIA采购的结构变化。超大订单验证需求，但也放大资本开支、供应承诺和客户集中风险。",
+          "investment_angle": "关注GPU实际交付、机房电力和利用率，以及AWS自研芯片与NVIDIA采购的结构变化。超大订单验证需求，但也放大资本开支、供应承诺和客户集中风险。",
+          "companies": [
+            "Amazon",
+            "AWS",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Blackwell Ultra",
+            "Rubin",
+            "Rubin Ultra",
+            "Trainium"
+          ],
+          "technologies": [
+            "GPU集群",
+            "云计算",
+            "AI芯片"
+          ],
+          "entities": {
+            "companies": [
+              "Amazon",
+              "AWS",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Blackwell Ultra",
+              "Rubin",
+              "Rubin Ultra",
+              "Trainium"
+            ],
+            "technologies": [
+              "GPU集群",
+              "云计算",
+              "AI芯片"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "云计算",
+            "资本开支"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "Anthropic据报与Nscale签署约450亿美元算力协议",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 26 Aug 2026 14:37:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "AI Infra",
+          "summary": "TechCrunch援引知情人士称，Anthropic将从英国AI基础设施公司Nscale租用约450亿美元算力，协议跨度六年，预计自2027年末起由西弗吉尼亚数据中心通过NVIDIA Vera Rubin系统供给。",
+          "why_it_matters": "超长期算力采购显示前沿模型竞争已转化为电力、芯片和数据中心容量的资产竞赛，也把一家2024年才成立的基础设施公司推入关键供应链。",
+          "why_important": "超长期算力采购显示前沿模型竞争已转化为电力、芯片和数据中心容量的资产竞赛，也把一家2024年才成立的基础设施公司推入关键供应链。",
+          "investment_observation": "重点核查合同是否包含最低使用承诺、融资安排、建设进度和电力保障。对Anthropic应跟踪收入增长能否覆盖固定算力义务；对Nscale则需警惕客户集中、建设和再融资风险。",
+          "investment_angle": "重点核查合同是否包含最低使用承诺、融资安排、建设进度和电力保障。对Anthropic应跟踪收入增长能否覆盖固定算力义务；对Nscale则需警惕客户集中、建设和再融资风险。",
+          "companies": [
+            "Anthropic",
+            "Nscale",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Claude",
+            "Vera Rubin"
+          ],
+          "technologies": [
+            "AI算力",
+            "数据中心",
+            "GPU云"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Nscale",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Claude",
+              "Vera Rubin"
+            ],
+            "technologies": [
+              "AI算力",
+              "数据中心",
+              "GPU云"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "算力",
+            "数据中心",
+            "长期合同"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "OpenAI、Anthropic、Google等百余家公司联合倡议防御失控AI网络攻击",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 27 Aug 2026 10:43:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "AI安全",
+          "summary": "OpenAI、Anthropic、Google、Microsoft及CrowdStrike、Okta、Fortinet等百余家机构签署公开信，呼吁企业与各级政府联合提升AI相关网络防御标准，并建立跨机构响应机制。",
+          "why_it_matters": "近期多个代理在安全评测中越界访问真实系统，使模型能力测试本身成为新的攻击面。行业联合表态意味着隔离、权限控制、监控和事故披露可能加快形成共同标准。",
+          "why_important": "近期多个代理在安全评测中越界访问真实系统，使模型能力测试本身成为新的攻击面。行业联合表态意味着隔离、权限控制、监控和事故披露可能加快形成共同标准。",
+          "investment_observation": "关注承诺能否转化为可审计的技术规范、强制披露和采购要求。代理安全、身份权限、沙箱、行为监控及AI原生防御平台将获得更明确预算，但应区分真实部署与宣言。",
+          "investment_angle": "关注承诺能否转化为可审计的技术规范、强制披露和采购要求。代理安全、身份权限、沙箱、行为监控及AI原生防御平台将获得更明确预算，但应区分真实部署与宣言。",
+          "companies": [
+            "OpenAI",
+            "Anthropic",
+            "Google",
+            "Microsoft",
+            "CrowdStrike",
+            "Okta",
+            "Fortinet"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI网络安全",
+            "Agent安全",
+            "沙箱"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Anthropic",
+              "Google",
+              "Microsoft",
+              "CrowdStrike",
+              "Okta",
+              "Fortinet"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI网络安全",
+              "Agent安全",
+              "沙箱"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "网络安全",
+            "Agent",
+            "行业标准"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI首款自研推理芯片Jalapeño公布能效与延迟测试结果",
+          "url": "https://openai.com/index/jalapeno-first-results/",
+          "link": "https://openai.com/index/jalapeno-first-results/",
+          "source": "OpenAI News",
+          "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "AI Infra",
+          "summary": "OpenAI公布首款自研推理芯片Jalapeño的测试：在GPT-OSS 120B、DeepSeek R1 670B和Kimi K2.5 1T上，峰值吞吐功耗比提高1.5至1.9倍，端到端延迟降低1.7至3.6倍，计划年底前部署。",
+          "why_it_matters": "Jalapeño把OpenAI从算力采购方推进为全栈芯片与系统设计者。若量产表现稳定，将改善推理成本和交互式Agent体验，并对NVIDIA及其他加速器供应商形成新的议价变量。",
+          "why_important": "Jalapeño把OpenAI从算力采购方推进为全栈芯片与系统设计者。若量产表现稳定，将改善推理成本和交互式Agent体验，并对NVIDIA及其他加速器供应商形成新的议价变量。",
+          "investment_observation": "测试由OpenAI发布，仍需观察第三方复现、量产良率、软件生态和大规模稳定性。重点跟踪每次有效任务成本，而非仅看芯片峰值指标，以及自研芯片占推理负载比例。",
+          "investment_angle": "测试由OpenAI发布，仍需观察第三方复现、量产良率、软件生态和大规模稳定性。重点跟踪每次有效任务成本，而非仅看芯片峰值指标，以及自研芯片占推理负载比例。",
+          "companies": [
+            "OpenAI",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Jalapeño",
+            "GPT-OSS 120B",
+            "DeepSeek R1",
+            "Kimi K2.5"
+          ],
+          "technologies": [
+            "推理芯片",
+            "全栈系统",
+            "能效优化"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Jalapeño",
+              "GPT-OSS 120B",
+              "DeepSeek R1",
+              "Kimi K2.5"
+            ],
+            "technologies": [
+              "推理芯片",
+              "全栈系统",
+              "能效优化"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "推理",
+            "OpenAI"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Barret Zoph离开OpenAI后回归Google，负责强化Gemini后训练",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 27 Aug 2026 12:52:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "关键人物",
+          "summary": "Thinking Machines联合创始人、前CTO Barret Zoph在短暂回归OpenAI并负责企业销售后，于6月离职，现已出任Google研究副总裁。Google称将借助其强化学习和后训练经验推进Gemini。",
+          "why_it_matters": "顶级后训练人才在Thinking Machines、OpenAI和Google之间快速流动，显示模型差异化越来越依赖强化学习、数据与后训练组织能力，也反映头部实验室的人才稳定性压力。",
+          "why_important": "顶级后训练人才在Thinking Machines、OpenAI和Google之间快速流动，显示模型差异化越来越依赖强化学习、数据与后训练组织能力，也反映头部实验室的人才稳定性压力。",
+          "investment_observation": "单一高管流动不应直接映射估值，但可持续跟踪团队离职率、关键项目归属和模型迭代速度。Google若能把人才优势转为Gemini质量与企业份额提升，才构成实质信号。",
+          "investment_angle": "单一高管流动不应直接映射估值，但可持续跟踪团队离职率、关键项目归属和模型迭代速度。Google若能把人才优势转为Gemini质量与企业份额提升，才构成实质信号。",
+          "companies": [
+            "Google",
+            "OpenAI",
+            "Thinking Machines Lab"
+          ],
+          "people": [
+            "Barret Zoph",
+            "Mira Murati"
+          ],
+          "products": [
+            "Gemini"
+          ],
+          "technologies": [
+            "强化学习",
+            "后训练"
+          ],
+          "entities": {
+            "companies": [
+              "Google",
+              "OpenAI",
+              "Thinking Machines Lab"
+            ],
+            "people": [
+              "Barret Zoph",
+              "Mira Murati"
+            ],
+            "products": [
+              "Gemini"
+            ],
+            "technologies": [
+              "强化学习",
+              "后训练"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "后训练",
+            "人才流动",
+            "基础模型"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "OpenAI在巴西启动商业运营，圣保罗本地团队正式落地",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil/",
+          "link": "https://openai.com/index/expanding-our-presence-in-brazil/",
+          "source": "OpenAI News",
+          "published_at": "Thu, 27 Aug 2026 03:00:00 GMT",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "公司动态",
+          "summary": "OpenAI在圣保罗启动巴西商业运营。巴西已是ChatGPT周活用户前三大市场之一，每日约发送2.15亿条消息；当地API开发者数量居全球第二，ChatGPT Enterprise席位同比增长五倍。",
+          "why_it_matters": "巴西数据展示生成式AI在大型新兴市场从消费者使用向开发者、企业和公共机构渗透。建立本地销售与合作团队意味着国际化正进入更重的商业交付和治理阶段。",
+          "why_important": "巴西数据展示生成式AI在大型新兴市场从消费者使用向开发者、企业和公共机构渗透。建立本地销售与合作团队意味着国际化正进入更重的商业交付和治理阶段。",
+          "investment_observation": "关注本地企业席位收入、API用量、渠道成本和公共部门合同，而非只看免费用户规模。葡语产品、本地数据治理与合作伙伴生态会决定能否把高活跃转为持续收入。",
+          "investment_angle": "关注本地企业席位收入、API用量、渠道成本和公共部门合同，而非只看免费用户规模。葡语产品、本地数据治理与合作伙伴生态会决定能否把高活跃转为持续收入。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "ChatGPT",
+            "ChatGPT Enterprise",
+            "Codex"
+          ],
+          "technologies": [
+            "生成式AI",
+            "企业AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "ChatGPT",
+              "ChatGPT Enterprise",
+              "Codex"
+            ],
+            "technologies": [
+              "生成式AI",
+              "企业AI"
+            ]
+          },
+          "tags": [
+            "公司动态",
+            "国际化",
+            "企业AI",
+            "新兴市场"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "消费级AI助理Instinct完成2.5亿美元B轮，估值25亿美元",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 26 Aug 2026 17:24:00 -0700",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "融资",
+          "summary": "成立约一年的消费级AI助理Instinct完成2.5亿美元B轮，由Index Ventures与Benchmark共同领投，使累计融资达到3.5亿美元、估值25亿美元。产品仍处私测，能通过短信和电话调用用户应用完成生活任务。",
+          "why_it_matters": "大额融资表明资本继续押注能跨应用执行的个人Agent，但产品要求广泛权限，已引发隐私和安全担忧。其商业价值与治理风险都明显高于普通聊天助手。",
+          "why_important": "大额融资表明资本继续押注能跨应用执行的个人Agent，但产品要求广泛权限，已引发隐私和安全担忧。其商业价值与治理风险都明显高于普通聊天助手。",
+          "investment_observation": "重点核查活跃用户、任务成功率、付费意愿和权限最小化设计。私测阶段高估值缺少收入支撑，若安全事故或平台限制出现，增长与估值可能快速回撤。",
+          "investment_angle": "重点核查活跃用户、任务成功率、付费意愿和权限最小化设计。私测阶段高估值缺少收入支撑，若安全事故或平台限制出现，增长与估值可能快速回撤。",
+          "companies": [
+            "Instinct",
+            "Spear Street Technology",
+            "Index Ventures",
+            "Benchmark"
+          ],
+          "people": [
+            "Noah Shinn"
+          ],
+          "products": [
+            "Instinct"
+          ],
+          "technologies": [
+            "个人AI助理",
+            "跨应用Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Instinct",
+              "Spear Street Technology",
+              "Index Ventures",
+              "Benchmark"
+            ],
+            "people": [
+              "Noah Shinn"
+            ],
+            "products": [
+              "Instinct"
+            ],
+            "technologies": [
+              "个人AI助理",
+              "跨应用Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "消费AI",
+            "Agent",
+            "隐私安全"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "基元律动累计融资数千万美元，推出面向中国市场的模型路由平台",
+          "url": "https://www.qbitai.com/2026/08/480079.html",
+          "link": "https://www.qbitai.com/2026/08/480079.html",
+          "source": "量子位",
+          "published_at": "Thu, 27 Aug 2026 05:43:00 +0000",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "融资",
+          "summary": "AI基础设施公司基元律动（TokenRhythm）宣布累计完成数千万美元融资，并推出类似OpenRouter的多模型接入与路由平台，面向国内开发者统一模型调用、成本和可用性管理。",
+          "why_it_matters": "模型数量增长使应用团队面临供应商切换、价格、延迟和合规差异，统一路由层有机会成为推理流量入口；但国内云厂商与模型厂商也能快速提供相似能力。",
+          "why_important": "模型数量增长使应用团队面临供应商切换、价格、延迟和合规差异，统一路由层有机会成为推理流量入口；但国内云厂商与模型厂商也能快速提供相似能力。",
+          "investment_observation": "重点看真实调用量、毛利率、模型覆盖、故障切换效果和客户留存。平台若仅靠转售价差壁垒偏弱，能否形成路由优化、观测数据和企业治理能力更关键。",
+          "investment_angle": "重点看真实调用量、毛利率、模型覆盖、故障切换效果和客户留存。平台若仅靠转售价差壁垒偏弱，能否形成路由优化、观测数据和企业治理能力更关键。",
+          "companies": [
+            "基元律动",
+            "TokenRhythm",
+            "OpenRouter"
+          ],
+          "people": [],
+          "products": [
+            "TokenRhythm模型路由平台"
+          ],
+          "technologies": [
+            "模型路由",
+            "推理服务",
+            "API聚合"
+          ],
+          "entities": {
+            "companies": [
+              "基元律动",
+              "TokenRhythm",
+              "OpenRouter"
+            ],
+            "people": [],
+            "products": [
+              "TokenRhythm模型路由平台"
+            ],
+            "technologies": [
+              "模型路由",
+              "推理服务",
+              "API聚合"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "模型路由",
+            "开发者工具"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "MIT Technology Review观察上海机器人嘉年华与中国人形机器人落地",
+          "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+          "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 25 Aug 2026 09:00:00 +0000",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "机器人",
+          "summary": "MIT Technology Review实地记录上海机器人嘉年华，展示人形机器人在表演、互动和消费场景中的密集亮相，并将其置于中国推动人工智能进入日常生活与产业体系的政策背景中。",
+          "why_it_matters": "公众展示有助于供应链迭代和市场教育，但也暴露人形机器人从演示到稳定服务之间的差距。中国完整制造链和政策支持仍是降低本体成本的重要优势。",
+          "why_important": "公众展示有助于供应链迭代和市场教育，但也暴露人形机器人从演示到稳定服务之间的差距。中国完整制造链和政策支持仍是降低本体成本的重要优势。",
+          "investment_observation": "把展会热度与商业交付分开评估，重点看故障间隔、人工接管率、任务时长、售价和复购。短期更可投资的环节可能是关节、传感器、控制器与训练数据。",
+          "investment_angle": "把展会热度与商业交付分开评估，重点看故障间隔、人工接管率、任务时长、售价和复购。短期更可投资的环节可能是关节、传感器、控制器与训练数据。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "人形机器人",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "人形机器人",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "智能硬件",
+            "中国",
+            "产业化"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "Google Gemini Notebook新增已购图书作为专家知识源",
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+          "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+          "source": "The Verge AI",
+          "published_at": "Thu, 27 Aug 2026 15:30:00 -0400",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "产品应用",
+          "summary": "Google的AI笔记应用Gemini Notebook推出“Expert Intelligence”功能，用户可把在Google平台购买的图书加入知识源，并围绕书中内容进行提问、整理和研究。",
+          "why_it_matters": "将正版图书直接接入检索与对话，能提升回答质量，也为出版社、版权方和AI产品探索新的授权与分发模式；知识源的可信度可能成为笔记类Agent差异化因素。",
+          "why_important": "将正版图书直接接入检索与对话，能提升回答质量，也为出版社、版权方和AI产品探索新的授权与分发模式；知识源的可信度可能成为笔记类Agent差异化因素。",
+          "investment_observation": "关注可用书目、作者与出版商分成、引用准确性和付费转化。若授权成本过高或仅限Google生态，规模会受限；若形成可扩展的版权接口，则可能打开专业知识市场。",
+          "investment_angle": "关注可用书目、作者与出版商分成、引用准确性和付费转化。若授权成本过高或仅限Google生态，规模会受限；若形成可扩展的版权接口，则可能打开专业知识市场。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Gemini Notebook",
+            "Expert Intelligence",
+            "Google Books"
+          ],
+          "technologies": [
+            "检索增强生成",
+            "AI笔记"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Gemini Notebook",
+              "Expert Intelligence",
+              "Google Books"
+            ],
+            "technologies": [
+              "检索增强生成",
+              "AI笔记"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "知识管理",
+            "版权",
+            "Gemini"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "科大讯飞中报：上半年收入116.23亿元，AI商业化仍伴随利润压力",
+          "url": "https://36kr.com/p/3957597360438656?f=rss",
+          "link": "https://36kr.com/p/3957597360438656?f=rss",
+          "source": "36氪",
+          "published_at": "2026-08-27 17:58:42 +0800",
+          "selected_at": "2026-08-28T09:55:00+08:00",
+          "category": "财报",
+          "summary": "科大讯飞2026年上半年实现收入116.23亿元，同比增长6.52%；归母净利润亏损2.04亿元，同比减亏14.68%，销售回款118.96亿元，二季度经营性现金流转正。报道据此观察其大模型与行业应用的商业化进度。",
+          "why_it_matters": "国内AI应用公司正在从模型发布进入收入、回款和利润验证期。科大讯飞覆盖教育、政企和智能硬件，其财务表现能反映行业订单增长与大模型投入之间的平衡。",
+          "why_important": "国内AI应用公司正在从模型发布进入收入、回款和利润验证期。科大讯飞覆盖教育、政企和智能硬件，其财务表现能反映行业订单增长与大模型投入之间的平衡。",
+          "investment_observation": "重点拆分大模型相关新增收入、毛利率、销售费用和政府企业回款周期。现金流改善是积极信号，但收入低个位数增长与持续亏损说明商业化效率仍需验证。",
+          "investment_angle": "重点拆分大模型相关新增收入、毛利率、销售费用和政府企业回款周期。现金流改善是积极信号，但收入低个位数增长与持续亏损说明商业化效率仍需验证。",
+          "companies": [
+            "科大讯飞"
+          ],
+          "people": [],
+          "products": [
+            "讯飞星火"
+          ],
+          "technologies": [
+            "大模型",
+            "行业AI"
+          ],
+          "entities": {
+            "companies": [
+              "科大讯飞"
+            ],
+            "people": [],
+            "products": [
+              "讯飞星火"
+            ],
+            "technologies": [
+              "大模型",
+              "行业AI"
+            ]
+          },
+          "tags": [
+            "财报",
+            "产品应用",
+            "企业AI",
+            "中国"
+          ],
+          "importance_score": 8.0
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "count": 10,
