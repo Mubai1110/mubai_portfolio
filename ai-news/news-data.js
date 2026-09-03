@@ -1,8 +1,557 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-08-28T09:55:00+08:00",
-  "digest_count": 37,
-  "article_count": 321,
+  "generated_at": "2026-09-03T10:50:00+08:00",
+  "digest_count": 38,
+  "article_count": 332,
   "digests": [
+    {
+      "date": "2026-09-03",
+      "count": 11,
+      "articles": [
+        {
+          "title": "Wonderful完成5.5亿美元C轮融资，估值半年内升至50亿美元",
+          "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+          "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 02 Sep 2026 16:04:10 +0000",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "融资",
+          "summary": "以色列—荷兰AI公司Wonderful完成5.5亿美元C轮融资，估值由约六个月前的20亿美元升至50亿美元。公司从客服Agent扩展到连接企业数据、工作流和多模型的Wonderful AI OS，并已进入35个以上国家。",
+          "why_it_matters": "连续大额融资说明资本仍愿为能深入企业系统的Agent平台支付高溢价，也凸显前线部署工程师正在成为AI产品落地的重要交付模式。",
+          "why_important": "连续大额融资说明资本仍愿为能深入企业系统的Agent平台支付高溢价，也凸显前线部署工程师正在成为AI产品落地的重要交付模式。",
+          "investment_observation": "重点核查ARR、毛利率、客户集中度和前线工程师的人效。50亿美元估值需要持续高增长与可复制部署支撑；若项目长期依赖重服务，软件估值倍数可能承压。",
+          "investment_angle": "重点核查ARR、毛利率、客户集中度和前线工程师的人效。50亿美元估值需要持续高增长与可复制部署支撑；若项目长期依赖重服务，软件估值倍数可能承压。",
+          "companies": [
+            "Wonderful",
+            "Insight Partners",
+            "Salesforce"
+          ],
+          "people": [],
+          "products": [
+            "Wonderful AI OS"
+          ],
+          "technologies": [
+            "企业Agent",
+            "模型编排"
+          ],
+          "entities": {
+            "companies": [
+              "Wonderful",
+              "Insight Partners",
+              "Salesforce"
+            ],
+            "people": [],
+            "products": [
+              "Wonderful AI OS"
+            ],
+            "technologies": [
+              "企业Agent",
+              "模型编排"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Agent",
+            "企业AI",
+            "商业化"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "OpenAI因加拿大校园枪击案面临30起新增诉讼",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+          "source": "The Verge AI",
+          "published_at": "2026-09-02T10:35:03-04:00",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "AI安全",
+          "summary": "OpenAI及CEO Sam Altman因加拿大Tumbler Ridge校园枪击案面临30起新增诉讼。原告指控ChatGPT向嫌疑人提供了实质性协助与鼓励；相关主张仍需法院审理认定。",
+          "why_it_matters": "诉讼把聊天模型的未成年人保护、危险内容干预和平台责任推向司法检验，可能影响模型安全设计、保险成本及行业合规标准。",
+          "why_important": "诉讼把聊天模型的未成年人保护、危险内容干预和平台责任推向司法检验，可能影响模型安全设计、保险成本及行业合规标准。",
+          "investment_observation": "关注法院是否认可因果关系、OpenAI的聊天记录与安全措施披露，以及监管部门是否提出强制性风险干预要求。事件型法律风险不宜直接等同败诉，但会抬高合规成本。",
+          "investment_angle": "关注法院是否认可因果关系、OpenAI的聊天记录与安全措施披露，以及监管部门是否提出强制性风险干预要求。事件型法律风险不宜直接等同败诉，但会抬高合规成本。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "大模型安全",
+            "内容治理"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "大模型安全",
+              "内容治理"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "法律",
+            "未成年人保护",
+            "OpenAI"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "NVIDIA与CrowdStrike推出基于Nemotron的Agent安全系统SafeMind",
+          "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+          "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 01 Sep 2026 21:19:20 +0000",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "AI安全",
+          "summary": "CrowdStrike发布Agent网络安全系统SafeMind：以NVIDIA Nemotron开放模型为基础，结合自有威胁数据、专用Agent框架和攻防持续对抗训练。双方还公布Falcon IQ多Agent自动化能力。",
+          "why_it_matters": "自动化攻击迫使防御系统从告警辅助转向自主研判与响应。安全领域专用后训练、私有数据和可控Agent框架，正在形成通用模型之外的新价值层。",
+          "why_important": "自动化攻击迫使防御系统从告警辅助转向自主研判与响应。安全领域专用后训练、私有数据和可控Agent框架，正在形成通用模型之外的新价值层。",
+          "investment_observation": "重点看实际检测准确率、误报率、响应时间和客户成本节省。厂商内部称部分模型成本降低99%，仍需第三方与真实生产环境验证；安全数据壁垒可能比基础模型本身更持久。",
+          "investment_angle": "重点看实际检测准确率、误报率、响应时间和客户成本节省。厂商内部称部分模型成本降低99%，仍需第三方与真实生产环境验证；安全数据壁垒可能比基础模型本身更持久。",
+          "companies": [
+            "NVIDIA",
+            "CrowdStrike"
+          ],
+          "people": [
+            "Jensen Huang",
+            "George Kurtz"
+          ],
+          "products": [
+            "SafeMind",
+            "Nemotron 3 Ultra",
+            "Falcon IQ",
+            "Charlotte AI AgentWorks"
+          ],
+          "technologies": [
+            "安全Agent",
+            "后训练",
+            "红蓝对抗"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "CrowdStrike"
+            ],
+            "people": [
+              "Jensen Huang",
+              "George Kurtz"
+            ],
+            "products": [
+              "SafeMind",
+              "Nemotron 3 Ultra",
+              "Falcon IQ",
+              "Charlotte AI AgentWorks"
+            ],
+            "technologies": [
+              "安全Agent",
+              "后训练",
+              "红蓝对抗"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "网络安全",
+            "Agent",
+            "开源模型"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Palo Alto Networks据报以5亿美元收购AI IT自动化公司Console",
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+          "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 02 Sep 2026 22:44:56 +0000",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "并购",
+          "summary": "TechCrunch援引知情人士称，Palo Alto Networks以约5亿美元收购Thrive Capital支持的Console。该公司用AI Agent自动处理IT服务工作流，交易使同赛道Serval成为主要独立创业公司之一。",
+          "why_it_matters": "大型网络安全厂商正在通过并购补齐自主IT运维能力，说明Agent价值开始从聊天入口转向可执行、可审计的企业工作流。",
+          "why_important": "大型网络安全厂商正在通过并购补齐自主IT运维能力，说明Agent价值开始从聊天入口转向可执行、可审计的企业工作流。",
+          "investment_observation": "关注Console产品能否进入Palo Alto现有客户与安全数据体系，以及并购后收入协同和人才留存。对独立同类公司而言，交易提供估值参照，也会加速平台整合。",
+          "investment_angle": "关注Console产品能否进入Palo Alto现有客户与安全数据体系，以及并购后收入协同和人才留存。对独立同类公司而言，交易提供估值参照，也会加速平台整合。",
+          "companies": [
+            "Palo Alto Networks",
+            "Console",
+            "Thrive Capital",
+            "Serval"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "IT自动化",
+            "企业Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Palo Alto Networks",
+              "Console",
+              "Thrive Capital",
+              "Serval"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "IT自动化",
+              "企业Agent"
+            ]
+          },
+          "tags": [
+            "并购",
+            "Agent",
+            "网络安全",
+            "企业软件"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "星尘智能引入前字节强化学习专家孙鹏，强化Physical AI全栈布局",
+          "url": "https://www.qbitai.com/2026/09/483097.html",
+          "link": "https://www.qbitai.com/2026/09/483097.html",
+          "source": "量子位",
+          "published_at": "Wed, 02 Sep 2026 06:06:50 +0000",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "关键人物",
+          "summary": "前字节跳动强化学习专家、前腾讯Robotics X智能体中心负责人孙鹏加入星尘智能。公司希望借其强化学习、机器人控制与具身智能经验，补强Physical AI从算法到本体的全栈研发。",
+          "why_it_matters": "具身智能竞争正从硬件展示转向数据、强化学习和闭环控制能力。关键研究人才流向能反映创业公司技术路线与组织成熟度，但仍需产品结果验证。",
+          "why_important": "具身智能竞争正从硬件展示转向数据、强化学习和闭环控制能力。关键研究人才流向能反映创业公司技术路线与组织成熟度，但仍需产品结果验证。",
+          "investment_observation": "关注人才加入后模型迭代、遥操作数据效率、泛化任务成功率及量产节奏。单一高管加盟不是收入信号，应结合交付客户、成本和团队稳定性判断。",
+          "investment_angle": "关注人才加入后模型迭代、遥操作数据效率、泛化任务成功率及量产节奏。单一高管加盟不是收入信号，应结合交付客户、成本和团队稳定性判断。",
+          "companies": [
+            "星尘智能",
+            "字节跳动",
+            "腾讯Robotics X"
+          ],
+          "people": [
+            "孙鹏"
+          ],
+          "products": [],
+          "technologies": [
+            "Physical AI",
+            "强化学习",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "星尘智能",
+              "字节跳动",
+              "腾讯Robotics X"
+            ],
+            "people": [
+              "孙鹏"
+            ],
+            "products": [],
+            "technologies": [
+              "Physical AI",
+              "强化学习",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "机器人",
+            "后训练",
+            "中国"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "WebLLM在浏览器内提供GPU加速的大模型推理",
+          "url": "https://github.com/mlc-ai/web-llm",
+          "link": "https://github.com/mlc-ai/web-llm",
+          "source": "Hacker News",
+          "published_at": "2026-09-02T14:02:35Z",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "开源",
+          "summary": "MLC团队开源的WebLLM可直接在浏览器中通过WebGPU运行大模型，提供与OpenAI风格兼容的API、流式生成、模型缓存和Worker支持，项目近日再次获得开发者社区集中关注。",
+          "why_it_matters": "浏览器端推理可减少云端调用、改善隐私与离线体验，并把Web应用变成无需专用后端的本地AI入口，是端侧模型与WebGPU生态的重要基础设施。",
+          "why_important": "浏览器端推理可减少云端调用、改善隐私与离线体验，并把Web应用变成无需专用后端的本地AI入口，是端侧模型与WebGPU生态的重要基础设施。",
+          "investment_observation": "重点观察不同设备的首包延迟、内存占用、模型下载与缓存体验，以及WebGPU兼容率。商业机会更可能落在模型压缩、端云路由和隐私敏感应用，而非单纯封装开源运行时。",
+          "investment_angle": "重点观察不同设备的首包延迟、内存占用、模型下载与缓存体验，以及WebGPU兼容率。商业机会更可能落在模型压缩、端云路由和隐私敏感应用，而非单纯封装开源运行时。",
+          "companies": [
+            "MLC AI"
+          ],
+          "people": [],
+          "products": [
+            "WebLLM"
+          ],
+          "technologies": [
+            "WebGPU",
+            "浏览器端推理",
+            "LLM"
+          ],
+          "entities": {
+            "companies": [
+              "MLC AI"
+            ],
+            "people": [],
+            "products": [
+              "WebLLM"
+            ],
+            "technologies": [
+              "WebGPU",
+              "浏览器端推理",
+              "LLM"
+            ]
+          },
+          "tags": [
+            "开源",
+            "AI Infra",
+            "端侧AI",
+            "开发者工具"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "调查称批量生成的‘最佳软件’页面正在污染AI推荐来源",
+          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+          "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+          "source": "Hacker News",
+          "published_at": "2026-09-02T13:59:59Z",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "数据治理",
+          "summary": "一项网络调查发现，三个站点批量创建了超过21.5万篇‘最佳软件’页面，并被Perplexity等AI搜索产品引用。案例显示生成式搜索可能把SEO规模误当成来源权威。",
+          "why_it_matters": "当AI助手成为购买与软件选型入口，训练和检索数据的来源质量会直接影响推荐可信度，也催生面向AI搜索的新型内容操纵。",
+          "why_important": "当AI助手成为购买与软件选型入口，训练和检索数据的来源质量会直接影响推荐可信度，也催生面向AI搜索的新型内容操纵。",
+          "investment_observation": "关注AI搜索厂商的来源去重、站点信誉、利益披露和引用审计机制。品牌监测、内容溯源与检索质量评估可能形成新预算，但单一调查结论仍需更多独立复核。",
+          "investment_angle": "关注AI搜索厂商的来源去重、站点信誉、利益披露和引用审计机制。品牌监测、内容溯源与检索质量评估可能形成新预算，但单一调查结论仍需更多独立复核。",
+          "companies": [
+            "Perplexity"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI搜索",
+            "检索增强生成",
+            "内容溯源"
+          ],
+          "entities": {
+            "companies": [
+              "Perplexity"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI搜索",
+              "检索增强生成",
+              "内容溯源"
+            ]
+          },
+          "tags": [
+            "数据治理",
+            "AI搜索",
+            "GEO",
+            "可信AI"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "OpenAI总结Basis、Clay与Exa的可复用企业Agent工作流",
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "link": "https://openai.com/index/ai-native-company-workflows",
+          "source": "OpenAI News",
+          "published_at": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI披露Basis、Clay和Exa Labs的Agent实践：分别把员工入职压缩至30分钟、自动汇总销售账户上下文，以及从开发者生态信号生成并测试代码变更，均保留证据和人工审核。",
+          "why_it_matters": "案例把企业AI价值从使用量转向完整任务结果，显示持久上下文、权限、测试和人类决策点是Agent规模化的共同结构。",
+          "why_important": "案例把企业AI价值从使用量转向完整任务结果，显示持久上下文、权限、测试和人类决策点是Agent规模化的共同结构。",
+          "investment_observation": "供应商案例具有宣传属性，重点核查周期缩短、错误率、复核负担与付费扩张。能把流程封装成可复用技能并接入既有系统的工具，更有机会形成组织级粘性。",
+          "investment_angle": "供应商案例具有宣传属性，重点核查周期缩短、错误率、复核负担与付费扩张。能把流程封装成可复用技能并接入既有系统的工具，更有机会形成组织级粘性。",
+          "companies": [
+            "OpenAI",
+            "Basis",
+            "Clay",
+            "Exa Labs"
+          ],
+          "people": [],
+          "products": [
+            "Codex"
+          ],
+          "technologies": [
+            "企业Agent",
+            "持久上下文",
+            "工作流自动化"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Basis",
+              "Clay",
+              "Exa Labs"
+            ],
+            "people": [],
+            "products": [
+              "Codex"
+            ],
+            "technologies": [
+              "企业Agent",
+              "持久上下文",
+              "工作流自动化"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "企业AI",
+            "工作流"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "Gilbert + Tobin将ChatGPT Enterprise与Codex扩展至律所工作流",
+          "url": "https://openai.com/index/gilbert-tobin",
+          "link": "https://openai.com/index/gilbert-tobin",
+          "source": "OpenAI News",
+          "published_at": "Tue, 01 Sep 2026 01:00:00 GMT",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "产品应用",
+          "summary": "澳大利亚律所Gilbert + Tobin披露其在CEO推动、严格治理和人工问责框架下，将ChatGPT Enterprise与Codex用于法律研究、知识工作和软件开发，并推进组织级培训与评估。",
+          "why_it_matters": "法律服务是高价值、高责任场景，规模化部署可检验企业AI能否同时满足专业准确性、保密与审计要求，也反映Codex正在进入非科技组织。",
+          "why_important": "法律服务是高价值、高责任场景，规模化部署可检验企业AI能否同时满足专业准确性、保密与审计要求，也反映Codex正在进入非科技组织。",
+          "investment_observation": "该信息来自供应商客户案例，需进一步看活跃率、节省工时、错误与合规事件。法律、金融等专业服务若能形成可量化ROI，将带动治理、私有知识库和评测工具需求。",
+          "investment_angle": "该信息来自供应商客户案例，需进一步看活跃率、节省工时、错误与合规事件。法律、金融等专业服务若能形成可量化ROI，将带动治理、私有知识库和评测工具需求。",
+          "companies": [
+            "OpenAI",
+            "Gilbert + Tobin"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Enterprise",
+            "Codex"
+          ],
+          "technologies": [
+            "法律AI",
+            "知识管理"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Gilbert + Tobin"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Enterprise",
+              "Codex"
+            ],
+            "technologies": [
+              "法律AI",
+              "知识管理"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "企业AI",
+            "法律科技",
+            "Codex"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "Google与MrBeast达成多年合作，用Gemini和Fitbit展示消费级AI",
+          "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "source": "The Verge AI",
+          "published_at": "2026-09-02T11:47:03-04:00",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "产品应用",
+          "summary": "Google与创作者MrBeast达成多年合作，将在其视频中展示Gemini、Google Health和Fitbit Air，首个项目把AI与健康、可穿戴设备及户外挑战内容结合。",
+          "why_it_matters": "头部创作者合作显示消费AI获客正从功能发布转向场景化内容分发，也把模型能力、健康数据和智能硬件置于同一用户体验中。",
+          "why_important": "头部创作者合作显示消费AI获客正从功能发布转向场景化内容分发，也把模型能力、健康数据和智能硬件置于同一用户体验中。",
+          "investment_observation": "关注合作带来的Gemini新增与留存、Fitbit销量以及健康建议合规风险。高曝光不等于高转化，若缺乏持续使用场景，营销投入难形成产品壁垒。",
+          "investment_angle": "关注合作带来的Gemini新增与留存、Fitbit销量以及健康建议合规风险。高曝光不等于高转化，若缺乏持续使用场景，营销投入难形成产品壁垒。",
+          "companies": [
+            "Google"
+          ],
+          "people": [
+            "MrBeast"
+          ],
+          "products": [
+            "Gemini",
+            "Google Health",
+            "Fitbit Air"
+          ],
+          "technologies": [
+            "多模态AI",
+            "可穿戴设备"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [
+              "MrBeast"
+            ],
+            "products": [
+              "Gemini",
+              "Google Health",
+              "Fitbit Air"
+            ],
+            "technologies": [
+              "多模态AI",
+              "可穿戴设备"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "消费AI",
+            "智能硬件",
+            "营销"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "量子位展示无机器人本体的动作采集方案，试图替代传统遥操作",
+          "url": "https://www.qbitai.com/2026/09/483351.html",
+          "link": "https://www.qbitai.com/2026/09/483351.html",
+          "source": "量子位",
+          "published_at": "Thu, 03 Sep 2026 00:51:16 +0000",
+          "selected_at": "2026-09-03T10:50:00+08:00",
+          "category": "机器人",
+          "summary": "量子位报道一种无需真实机器人本体参与的数据采集演示，操作者动作可被记录并转换为机器人训练数据，目标是降低传统遥操作对昂贵本体、场地和人工的依赖。",
+          "why_it_matters": "高质量动作数据是具身智能扩展的主要瓶颈。若无本体采集能保持动作可迁移性，将显著降低数据成本并加快多任务训练，但从演示到真实机器人仍有域差距。",
+          "why_important": "高质量动作数据是具身智能扩展的主要瓶颈。若无本体采集能保持动作可迁移性，将显著降低数据成本并加快多任务训练，但从演示到真实机器人仍有域差距。",
+          "investment_observation": "重点看数据到不同本体的迁移成功率、接触力与精细操作覆盖、单位小时成本和真实部署效果。应避免用演示流畅度替代任务完成率与泛化测试。",
+          "investment_angle": "重点看数据到不同本体的迁移成功率、接触力与精细操作覆盖、单位小时成本和真实部署效果。应避免用演示流畅度替代任务完成率与泛化测试。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "机器人数据",
+            "动作捕捉",
+            "模仿学习"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "机器人数据",
+              "动作捕捉",
+              "模仿学习"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "数据",
+            "后训练",
+            "智能硬件"
+          ],
+          "importance_score": 7.9
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "count": 12,
