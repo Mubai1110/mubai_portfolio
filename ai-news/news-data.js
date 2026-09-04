@@ -1,8 +1,474 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-03T10:50:00+08:00",
-  "digest_count": 38,
-  "article_count": 332,
+  "generated_at": "2026-09-04T20:55:00+08:00",
+  "digest_count": 39,
+  "article_count": 342,
   "digests": [
+    {
+      "date": "2026-09-04",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Thinking Machines据报洽谈10亿美元融资，估值或达400亿美元",
+          "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+          "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 03 Sep 2026 19:36:29 +0000",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "融资",
+          "summary": "TechCrunch援引消息称，Accel正洽谈领投Thinking Machines Lab约10亿美元新融资，对应约400亿美元估值；报道还称这家高关注度模型创业公司的年化收入运行率已超过1亿美元。",
+          "why_it_matters": "在模型研发资本密集、头部人才稀缺的背景下，超大额融资显示资金仍在向具备明星团队和前沿模型能力的平台集中，也进一步抬高独立基础模型公司的竞争门槛。",
+          "why_important": "在模型研发资本密集、头部人才稀缺的背景下，超大额融资显示资金仍在向具备明星团队和前沿模型能力的平台集中，也进一步抬高独立基础模型公司的竞争门槛。",
+          "investment_observation": "交易尚处洽谈阶段，应关注最终融资规模、估值口径、算力投入与收入质量。按报道数字计算的高倍数估值，需要产品差异化和快速商业化持续兑现。",
+          "investment_angle": "交易尚处洽谈阶段，应关注最终融资规模、估值口径、算力投入与收入质量。按报道数字计算的高倍数估值，需要产品差异化和快速商业化持续兑现。",
+          "companies": [
+            "Thinking Machines Lab",
+            "Accel"
+          ],
+          "people": [
+            "Mira Murati"
+          ],
+          "products": [],
+          "technologies": [
+            "基础模型"
+          ],
+          "entities": {
+            "companies": [
+              "Thinking Machines Lab",
+              "Accel"
+            ],
+            "people": [
+              "Mira Murati"
+            ],
+            "products": [],
+            "technologies": [
+              "基础模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "基础模型",
+            "关键人物",
+            "美国"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI为GPT-6 Astra发布混乱致歉，部分付费用户未获访问权限",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "source": "The Verge AI",
+          "published_at": "2026-09-04T06:41:48-04:00",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "基础模型",
+          "summary": "OpenAI发布GPT-6 Astra后数小时，CEO Sam Altman承认上线过程“混乱”并致歉；部分原本期待获得新模型访问权限的付费用户未能立即使用。",
+          "why_it_matters": "前沿模型的发布质量正在直接影响订阅权益、用户信任和企业迁移节奏。模型能力之外，容量规划、分层开放和产品沟通已成为平台竞争力的一部分。",
+          "why_important": "前沿模型的发布质量正在直接影响订阅权益、用户信任和企业迁移节奏。模型能力之外，容量规划、分层开放和产品沟通已成为平台竞争力的一部分。",
+          "investment_observation": "关注访问恢复速度、付费用户流失、API容量和后续补偿。短期发布事故未必改变模型格局，但若频繁发生，会削弱高价订阅与企业承诺的可信度。",
+          "investment_angle": "关注访问恢复速度、付费用户流失、API容量和后续补偿。短期发布事故未必改变模型格局，但若频繁发生，会削弱高价订阅与企业承诺的可信度。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "GPT-6 Astra"
+          ],
+          "technologies": [
+            "基础模型"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "GPT-6 Astra"
+            ],
+            "technologies": [
+              "基础模型"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "产品发布",
+            "OpenAI",
+            "关键人物"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "OpenAI承诺10亿美元扩大关键公共服务的网络防御AI",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI News",
+          "published_at": "Thu, 03 Sep 2026 13:15:00 GMT",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "AI安全",
+          "summary": "OpenAI推出Daybreak for Frontline Defenders，承诺投入10亿美元，扩大前沿网络安全AI、培训与支持资源，重点服务承担关键公共服务的一线防御机构。",
+          "why_it_matters": "大模型在网络攻防中的能力提升正推动厂商主动建设防御生态。面向关键基础设施的长期投入，也可能形成安全评测、事件响应和受控模型访问的新行业标准。",
+          "why_important": "大模型在网络攻防中的能力提升正推动厂商主动建设防御生态。面向关键基础设施的长期投入，也可能形成安全评测、事件响应和受控模型访问的新行业标准。",
+          "investment_observation": "关注资金的实际投放节奏、覆盖机构数量、可量化防御效果及滥用控制。生态伙伴和安全工具链可能受益，但需区分公益承诺与可持续商业收入。",
+          "investment_angle": "关注资金的实际投放节奏、覆盖机构数量、可量化防御效果及滥用控制。生态伙伴和安全工具链可能受益，但需区分公益承诺与可持续商业收入。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "Daybreak for Frontline Defenders"
+          ],
+          "technologies": [
+            "网络安全AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "Daybreak for Frontline Defenders"
+            ],
+            "technologies": [
+              "网络安全AI"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "网络安全",
+            "基础设施",
+            "OpenAI"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Google DeepMind发布WeatherNext 3全球气象AI模型",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind Blog",
+          "published_at": "Thu, 03 Sep 2026 15:02:08 +0000",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "AI for Science",
+          "summary": "Google DeepMind发布WeatherNext 3，称其为目前最先进、最准确的全球气象AI模型，继续以机器学习提升全球天气预报能力。",
+          "why_it_matters": "气象预测是AI for Science走向大规模实际应用的代表场景；更快、更精细的预报可影响能源调度、农业、保险、物流和灾害响应。",
+          "why_important": "气象预测是AI for Science走向大规模实际应用的代表场景；更快、更精细的预报可影响能源调度、农业、保险、物流和灾害响应。",
+          "investment_observation": "重点比较其与传统数值预报及其他AI模型在极端天气、区域分辨率、推理成本和稳定性上的表现。商业价值取决于能否嵌入行业决策，而非仅刷新基准。",
+          "investment_angle": "重点比较其与传统数值预报及其他AI模型在极端天气、区域分辨率、推理成本和稳定性上的表现。商业价值取决于能否嵌入行业决策，而非仅刷新基准。",
+          "companies": [
+            "Google DeepMind"
+          ],
+          "people": [],
+          "products": [
+            "WeatherNext 3"
+          ],
+          "technologies": [
+            "气象AI",
+            "科学机器学习"
+          ],
+          "entities": {
+            "companies": [
+              "Google DeepMind"
+            ],
+            "people": [],
+            "products": [
+              "WeatherNext 3"
+            ],
+            "technologies": [
+              "气象AI",
+              "科学机器学习"
+            ]
+          },
+          "tags": [
+            "AI for Science",
+            "基础模型",
+            "气象",
+            "Google"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "星尘智能发布SmoothRL，以异步推理加速机器人在线强化学习",
+          "url": "https://www.qbitai.com/2026/09/484437.html",
+          "link": "https://www.qbitai.com/2026/09/484437.html",
+          "source": "量子位",
+          "published_at": "Fri, 04 Sep 2026 09:19:29 +0000",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "机器人",
+          "summary": "星尘智能基座模型团队发布在线强化学习框架SmoothRL，通过异步执行让机器人环境交互不必停下来等待大模型推理，目标是提高真实机器人训练的数据吞吐和硬件利用率。",
+          "why_it_matters": "在线强化学习受制于机器人动作与模型推理速度不匹配。异步框架若能保持训练稳定性，可降低昂贵本体的空闲时间，并加快Physical AI闭环迭代。",
+          "why_important": "在线强化学习受制于机器人动作与模型推理速度不匹配。异步框架若能保持训练稳定性，可降低昂贵本体的空闲时间，并加快Physical AI闭环迭代。",
+          "investment_observation": "关注真实任务成功率、样本效率、训练稳定性、不同本体适配和单位训练成本。框架价值需要在复杂长程任务中验证，不能只看吞吐提升。",
+          "investment_angle": "关注真实任务成功率、样本效率、训练稳定性、不同本体适配和单位训练成本。框架价值需要在复杂长程任务中验证，不能只看吞吐提升。",
+          "companies": [
+            "星尘智能"
+          ],
+          "people": [],
+          "products": [
+            "SmoothRL"
+          ],
+          "technologies": [
+            "在线强化学习",
+            "异步推理",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "星尘智能"
+            ],
+            "people": [],
+            "products": [
+              "SmoothRL"
+            ],
+            "technologies": [
+              "在线强化学习",
+              "异步推理",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "后训练",
+            "AI Infra",
+            "中国"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "NVIDIA联合微软与PC伙伴推进本地Agent和RTX端侧AI",
+          "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+          "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+          "source": "NVIDIA Blog",
+          "published_at": "Thu, 03 Sep 2026 16:00:59 +0000",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "智能硬件",
+          "summary": "NVIDIA在IFA 2026公布本地AI进展，与微软及硬件伙伴提供更快的RTX端侧推理和Agent部署工具，并展示NV Pair与RTX Spark等面向个人设备的能力。",
+          "why_it_matters": "前沿能力向PC本地迁移可降低云端成本与隐私风险，并推动AI PC从营销概念转向可持续运行Agent的个人计算平台。",
+          "why_important": "前沿能力向PC本地迁移可降低云端成本与隐私风险，并推动AI PC从营销概念转向可持续运行Agent的个人计算平台。",
+          "investment_observation": "关注端侧模型质量、功耗、内存门槛、开发者采用及真实应用留存。芯片销量可能受益，但生态价值取决于跨设备兼容和本地软件供给。",
+          "investment_angle": "关注端侧模型质量、功耗、内存门槛、开发者采用及真实应用留存。芯片销量可能受益，但生态价值取决于跨设备兼容和本地软件供给。",
+          "companies": [
+            "NVIDIA",
+            "Microsoft"
+          ],
+          "people": [],
+          "products": [
+            "NV Pair",
+            "RTX Spark"
+          ],
+          "technologies": [
+            "端侧推理",
+            "AI Agent",
+            "RTX"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Microsoft"
+            ],
+            "people": [],
+            "products": [
+              "NV Pair",
+              "RTX Spark"
+            ],
+            "technologies": [
+              "端侧推理",
+              "AI Agent",
+              "RTX"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "端侧AI",
+            "Agent",
+            "AI PC"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "趋境科技与摩尔线程合作国产异构AI推理方案",
+          "url": "https://www.qbitai.com/2026/09/484547.html",
+          "link": "https://www.qbitai.com/2026/09/484547.html",
+          "source": "量子位",
+          "published_at": "Fri, 04 Sep 2026 09:23:24 +0000",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "AI Infra",
+          "summary": "趋境科技与摩尔线程宣布战略合作，以国产GPU和异构推理软件构建生产级AI Token方案，并宣称在高品质Token的性价比上达到或超过国际先进算力方案。",
+          "why_it_matters": "国产AI算力的竞争正从峰值参数转向真实模型、精度约束和单位Token成本。软硬协同若能在生产环境兑现，将改善本土模型服务的供给弹性。",
+          "why_important": "国产AI算力的竞争正从峰值参数转向真实模型、精度约束和单位Token成本。软硬协同若能在生产环境兑现，将改善本土模型服务的供给弹性。",
+          "investment_observation": "厂商性能表述需由第三方复测。重点看模型覆盖、精度一致性、稳定吞吐、能耗、运维成本与批量客户；生态兼容性往往比单次跑分更决定采用。",
+          "investment_angle": "厂商性能表述需由第三方复测。重点看模型覆盖、精度一致性、稳定吞吐、能耗、运维成本与批量客户；生态兼容性往往比单次跑分更决定采用。",
+          "companies": [
+            "趋境科技",
+            "摩尔线程"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "异构推理",
+            "国产GPU",
+            "AI Token"
+          ],
+          "entities": {
+            "companies": [
+              "趋境科技",
+              "摩尔线程"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "异构推理",
+              "国产GPU",
+              "AI Token"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "推理",
+            "中国"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Instagram的AI内容标签再现误判与显示混乱",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+          "source": "The Verge AI",
+          "published_at": "2026-09-04T08:00:00-04:00",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "内容治理",
+          "summary": "Instagram用于提示合成内容的可见AI标签近期再次引发争议，用户报告标签出现误判或显示不一致，使真实拍摄与AI生成内容之间的识别更加混乱。",
+          "why_it_matters": "内容平台既要识别合成媒体，也要避免误伤真实创作者。标签可靠性不足会削弱用户信任，并暴露元数据、检测模型和申诉机制之间的治理缺口。",
+          "why_important": "内容平台既要识别合成媒体，也要避免误伤真实创作者。标签可靠性不足会削弱用户信任，并暴露元数据、检测模型和申诉机制之间的治理缺口。",
+          "investment_observation": "关注Meta如何调整检测依据、误报率和申诉流程，以及监管是否要求统一披露标准。内容认证、来源凭证和相机端签名可能获得更多需求。",
+          "investment_angle": "关注Meta如何调整检测依据、误报率和申诉流程，以及监管是否要求统一披露标准。内容认证、来源凭证和相机端签名可能获得更多需求。",
+          "companies": [
+            "Meta",
+            "Instagram"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI内容检测",
+            "内容溯源"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "Instagram"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI内容检测",
+              "内容溯源"
+            ]
+          },
+          "tags": [
+            "内容治理",
+            "生成式AI",
+            "平台治理",
+            "Meta"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "沙特Humain推出基于MiniMax M3开发的阿拉伯语大模型",
+          "url": "https://36kr.com/newsflashes/3969048191480320?f=rss",
+          "link": "https://36kr.com/newsflashes/3969048191480320?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-04 20:21:36 +0800",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "基础模型",
+          "summary": "沙特AI公司Humain推出阿拉伯语大模型Humain-M3。该模型基于中国稀宇科技MiniMax M3打造，采用4280亿参数混合专家架构，并以超过1万亿个阿拉伯语原生内容Token继续预训练。",
+          "why_it_matters": "区域语言模型正在从本地数据微调走向跨国基础模型合作。阿拉伯语市场的主权AI需求，为中国模型厂商输出技术与工程能力提供新路径。",
+          "why_important": "区域语言模型正在从本地数据微调走向跨国基础模型合作。阿拉伯语市场的主权AI需求，为中国模型厂商输出技术与工程能力提供新路径。",
+          "investment_observation": "关注公开基准之外的方言覆盖、文化准确性、推理成本、政府与企业订单及数据治理。合作能否复制到更多区域市场，比参数规模更关键。",
+          "investment_angle": "关注公开基准之外的方言覆盖、文化准确性、推理成本、政府与企业订单及数据治理。合作能否复制到更多区域市场，比参数规模更关键。",
+          "companies": [
+            "Humain",
+            "MiniMax"
+          ],
+          "people": [],
+          "products": [
+            "Humain-M3",
+            "MiniMax M3"
+          ],
+          "technologies": [
+            "混合专家模型",
+            "阿拉伯语大模型"
+          ],
+          "entities": {
+            "companies": [
+              "Humain",
+              "MiniMax"
+            ],
+            "people": [],
+            "products": [
+              "Humain-M3",
+              "MiniMax M3"
+            ],
+            "technologies": [
+              "混合专家模型",
+              "阿拉伯语大模型"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "国际化",
+            "中东",
+            "中国"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "ChatGPT广告业务年化收入达到10亿美元并扩大覆盖",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI News",
+          "published_at": "Mon, 31 Aug 2026 04:00:00 GMT",
+          "selected_at": "2026-09-04T20:55:00+08:00",
+          "category": "商业化",
+          "summary": "OpenAI表示ChatGPT Ads年化收入运行率已达到10亿美元，并将广告业务扩展至更多市场，以广告收入支持免费及低价AI服务。",
+          "why_it_matters": "广告成为订阅和API之外的重要收入支柱，意味着ChatGPT正在从工具平台进一步走向流量入口，同时带来回答独立性、用户隐私和商业推荐治理问题。",
+          "why_important": "广告成为订阅和API之外的重要收入支柱，意味着ChatGPT正在从工具平台进一步走向流量入口，同时带来回答独立性、用户隐私和商业推荐治理问题。",
+          "investment_observation": "关注广告加载率、每用户收入、免费用户增长及回答与广告的隔离规则。收入增长可改善算力经济性，但过度商业化可能损害信任和高价值用户留存。",
+          "investment_angle": "关注广告加载率、每用户收入、免费用户增长及回答与广告的隔离规则。收入增长可改善算力经济性，但过度商业化可能损害信任和高价值用户留存。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Ads",
+            "ChatGPT"
+          ],
+          "technologies": [
+            "生成式AI广告"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Ads",
+              "ChatGPT"
+            ],
+            "technologies": [
+              "生成式AI广告"
+            ]
+          },
+          "tags": [
+            "商业化",
+            "产品应用",
+            "广告",
+            "OpenAI"
+          ],
+          "importance_score": 8.1
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "count": 11,
