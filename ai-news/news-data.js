@@ -1,8 +1,480 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-04T20:55:00+08:00",
-  "digest_count": 39,
-  "article_count": 342,
+  "generated_at": "2026-09-08T09:30:00+08:00",
+  "digest_count": 40,
+  "article_count": 352,
   "digests": [
+    {
+      "date": "2026-09-08",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI披露编码Agent正显著加速内部AI研究",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "AI研究",
+          "summary": "OpenAI公布内部数据：研究人员已把编码Agent深度嵌入日常工作；截至8月中旬，研究组织每个真人工作日对应约3.1个Agent工作日，实验数量和代码贡献均明显增加。公司称已达到“自动化研究实习生”阶段，并把2028年3月实现受监督自动化AI研究员列为目标。",
+          "why_it_matters": "这是前沿实验室首次以较完整的运营数据展示Agent如何改变模型研发流程。AI不仅是研究结果，也正在成为加快研究本身的生产工具，可能缩短实验循环并放大算力、评测与安全治理的重要性。",
+          "why_important": "这是前沿实验室首次以较完整的运营数据展示Agent如何改变模型研发流程。AI不仅是研究结果，也正在成为加快研究本身的生产工具，可能缩短实验循环并放大算力、评测与安全治理的重要性。",
+          "investment_observation": "关注实验加速能否转化为稳定的模型进步，以及推理支出、算力约束和安全审查对效率的抵消。为研究型Agent提供评测、可观测性、沙箱与算力调度的基础设施可能受益。",
+          "investment_angle": "关注实验加速能否转化为稳定的模型进步，以及推理支出、算力约束和安全审查对效率的抵消。为研究型Agent提供评测、可观测性、沙箱与算力调度的基础设施可能受益。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "Codex"
+          ],
+          "technologies": [
+            "编码Agent",
+            "自动化AI研究",
+            "强化学习"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "Codex"
+            ],
+            "technologies": [
+              "编码Agent",
+              "自动化AI研究",
+              "强化学习"
+            ]
+          },
+          "tags": [
+            "AI研究",
+            "Agent",
+            "后训练",
+            "OpenAI"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "OpenAI首席科学家称前沿研究正转向递归式自我改进",
+          "url": "https://openai.com/index/an-alien-mind",
+          "link": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI News",
+          "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "关键人物",
+          "summary": "OpenAI首席科学家Jakub Pachocki回顾推理模型的发展，并表示公司正把研究重心转向递归式自我改进（RSI）：让AI系统协助研究、训练和改进后续系统，同时强调必须保留人类控制并加强对齐措施。",
+          "why_it_matters": "首席科学家的公开判断揭示了头部实验室下一阶段的研发方向，也说明竞争焦点正从单次模型扩展转向自动化研究闭环。该路线同时放大失控、不可监测和能力突增风险。",
+          "why_important": "首席科学家的公开判断揭示了头部实验室下一阶段的研发方向，也说明竞争焦点正从单次模型扩展转向自动化研究闭环。该路线同时放大失控、不可监测和能力突增风险。",
+          "investment_observation": "关注RSI进展的可测指标、算力增量、安全门槛和外部披露。相关机会集中在研究Agent、实验平台、可解释性和安全评测，但商业预期应与可验证成果严格区分。",
+          "investment_angle": "关注RSI进展的可测指标、算力增量、安全门槛和外部披露。相关机会集中在研究Agent、实验平台、可解释性和安全评测，但商业预期应与可验证成果严格区分。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Jakub Pachocki"
+          ],
+          "products": [],
+          "technologies": [
+            "递归式自我改进",
+            "推理模型",
+            "AI对齐"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Jakub Pachocki"
+            ],
+            "products": [],
+            "technologies": [
+              "递归式自我改进",
+              "推理模型",
+              "AI对齐"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI安全",
+            "基础模型",
+            "OpenAI"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Anthropic据报推进史上最大规模IPO，估值或接近2万亿美元",
+          "url": "https://elpais.com/economia/2026-09-07/anthropic-acelera-en-su-salida-a-bolsa-para-superar-a-spacex.html",
+          "link": "https://elpais.com/economia/2026-09-07/anthropic-acelera-en-su-salida-a-bolsa-para-superar-a-spacex.html",
+          "source": "El País",
+          "published_at": "Mon, 07 Sep 2026 09:31:38 UTC",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "资本市场",
+          "summary": "El País援引英国《金融时报》报道称，Anthropic正推进上市准备，拟募资接近1000亿美元、目标估值接近2万亿美元；Morgan Stanley可能担任主承销角色，Goldman Sachs等银行也可能参与。报道同时称公司7月底年化收入已达650亿美元。",
+          "why_it_matters": "若按报道规模落地，这将成为检验资本市场如何定价前沿模型收入、算力负债和治理结构的标志性交易，并直接影响OpenAI及其他模型公司的上市与融资节奏。",
+          "why_important": "若按报道规模落地，这将成为检验资本市场如何定价前沿模型收入、算力负债和治理结构的标志性交易，并直接影响OpenAI及其他模型公司的上市与融资节奏。",
+          "investment_observation": "交易仍处筹备和媒体报道阶段，数字可能调整。重点核对招股书、收入质量、长期算力合同、现金消耗及治理权安排，不宜仅依据目标估值判断投资价值。",
+          "investment_angle": "交易仍处筹备和媒体报道阶段，数字可能调整。重点核对招股书、收入质量、长期算力合同、现金消耗及治理权安排，不宜仅依据目标估值判断投资价值。",
+          "companies": [
+            "Anthropic",
+            "Morgan Stanley",
+            "Goldman Sachs"
+          ],
+          "people": [],
+          "products": [
+            "Claude",
+            "Mythos"
+          ],
+          "technologies": [
+            "基础模型"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Morgan Stanley",
+              "Goldman Sachs"
+            ],
+            "people": [],
+            "products": [
+              "Claude",
+              "Mythos"
+            ],
+            "technologies": [
+              "基础模型"
+            ]
+          },
+          "tags": [
+            "IPO",
+            "融资",
+            "基础模型",
+            "资本市场"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Uber创始人Travis Kalanick旗下Atoms或进入Robotaxi市场",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+          "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+          "source": "TechCrunch AI",
+          "published_at": "Sun, 06 Sep 2026 16:45:00 +0000",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "自动驾驶",
+          "summary": "TechCrunch报道，Uber联合创始人Travis Kalanick的新公司Atoms可能切入Robotaxi业务；Kalanick此前称该项目将帮助他完成在出行领域的“未竟事业”。目前公开信息仍有限，具体技术路线和商业计划尚未完整披露。",
+          "why_it_matters": "曾深度参与网约车平台建设的创始人重新进入无人出行，可能把车队运营、调度网络和自动驾驶技术重新组合，并增加Robotaxi市场的竞争变量。",
+          "why_important": "曾深度参与网约车平台建设的创始人重新进入无人出行，可能把车队运营、调度网络和自动驾驶技术重新组合，并增加Robotaxi市场的竞争变量。",
+          "investment_observation": "该项目仍属早期信号，应关注车辆与自动驾驶合作方、测试许可、资本投入和单位运营成本。创始人声量不能替代技术安全性与监管进展。",
+          "investment_angle": "该项目仍属早期信号，应关注车辆与自动驾驶合作方、测试许可、资本投入和单位运营成本。创始人声量不能替代技术安全性与监管进展。",
+          "companies": [
+            "Atoms",
+            "Uber"
+          ],
+          "people": [
+            "Travis Kalanick"
+          ],
+          "products": [],
+          "technologies": [
+            "Robotaxi",
+            "自动驾驶"
+          ],
+          "entities": {
+            "companies": [
+              "Atoms",
+              "Uber"
+            ],
+            "people": [
+              "Travis Kalanick"
+            ],
+            "products": [],
+            "technologies": [
+              "Robotaxi",
+              "自动驾驶"
+            ]
+          },
+          "tags": [
+            "自动驾驶",
+            "机器人",
+            "关键人物",
+            "出行"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Gemini户外规划建议不足引发AI安全边界讨论",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "source": "TechCrunch AI",
+          "published_at": "Sat, 05 Sep 2026 19:35:24 +0000",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "AI安全",
+          "summary": "多名徒步者在依据Google Gemini规划行程后需要救援。当地警长办公室称，Gemini建议他们携带的食物和饮水远低于团队实际需要，使生成式AI在高风险现实决策中的可靠性再次受到质疑。",
+          "why_it_matters": "消费级助手正进入旅行、健康和安全等高后果场景。一次看似普通的错误建议可能造成现实伤害，凸显产品需要风险识别、权威数据接入和明确的人工复核提示。",
+          "why_important": "消费级助手正进入旅行、健康和安全等高后果场景。一次看似普通的错误建议可能造成现实伤害，凸显产品需要风险识别、权威数据接入和明确的人工复核提示。",
+          "investment_observation": "关注Google后续产品修正、免责声明、地理与天气数据接入及事故责任讨论。面向高风险场景的验证层、专业数据服务与安全评测需求将上升。",
+          "investment_angle": "关注Google后续产品修正、免责声明、地理与天气数据接入及事故责任讨论。面向高风险场景的验证层、专业数据服务与安全评测需求将上升。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Gemini"
+          ],
+          "technologies": [
+            "生成式AI"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Gemini"
+            ],
+            "technologies": [
+              "生成式AI"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "产品应用",
+            "Google",
+            "消费AI"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "中科类脑完成数亿元B+轮融资，推进算电协同Token工厂",
+          "url": "https://www.qbitai.com/2026/09/485039.html",
+          "link": "https://www.qbitai.com/2026/09/485039.html",
+          "source": "量子位",
+          "published_at": "Mon, 07 Sep 2026 04:01:09 +0000",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "融资",
+          "summary": "中科类脑宣布完成数亿元B+轮战略融资，由中车资本领投，银杏谷资本、水木基金和启迪基金等跟投。资金将用于异构算力统一调度、推理优化、算电协同决策以及Token工厂的规模化落地。",
+          "why_it_matters": "AI基础设施竞争正从堆叠算力转向每度电、每单位成本可产出的有效Token。央企产业资本进入，显示能源、算力调度和国产芯片适配正在形成交叉投资主题。",
+          "why_important": "AI基础设施竞争正从堆叠算力转向每度电、每单位成本可产出的有效Token。央企产业资本进入，显示能源、算力调度和国产芯片适配正在形成交叉投资主题。",
+          "investment_observation": "报道为公司授权稿，性能和商业化表述需独立验证。关注实际客户、集群规模、能耗指标、国产芯片适配范围及融资后的交付节奏。",
+          "investment_angle": "报道为公司授权稿，性能和商业化表述需独立验证。关注实际客户、集群规模、能耗指标、国产芯片适配范围及融资后的交付节奏。",
+          "companies": [
+            "中科类脑",
+            "中车资本"
+          ],
+          "people": [
+            "刘海峰"
+          ],
+          "products": [
+            "Token工厂"
+          ],
+          "technologies": [
+            "异构推理",
+            "算电协同",
+            "强化学习"
+          ],
+          "entities": {
+            "companies": [
+              "中科类脑",
+              "中车资本"
+            ],
+            "people": [
+              "刘海峰"
+            ],
+            "products": [
+              "Token工厂"
+            ],
+            "technologies": [
+              "异构推理",
+              "算电协同",
+              "强化学习"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "推理",
+            "中国"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "OpenAI联合行业组织支持乌克兰独立媒体应用AI",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "source": "OpenAI News",
+          "published_at": "Mon, 07 Sep 2026 00:00:00 GMT",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI、WAN-IFRA与乌克兰独立地区新闻出版商协会推出新闻编辑室AI计划，为当地媒体提供培训、项目孵化和API额度；其中Catalyst项目将为10家新闻机构提供定制化实施支持。",
+          "why_it_matters": "项目把AI从通用工具落实到战时新闻生产、受众运营和商业转型，体现模型厂商通过行业伙伴和API额度培育垂直场景的路径，也涉及内容真实性与编辑责任。",
+          "why_important": "项目把AI从通用工具落实到战时新闻生产、受众运营和商业转型，体现模型厂商通过行业伙伴和API额度培育垂直场景的路径，也涉及内容真实性与编辑责任。",
+          "investment_observation": "关注试点形成的可复制工作流、媒体效率与收入改善，以及事实核查和编辑把关机制。此类公益项目的战略价值主要在生态与案例积累，而非短期收入。",
+          "investment_angle": "关注试点形成的可复制工作流、媒体效率与收入改善，以及事实核查和编辑把关机制。此类公益项目的战略价值主要在生态与案例积累，而非短期收入。",
+          "companies": [
+            "OpenAI",
+            "WAN-IFRA",
+            "AIRPPU"
+          ],
+          "people": [],
+          "products": [
+            "Newsroom AI Catalyst",
+            "OpenAI API"
+          ],
+          "technologies": [
+            "生成式AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "WAN-IFRA",
+              "AIRPPU"
+            ],
+            "people": [],
+            "products": [
+              "Newsroom AI Catalyst",
+              "OpenAI API"
+            ],
+            "technologies": [
+              "生成式AI"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "媒体",
+            "治理",
+            "OpenAI"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "中国Data Agent首份厂商评估聚焦数据治理与分析全链路",
+          "url": "https://36kr.com/p/3973163226952199?f=rss",
+          "link": "https://36kr.com/p/3973163226952199?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-07 18:28:24 +0800",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "数据",
+          "summary": "36氪文章解读IDC发布的中国Data Agent厂商评估。评估覆盖数据管理、治理与分析全链路，纳入阿里云、火山引擎、腾讯云、星环科技等十余家厂商，显示企业数据智能竞争正从单点问答转向端到端执行。",
+          "why_it_matters": "Data Agent能否进入生产环境，取决于权限、语义一致性、数据质量和结果可审计性。统一评估框架有助于企业采购，也会推动数据平台与Agent平台进一步融合。",
+          "why_important": "Data Agent能否进入生产环境，取决于权限、语义一致性、数据质量和结果可审计性。统一评估框架有助于企业采购，也会推动数据平台与Agent平台进一步融合。",
+          "investment_observation": "文章带有行业观点属性，厂商排名需结合原始IDC报告判断。关注真实部署数量、查询准确率、治理成本、客单价与续费，而非演示效果。",
+          "investment_angle": "文章带有行业观点属性，厂商排名需结合原始IDC报告判断。关注真实部署数量、查询准确率、治理成本、客单价与续费，而非演示效果。",
+          "companies": [
+            "IDC",
+            "阿里云",
+            "火山引擎",
+            "腾讯云",
+            "星环科技"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Data Agent",
+            "数据治理",
+            "商业智能"
+          ],
+          "entities": {
+            "companies": [
+              "IDC",
+              "阿里云",
+              "火山引擎",
+              "腾讯云",
+              "星环科技"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Data Agent",
+              "数据治理",
+              "商业智能"
+            ]
+          },
+          "tags": [
+            "数据",
+            "Agent",
+            "企业服务",
+            "中国"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "可合体模块化机器人拓展至全球50国市场",
+          "url": "https://www.qbitai.com/2026/09/485525.html",
+          "link": "https://www.qbitai.com/2026/09/485525.html",
+          "source": "量子位",
+          "published_at": "Mon, 07 Sep 2026 09:34:06 +0000",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "机器人",
+          "summary": "量子位报道一款可在约3秒内完成形态切换和模块组合的机器人产品，已销售至全球50个国家。模块化设计试图用同一平台覆盖教育、开发和多类应用场景。",
+          "why_it_matters": "机器人出海若从单一本体转向模块化平台，有望降低渠道库存与开发适配成本，并通过配件、软件和开发者生态形成持续收入。",
+          "why_important": "机器人出海若从单一本体转向模块化平台，有望降低渠道库存与开发适配成本，并通过配件、软件和开发者生态形成持续收入。",
+          "investment_observation": "报道细节和厂商披露仍需更多独立数据验证。关注出货量而非覆盖国家数、复购率、开发者活跃度、故障率与售后成本。",
+          "investment_angle": "报道细节和厂商披露仍需更多独立数据验证。关注出货量而非覆盖国家数、复购率、开发者活跃度、故障率与售后成本。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "模块化机器人",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "模块化机器人",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "智能硬件",
+            "出海",
+            "产品应用"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Roland以Melody Flip进入生成式AI音乐工具市场",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "source": "The Verge AI",
+          "published_at": "2026-09-04T13:51:35-04:00",
+          "selected_at": "2026-09-08T09:30:00+08:00",
+          "category": "产品应用",
+          "summary": "乐器与音乐设备厂商Roland推出Melody Flip生成式AI音乐插件，强调在数字音频工作站中辅助旋律创作，而非直接一键生成完整歌曲。这标志着传统音乐硬件品牌开始以更克制的方式进入生成式音乐。",
+          "why_it_matters": "相较纯文本到歌曲产品，嵌入专业工作流的协作式AI更容易保留创作者控制，也可能减少版权与同质化争议，成为传统工具厂商升级订阅收入的路径。",
+          "why_important": "相较纯文本到歌曲产品，嵌入专业工作流的协作式AI更容易保留创作者控制，也可能减少版权与同质化争议，成为传统工具厂商升级订阅收入的路径。",
+          "investment_observation": "关注插件定价、专业用户留存、训练数据授权和与主流DAW的兼容性。品牌优势能带来渠道，但产品价值仍取决于创作质量与工作流效率。",
+          "investment_angle": "关注插件定价、专业用户留存、训练数据授权和与主流DAW的兼容性。品牌优势能带来渠道，但产品价值仍取决于创作质量与工作流效率。",
+          "companies": [
+            "Roland"
+          ],
+          "people": [],
+          "products": [
+            "Melody Flip"
+          ],
+          "technologies": [
+            "生成式音乐"
+          ],
+          "entities": {
+            "companies": [
+              "Roland"
+            ],
+            "people": [],
+            "products": [
+              "Melody Flip"
+            ],
+            "technologies": [
+              "生成式音乐"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "生成式AI",
+            "音乐",
+            "创作者工具"
+          ],
+          "importance_score": 7.7
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "count": 10,
