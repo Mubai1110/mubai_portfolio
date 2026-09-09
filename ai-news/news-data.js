@@ -1,8 +1,441 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-08T09:30:00+08:00",
-  "digest_count": 40,
-  "article_count": 352,
+  "generated_at": "2026-09-09T01:27:28+00:00",
+  "digest_count": 41,
+  "article_count": 362,
   "digests": [
+    {
+      "date": "2026-09-09",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI投入500万美元研究AI对青少年发展的影响",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "link": "https://openai.com/index/teen-development-research-grants",
+          "source": "OpenAI News",
+          "published_at": "Tue, 08 Sep 2026 09:00:00 GMT",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "治理",
+          "summary": "OpenAI启动总额500万美元的独立研究资助计划，重点考察生成式AI对青少年认知、情绪、社交与安全的长期影响，并要求研究结果具备公开性和可复现性。",
+          "why_it_matters": "青少年已成为生成式AI增长最快也最敏感的用户群体之一。由平台出资、外部独立研究者执行的机制，有助于形成产品分级、年龄验证和安全评估的实证依据。",
+          "why_important": "青少年已成为生成式AI增长最快也最敏感的用户群体之一。由平台出资、外部独立研究者执行的机制，有助于形成产品分级、年龄验证和安全评估的实证依据。",
+          "investment_observation": "关注研究是否转化为默认保护、家长控制和监管标准。儿童与青少年安全将成为消费AI产品的准入成本，也会催生年龄验证、安全评测和内容治理服务。",
+          "investment_angle": "关注研究是否转化为默认保护、家长控制和监管标准。儿童与青少年安全将成为消费AI产品的准入成本，也会催生年龄验证、安全评测和内容治理服务。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI安全"
+            ]
+          },
+          "tags": [
+            "治理",
+            "青少年安全",
+            "OpenAI"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+          "url": "https://www.qbitai.com/2026/09/485784.html",
+          "link": "https://www.qbitai.com/2026/09/485784.html",
+          "source": "量子位",
+          "published_at": "Tue, 08 Sep 2026 03:22:17 +0000",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "融资",
+          "summary": "物理AI企业深度智控（DeepCtrls）完成B+轮数亿元融资，宁德时代、沙特阿美等产业资本参与。公司以算力、能源和控制系统协同为切入点，面向数据中心与工业场景建设基础设施。",
+          "why_it_matters": "产业资本同时来自电池与能源巨头，说明物理AI竞争正从模型能力延伸到供电、散热和实时控制。基础设施的能效与稳定性将直接决定机器人和边缘AI的部署规模。",
+          "why_important": "产业资本同时来自电池与能源巨头，说明物理AI竞争正从模型能力延伸到供电、散热和实时控制。基础设施的能效与稳定性将直接决定机器人和边缘AI的部署规模。",
+          "investment_observation": "关注订单转化、单位算力能耗、交付周期和客户集中度。产业方投资能带来场景与渠道，但公司仍需证明跨客户复制能力以及软硬件毛利结构。",
+          "investment_angle": "关注订单转化、单位算力能耗、交付周期和客户集中度。产业方投资能带来场景与渠道，但公司仍需证明跨客户复制能力以及软硬件毛利结构。",
+          "companies": [
+            "深度智控",
+            "宁德时代",
+            "沙特阿美"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "物理AI",
+            "算力能源协同"
+          ],
+          "entities": {
+            "companies": [
+              "深度智控",
+              "宁德时代",
+              "沙特阿美"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "物理AI",
+              "算力能源协同"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "能源",
+            "物理AI"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Google Cloud联手埃森哲加速企业AI落地",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 08 Sep 2026 16:20:31 +0000",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "公司",
+          "summary": "Google Cloud扩大与埃森哲的合作，通过前线部署工程师和联合交付团队帮助企业把AI从试点推进到生产环境，试图缩小其在企业AI部署市场与竞争对手的差距。",
+          "why_it_matters": "企业AI的瓶颈越来越不是模型可用性，而是数据接入、流程改造和组织实施。云厂商与咨询巨头绑定，意味着交付能力和客户关系正成为模型之外的重要护城河。",
+          "why_important": "企业AI的瓶颈越来越不是模型可用性，而是数据接入、流程改造和组织实施。云厂商与咨询巨头绑定，意味着交付能力和客户关系正成为模型之外的重要护城河。",
+          "investment_observation": "跟踪联合项目的生产上线率、云消耗增量和交付毛利。机会将更多流向数据治理、评测、权限与可观测性工具，但纯咨询收入可能受人才成本限制。",
+          "investment_angle": "跟踪联合项目的生产上线率、云消耗增量和交付毛利。机会将更多流向数据治理、评测、权限与可观测性工具，但纯咨询收入可能受人才成本限制。",
+          "companies": [
+            "Google Cloud",
+            "Accenture"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "企业AI",
+            "前线部署工程师"
+          ],
+          "entities": {
+            "companies": [
+              "Google Cloud",
+              "Accenture"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "企业AI",
+              "前线部署工程师"
+            ]
+          },
+          "tags": [
+            "公司",
+            "企业AI",
+            "云计算",
+            "交付"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "Danijar Hafner创业研发可应对意外的规划型智能体",
+          "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+          "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 08 Sep 2026 10:34:00 +0000",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "人物",
+          "summary": "世界模型研究者Danijar Hafner正在创办一家隐身公司，目标是构建能够预测环境、提前规划并在出现意外时调整策略的智能体，把其在Dreamer系列中的研究推进到真实应用。",
+          "why_it_matters": "当前智能体在开放环境中容易因分布外事件失效。世界模型与长期规划若能稳定落地，可能提升机器人、游戏和通用自动化系统的样本效率与可靠性。",
+          "why_important": "当前智能体在开放环境中容易因分布外事件失效。世界模型与长期规划若能稳定落地，可能提升机器人、游戏和通用自动化系统的样本效率与可靠性。",
+          "investment_observation": "重点看团队、融资、真实环境基准和连续任务成功率。世界模型具备平台潜力，但训练成本、可解释性与从模拟到现实的迁移仍是核心风险。",
+          "investment_angle": "重点看团队、融资、真实环境基准和连续任务成功率。世界模型具备平台潜力，但训练成本、可解释性与从模拟到现实的迁移仍是核心风险。",
+          "companies": [],
+          "people": [
+            "Danijar Hafner"
+          ],
+          "products": [
+            "Dreamer"
+          ],
+          "technologies": [
+            "世界模型",
+            "规划型智能体"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Danijar Hafner"
+            ],
+            "products": [
+              "Dreamer"
+            ],
+            "technologies": [
+              "世界模型",
+              "规划型智能体"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "世界模型",
+            "Agent",
+            "创业"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "陶哲轩警示AI正在不可再生地消耗开放数学难题",
+          "url": "https://mathstodon.xyz/@tao/117237320796901560",
+          "link": "https://mathstodon.xyz/@tao/117237320796901560",
+          "source": "Hacker News",
+          "published_at": "2026-09-08T21:00:52Z",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "观点",
+          "summary": "数学家陶哲轩指出，AI系统正在集中解决公开的数学难题；一旦这些题目被用于训练或公开解答，便难以继续作为独立评测资源，可能造成高质量推理基准被快速消耗。",
+          "why_it_matters": "开放难题既是科研资源也是模型能力验证工具。数据污染和基准耗竭会使推理进展更难被可信衡量，并迫使研究机构建立保密题库、动态评测与更严格的训练数据审计。",
+          "why_important": "开放难题既是科研资源也是模型能力验证工具。数据污染和基准耗竭会使推理进展更难被可信衡量，并迫使研究机构建立保密题库、动态评测与更严格的训练数据审计。",
+          "investment_observation": "评测基础设施、私有基准和数据溯源的价值会上升。对宣称数学突破的模型，应区分记忆、搜索辅助和真正泛化，并关注第三方盲测结果。",
+          "investment_angle": "评测基础设施、私有基准和数据溯源的价值会上升。对宣称数学突破的模型，应区分记忆、搜索辅助和真正泛化，并关注第三方盲测结果。",
+          "companies": [],
+          "people": [
+            "陶哲轩"
+          ],
+          "products": [],
+          "technologies": [
+            "数学推理",
+            "动态评测"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "陶哲轩"
+            ],
+            "products": [],
+            "technologies": [
+              "数学推理",
+              "动态评测"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "评测",
+            "数学推理",
+            "数据治理"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "OpenAI阐述低成本高能力AI的经济增长路径",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "link": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "published_at": "Tue, 08 Sep 2026 13:00:00 GMT",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "观点",
+          "summary": "OpenAI发布文章讨论更强且更便宜的AI如何扩大个人与企业能够完成的工作范围，并通过降低认知劳动成本推动生产率和经济增长。",
+          "why_it_matters": "头部模型公司的叙事正从能力展示转向成本下降与生产率兑现。若单位任务成本持续降低，AI预算将从实验性支出转为常规软件和运营支出。",
+          "why_important": "头部模型公司的叙事正从能力展示转向成本下降与生产率兑现。若单位任务成本持续降低，AI预算将从实验性支出转为常规软件和运营支出。",
+          "investment_observation": "应重点验证每个工作流的成本节省、质量提升和新增收入，而非只看token价格。能把模型能力封装成可审计业务结果的应用与基础设施更可能获得持续付费。",
+          "investment_angle": "应重点验证每个工作流的成本节省、质量提升和新增收入，而非只看token价格。能把模型能力封装成可审计业务结果的应用与基础设施更可能获得持续付费。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI"
+            ]
+          },
+          "tags": [
+            "观点",
+            "生产率",
+            "AI经济",
+            "OpenAI"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "Meta推出个人AI智能体Muse，隐私信任面临考验",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+          "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 08 Sep 2026 19:00:00 +0000",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "产品",
+          "summary": "Meta推出个人AI智能体Muse，希望连接用户的邮件、日历、支付和健康服务以代办任务。广泛权限让它成为Meta迄今最激进的消费级AI尝试，也把隐私和信任风险推到前台。",
+          "why_it_matters": "个人智能体要产生高价值，往往需要访问最敏感的数据与账户。Meta的分发优势可能加速采用，但授权边界、数据用途和错误操作将决定消费者是否愿意长期使用。",
+          "why_important": "个人智能体要产生高价值，往往需要访问最敏感的数据与账户。Meta的分发优势可能加速采用，但授权边界、数据用途和错误操作将决定消费者是否愿意长期使用。",
+          "investment_observation": "关注权限颗粒度、任务成功率、责任机制和活跃留存。安全身份、授权管理和交易确认层可能受益；若隐私争议扩大，监管和获客成本会显著上升。",
+          "investment_angle": "关注权限颗粒度、任务成功率、责任机制和活跃留存。安全身份、授权管理和交易确认层可能受益；若隐私争议扩大，监管和获客成本会显著上升。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [],
+          "products": [
+            "Muse"
+          ],
+          "technologies": [
+            "个人AI智能体"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [],
+            "products": [
+              "Muse"
+            ],
+            "technologies": [
+              "个人AI智能体"
+            ]
+          },
+          "tags": [
+            "产品",
+            "Agent",
+            "隐私",
+            "Meta"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "影目科技完成近10亿元C轮融资并启动上市筹备",
+          "url": "https://36kr.com/p/3974730056757511?f=rss",
+          "link": "https://36kr.com/p/3974730056757511?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-09 09:00:00  +0800",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "融资",
+          "summary": "智能眼镜品牌影目科技完成C3轮融资，C轮累计融资近10亿元，并启动上市筹备。资金将用于新一代空间智能硬件和INMO AIOS系统迭代，强化软硬件一体化能力。",
+          "why_it_matters": "AI眼镜正从概念验证进入规模融资和资本市场准备阶段。中国厂商若在轻量化硬件、操作系统和渠道上形成闭环，有机会争夺下一代随身计算入口。",
+          "why_important": "AI眼镜正从概念验证进入规模融资和资本市场准备阶段。中国厂商若在轻量化硬件、操作系统和渠道上形成闭环，有机会争夺下一代随身计算入口。",
+          "investment_observation": "关注实际销量、退货率、续航、内容生态和AI服务付费率。连续融资与上市筹备提升资金确定性，但消费硬件库存、渠道补贴和毛利波动仍需警惕。",
+          "investment_angle": "关注实际销量、退货率、续航、内容生态和AI服务付费率。连续融资与上市筹备提升资金确定性，但消费硬件库存、渠道补贴和毛利波动仍需警惕。",
+          "companies": [
+            "影目科技"
+          ],
+          "people": [],
+          "products": [
+            "INMO AIOS"
+          ],
+          "technologies": [
+            "AI眼镜",
+            "空间智能"
+          ],
+          "entities": {
+            "companies": [
+              "影目科技"
+            ],
+            "people": [],
+            "products": [
+              "INMO AIOS"
+            ],
+            "technologies": [
+              "AI眼镜",
+              "空间智能"
+            ]
+          },
+          "tags": [
+            "融资",
+            "智能硬件",
+            "AI眼镜",
+            "上市"
+          ],
+          "importance_score": 7.7
+        },
+        {
+          "title": "ChatGPT Images 2.5新增Sketch草图生成",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "source": "The Verge AI",
+          "published_at": "2026-09-08T16:16:09-04:00",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "产品",
+          "summary": "OpenAI发布ChatGPT Images 2.5并加入Sketch功能，用户可用简单涂鸦表达构图和对象位置，再由模型生成更细致的图像，降低精确视觉提示的门槛。",
+          "why_it_matters": "草图把自然语言之外的空间意图直接交给模型，能提升创意迭代效率，并进一步把图像生成嵌入设计、营销和内容生产工作流。",
+          "why_important": "草图把自然语言之外的空间意图直接交给模型，能提升创意迭代效率，并进一步把图像生成嵌入设计、营销和内容生产工作流。",
+          "investment_observation": "关注生成速度、编辑一致性、版权保护和专业软件集成。基础模型功能下沉会挤压单点图片工具，具备工作流、资产管理与行业数据的产品更有防御力。",
+          "investment_angle": "关注生成速度、编辑一致性、版权保护和专业软件集成。基础模型功能下沉会挤压单点图片工具，具备工作流、资产管理与行业数据的产品更有防御力。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Images 2.5",
+            "Sketch"
+          ],
+          "technologies": [
+            "图像生成"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Images 2.5",
+              "Sketch"
+            ],
+            "technologies": [
+              "图像生成"
+            ]
+          },
+          "tags": [
+            "产品",
+            "多模态",
+            "图像生成",
+            "OpenAI"
+          ],
+          "importance_score": 7.5
+        },
+        {
+          "title": "Anthropic订阅定价争议遭用户集体诉讼",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "source": "The Verge AI",
+          "published_at": "2026-09-08T13:27:31-04:00",
+          "selected_at": "2026-09-09T01:27:28+00:00",
+          "category": "公司",
+          "summary": "部分Anthropic高频用户提起集体诉讼，指控公司在高价订阅计划的额度、限制或服务承诺上存在误导。争议触及AI产品在算力紧张下如何定义和兑现“无限”或高配服务。",
+          "why_it_matters": "模型服务的边际成本显著高于传统SaaS，订阅条款与动态限额容易引发信任和合规风险。此案可能影响行业的定价披露、用量管理与消费者保护标准。",
+          "why_important": "模型服务的边际成本显著高于传统SaaS，订阅条款与动态限额容易引发信任和合规风险。此案可能影响行业的定价披露、用量管理与消费者保护标准。",
+          "investment_observation": "关注诉讼进展、退款或条款调整，以及高阶套餐的毛利和流失率。透明计量、用量预测和成本控制工具将更重要，依赖模糊不限量承诺的商业模式风险上升。",
+          "investment_angle": "关注诉讼进展、退款或条款调整，以及高阶套餐的毛利和流失率。透明计量、用量预测和成本控制工具将更重要，依赖模糊不限量承诺的商业模式风险上升。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "大模型订阅服务"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Claude"
+            ],
+            "technologies": [
+              "大模型订阅服务"
+            ]
+          },
+          "tags": [
+            "公司",
+            "商业模式",
+            "诉讼",
+            "Anthropic"
+          ],
+          "importance_score": 7.4
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "count": 10,
