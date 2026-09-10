@@ -1,8 +1,472 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-09T01:27:28+00:00",
-  "digest_count": 41,
-  "article_count": 362,
+  "generated_at": "2026-09-10T09:35:00+08:00",
+  "digest_count": 42,
+  "article_count": 372,
   "digests": [
+    {
+      "date": "2026-09-10",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI公布由内部AI系统完成的纳维—斯托克斯问题证明",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "link": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI News",
+          "published_at": "Tue, 08 Sep 2026 10:00:00 GMT",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "AI研究",
+          "summary": "OpenAI发布纳维—斯托克斯存在性与光滑性问题的解答：内部AI系统给出流体方程可在有限时间形成奇点的证明，并同步公开论文与Lean形式化证明。OpenAI称所用内部模型的能力显著高于GPT-6 Astra。",
+          "why_it_matters": "这是AI参与前沿数学研究的高信号案例；自然语言推理与形式化验证结合，降低了复杂证明的核验门槛，也披露了尚未公开模型的能力进展。",
+          "why_important": "这是AI参与前沿数学研究的高信号案例；自然语言推理与形式化验证结合，降低了复杂证明的核验门槛，也披露了尚未公开模型的能力进展。",
+          "investment_observation": "重点等待数学界与Clay Mathematics Institute的独立审查，不把发布等同于最终认可。若证明成立，形式化数学、科学Agent、Lean工具链和高质量验证数据的战略价值将显著上升。",
+          "investment_angle": "重点等待数学界与Clay Mathematics Institute的独立审查，不把发布等同于最终认可。若证明成立，形式化数学、科学Agent、Lean工具链和高质量验证数据的战略价值将显著上升。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-6 Astra",
+            "Lean"
+          ],
+          "technologies": [
+            "形式化证明",
+            "AI for Science"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-6 Astra",
+              "Lean"
+            ],
+            "technologies": [
+              "形式化证明",
+              "AI for Science"
+            ]
+          },
+          "tags": [
+            "AI研究",
+            "AI4S",
+            "数学",
+            "基础模型"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "OpenAI转向支持强制性前沿AI安全监管",
+          "url": "https://openai.com/index/ai-policy-window",
+          "link": "https://openai.com/index/ai-policy-window",
+          "source": "OpenAI News",
+          "published_at": "Wed, 09 Sep 2026 13:00:00 GMT",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "AI治理",
+          "summary": "OpenAI全球事务主管Chris Lehane表示，公司支持以能力为基础的美国全国强制性AI安全要求，并支持加州四项涉及独立评估、AI审计、未成年人保护和生物风险的法案；公司还呼吁建立前沿模型监测与事故报告标准。",
+          "why_it_matters": "头部实验室公开支持强制监管，意味着前沿能力评测、独立审计和事故披露可能从自愿承诺变为经营约束，同时也会重塑开源与闭源模型的竞争边界。",
+          "why_important": "头部实验室公开支持强制监管，意味着前沿能力评测、独立审计和事故披露可能从自愿承诺变为经营约束，同时也会重塑开源与闭源模型的竞争边界。",
+          "investment_observation": "关注联邦立法是否落地、合规门槛是否强化头部集中度，以及审计、模型监测、红队和生物安全筛查等第三方基础设施的订单机会。",
+          "investment_angle": "关注联邦立法是否落地、合规门槛是否强化头部集中度，以及审计、模型监测、红队和生物安全筛查等第三方基础设施的订单机会。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Chris Lehane",
+            "Jakub Pachocki"
+          ],
+          "products": [],
+          "technologies": [
+            "前沿模型监测",
+            "AI安全评测"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Chris Lehane",
+              "Jakub Pachocki"
+            ],
+            "products": [],
+            "technologies": [
+              "前沿模型监测",
+              "AI安全评测"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "AI安全",
+            "监管",
+            "OpenAI"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "美国参议员就Hugging Face安全事件质询OpenAI",
+          "url": "https://36kr.com/newsflashes/3976855687885063?f=rss",
+          "link": "https://36kr.com/newsflashes/3976855687885063?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-10 08:26:48 +0800",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "AI安全",
+          "summary": "美国参议员Richard Blumenthal就涉及Hugging Face的安全事件致函OpenAI首席执行官Sam Altman，要求公司披露安全保障措施和操作流程，并在9月24日前回应。",
+          "why_it_matters": "监管关注已从抽象模型风险转向具体安全事件和内部流程，企业是否拥有可审计的权限隔离、监控和事件响应机制，将直接影响前沿Agent的部署速度。",
+          "why_important": "监管关注已从抽象模型风险转向具体安全事件和内部流程，企业是否拥有可审计的权限隔离、监控和事件响应机制，将直接影响前沿Agent的部署速度。",
+          "investment_observation": "跟踪OpenAI正式回复、国会后续听证及是否引出强制事故披露规则。安全沙箱、身份权限、模型行为监控和第三方审计会是直接受益环节。",
+          "investment_angle": "跟踪OpenAI正式回复、国会后续听证及是否引出强制事故披露规则。安全沙箱、身份权限、模型行为监控和第三方审计会是直接受益环节。",
+          "companies": [
+            "OpenAI",
+            "Hugging Face"
+          ],
+          "people": [
+            "Richard Blumenthal",
+            "Sam Altman"
+          ],
+          "products": [],
+          "technologies": [
+            "AI安全",
+            "安全监控"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Hugging Face"
+            ],
+            "people": [
+              "Richard Blumenthal",
+              "Sam Altman"
+            ],
+            "products": [],
+            "technologies": [
+              "AI安全",
+              "安全监控"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "监管",
+            "OpenAI",
+            "Hugging Face"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Anthropic安全研究人员再次上调对极端AI风险的警告",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "source": "The Verge AI",
+          "published_at": "2026-09-09T05:56:28-04:00",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "关键人物",
+          "summary": "The Verge报道，Anthropic一名高级安全研究人员表示，到本十年末AI导致人类灭绝的概率超过10%；相关表态与公司内部其他研究人员近期对能力加速和安全准备不足的担忧相呼应。",
+          "why_it_matters": "来自前沿实验室内部的高概率风险判断，会影响人才、监管和模型发布节奏，也凸显商业扩张与安全使命之间的治理张力。",
+          "why_important": "来自前沿实验室内部的高概率风险判断，会影响人才、监管和模型发布节奏，也凸显商业扩张与安全使命之间的治理张力。",
+          "investment_observation": "这类概率判断高度主观，应结合可验证的能力评测与公司实际安全投入观察。重点看Anthropic是否调整发布门槛、治理结构和安全团队资源。",
+          "investment_angle": "这类概率判断高度主观，应结合可验证的能力评测与公司实际安全投入观察。重点看Anthropic是否调整发布门槛、治理结构和安全团队资源。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "前沿AI",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "前沿AI",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI安全",
+            "Anthropic",
+            "治理"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "苹果CEO John Ternus称iPhone仍是最佳AI设备",
+          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+          "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+          "source": "TechCrunch AI",
+          "published_at": "Wed, 09 Sep 2026 17:36:05 +0000",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "智能硬件",
+          "summary": "苹果CEO John Ternus表示，iPhone仍是最适合大众使用AI的设备，并强调端侧模型在隐私方面的优势。这一表态延续苹果以现有硬件入口和本地计算承接AI功能的路线。",
+          "why_it_matters": "关键人物定调说明苹果暂未把独立AI硬件作为主入口，而是继续依赖十亿级存量设备、芯片与操作系统分发能力；端云协同和隐私成为差异化核心。",
+          "why_important": "关键人物定调说明苹果暂未把独立AI硬件作为主入口，而是继续依赖十亿级存量设备、芯片与操作系统分发能力；端云协同和隐私成为差异化核心。",
+          "investment_observation": "关注端侧模型能力、NPU利用率、AI功能带来的换机率，以及开发者能否获得足够开放的系统接口。受益方向包括低功耗芯片、模型压缩和端侧推理工具。",
+          "investment_angle": "关注端侧模型能力、NPU利用率、AI功能带来的换机率，以及开发者能否获得足够开放的系统接口。受益方向包括低功耗芯片、模型压缩和端侧推理工具。",
+          "companies": [
+            "Apple"
+          ],
+          "people": [
+            "John Ternus"
+          ],
+          "products": [
+            "iPhone"
+          ],
+          "technologies": [
+            "端侧模型",
+            "端侧推理"
+          ],
+          "entities": {
+            "companies": [
+              "Apple"
+            ],
+            "people": [
+              "John Ternus"
+            ],
+            "products": [
+              "iPhone"
+            ],
+            "technologies": [
+              "端侧模型",
+              "端侧推理"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "端侧AI",
+            "Apple",
+            "关键人物"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Procedural Graph让LLM Agent从成败轨迹中自我改进执行流程",
+          "url": "https://arxiv.org/abs/2609.09153",
+          "link": "https://arxiv.org/abs/2609.09153",
+          "source": "arXiv",
+          "published_at": "Tue, 08 Sep 2026 17:59:41 UTC",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "Agent",
+          "summary": "研究团队提出Procedural Graph，把Agent的程序性知识组织成可演化的步骤关系图。系统通过对比成功与失败轨迹修改图结构，在多类数据集和模型上稳定优于基于记忆的基线，并能修复有缺陷的人工流程。",
+          "why_it_matters": "长任务Agent常因历史累积而偏离目标、顺序错误或重复无效动作；把流程显式化并从失败中更新，为提升可靠性和可审计性提供了不同于扩大上下文的新路线。",
+          "why_important": "长任务Agent常因历史累积而偏离目标、顺序错误或重复无效动作；把流程显式化并从失败中更新，为提升可靠性和可审计性提供了不同于扩大上下文的新路线。",
+          "investment_observation": "论文仍需更多真实生产环境复现。关注其在企业流程中的任务成功率、图维护成本、跨模型泛化和失败可解释性；Agent编排与可观测性工具可能吸收这类方法。",
+          "investment_angle": "论文仍需更多真实生产环境复现。关注其在企业流程中的任务成功率、图维护成本、跨模型泛化和失败可解释性；Agent编排与可观测性工具可能吸收这类方法。",
+          "companies": [],
+          "people": [
+            "Yuxing Lu",
+            "Yicheng Chen",
+            "Shanchan Wu",
+            "Sercan Ö. Arık"
+          ],
+          "products": [
+            "Procedural Graph"
+          ],
+          "technologies": [
+            "LLM Agent",
+            "程序图",
+            "自我改进"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Yuxing Lu",
+              "Yicheng Chen",
+              "Shanchan Wu",
+              "Sercan Ö. Arık"
+            ],
+            "products": [
+              "Procedural Graph"
+            ],
+            "technologies": [
+              "LLM Agent",
+              "程序图",
+              "自我改进"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "研究",
+            "工作流",
+            "可靠性"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Listen Labs搁置15亿美元融资，转而与Salesforce洽谈交易",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 10 Sep 2026 00:00:37 +0000",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "融资",
+          "summary": "TechCrunch援引知情人士称，AI市场研究初创公司Listen Labs放弃了与Menlo Ventures签署的C轮融资条款，原计划估值约15亿美元，转而与Salesforce讨论潜在交易。",
+          "why_it_matters": "公司在已签融资与战略交易之间切换，反映企业AI应用正在加速整合；Salesforce若获得产品或团队，可增强其客户洞察与Agent数据闭环。",
+          "why_important": "公司在已签融资与战略交易之间切换，反映企业AI应用正在加速整合；Salesforce若获得产品或团队，可增强其客户洞察与Agent数据闭环。",
+          "investment_observation": "交易仍处媒体报道阶段，需等待双方确认。重点核对Listen Labs收入与客户留存、交易形式、数据合规和Salesforce产品整合节奏。",
+          "investment_angle": "交易仍处媒体报道阶段，需等待双方确认。重点核对Listen Labs收入与客户留存、交易形式、数据合规和Salesforce产品整合节奏。",
+          "companies": [
+            "Listen Labs",
+            "Salesforce",
+            "Menlo Ventures"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI市场研究"
+          ],
+          "entities": {
+            "companies": [
+              "Listen Labs",
+              "Salesforce",
+              "Menlo Ventures"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI市场研究"
+            ]
+          },
+          "tags": [
+            "融资",
+            "并购",
+            "企业AI",
+            "Salesforce"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Suno发布首个与唱片业合作开发的AI音乐模型v6",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "source": "The Verge AI",
+          "published_at": "2026-09-09T17:42:19-04:00",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "产品应用",
+          "summary": "Suno发布AI音乐模型v6，这是其首个在唱片行业支持下开发的模型。公司表示新版使用新的数据集从头训练，显示生成式音乐平台正尝试把版权方从诉讼对手转变为数据与分发伙伴。",
+          "why_it_matters": "训练数据授权是AI音乐商业化的核心瓶颈。若与唱片业合作的模型能兼顾质量和权利分配，可能为行业建立更可持续的许可模板。",
+          "why_important": "训练数据授权是AI音乐商业化的核心瓶颈。若与唱片业合作的模型能兼顾质量和权利分配，可能为行业建立更可持续的许可模板。",
+          "investment_observation": "关注授权覆盖范围、艺人补偿机制、生成质量、订阅留存及版权诉讼进展。合作本身并不保证经济模型成立，单位内容成本和付费转化仍是关键。",
+          "investment_angle": "关注授权覆盖范围、艺人补偿机制、生成质量、订阅留存及版权诉讼进展。合作本身并不保证经济模型成立，单位内容成本和付费转化仍是关键。",
+          "companies": [
+            "Suno"
+          ],
+          "people": [],
+          "products": [
+            "Suno v6"
+          ],
+          "technologies": [
+            "生成式音乐"
+          ],
+          "entities": {
+            "companies": [
+              "Suno"
+            ],
+            "people": [],
+            "products": [
+              "Suno v6"
+            ],
+            "technologies": [
+              "生成式音乐"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "生成式AI",
+            "音乐",
+            "版权"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "镭萌科技获千万级天使轮融资，押注AI陪伴潮玩",
+          "url": "https://36kr.com/p/3975777320284422?f=rss",
+          "link": "https://36kr.com/p/3975777320284422?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-09 14:30:00 +0800",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "融资",
+          "summary": "杭州AI机器人公司镭萌科技完成千万级天使轮融资，由时尚传媒集团与弘颐资管集团联合领投。公司计划围绕AI潮玩bibo推进陪伴式机器人产品，投资方首次布局AI机器人方向。",
+          "why_it_matters": "消费机器人正从通用助手转向IP、情绪价值和内容运营驱动的细分形态；时尚传媒资本进入，也说明渠道与品牌可能和模型能力同样重要。",
+          "why_important": "消费机器人正从通用助手转向IP、情绪价值和内容运营驱动的细分形态；时尚传媒资本进入，也说明渠道与品牌可能和模型能力同样重要。",
+          "investment_observation": "项目处早期阶段，重点看量产交付、硬件毛利、月活与订阅付费、IP授权成本和退货率。陪伴概念热度不能替代持续使用数据。",
+          "investment_angle": "项目处早期阶段，重点看量产交付、硬件毛利、月活与订阅付费、IP授权成本和退货率。陪伴概念热度不能替代持续使用数据。",
+          "companies": [
+            "镭萌科技",
+            "时尚传媒集团",
+            "弘颐资管集团"
+          ],
+          "people": [],
+          "products": [
+            "bibo"
+          ],
+          "technologies": [
+            "陪伴机器人"
+          ],
+          "entities": {
+            "companies": [
+              "镭萌科技",
+              "时尚传媒集团",
+              "弘颐资管集团"
+            ],
+            "people": [],
+            "products": [
+              "bibo"
+            ],
+            "technologies": [
+              "陪伴机器人"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "智能硬件",
+            "消费AI"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "国产AI4S计算平台在外滩大会亮相",
+          "url": "https://www.qbitai.com/2026/09/486370.html",
+          "link": "https://www.qbitai.com/2026/09/486370.html",
+          "source": "量子位",
+          "published_at": "Wed, 09 Sep 2026 09:57:54 +0000",
+          "selected_at": "2026-09-10T09:35:00+08:00",
+          "category": "AI Infra",
+          "summary": "国产AI4S计算平台在2026外滩大会亮相，围绕科学计算算力、软件工具链与人才培养进行布局，试图为材料、药物等科研场景提供一体化计算支撑。",
+          "why_it_matters": "AI for Science不仅依赖模型，还需要高性能计算、领域软件和科研数据协同。国产平台化方案有机会承接科研机构对自主可控和本地部署的需求。",
+          "why_important": "AI for Science不仅依赖模型，还需要高性能计算、领域软件和科研数据协同。国产平台化方案有机会承接科研机构对自主可控和本地部署的需求。",
+          "investment_observation": "报道信息仍偏发布会口径，应重点核验平台客户、实际算力规模、典型科研成果、软硬件兼容范围与商业收入，避免只按峰值性能估值。",
+          "investment_angle": "报道信息仍偏发布会口径，应重点核验平台客户、实际算力规模、典型科研成果、软硬件兼容范围与商业收入，避免只按峰值性能估值。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI4S",
+            "高性能计算",
+            "科学计算"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI4S",
+              "高性能计算",
+              "科学计算"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "AI4S",
+            "国产算力",
+            "科研"
+          ],
+          "importance_score": 7.8
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "count": 10,
