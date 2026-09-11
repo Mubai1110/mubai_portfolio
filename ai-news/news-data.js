@@ -1,8 +1,378 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-10T09:35:00+08:00",
-  "digest_count": 42,
-  "article_count": 372,
+  "generated_at": "2026-09-11T09:32:00+08:00",
+  "digest_count": 43,
+  "article_count": 380,
   "digests": [
+    {
+      "date": "2026-09-11",
+      "count": 8,
+      "articles": [
+        {
+          "title": "OpenAI因Astra需求激增暂停Pro新订阅",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+          "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 10 Sep 2026 20:59:51 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "AI Infra",
+          "summary": "OpenAI表示，GPT-6 Astra上线后Pro用户给系统带来最大算力压力，因此暂停Pro新用户注册，并在扩充容量后再恢复。现有付费层的模型访问仍按渐进式节奏开放。",
+          "why_it_matters": "热门前沿模型因容量约束暂停高价值套餐，直接说明推理算力、调度和供电仍是产品增长的硬瓶颈；需求强度也为Astra早期市场接受度提供了可观察信号。",
+          "why_important": "热门前沿模型因容量约束暂停高价值套餐，直接说明推理算力、调度和供电仍是产品增长的硬瓶颈；需求强度也为Astra早期市场接受度提供了可观察信号。",
+          "investment_observation": "重点跟踪暂停持续时间、扩容资本开支、峰值延迟和不同套餐的资源分配。推理芯片、互连、液冷、调度软件和模型压缩仍是直接受益环节，但短期容量不足也会压制高毛利订阅增长。",
+          "investment_angle": "重点跟踪暂停持续时间、扩容资本开支、峰值延迟和不同套餐的资源分配。推理芯片、互连、液冷、调度软件和模型压缩仍是直接受益环节，但短期容量不足也会压制高毛利订阅增长。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "GPT-6 Astra",
+            "ChatGPT Pro"
+          ],
+          "technologies": [
+            "AI推理",
+            "算力调度"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "GPT-6 Astra",
+              "ChatGPT Pro"
+            ],
+            "technologies": [
+              "AI推理",
+              "算力调度"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "基础模型",
+            "OpenAI",
+            "算力"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work数据Agent",
+          "url": "https://openai.com/index/put-data-to-work",
+          "link": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI News",
+          "published_at": "Thu, 10 Sep 2026 15:00:00 GMT",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI发布ChatGPT Work的数据Agent：企业可连接内部数据和业务上下文，用自然语言完成查询、归因分析，并生成带引用的交互式仪表板、建议和行动计划。",
+          "why_it_matters": "数据分析是企业Agent最容易形成可量化回报的入口之一。模型若能安全连接数据源并交付可复核结果，会直接触及传统BI、分析工程和管理驾驶舱的预算。",
+          "why_important": "数据分析是企业Agent最容易形成可量化回报的入口之一。模型若能安全连接数据源并交付可复核结果，会直接触及传统BI、分析工程和管理驾驶舱的预算。",
+          "investment_observation": "关注连接器覆盖、权限继承、引用准确率、复杂查询成功率和企业定价。传统BI厂商的护城河将更多转向治理、语义层和深度工作流，而非单纯图表制作。",
+          "investment_angle": "关注连接器覆盖、权限继承、引用准确率、复杂查询成功率和企业定价。传统BI厂商的护城河将更多转向治理、语义层和深度工作流，而非单纯图表制作。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Work",
+            "Data agent"
+          ],
+          "technologies": [
+            "数据Agent",
+            "自然语言分析"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Work",
+              "Data agent"
+            ],
+            "technologies": [
+              "数据Agent",
+              "自然语言分析"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "企业AI",
+            "数据"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "d-Matrix采用NVIDIA NVLink Fusion部署机架级推理XPU",
+          "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+          "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+          "source": "NVIDIA Blog",
+          "published_at": "Thu, 10 Sep 2026 13:00:21 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "AI Infra",
+          "summary": "推理芯片公司d-Matrix宣布，下一代Raptor XPU将接入NVIDIA NVLink Fusion、MGX机架与Spectrum-X网络。NVIDIA称该方案可提供每XPU 3 TB/s全互连带宽，并降低定制芯片机架级部署风险。",
+          "why_it_matters": "NVIDIA正在把竞争性的专用推理芯片纳入自己的互连、网络和机架生态，说明AI基础设施竞争正从单芯片性能转向整机架标准、供应链与软件兼容性。",
+          "why_important": "NVIDIA正在把竞争性的专用推理芯片纳入自己的互连、网络和机架生态，说明AI基础设施竞争正从单芯片性能转向整机架标准、供应链与软件兼容性。",
+          "investment_observation": "d-Matrix仍需证明量产、客户采用和单位推理成本。关注NVLink Fusion伙伴扩张是否强化NVIDIA的平台抽成与网络业务，同时观察专用XPU能否在低延迟推理中形成稳定份额。",
+          "investment_angle": "d-Matrix仍需证明量产、客户采用和单位推理成本。关注NVLink Fusion伙伴扩张是否强化NVIDIA的平台抽成与网络业务，同时观察专用XPU能否在低延迟推理中形成稳定份额。",
+          "companies": [
+            "d-Matrix",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Raptor XPU",
+            "NVLink Fusion",
+            "NVIDIA MGX",
+            "Spectrum-X"
+          ],
+          "technologies": [
+            "AI推理芯片",
+            "机架级互连"
+          ],
+          "entities": {
+            "companies": [
+              "d-Matrix",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Raptor XPU",
+              "NVLink Fusion",
+              "NVIDIA MGX",
+              "Spectrum-X"
+            ],
+            "technologies": [
+              "AI推理芯片",
+              "机架级互连"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "推理",
+            "NVIDIA"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Maven Robotics隐身亮相并完成1亿美元A轮融资",
+          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+          "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+          "source": "TechCrunch AI",
+          "published_at": "Thu, 10 Sep 2026 14:17:37 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "融资",
+          "summary": "Maven Robotics结束隐身状态并宣布完成1亿美元A轮融资；公司称其机器人已进入实际部署阶段，目标是在商业项目中以更快交付和更低总成本争夺机器人部署合同。",
+          "why_it_matters": "大额早期融资叠加真实部署，表明具身智能资本正在从实验室模型转向交付、集成和运营能力。机器人公司的竞争单位也由单机演示转向整套部署项目。",
+          "why_important": "大额早期融资叠加真实部署，表明具身智能资本正在从实验室模型转向交付、集成和运营能力。机器人公司的竞争单位也由单机演示转向整套部署项目。",
+          "investment_observation": "需核验部署数量、客户付费、任务成功率、人工接管率和硬件毛利。若订单主要依赖定制集成，收入规模未必对应软件型估值；复用性和持续服务收入更关键。",
+          "investment_angle": "需核验部署数量、客户付费、任务成功率、人工接管率和硬件毛利。若订单主要依赖定制集成，收入规模未必对应软件型估值；复用性和持续服务收入更关键。",
+          "companies": [
+            "Maven Robotics"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "机器人部署"
+          ],
+          "entities": {
+            "companies": [
+              "Maven Robotics"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "机器人部署"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "具身智能",
+            "商业化"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "京东发布JoyAI世界模型并规划10万卡国产算力集群",
+          "url": "https://www.qbitai.com/2026/09/486436.html",
+          "link": "https://www.qbitai.com/2026/09/486436.html",
+          "source": "量子位",
+          "published_at": "Thu, 10 Sep 2026 01:39:13 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "机器人",
+          "summary": "京东在JDDiscovery 2026公布物理AI布局，包括JoyAI世界模型、机器人数据与训练体系，并提出建设10万卡国产算力集群，尝试把零售、物流和供应链场景转化为模型训练与机器人落地基础。",
+          "why_it_matters": "拥有真实物流场景、设备和运营数据的平台型企业，有机会形成物理AI的数据飞轮；国产大规模集群也会检验异构芯片调度和模型工具链的成熟度。",
+          "why_important": "拥有真实物流场景、设备和运营数据的平台型企业，有机会形成物理AI的数据飞轮；国产大规模集群也会检验异构芯片调度和模型工具链的成熟度。",
+          "investment_observation": "发布会指标需等待实际集群进度、机器人部署量和效率改善验证。关注国产芯片、互连、调度软件、合成数据与仓储机器人供应链的订单兑现。",
+          "investment_angle": "发布会指标需等待实际集群进度、机器人部署量和效率改善验证。关注国产芯片、互连、调度软件、合成数据与仓储机器人供应链的订单兑现。",
+          "companies": [
+            "京东"
+          ],
+          "people": [],
+          "products": [
+            "JoyAI世界模型"
+          ],
+          "technologies": [
+            "世界模型",
+            "国产算力集群",
+            "物理AI"
+          ],
+          "entities": {
+            "companies": [
+              "京东"
+            ],
+            "people": [],
+            "products": [
+              "JoyAI世界模型"
+            ],
+            "technologies": [
+              "世界模型",
+              "国产算力集群",
+              "物理AI"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "AI Infra",
+            "世界模型",
+            "国产算力"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "NVIDIA扩展DRIVE Hyperion自动驾驶生态",
+          "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+          "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+          "source": "NVIDIA Blog",
+          "published_at": "Thu, 10 Sep 2026 16:00:04 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "自动驾驶",
+          "summary": "NVIDIA汇总全球Robotaxi合作方采用DRIVE Hyperion、Alpamayo模型、仿真与安全工具链的进展，强调以开放的全栈平台覆盖训练、验证、车端计算和车队运营。",
+          "why_it_matters": "Robotaxi商业化正在从单点算法竞争转向芯片、模型、仿真、安全认证和运营平台的全栈协同；NVIDIA试图成为不同整车和运营商之间的共同底座。",
+          "why_important": "Robotaxi商业化正在从单点算法竞争转向芯片、模型、仿真、安全认证和运营平台的全栈协同；NVIDIA试图成为不同整车和运营商之间的共同底座。",
+          "investment_observation": "该文带有生态宣传属性，需以合作方车队规模、商业运营里程和事故率验证。关注DRIVE收入、车规芯片上车节奏，以及仿真和安全软件能否带来持续收费。",
+          "investment_angle": "该文带有生态宣传属性，需以合作方车队规模、商业运营里程和事故率验证。关注DRIVE收入、车规芯片上车节奏，以及仿真和安全软件能否带来持续收费。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "DRIVE Hyperion",
+            "Alpamayo"
+          ],
+          "technologies": [
+            "自动驾驶",
+            "Robotaxi",
+            "物理AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "DRIVE Hyperion",
+              "Alpamayo"
+            ],
+            "technologies": [
+              "自动驾驶",
+              "Robotaxi",
+              "物理AI"
+            ]
+          },
+          "tags": [
+            "自动驾驶",
+            "Robotaxi",
+            "NVIDIA",
+            "智能汽车"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "AI数据中心电力瓶颈正转化为系统架构问题",
+          "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+          "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+          "source": "MIT Technology Review AI",
+          "published_at": "Thu, 10 Sep 2026 11:00:00 +0000",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "AI Infra",
+          "summary": "MIT Technology Review以弗吉尼亚数据中心集群一次超过3吉瓦负荷脱网事件为切口，指出AI基础设施扩张不仅需要更多发电，还需在供电冗余、负载弹性、园区设计和电网协同上重构系统架构。",
+          "why_it_matters": "电力已成为AI算力扩张的主要约束之一，单纯增加GPU无法解决并网、可靠性和峰值负荷问题；数据中心设计将更深地影响模型成本与上线速度。",
+          "why_important": "电力已成为AI算力扩张的主要约束之一，单纯增加GPU无法解决并网、可靠性和峰值负荷问题；数据中心设计将更深地影响模型成本与上线速度。",
+          "investment_observation": "关注柔性负载、电池储能、微电网、高压直流、液冷和电网软件的真实订单。文章属于趋势分析，投资判断仍需结合项目并网周期、资本回报和监管审批。",
+          "investment_angle": "关注柔性负载、电池储能、微电网、高压直流、液冷和电网软件的真实订单。文章属于趋势分析，投资判断仍需结合项目并网周期、资本回报和监管审批。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI数据中心",
+            "电力架构",
+            "柔性负载"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI数据中心",
+              "电力架构",
+              "柔性负载"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "能源",
+            "数据中心",
+            "电网"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "工至海洋获数千万元融资推进深海作业机器人",
+          "url": "https://36kr.com/p/3977372742250756?f=rss",
+          "link": "https://36kr.com/p/3977372742250756?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-10 17:47:32 +0800",
+          "selected_at": "2026-09-11T09:32:00+08:00",
+          "category": "融资",
+          "summary": "哈尔滨工程大学海洋工程团队孵化的工至海洋一年内完成三轮融资，本轮获数千万元投资。公司面向海底光缆、能源设施等场景研发深海作业机器人，并称已取得亿元级意向订单。",
+          "why_it_matters": "水下运维具备高危险、高人工成本和强刚需特征，是机器人较容易形成付费闭环的垂直场景；高校技术转化与行业数据积累可能构成门槛。",
+          "why_important": "水下运维具备高危险、高人工成本和强刚需特征，是机器人较容易形成付费闭环的垂直场景；高校技术转化与行业数据积累可能构成门槛。",
+          "investment_observation": "意向订单不等于确认收入，需跟踪海试通过率、下潜深度、故障率、交付周期和回款。若产品标准化程度提升，海缆和海上能源运维有望形成可复制市场。",
+          "investment_angle": "意向订单不等于确认收入，需跟踪海试通过率、下潜深度、故障率、交付周期和回款。若产品标准化程度提升，海缆和海上能源运维有望形成可复制市场。",
+          "companies": [
+            "工至海洋"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "深海机器人",
+            "水下作业"
+          ],
+          "entities": {
+            "companies": [
+              "工至海洋"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "深海机器人",
+              "水下作业"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "海洋科技",
+            "智能硬件"
+          ],
+          "importance_score": 8.1
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "count": 10,
