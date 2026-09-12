@@ -1,8 +1,410 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-11T09:32:00+08:00",
-  "digest_count": 43,
-  "article_count": 380,
+  "generated_at": "2026-09-12T14:45:00+08:00",
+  "digest_count": 44,
+  "article_count": 388,
   "digests": [
+    {
+      "date": "2026-09-12",
+      "count": 8,
+      "articles": [
+        {
+          "title": "OpenAI披露支撑10亿周活用户的Habitat存储平台",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+          "source": "OpenAI News",
+          "published_at": "Fri, 11 Sep 2026 07:00:00 GMT",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "AI Infra",
+          "summary": "OpenAI披露自研在线存储平台Habitat：系统目前跨近40个地区，每秒处理超过7000万次请求，服务每周逾10亿用户并管理超过500 PB数据；过去三年规模每年增长超过10倍。",
+          "why_it_matters": "前沿模型产品的竞争正在延伸到数据库、缓存、权限、数据驻留和多租户可靠性。超大规模推理之外，在线状态与上下文存储已成为影响体验和成本的基础设施层。",
+          "why_important": "前沿模型产品的竞争正在延伸到数据库、缓存、权限、数据驻留和多租户可靠性。超大规模推理之外，在线状态与上下文存储已成为影响体验和成本的基础设施层。",
+          "investment_observation": "关注分布式存储、缓存、数据治理和云数据库的真实用量增长，以及自研平台对公有云采购结构的影响。OpenAI披露的是工程能力，不等同于独立商业收入。",
+          "investment_angle": "关注分布式存储、缓存、数据治理和云数据库的真实用量增长，以及自研平台对公有云采购结构的影响。OpenAI披露的是工程能力，不等同于独立商业收入。",
+          "companies": [
+            "OpenAI",
+            "Microsoft"
+          ],
+          "people": [],
+          "products": [
+            "Habitat",
+            "ChatGPT",
+            "Codex",
+            "Azure Cosmos DB"
+          ],
+          "technologies": [
+            "分布式存储",
+            "多租户",
+            "数据驻留"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Microsoft"
+            ],
+            "people": [],
+            "products": [
+              "Habitat",
+              "ChatGPT",
+              "Codex",
+              "Azure Cosmos DB"
+            ],
+            "technologies": [
+              "分布式存储",
+              "多租户",
+              "数据驻留"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "数据",
+            "OpenAI",
+            "云计算"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Mecka AI新融资估值接近5亿美元，机器人训练数据升温",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 11 Sep 2026 15:58:00 -0700",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "融资",
+          "summary": "据TechCrunch，机器人训练数据公司Mecka AI正接近完成由红杉资本领投的新一轮融资，估值约5亿美元；三个月前公司刚完成6000万美元融资。交易条款尚未最终确定。",
+          "why_it_matters": "具身智能的瓶颈正从模型和本体扩展到可规模化采集的人体动作与第一视角数据。资本快速追逐数据层，说明训练数据可能成为机器人产业链中的独立高价值环节。",
+          "why_important": "具身智能的瓶颈正从模型和本体扩展到可规模化采集的人体动作与第一视角数据。资本快速追逐数据层，说明训练数据可能成为机器人产业链中的独立高价值环节。",
+          "investment_observation": "该交易仍属未完成报道，需跟踪最终融资额、客户集中度、数据授权和年化收入兑现。高估值能否成立取决于数据复用率与采集成本，而非单纯人力规模。",
+          "investment_angle": "该交易仍属未完成报道，需跟踪最终融资额、客户集中度、数据授权和年化收入兑现。高估值能否成立取决于数据复用率与采集成本，而非单纯人力规模。",
+          "companies": [
+            "Mecka AI",
+            "Sequoia Capital"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "机器人训练数据",
+            "人体动作捕捉",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "Mecka AI",
+              "Sequoia Capital"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "机器人训练数据",
+              "人体动作捕捉",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "数据",
+            "具身智能"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "月之暗面将Kimi年化收入目标上调至20亿美元",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 11 Sep 2026 12:35:00 -0700",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "公司",
+          "summary": "TechCrunch援引彭博报道称，月之暗面计划在年底前将年化收入提升至20亿美元，约为8月收入运行率的两倍；Kimi K3在OpenRouter上的日生成量最高约3000亿Token。",
+          "why_it_matters": "开源权重模型开始用高调用量证明商业化空间，也让价格、渠道和推理效率成为与闭源模型差异化竞争的核心。收入目标若兑现，将显著抬升中国模型公司的估值锚。",
+          "why_important": "开源权重模型开始用高调用量证明商业化空间，也让价格、渠道和推理效率成为与闭源模型差异化竞争的核心。收入目标若兑现，将显著抬升中国模型公司的估值锚。",
+          "investment_observation": "目标值并非已实现收入，且开源模型通常毛利更低。重点跟踪API单价、海外收入、Token增速、获客成本与推理毛利，并持续评估蒸馏争议带来的合规风险。",
+          "investment_angle": "目标值并非已实现收入，且开源模型通常毛利更低。重点跟踪API单价、海外收入、Token增速、获客成本与推理毛利，并持续评估蒸馏争议带来的合规风险。",
+          "companies": [
+            "月之暗面",
+            "OpenRouter"
+          ],
+          "people": [],
+          "products": [
+            "Kimi K3"
+          ],
+          "technologies": [
+            "开源大模型",
+            "AI推理"
+          ],
+          "entities": {
+            "companies": [
+              "月之暗面",
+              "OpenRouter"
+            ],
+            "people": [],
+            "products": [
+              "Kimi K3"
+            ],
+            "technologies": [
+              "开源大模型",
+              "AI推理"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "开源",
+            "商业化",
+            "中国AI"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Positron AI完成8.75亿美元融资押注内存优先推理芯片",
+          "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+          "link": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+          "source": "Positron AI",
+          "published_at": "Thu, 10 Sep 2026 09:00:00 -0400",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "融资",
+          "summary": "Positron AI宣布完成合计8.75亿美元C轮及C-1轮融资，投后估值50亿美元。资金将用于Asimov芯片流片、Titan推理系统量产及一座2 MW以上工程数据中心；Atlas已在Oracle云部署50多个机架。",
+          "why_it_matters": "推理工作负载受内存容量、带宽和功耗约束，Positron以LPDDR5X绕开HBM与先进封装瓶颈，代表AI芯片竞争从训练算力向推理系统经济性分化。",
+          "why_important": "推理工作负载受内存容量、带宽和功耗约束，Positron以LPDDR5X绕开HBM与先进封装瓶颈，代表AI芯片竞争从训练算力向推理系统经济性分化。",
+          "investment_observation": "信息来自公司新闻稿，性能与成本主张需第三方验证。关注2026年底流片、2027年量产节点、Oracle部署利用率，以及LPDDR方案能否在真实模型上保持吞吐和能效优势。",
+          "investment_angle": "信息来自公司新闻稿，性能与成本主张需第三方验证。关注2026年底流片、2027年量产节点、Oracle部署利用率，以及LPDDR方案能否在真实模型上保持吞吐和能效优势。",
+          "companies": [
+            "Positron AI",
+            "Oracle",
+            "NEA"
+          ],
+          "people": [],
+          "products": [
+            "Asimov",
+            "Titan",
+            "Atlas"
+          ],
+          "technologies": [
+            "AI推理芯片",
+            "LPDDR5X",
+            "内存带宽"
+          ],
+          "entities": {
+            "companies": [
+              "Positron AI",
+              "Oracle",
+              "NEA"
+            ],
+            "people": [],
+            "products": [
+              "Asimov",
+              "Titan",
+              "Atlas"
+            ],
+            "technologies": [
+              "AI推理芯片",
+              "LPDDR5X",
+              "内存带宽"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "芯片",
+            "推理"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Anthropic披露Claude被用于导弹与生物风险研究",
+          "url": "https://apnews.com/article/yemen-houthis-anthropic-ai-missiles-9b20934e031ff3d99dd8bb49d85d97a9",
+          "link": "https://apnews.com/article/yemen-houthis-anthropic-ai-missiles-9b20934e031ff3d99dd8bb49d85d97a9",
+          "source": "AP News",
+          "published_at": "Fri, 11 Sep 2026 18:41:49 GMT",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "安全",
+          "summary": "Anthropic称其识别并封禁了也门北部用户利用Claude Code开发导弹制导、导航和控制软件的账户；相关人员完成离线仿真并进行过失败测试，但未形成可部署武器。报告还涵盖生物研究、监控与网络攻击滥用。",
+          "why_it_matters": "能力更强的Agent正在降低军民两用研发门槛，安全问题已从有害文本生成转向可执行工程工作流。平台侧监测、身份核验和跨机构情报共享将成为前沿模型商业化的硬约束。",
+          "why_important": "能力更强的Agent正在降低军民两用研发门槛，安全问题已从有害文本生成转向可执行工程工作流。平台侧监测、身份核验和跨机构情报共享将成为前沿模型商业化的硬约束。",
+          "investment_observation": "关注模型供应商安全投入、误报率、实名与高风险领域访问机制，以及政府对模型许可和出口管制的升级。事件也可能提高企业和公共部门采购的合规成本。",
+          "investment_angle": "关注模型供应商安全投入、误报率、实名与高风险领域访问机制，以及政府对模型许可和出口管制的升级。事件也可能提高企业和公共部门采购的合规成本。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude",
+            "Claude Code"
+          ],
+          "technologies": [
+            "AI安全",
+            "军民两用AI",
+            "Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Claude",
+              "Claude Code"
+            ],
+            "technologies": [
+              "AI安全",
+              "军民两用AI",
+              "Agent"
+            ]
+          },
+          "tags": [
+            "安全",
+            "Anthropic",
+            "Agent",
+            "监管"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Garry Tan主张允许美国开源模型合法蒸馏前沿模型",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 11 Sep 2026 13:59:00 -0700",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "关键人物",
+          "summary": "Y Combinator CEO Garry Tan表示，监管者不应全面禁止模型蒸馏，并建议建立允许美国开源权重实验室通过正规API学习前沿模型能力的制度；他明确不支持盗用凭据等欺诈手段。",
+          "why_it_matters": "模型输出的可学习性正在成为新的知识产权与产业政策争议。若合规蒸馏获得制度空间，开源生态可能加速追赶，但闭源实验室的API条款和研发回报也会承压。",
+          "why_important": "模型输出的可学习性正在成为新的知识产权与产业政策争议。若合规蒸馏获得制度空间，开源生态可能加速追赶，但闭源实验室的API条款和研发回报也会承压。",
+          "investment_observation": "这是个人政策主张而非已落地规则。关注美国监管口径、API条款诉讼、蒸馏检测技术和开放模型融资；政策变化可能重塑闭源模型的定价权。",
+          "investment_angle": "这是个人政策主张而非已落地规则。关注美国监管口径、API条款诉讼、蒸馏检测技术和开放模型融资；政策变化可能重塑闭源模型的定价权。",
+          "companies": [
+            "Y Combinator",
+            "Anthropic"
+          ],
+          "people": [
+            "Garry Tan",
+            "Dario Amodei"
+          ],
+          "products": [],
+          "technologies": [
+            "模型蒸馏",
+            "开源权重模型"
+          ],
+          "entities": {
+            "companies": [
+              "Y Combinator",
+              "Anthropic"
+            ],
+            "people": [
+              "Garry Tan",
+              "Dario Amodei"
+            ],
+            "products": [],
+            "technologies": [
+              "模型蒸馏",
+              "开源权重模型"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "开源",
+            "模型蒸馏",
+            "监管"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Fidji Simo加入Nscale董事会，为潜在IPO补强治理",
+          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "source": "TechCrunch AI",
+          "published_at": "Fri, 11 Sep 2026 09:46:00 -0700",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "关键人物",
+          "summary": "英国AI数据中心公司Nscale任命前OpenAI、Meta和Instacart高管Fidji Simo加入董事会。公司据报正为秋季潜在IPO做准备，并寻求在上市前融资最多35亿美元。",
+          "why_it_matters": "AI基础设施公司正从高速融资建设转向公开市场治理与资本纪律。拥有消费级平台扩张和IPO经验的董事加入，显示Nscale希望降低市场对高资本开支模式的疑虑。",
+          "why_important": "AI基础设施公司正从高速融资建设转向公开市场治理与资本纪律。拥有消费级平台扩张和IPO经验的董事加入，显示Nscale希望降低市场对高资本开支模式的疑虑。",
+          "investment_observation": "董事任命与融资规模均不能保证IPO落地。关注利用率、长期电力合同、客户集中度、债务结构和每兆瓦回报；高额预融资也可能带来估值与稀释压力。",
+          "investment_angle": "董事任命与融资规模均不能保证IPO落地。关注利用率、长期电力合同、客户集中度、债务结构和每兆瓦回报；高额预融资也可能带来估值与稀释压力。",
+          "companies": [
+            "Nscale",
+            "OpenAI",
+            "Instacart"
+          ],
+          "people": [
+            "Fidji Simo",
+            "Josh Payne"
+          ],
+          "products": [],
+          "technologies": [
+            "AI数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "Nscale",
+              "OpenAI",
+              "Instacart"
+            ],
+            "people": [
+              "Fidji Simo",
+              "Josh Payne"
+            ],
+            "products": [],
+            "technologies": [
+              "AI数据中心"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI Infra",
+            "数据中心",
+            "IPO"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "OpenAI扩大美国各级政府AI优惠与网络防御支持",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "link": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+          "selected_at": "2026-09-12T14:45:00+08:00",
+          "category": "政策",
+          "summary": "OpenAI与美国总务管理局扩大面向联邦、州、地方及部落政府的AI计划，为符合条件的机构提供零许可费、使用费五折及更广泛的网络防御支持。",
+          "why_it_matters": "政府客户正在成为模型公司扩大采用、建立合规标准和验证高安全能力的重要渠道。优惠换规模的策略可能推动公共部门AI采购向少数平台集中。",
+          "why_important": "政府客户正在成为模型公司扩大采用、建立合规标准和验证高安全能力的重要渠道。优惠换规模的策略可能推动公共部门AI采购向少数平台集中。",
+          "investment_observation": "关注优惠期后的续费率、实际用量、采购合规和数据驻留要求。低价进入会压低短期收入，但可能形成长期政府工作流锁定与安全产品交叉销售。",
+          "investment_angle": "关注优惠期后的续费率、实际用量、采购合规和数据驻留要求。低价进入会压低短期收入，但可能形成长期政府工作流锁定与安全产品交叉销售。",
+          "companies": [
+            "OpenAI",
+            "GSA"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "政府AI",
+            "网络防御"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "GSA"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "政府AI",
+              "网络防御"
+            ]
+          },
+          "tags": [
+            "政策",
+            "OpenAI",
+            "政府",
+            "网络安全"
+          ],
+          "importance_score": 8.1
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "count": 8,
