@@ -1,8 +1,357 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-15T09:05:00+08:00",
-  "digest_count": 47,
-  "article_count": 410,
+  "generated_at": "2026-09-16T09:45:00+08:00",
+  "digest_count": 48,
+  "article_count": 417,
   "digests": [
+    {
+      "date": "2026-09-16",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Salesforce与NVIDIA推出CRM推理模型Koa",
+          "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear",
+          "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 15 Sep 2026 12:00:00 +0000",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "基础模型",
+          "summary": "Salesforce与NVIDIA发布面向Agentforce的CRM推理模型Koa。模型以开放权重的Nemotron为底座，结合Salesforce近三十年的CRM经验与合成数据进行后训练，聚焦销售、营销和客服的多步骤任务。",
+          "why_it_matters": "Koa展示了企业软件商可以在开放模型之上注入行业数据和流程知识，形成可执行的垂直模型；这会削弱通用闭源模型对企业Agent价值链的独占。",
+          "why_important": "Koa展示了企业软件商可以在开放模型之上注入行业数据和流程知识，形成可执行的垂直模型；这会削弱通用闭源模型对企业Agent价值链的独占。",
+          "investment_observation": "关注真实CRM任务完成率、部署成本、客户采用率和数据权限控制。受益环节包括开放模型、后训练工具、合成数据与企业Agent平台，但需警惕厂商自报评测。",
+          "investment_angle": "关注真实CRM任务完成率、部署成本、客户采用率和数据权限控制。受益环节包括开放模型、后训练工具、合成数据与企业Agent平台，但需警惕厂商自报评测。",
+          "companies": [
+            "Salesforce",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Koa",
+            "Agentforce",
+            "Nemotron"
+          ],
+          "technologies": [
+            "推理模型",
+            "后训练",
+            "企业Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Salesforce",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Koa",
+              "Agentforce",
+              "Nemotron"
+            ],
+            "technologies": [
+              "推理模型",
+              "后训练",
+              "企业Agent"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "企业AI",
+            "NVIDIA",
+            "Agent"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "AIUC获4000万美元A轮融资，为高风险AI Agent提供审计与承保",
+          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+          "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 15 Sep 2026 13:00:00 +0000",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "融资",
+          "summary": "由Anthropic早期员工和前METR首席运营官参与创立的AIUC完成4000万美元A轮融资，由Ribbit Capital领投、First Harmonic参投。公司尝试通过技术评估、持续监控和保险机制，为高风险AI系统建立可量化的可信基础设施。",
+          "why_it_matters": "当Agent获得支付、代码和关键业务权限后，风险定价可能像网络安全一样成为企业采用的前置条件。审计与保险结合，为AI安全形成了新的商业化路径。",
+          "why_important": "当Agent获得支付、代码和关键业务权限后，风险定价可能像网络安全一样成为企业采用的前置条件。审计与保险结合，为AI安全形成了新的商业化路径。",
+          "investment_observation": "关注承保对象、赔付条款、真实事故率和评估标准能否被企业与保险机构共同接受。若风险数据形成壁垒，AIUC可能占据高价值治理层；若指标不可验证，保险难以规模化。",
+          "investment_angle": "关注承保对象、赔付条款、真实事故率和评估标准能否被企业与保险机构共同接受。若风险数据形成壁垒，AIUC可能占据高价值治理层；若指标不可验证，保险难以规模化。",
+          "companies": [
+            "AIUC",
+            "Ribbit Capital",
+            "First Harmonic",
+            "Anthropic",
+            "METR"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "风险评估",
+            "持续监控"
+          ],
+          "entities": {
+            "companies": [
+              "AIUC",
+              "Ribbit Capital",
+              "First Harmonic",
+              "Anthropic",
+              "METR"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "风险评估",
+              "持续监控"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Agent安全",
+            "保险",
+            "治理"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "AI推理硬件进入异构系统竞争阶段",
+          "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+          "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+          "source": "IEEE Spectrum",
+          "published_at": "2026-09-15T14:24:08Z",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "AI Infra",
+          "summary": "IEEE Spectrum梳理2026年推理硬件路线：推理负载因推理模型和长期运行Agent快速增长，内存带宽成为关键瓶颈，产业开始组合GPU、LPU、晶圆级芯片、堆叠DRAM和低精度量化等多种架构。",
+          "why_it_matters": "算力竞争正在从单纯训练扩展到高吞吐、低延迟和低能耗推理。模型部署量上升后，内存、互连、专用解码芯片与系统软件的价值量可能持续提高。",
+          "why_important": "算力竞争正在从单纯训练扩展到高吞吐、低延迟和低能耗推理。模型部署量上升后，内存、互连、专用解码芯片与系统软件的价值量可能持续提高。",
+          "investment_observation": "文章包含厂商性能主张，需以独立基准和客户部署验证。重点跟踪每瓦吞吐、总拥有成本、软件兼容性及供应能力，而非只看峰值token速度。",
+          "investment_angle": "文章包含厂商性能主张，需以独立基准和客户部署验证。重点跟踪每瓦吞吐、总拥有成本、软件兼容性及供应能力，而非只看峰值token速度。",
+          "companies": [
+            "NVIDIA",
+            "AWS",
+            "Cerebras",
+            "d-Matrix",
+            "Groq"
+          ],
+          "people": [],
+          "products": [
+            "Groq 3",
+            "WSE-3",
+            "Trainium",
+            "HBM4"
+          ],
+          "technologies": [
+            "AI推理",
+            "异构计算",
+            "内存带宽"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "AWS",
+              "Cerebras",
+              "d-Matrix",
+              "Groq"
+            ],
+            "people": [],
+            "products": [
+              "Groq 3",
+              "WSE-3",
+              "Trainium",
+              "HBM4"
+            ],
+            "technologies": [
+              "AI推理",
+              "异构计算",
+              "内存带宽"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "推理",
+            "内存"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "APXInf开源具身端侧推理引擎，面向机器人低延迟部署",
+          "url": "https://www.qbitai.com/2026/09/489460.html",
+          "link": "https://www.qbitai.com/2026/09/489460.html",
+          "source": "量子位",
+          "published_at": "Tue, 15 Sep 2026 10:43:28 +0000",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "开源",
+          "summary": "无问芯穹联合清华大学、上海交通大学开源具身端侧推理引擎APXInf，针对机器人端侧算力、内存和实时性约束优化，并公布其在Pi 0.5等具身模型上的性能结果。",
+          "why_it_matters": "具身智能规模化不仅依赖模型能力，也依赖端侧推理栈把延迟、功耗与硬件适配压到可用范围。开源引擎有望降低机器人厂商跨芯片部署成本。",
+          "why_important": "具身智能规模化不仅依赖模型能力，也依赖端侧推理栈把延迟、功耗与硬件适配压到可用范围。开源引擎有望降低机器人厂商跨芯片部署成本。",
+          "investment_observation": "性能结论需要在不同硬件和真实任务上复验。关注支持模型与芯片范围、长期稳定性、社区贡献和商业服务收入，避免把单项基准领先等同于量产优势。",
+          "investment_angle": "性能结论需要在不同硬件和真实任务上复验。关注支持模型与芯片范围、长期稳定性、社区贡献和商业服务收入，避免把单项基准领先等同于量产优势。",
+          "companies": [
+            "无问芯穹",
+            "清华大学",
+            "上海交通大学"
+          ],
+          "people": [],
+          "products": [
+            "APXInf",
+            "Pi 0.5"
+          ],
+          "technologies": [
+            "具身智能",
+            "端侧推理",
+            "推理引擎"
+          ],
+          "entities": {
+            "companies": [
+              "无问芯穹",
+              "清华大学",
+              "上海交通大学"
+            ],
+            "people": [],
+            "products": [
+              "APXInf",
+              "Pi 0.5"
+            ],
+            "technologies": [
+              "具身智能",
+              "端侧推理",
+              "推理引擎"
+            ]
+          },
+          "tags": [
+            "开源",
+            "机器人",
+            "AI Infra",
+            "端侧AI"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "分子之心发布十万原子级AI分子动力学方案",
+          "url": "https://www.qbitai.com/2026/09/489381.html",
+          "link": "https://www.qbitai.com/2026/09/489381.html",
+          "source": "量子位",
+          "published_at": "Tue, 15 Sep 2026 09:58:00 +0000",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "AI4S",
+          "summary": "分子之心公布AI分子动力学进展，称单张GPU可模拟十万原子规模的化学反应过程，尝试同时改善传统分子模拟在精度、尺度与速度之间的权衡。",
+          "why_it_matters": "如果结果可复现，AI势能面与高效模拟可加速材料、药物和催化研究，减少昂贵实验与高性能计算资源消耗，是AI4S较接近产业价值的方向之一。",
+          "why_important": "如果结果可复现，AI势能面与高效模拟可加速材料、药物和催化研究，减少昂贵实验与高性能计算资源消耗，是AI4S较接近产业价值的方向之一。",
+          "investment_observation": "需关注公开论文、数据集、误差边界和第三方复现，以及在药企和材料客户中的实际研发周期缩短。单次演示不代表跨体系泛化或商业收入已成立。",
+          "investment_angle": "需关注公开论文、数据集、误差边界和第三方复现，以及在药企和材料客户中的实际研发周期缩短。单次演示不代表跨体系泛化或商业收入已成立。",
+          "companies": [
+            "分子之心"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI分子动力学",
+            "科学计算",
+            "GPU"
+          ],
+          "entities": {
+            "companies": [
+              "分子之心"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI分子动力学",
+              "科学计算",
+              "GPU"
+            ]
+          },
+          "tags": [
+            "AI4S",
+            "材料",
+            "药物研发",
+            "中国AI"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "儿童医院采用开源NVIDIA AI辅助心脏诊疗",
+          "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+          "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 15 Sep 2026 09:00:42 +0000",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "医疗AI",
+          "summary": "一家大型儿童医院使用NVIDIA开源AI工具处理心脏影像与临床工作流，希望帮助医生更快识别复杂先天性心脏问题，并提高研究与诊疗环节的数据利用效率。",
+          "why_it_matters": "医疗AI从模型演示走向医院工作流，关键价值在于缩短处理时间、提高一致性并沉淀专科数据能力；开源工具也可能降低医疗机构定制门槛。",
+          "why_important": "医疗AI从模型演示走向医院工作流，关键价值在于缩短处理时间、提高一致性并沉淀专科数据能力；开源工具也可能降低医疗机构定制门槛。",
+          "investment_observation": "该信息来自供应商案例，需关注前瞻性临床验证、监管许可、误诊率、医生采用率和数据治理。医院试点不能直接等同于规模化采购。",
+          "investment_angle": "该信息来自供应商案例，需关注前瞻性临床验证、监管许可、误诊率、医生采用率和数据治理。医院试点不能直接等同于规模化采购。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "医疗影像AI",
+            "开源AI",
+            "临床工作流"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "医疗影像AI",
+              "开源AI",
+              "临床工作流"
+            ]
+          },
+          "tags": [
+            "医疗AI",
+            "开源",
+            "NVIDIA",
+            "应用"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "民调显示AI与数据中心扩张面临显著公众阻力",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "source": "The Verge AI",
+          "published_at": "2026-09-15T19:30:03-04:00",
+          "selected_at": "2026-09-16T09:45:00+08:00",
+          "category": "政策",
+          "summary": "美国最新民调显示，AI与数据中心建设在电价、用水、土地和就业影响等议题上面临广泛公众疑虑，政治人物也开始把项目审批与社区成本纳入竞选议程。",
+          "why_it_matters": "数据中心的约束正在从GPU供应扩展到电力、社区许可和政治接受度。即使需求强劲，项目延期、附加成本和地方监管也可能改变AI基础设施扩张节奏。",
+          "why_important": "数据中心的约束正在从GPU供应扩展到电力、社区许可和政治接受度。即使需求强劲，项目延期、附加成本和地方监管也可能改变AI基础设施扩张节奏。",
+          "investment_observation": "民调结果受问题表述和短期舆情影响。投资上应跟踪具体州县审批、电网接入、购电协议与社区补偿，而不是把全国情绪直接映射为单个项目结论。",
+          "investment_angle": "民调结果受问题表述和短期舆情影响。投资上应跟踪具体州县审批、电网接入、购电协议与社区补偿，而不是把全国情绪直接映射为单个项目结论。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "数据中心",
+            "AI算力",
+            "电力基础设施"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "数据中心",
+              "AI算力",
+              "电力基础设施"
+            ]
+          },
+          "tags": [
+            "政策",
+            "AI Infra",
+            "能源",
+            "社会影响"
+          ],
+          "importance_score": 8.6
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "count": 7,
