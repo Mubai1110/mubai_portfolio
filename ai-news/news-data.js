@@ -1,8 +1,507 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-16T09:45:00+08:00",
-  "digest_count": 48,
-  "article_count": 417,
+  "generated_at": "2026-09-17T09:24:24+08:00",
+  "digest_count": 49,
+  "article_count": 427,
   "digests": [
+    {
+      "date": "2026-09-17",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Arcee AI完成B轮融资，估值超过10亿美元，继续投入开放权重模型",
+          "url": "https://www.arcee.ai/blog/arcee-ai-raises-series-b-to-build-the-future-of-american-open-models",
+          "link": "https://www.arcee.ai/blog/arcee-ai-raises-series-b-to-build-the-future-of-american-open-models",
+          "source": "Arcee AI 官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "融资",
+          "summary": "Arcee AI宣布完成由Vista Equity Partners、Cambium Capital与Emergence Capital领投的B轮融资，估值超过10亿美元，未披露本轮金额。资金将用于下一代Trinity模型、美国能源部与国家实验室合作，以及开放模型配套产品。",
+          "why_it_matters": "美国开放权重模型路线继续获得资本支持，企业对可定制、可自部署模型的需求为独立模型厂商提供机会。",
+          "why_important": "美国开放权重模型路线继续获得资本支持，企业对可定制、可自部署模型的需求为独立模型厂商提供机会。",
+          "investment_observation": "关注下一代模型独立评测、训练与推理成本、企业收入及许可证。超过10亿美元是估值，不能误写成融资金额；厂商成本说法仍需验证。",
+          "investment_angle": "关注下一代模型独立评测、训练与推理成本、企业收入及许可证。超过10亿美元是估值，不能误写成融资金额；厂商成本说法仍需验证。",
+          "companies": [
+            "Arcee AI",
+            "Vista Equity Partners",
+            "Cambium Capital",
+            "Emergence Capital"
+          ],
+          "people": [
+            "Mark McQuade",
+            "Lucas Atkins"
+          ],
+          "products": [
+            "Trinity"
+          ],
+          "technologies": [
+            "开放权重模型",
+            "后训练"
+          ],
+          "entities": {
+            "companies": [
+              "Arcee AI",
+              "Vista Equity Partners",
+              "Cambium Capital",
+              "Emergence Capital"
+            ],
+            "people": [
+              "Mark McQuade",
+              "Lucas Atkins"
+            ],
+            "products": [
+              "Trinity"
+            ],
+            "technologies": [
+              "开放权重模型",
+              "后训练"
+            ]
+          },
+          "tags": [
+            "融资",
+            "开源",
+            "基础模型"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Cohere与Aleph Alpha签署合并协议，推进跨大西洋主权AI",
+          "url": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+          "link": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+          "source": "Cohere 官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "基础模型",
+          "summary": "Cohere与Aleph Alpha签署最终业务合并协议，交易仍待监管批准。合并后将以Cohere品牌运营，在多伦多和柏林设双总部，保留海德堡研发中心，并深化与Schwarz Group旗下STACKIT主权云的合作。",
+          "why_it_matters": "企业与公共部门的AI采购正在同时考虑模型能力、数据控制和本地基础设施，区域模型厂商通过整合争取规模与客户信任。",
+          "why_important": "企业与公共部门的AI采购正在同时考虑模型能力、数据控制和本地基础设施，区域模型厂商通过整合争取规模与客户信任。",
+          "investment_observation": "关注监管审批、模型与产品整合、公共部门订单和云合作收入。签约不代表交易完成，主权AI定位也需要部署与治理机制支撑。",
+          "investment_angle": "关注监管审批、模型与产品整合、公共部门订单和云合作收入。签约不代表交易完成，主权AI定位也需要部署与治理机制支撑。",
+          "companies": [
+            "Cohere",
+            "Aleph Alpha",
+            "Schwarz Group"
+          ],
+          "people": [
+            "Aidan Gomez",
+            "Ilhan Scheer",
+            "Samuel Weinbach"
+          ],
+          "products": [
+            "STACKIT"
+          ],
+          "technologies": [
+            "主权AI",
+            "企业模型"
+          ],
+          "entities": {
+            "companies": [
+              "Cohere",
+              "Aleph Alpha",
+              "Schwarz Group"
+            ],
+            "people": [
+              "Aidan Gomez",
+              "Ilhan Scheer",
+              "Samuel Weinbach"
+            ],
+            "products": [
+              "STACKIT"
+            ],
+            "technologies": [
+              "主权AI",
+              "企业模型"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "并购",
+            "企业AI"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Claude合并聊天与Cowork，并推出Docs和Slides测试版",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "link": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "Anthropic 官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "产品应用",
+          "summary": "Anthropic将Claude聊天与Cowork合并为一个入口，先向Pro和Max用户逐步推出。Claude Docs、Claude Slides同步进入付费计划测试，Claude Design也可在对话中使用，支持编辑和导出演示文稿。",
+          "why_it_matters": "通用助手开始把对话、长任务执行与可编辑交付物连在一起，竞争从回答问题延伸到完成办公流程。",
+          "why_important": "通用助手开始把对话、长任务执行与可编辑交付物连在一起，竞争从回答问题延伸到完成办公流程。",
+          "investment_observation": "跟踪长任务成功率、文档兼容性、权限控制与付费留存。功能分批推出且处于测试阶段，不能将公告等同于所有用户已经可用。",
+          "investment_angle": "跟踪长任务成功率、文档兼容性、权限控制与付费留存。功能分批推出且处于测试阶段，不能将公告等同于所有用户已经可用。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude",
+            "Cowork",
+            "Claude Docs",
+            "Claude Slides"
+          ],
+          "technologies": [
+            "AI Agent",
+            "办公自动化"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Claude",
+              "Cowork",
+              "Claude Docs",
+              "Claude Slides"
+            ],
+            "technologies": [
+              "AI Agent",
+              "办公自动化"
+            ]
+          },
+          "tags": [
+            "产品",
+            "Agent",
+            "办公AI"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Google Home开放Home MCP早期访问，个人Agent可连接家居设备",
+          "url": "https://developers.home.google.com/mcp/home",
+          "link": "https://developers.home.google.com/mcp/home",
+          "source": "Google 官方文档",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "智能硬件",
+          "summary": "Google Home MCP进入早期访问，兼容Agent可在授权后查询家庭设备、读取状态和历史事件，并执行设备控制。官方文档要求Google Home Premium Advanced订阅及Cloud项目；开门解锁等敏感操作受限，创建自动化尚未支持。",
+          "why_it_matters": "MCP把个人Agent的工具调用从数字服务扩展到物理设备，家居平台可能成为助手的新执行入口。",
+          "why_important": "MCP把个人Agent的工具调用从数字服务扩展到物理设备，家居平台可能成为助手的新执行入口。",
+          "investment_observation": "关注授权范围、响应延迟、设备兼容性与用户采用。家庭多用户数据和误操作会影响产品可用性，早期访问的实际能力应以官方限制为准。",
+          "investment_angle": "关注授权范围、响应延迟、设备兼容性与用户采用。家庭多用户数据和误操作会影响产品可用性，早期访问的实际能力应以官方限制为准。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Google Home",
+            "Home MCP"
+          ],
+          "technologies": [
+            "MCP",
+            "智能家居",
+            "OAuth"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Google Home",
+              "Home MCP"
+            ],
+            "technologies": [
+              "MCP",
+              "智能家居",
+              "OAuth"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "Agent",
+            "应用"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Emerald AI、Google与NVIDIA成立AI能源管理联盟",
+          "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+          "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+          "source": "NVIDIA 官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "AI Infra",
+          "summary": "三家公司宣布成立AI Energy Management Alliance，推动数据中心根据电网情况动态调整用电。联盟采用技术中立、以性能为依据的要求，关注可衡量的响应速度、持续时间与可预测性。",
+          "why_it_matters": "电网接入成为AI算力扩张瓶颈，负载调度、储能与电力协同可能帮助数据中心利用现有电网容量。",
+          "why_important": "电网接入成为AI算力扩张瓶颈，负载调度、储能与电力协同可能帮助数据中心利用现有电网容量。",
+          "investment_observation": "跟踪真实接入时间、灵活负载收入、计算任务迁移成本和服务可靠性。联盟成立只是推进机制，不能直接推断已经增加了可用电力。",
+          "investment_angle": "跟踪真实接入时间、灵活负载收入、计算任务迁移成本和服务可靠性。联盟成立只是推进机制，不能直接推断已经增加了可用电力。",
+          "companies": [
+            "Emerald AI",
+            "Google",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "AEMA"
+          ],
+          "technologies": [
+            "灵活负载",
+            "数据中心",
+            "能源管理"
+          ],
+          "entities": {
+            "companies": [
+              "Emerald AI",
+              "Google",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "AEMA"
+            ],
+            "technologies": [
+              "灵活负载",
+              "数据中心",
+              "能源管理"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "能源",
+            "数据中心"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "超衍智能获近4亿元两轮融资，探索科研驱动的模型自进化",
+          "url": "https://36kr.com/p/3985787773402120",
+          "link": "https://36kr.com/p/3985787773402120",
+          "source": "36氪",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "融资",
+          "summary": "36氪报道，陈勇超创立的超衍智能完成近4亿元人民币天使轮与天使+轮融资，用于模型、算力和团队。公司基于开放模型开展中训练与后训练，尝试把研究任务轨迹转化为模型改进数据，产品仍在小范围内测。",
+          "why_it_matters": "科研执行轨迹被用作新的训练信号，为自动科研与模型自改进交叉领域带来资本和人才投入。",
+          "why_important": "科研执行轨迹被用作新的训练信号，为自动科研与模型自改进交叉领域带来资本和人才投入。",
+          "investment_observation": "关注公开评测、研究结果复现、轨迹质量和训练收益。论文审稿分数及能力判断来自团队陈述，不能等同于已实现通用自进化。",
+          "investment_angle": "关注公开评测、研究结果复现、轨迹质量和训练收益。论文审稿分数及能力判断来自团队陈述，不能等同于已实现通用自进化。",
+          "companies": [
+            "超衍智能",
+            "IDG资本",
+            "星连资本",
+            "晶泰科技"
+          ],
+          "people": [
+            "陈勇超"
+          ],
+          "products": [],
+          "technologies": [
+            "递归自进化",
+            "后训练",
+            "研究轨迹"
+          ],
+          "entities": {
+            "companies": [
+              "超衍智能",
+              "IDG资本",
+              "星连资本",
+              "晶泰科技"
+            ],
+            "people": [
+              "陈勇超"
+            ],
+            "products": [],
+            "technologies": [
+              "递归自进化",
+              "后训练",
+              "研究轨迹"
+            ]
+          },
+          "tags": [
+            "融资",
+            "数据",
+            "AI4S",
+            "后训练"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "莱锋机器人完成数千万元天使轮融资，拓展高尔夫割草市场",
+          "url": "https://36kr.com/p/3984593870420997",
+          "link": "https://36kr.com/p/3984593870420997",
+          "source": "36氪",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "机器人",
+          "summary": "莱锋机器人完成禹达资本投资的数千万元天使轮融资，资金用于海外销售服务体系及后续产品研发。公司面向高尔夫草坪运维，Boulder F1已在亚洲市场销售，并推进欧美认证与渠道布局。",
+          "why_it_matters": "专业草坪养护提供可衡量的人工替代场景，机器人商业化机会持续向特定工作任务延伸。",
+          "why_important": "专业草坪养护提供可衡量的人工替代场景，机器人商业化机会持续向特定工作任务延伸。",
+          "investment_observation": "关注真实作业覆盖、设备可靠性、球场回本周期和海外售后成本。L4为企业产品定位，实际无人运行范围仍需场景验证。",
+          "investment_angle": "关注真实作业覆盖、设备可靠性、球场回本周期和海外售后成本。L4为企业产品定位，实际无人运行范围仍需场景验证。",
+          "companies": [
+            "莱锋机器人",
+            "禹达资本"
+          ],
+          "people": [],
+          "products": [
+            "Boulder F1"
+          ],
+          "technologies": [
+            "自主导航",
+            "商用割草机器人"
+          ],
+          "entities": {
+            "companies": [
+              "莱锋机器人",
+              "禹达资本"
+            ],
+            "people": [],
+            "products": [
+              "Boulder F1"
+            ],
+            "technologies": [
+              "自主导航",
+              "商用割草机器人"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "出海"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "Einride与Lidl在德国公路启动无驾驶室L4货运日常运营",
+          "url": "https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road",
+          "link": "https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road",
+          "source": "Einride 官方",
+          "published_at": "2026-09-15",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "自动驾驶",
+          "summary": "Einride与Lidl宣布，无驾驶室SAE L4卡车获得德国KBA许可，在公共道路上执行仓库、配送中心与门店之间的日常货运，车内没有驾驶员或安全员。该公告发布于9月15日，本期作为未覆盖的近期落地事件收录。",
+          "why_it_matters": "受许可约束的固定物流路线为自动驾驶形成稳定业务闭环提供路径，体现从演示向日常履约的进展。",
+          "why_important": "受许可约束的固定物流路线为自动驾驶形成稳定业务闭环提供路径，体现从演示向日常履约的进展。",
+          "investment_observation": "关注许可运行范围、远程干预频率、安全记录、线路扩展与每公里成本。单一获批路线不意味着全国任意道路已经可以无人运行。",
+          "investment_angle": "关注许可运行范围、远程干预频率、安全记录、线路扩展与每公里成本。单一获批路线不意味着全国任意道路已经可以无人运行。",
+          "companies": [
+            "Einride",
+            "Lidl",
+            "Schwarz Group"
+          ],
+          "people": [
+            "Roozbeh Charli"
+          ],
+          "products": [],
+          "technologies": [
+            "SAE L4",
+            "自动驾驶货运"
+          ],
+          "entities": {
+            "companies": [
+              "Einride",
+              "Lidl",
+              "Schwarz Group"
+            ],
+            "people": [
+              "Roozbeh Charli"
+            ],
+            "products": [],
+            "technologies": [
+              "SAE L4",
+              "自动驾驶货运"
+            ]
+          },
+          "tags": [
+            "自动驾驶",
+            "物流",
+            "商业化"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Vishal Sikka创办的Hang Ten再获5300万美元种子融资",
+          "url": "https://siliconangle.com/2026/09/16/ex-infosys-chief-vishal-sikkas-hang-ten-raises-another-53m-for-enterprise-ai-services/",
+          "link": "https://siliconangle.com/2026/09/16/ex-infosys-chief-vishal-sikkas-hang-ten-raises-another-53m-for-enterprise-ai-services/",
+          "source": "SiliconANGLE",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "融资",
+          "summary": "Hang Ten Systems宣布新增5300万美元种子融资，距离首次融资不久。公司由前Infosys负责人Vishal Sikka创办，结合Agent代码生成、可复用技能与领域专家，为大型企业提供AI转型和软件交付服务。",
+          "why_it_matters": "AI编码工具正在改变系统集成与咨询服务的交付方式，新的服务公司尝试以更低成本切入企业软件预算。",
+          "why_important": "AI编码工具正在改变系统集成与咨询服务的交付方式，新的服务公司尝试以更低成本切入企业软件预算。",
+          "investment_observation": "关注客户续约、交付毛利、专家投入和软件维护责任。降低成本与周期目前主要是公司主张，需要真实项目结果验证。",
+          "investment_angle": "关注客户续约、交付毛利、专家投入和软件维护责任。降低成本与周期目前主要是公司主张，需要真实项目结果验证。",
+          "companies": [
+            "Hang Ten Systems",
+            "Infosys"
+          ],
+          "people": [
+            "Vishal Sikka"
+          ],
+          "products": [],
+          "technologies": [
+            "Agent代码生成",
+            "企业AI服务"
+          ],
+          "entities": {
+            "companies": [
+              "Hang Ten Systems",
+              "Infosys"
+            ],
+            "people": [
+              "Vishal Sikka"
+            ],
+            "products": [],
+            "technologies": [
+              "Agent代码生成",
+              "企业AI服务"
+            ]
+          },
+          "tags": [
+            "融资",
+            "企业AI",
+            "编码"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "贝森特表示美国愿与中国讨论AI共同风险，涵盖开放与闭源模型",
+          "url": "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent",
+          "link": "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent",
+          "source": "Axios",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-17T09:24:24+08:00",
+          "category": "关键人物",
+          "summary": "美国财政部长Scott Bessent向Axios表示，美国愿在即将举行的中美会谈中讨论AI共同风险，并预计涉及开放权重及闭源模型。这是新的政策表态，会谈成果仍未确定。",
+          "why_it_matters": "大国竞争中的风险协调可能影响模型治理预期，但开放讨论不代表双方已达成规则。",
+          "why_important": "大国竞争中的风险协调可能影响模型治理预期，但开放讨论不代表双方已达成规则。",
+          "investment_observation": "关注正式会谈结果、模型标准和实际政策变化；避免把表态解读为限制已放松。",
+          "investment_angle": "关注正式会谈结果、模型标准和实际政策变化；避免把表态解读为限制已放松。",
+          "companies": [],
+          "people": [
+            "Scott Bessent"
+          ],
+          "products": [],
+          "technologies": [
+            "开放权重模型",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Scott Bessent"
+            ],
+            "products": [],
+            "technologies": [
+              "开放权重模型",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "政策",
+            "AI安全"
+          ],
+          "importance_score": 8.7
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "count": 7,
