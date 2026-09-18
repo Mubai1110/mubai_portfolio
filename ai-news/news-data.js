@@ -1,8 +1,501 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-17T09:24:24+08:00",
-  "digest_count": 49,
-  "article_count": 427,
+  "generated_at": "2026-09-18T09:31:28+08:00",
+  "digest_count": 50,
+  "article_count": 437,
   "digests": [
+    {
+      "date": "2026-09-18",
+      "count": 10,
+      "articles": [
+        {
+          "title": "华为公布昇腾960提前交付计划与Atlas 960E超节点",
+          "url": "https://www.huawei.com/en/news/2026/9/hc-wang-keynote",
+          "link": "https://www.huawei.com/en/news/2026/9/hc-wang-keynote",
+          "source": "华为官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "AI Infra",
+          "summary": "华为在全联接大会公布昇腾960DT计划于2027年一季度、960PR于三季度推出，分别较原路线提前三个及一个季度；同时介绍NPO光互连Atlas 960E超节点。970、980计划于2028、2029年推出，均不代表现已交付。",
+          "why_it_matters": "国产AI计算竞争从单芯片延伸到互连、集群和软件系统。",
+          "why_important": "国产AI计算竞争从单芯片延伸到互连、集群和软件系统。",
+          "investment_observation": "观察实际交付、主流模型适配和集群利用率；厂商性能主张需要独立测试，路线图不等于产品已量产。",
+          "investment_angle": "观察实际交付、主流模型适配和集群利用率；厂商性能主张需要独立测试，路线图不等于产品已量产。",
+          "companies": [
+            "华为"
+          ],
+          "people": [
+            "汪涛"
+          ],
+          "products": [
+            "昇腾960",
+            "Atlas 960E"
+          ],
+          "technologies": [
+            "NPO",
+            "超节点"
+          ],
+          "entities": {
+            "companies": [
+              "华为"
+            ],
+            "people": [
+              "汪涛"
+            ],
+            "products": [
+              "昇腾960",
+              "Atlas 960E"
+            ],
+            "technologies": [
+              "NPO",
+              "超节点"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "国产算力"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Vera Rubin首次提交MLPerf推理基准，特定场景吞吐最高提升3.7倍",
+          "url": "https://www.nvidia.com/en-gb/data-center/resources/mlperf-benchmarks/",
+          "link": "https://www.nvidia.com/en-gb/data-center/resources/mlperf-benchmarks/",
+          "source": "NVIDIA官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA公布MLPerf Inference v6.1结果：Vera Rubin NVL72首次预览提交相对GB300 NVL72在特定测试中最高达到3.7倍吞吐。四机架288 GPU的GB300提交实现99%扩展效率。该结果发布于9月16日，本期补收此前未覆盖的基准。",
+          "why_it_matters": "性能、扩展效率和软件优化共同影响单位推理成本。",
+          "why_important": "性能、扩展效率和软件优化共同影响单位推理成本。",
+          "investment_observation": "比较同模型、同精度、同延迟要求的结果，并跟踪交付时间、功耗和整机成本；最高倍数不能推广到所有任务。",
+          "investment_angle": "比较同模型、同精度、同延迟要求的结果，并跟踪交付时间、功耗和整机成本；最高倍数不能推广到所有任务。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Vera Rubin NVL72",
+            "GB300 NVL72"
+          ],
+          "technologies": [
+            "MLPerf",
+            "推理优化"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Vera Rubin NVL72",
+              "GB300 NVL72"
+            ],
+            "technologies": [
+              "MLPerf",
+              "推理优化"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "推理",
+            "基准"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Anthropic披露Claude主导26%的内部AI研发任务，仍有人类监督",
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "link": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "source": "Anthropic官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "基础模型",
+          "summary": "Anthropic提出研发自动化、Agent监督和算力分配三组公开指标。按其原型指数，2026年8月Claude在监督下主导26%的AI研发工作，超过90%的工作至少达到协作等级；没有测得完全自主的研发任务子集。",
+          "why_it_matters": "模型参与自身研发的程度开始有具体度量，研发工具和监督系统的重要性上升。",
+          "why_important": "模型参与自身研发的程度开始有具体度量，研发工具和监督系统的重要性上升。",
+          "investment_observation": "关注第三方验证、固定任务篮子的局限和生产率收益；26%是内部任务指数，不能解释为替代26%员工或实现完全递归自改进。",
+          "investment_angle": "关注第三方验证、固定任务篮子的局限和生产率收益；26%是内部任务指数，不能解释为替代26%员工或实现完全递归自改进。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "研发自动化",
+            "Agent监督"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Claude"
+            ],
+            "technologies": [
+              "研发自动化",
+              "Agent监督"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "数据",
+            "研发"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Anthropic开放生命科学验证计划申请，为专业团队提供分级模型访问",
+          "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "source": "Anthropic官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "产品应用",
+          "summary": "生命科学验证计划以测试版面向机构和团队开放申请，经资质、安全与伦理审查后提供标准用途或项目级高风险用途授权。支持第一方API、Enterprise和Team入口；个人计划及第三方平台尚未支持。",
+          "why_it_matters": "专业科研访问从统一限制转向资质审核与持续监测相结合。",
+          "why_important": "专业科研访问从统一限制转向资质审核与持续监测相结合。",
+          "investment_observation": "跟踪申请转化、研究流程收益和机构数据要求；测试计划要求相关监测数据保留30天，高风险Mythos访问仍有额外限制。",
+          "investment_angle": "跟踪申请转化、研究流程收益和机构数据要求；测试计划要求相关监测数据保留30天，高风险Mythos访问仍有额外限制。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "LSVP",
+            "Claude Mythos"
+          ],
+          "technologies": [
+            "生命科学AI",
+            "用途验证"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "LSVP",
+              "Claude Mythos"
+            ],
+            "technologies": [
+              "生命科学AI",
+              "用途验证"
+            ]
+          },
+          "tags": [
+            "产品",
+            "AI4S",
+            "生物"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Claude优化30余个生物模型，Anthropic开放代码并启动蛋白设计竞赛",
+          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+          "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+          "source": "Anthropic官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "开源",
+          "summary": "Anthropic报告内部通用研究模型在不到四周内优化30余个生物深度学习模型，平均加速约4倍，并开放优化代码。公司与Adaptyv Bio联合开展蛋白设计竞赛，提供最高100万美元Claude额度及超过5000个设计的湿实验验证。",
+          "why_it_matters": "AI科研工具开始同时改善计算效率与实验反馈渠道。",
+          "why_important": "AI科研工具开始同时改善计算效率与实验反馈渠道。",
+          "investment_observation": "核查优化代码在相同硬件上的速度、精度和内存表现；平均4倍为研究报告结果，实际任务收益及湿实验命中率仍待复现。",
+          "investment_angle": "核查优化代码在相同硬件上的速度、精度和内存表现；平均4倍为研究报告结果，实际任务收益及湿实验命中率仍待复现。",
+          "companies": [
+            "Anthropic",
+            "Adaptyv Bio"
+          ],
+          "people": [],
+          "products": [
+            "Claude"
+          ],
+          "technologies": [
+            "生物分子建模",
+            "GPU优化",
+            "蛋白设计"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Adaptyv Bio"
+            ],
+            "people": [],
+            "products": [
+              "Claude"
+            ],
+            "technologies": [
+              "生物分子建模",
+              "GPU优化",
+              "蛋白设计"
+            ]
+          },
+          "tags": [
+            "开源",
+            "AI4S",
+            "数据"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Magentic完成1800万美元A轮融资，拓展工业采购与供应链Agent",
+          "url": "https://www.magentic.com/stories/magentic-raises-18m",
+          "link": "https://www.magentic.com/stories/magentic-raises-18m",
+          "source": "Magentic官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "融资",
+          "summary": "Magentic宣布由Felicis领投、Sequoia Capital和The Westly Group参与的1800万美元A轮融资。资金用于采购与供应链工作流，以及长任务Agent研究，产品通过企业现有系统协作执行业务任务。",
+          "why_it_matters": "Agent商业化继续深入有明确采购支出与效率指标的工业流程。",
+          "why_important": "Agent商业化继续深入有明确采购支出与效率指标的工业流程。",
+          "investment_observation": "观察ERP集成成本、人工审批比例、客户续约和实际节省；公司披露的客户成效需要持续验证。",
+          "investment_angle": "观察ERP集成成本、人工审批比例、客户续约和实际节省；公司披露的客户成效需要持续验证。",
+          "companies": [
+            "Magentic",
+            "Felicis",
+            "Sequoia Capital",
+            "The Westly Group"
+          ],
+          "people": [
+            "Robin Van Aeken",
+            "Odhran O'Donoghue"
+          ],
+          "products": [],
+          "technologies": [
+            "多Agent",
+            "供应链自动化"
+          ],
+          "entities": {
+            "companies": [
+              "Magentic",
+              "Felicis",
+              "Sequoia Capital",
+              "The Westly Group"
+            ],
+            "people": [
+              "Robin Van Aeken",
+              "Odhran O'Donoghue"
+            ],
+            "products": [],
+            "technologies": [
+              "多Agent",
+              "供应链自动化"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Agent",
+            "企业AI"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Raindrop宣布A轮融资，累计融资达5000万美元并推出Agent模拟测试",
+          "url": "https://www.raindrop.ai/blog/series-a/",
+          "link": "https://www.raindrop.ai/blog/series-a/",
+          "source": "Raindrop官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "融资",
+          "summary": "Raindrop宣布A轮融资后累计融资达到5000万美元，CRV及前沿AI公司的研究人员和管理者支持该公司。新产品Raindrop Simulations旨在部署前测试Agent，配合生产运行中的自动问题检测。",
+          "why_it_matters": "Agent故障监控与上线前验证正在形成独立的软件预算。",
+          "why_important": "Agent故障监控与上线前验证正在形成独立的软件预算。",
+          "investment_observation": "5000万美元是累计融资，不能写成本轮金额；关注模拟环境真实性、故障检测准确率及与现有评估工具的差异。",
+          "investment_angle": "5000万美元是累计融资，不能写成本轮金额；关注模拟环境真实性、故障检测准确率及与现有评估工具的差异。",
+          "companies": [
+            "Raindrop",
+            "CRV"
+          ],
+          "people": [
+            "Zubin Koticha",
+            "Ben Hylak",
+            "Alexis Gauba"
+          ],
+          "products": [
+            "Raindrop Simulations"
+          ],
+          "technologies": [
+            "Agent评估",
+            "故障检测"
+          ],
+          "entities": {
+            "companies": [
+              "Raindrop",
+              "CRV"
+            ],
+            "people": [
+              "Zubin Koticha",
+              "Ben Hylak",
+              "Alexis Gauba"
+            ],
+            "products": [
+              "Raindrop Simulations"
+            ],
+            "technologies": [
+              "Agent评估",
+              "故障检测"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Agent",
+            "AI Infra"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Watney获8000万美元A轮融资，扩大数据中心机器人部署",
+          "url": "https://watney.com/media/introducing-watney",
+          "link": "https://watney.com/media/introducing-watney",
+          "source": "Watney官方",
+          "published_at": "2026-09-17",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "机器人",
+          "summary": "Watney宣布8000万美元A轮融资，由Valor Atreides AI Fund与Hummingbird Ventures联合领投，累计融资超过1亿美元。公司开发部署工业机器人，当前从数据中心建设和算力部署场景切入。",
+          "why_it_matters": "算力扩张的现场施工与部署环节为机器人提供直接需求。",
+          "why_important": "算力扩张的现场施工与部署环节为机器人提供直接需求。",
+          "investment_observation": "跟踪客户集中度、每台机器人收益、现场运维和任务覆盖；公司宣称的可靠性与部署规模尚需客户或独立数据验证。",
+          "investment_angle": "跟踪客户集中度、每台机器人收益、现场运维和任务覆盖；公司宣称的可靠性与部署规模尚需客户或独立数据验证。",
+          "companies": [
+            "Watney",
+            "Valor Atreides AI Fund",
+            "Hummingbird Ventures"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "自主机器人",
+            "数据中心部署"
+          ],
+          "entities": {
+            "companies": [
+              "Watney",
+              "Valor Atreides AI Fund",
+              "Hummingbird Ventures"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "自主机器人",
+              "数据中心部署"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "AI Infra"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Rune获4000万美元融资，推出靠近太阳能电站的模块化数据中心",
+          "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
+          "link": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
+          "source": "SiliconANGLE",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "融资",
+          "summary": "Rune宣布由Spark Capital领投的4000万美元融资，并推出RELIC模块化计算系统，利用太阳能电站现场电力。报道援引公司称已在得州200兆瓦太阳能设施部署，本期补收9月16日未覆盖的公告。",
+          "why_it_matters": "电网排队推动算力设施探索电源附近的部署方式。",
+          "why_important": "电网排队推动算力设施探索电源附近的部署方式。",
+          "investment_observation": "观察间歇供电下的负载利用率、储能成本和客户服务约束；基础设施降本与安装速度为公司主张，不等于总计算成本同比下降。",
+          "investment_angle": "观察间歇供电下的负载利用率、储能成本和客户服务约束；基础设施降本与安装速度为公司主张，不等于总计算成本同比下降。",
+          "companies": [
+            "Rune",
+            "Spark Capital"
+          ],
+          "people": [
+            "William Layden"
+          ],
+          "products": [
+            "RELIC"
+          ],
+          "technologies": [
+            "模块化数据中心",
+            "直流供电"
+          ],
+          "entities": {
+            "companies": [
+              "Rune",
+              "Spark Capital"
+            ],
+            "people": [
+              "William Layden"
+            ],
+            "products": [
+              "RELIC"
+            ],
+            "technologies": [
+              "模块化数据中心",
+              "直流供电"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "能源"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Dream-RSI利用历史探索树改进Agent策略，底层编码模型保持不变",
+          "url": "https://arxiv.org/abs/2609.14858",
+          "link": "https://arxiv.org/abs/2609.14858",
+          "source": "arXiv原始论文",
+          "published_at": "2026-09-14",
+          "selected_at": "2026-09-18T09:31:28+08:00",
+          "category": "后训练",
+          "summary": "Google、Google DeepMind及高校研究者提出Dream-RSI，将历史发现轨迹构造成回放模拟器，低成本评估探索策略并重新部署。论文9月14日提交，9月17日受到报道；本期明确作为近期未覆盖研究收录。",
+          "why_it_matters": "历史任务轨迹可成为优化长任务探索的数据资产。",
+          "why_important": "历史任务轨迹可成为优化长任务探索的数据资产。",
+          "investment_observation": "关注回放覆盖偏差、跨任务泛化与独立复现；改进的是编排与探索策略，论文保持底层编码Agent不变，不能称为基础模型自主升级。",
+          "investment_angle": "关注回放覆盖偏差、跨任务泛化与独立复现；改进的是编排与探索策略，论文保持底层编码Agent不变，不能称为基础模型自主升级。",
+          "companies": [
+            "Google",
+            "Google DeepMind"
+          ],
+          "people": [
+            "Tong Zheng",
+            "Xidong Wu"
+          ],
+          "products": [
+            "Dream-RSI"
+          ],
+          "technologies": [
+            "轨迹回放",
+            "探索策略优化"
+          ],
+          "entities": {
+            "companies": [
+              "Google",
+              "Google DeepMind"
+            ],
+            "people": [
+              "Tong Zheng",
+              "Xidong Wu"
+            ],
+            "products": [
+              "Dream-RSI"
+            ],
+            "technologies": [
+              "轨迹回放",
+              "探索策略优化"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "数据",
+            "Agent",
+            "研究"
+          ],
+          "importance_score": 8.8
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "count": 10,
