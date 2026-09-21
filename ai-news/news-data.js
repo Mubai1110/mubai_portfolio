@@ -1,8 +1,458 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-20T09:14:46+08:00",
-  "digest_count": 52,
-  "article_count": 448,
+  "generated_at": "2026-09-21T08:06:10+08:00",
+  "digest_count": 53,
+  "article_count": 458,
   "digests": [
+    {
+      "date": "2026-09-21",
+      "count": 10,
+      "articles": [
+        {
+          "title": "黄仁勋淡化AI失控担忧，产业与安全阵营分歧加深",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "关键人物",
+          "summary": "NVIDIA CEO黄仁勋公开淡化部分AI灾难性风险担忧，强调技术进步和产业治理能力。其表态与近期要求放慢前沿模型开发的声音形成鲜明对照，也反映算力供应商与安全研究阵营在风险判断上的利益和叙事差异。",
+          "why_it_matters": "作为AI算力周期的关键受益者，黄仁勋的判断会影响资本开支、政策游说和市场风险偏好。",
+          "why_important": "作为AI算力周期的关键受益者，黄仁勋的判断会影响资本开支、政策游说和市场风险偏好。",
+          "investment_observation": "关注NVIDIA客户资本开支是否继续兑现、监管讨论是否转向强制评测，以及产业领袖的乐观表态能否被可审计的安全数据支持。",
+          "investment_angle": "关注NVIDIA客户资本开支是否继续兑现、监管讨论是否转向强制评测，以及产业领袖的乐观表态能否被可审计的安全数据支持。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [],
+          "technologies": [
+            "前沿模型",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [],
+            "technologies": [
+              "前沿模型",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI安全",
+            "AI Infra"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "APUS开源跨平台Jev复现，尝试实现端侧秒级决策",
+          "url": "https://www.qbitai.com/2026/09/492939.html",
+          "link": "https://www.qbitai.com/2026/09/492939.html",
+          "source": "量子位",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "开源",
+          "summary": "APUS AI实验室公布Jev的跨平台开源复现成果，目标是在国产软硬件环境中实现秒级决策。该项目为近期新方法提供了可运行实现，但性能、任务范围和与原方案的一致性仍需社区复测。",
+          "why_it_matters": "快速复现和国产平台适配能缩短前沿方法从论文走向工程验证的周期。",
+          "why_important": "快速复现和国产平台适配能缩短前沿方法从论文走向工程验证的周期。",
+          "investment_observation": "关注代码与权重开放程度、第三方基准结果、国产芯片适配范围和真实延迟；首批复现的宣传口径不应替代独立测试。",
+          "investment_angle": "关注代码与权重开放程度、第三方基准结果、国产芯片适配范围和真实延迟；首批复现的宣传口径不应替代独立测试。",
+          "companies": [
+            "APUS"
+          ],
+          "people": [],
+          "products": [
+            "Jev"
+          ],
+          "technologies": [
+            "跨平台复现",
+            "端侧推理"
+          ],
+          "entities": {
+            "companies": [
+              "APUS"
+            ],
+            "people": [],
+            "products": [
+              "Jev"
+            ],
+            "technologies": [
+              "跨平台复现",
+              "端侧推理"
+            ]
+          },
+          "tags": [
+            "开源",
+            "基础模型",
+            "国产算力"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Disney任命首位CTO，候选人曾领导Character.AI",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+          "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+          "source": "TechCrunch",
+          "published_at": "2026-09-18",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "关键人物",
+          "summary": "Disney任命曾任Character.AI CEO的高管出任公司首位首席技术官。Disney此前曾就角色形象问题向Character.AI发出停止侵权通知，使这次任命同时带有技术转型、生成式内容和知识产权治理的多重意味。",
+          "why_it_matters": "大型内容集团把AI创业公司管理者引入核心技术岗位，说明生成式AI正从单点试验进入组织和战略层。",
+          "why_important": "大型内容集团把AI创业公司管理者引入核心技术岗位，说明生成式AI正从单点试验进入组织和战略层。",
+          "investment_observation": "关注Disney是否建立统一模型与数据平台、内容授权规则如何落地，以及AI投入能否带来制作效率和新增收入而非只增加合规成本。",
+          "investment_angle": "关注Disney是否建立统一模型与数据平台、内容授权规则如何落地，以及AI投入能否带来制作效率和新增收入而非只增加合规成本。",
+          "companies": [
+            "Disney",
+            "Character.AI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式内容",
+            "版权治理"
+          ],
+          "entities": {
+            "companies": [
+              "Disney",
+              "Character.AI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式内容",
+              "版权治理"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "产品应用",
+            "版权"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "Pirate Face为被下架模型建立社区保存与分发入口",
+          "url": "https://pirateface.co/",
+          "link": "https://pirateface.co/",
+          "source": "Hacker News",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "开源",
+          "summary": "Pirate Face项目尝试保存因平台政策、许可或维护变化而被删除的LLM模型，并在开发者社区引发集中讨论。项目回应了模型可获得性和数字保存需求，但也伴随许可、来源可信度与安全扫描风险。",
+          "why_it_matters": "模型托管平台已成为开源AI供应链的关键基础设施，下架机制会直接影响研究复现和下游产品连续性。",
+          "why_important": "模型托管平台已成为开源AI供应链的关键基础设施，下架机制会直接影响研究复现和下游产品连续性。",
+          "investment_observation": "关注模型许可证明、文件哈希与恶意内容扫描、长期存储成本和原作者撤回权；社区热度不能等同于合规可用。",
+          "investment_angle": "关注模型许可证明、文件哈希与恶意内容扫描、长期存储成本和原作者撤回权；社区热度不能等同于合规可用。",
+          "companies": [
+            "Pirate Face"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "模型存档",
+            "LLM"
+          ],
+          "entities": {
+            "companies": [
+              "Pirate Face"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "模型存档",
+              "LLM"
+            ]
+          },
+          "tags": [
+            "开源",
+            "模型供应链",
+            "开发者社区"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "能源系统网络风险仍主要来自人员与基础安全缺口",
+          "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+          "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+          "source": "The Verge",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "AI安全",
+          "summary": "报道指出，尽管AI自动化攻击受到高度关注，能源系统当前更普遍的风险仍来自人员操作、凭据管理、老旧系统和基础防护不足。AI会放大攻击效率，但并未取代传统安全治理。",
+          "why_it_matters": "关键基础设施的现实短板决定AI安全预算应同时覆盖身份、资产和操作流程，而不能只追逐模型威胁。",
+          "why_important": "关键基础设施的现实短板决定AI安全预算应同时覆盖身份、资产和操作流程，而不能只追逐模型威胁。",
+          "investment_observation": "关注能源企业身份管理、网络分段、漏洞修复时长和事件响应投入；安全厂商若只包装AI概念而缺少基础控制能力，价值有限。",
+          "investment_angle": "关注能源企业身份管理、网络分段、漏洞修复时长和事件响应投入；安全厂商若只包装AI概念而缺少基础控制能力，价值有限。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "关键基础设施安全",
+            "身份管理"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "关键基础设施安全",
+              "身份管理"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "能源",
+            "网络安全"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "智谱上调ARR指引，海外GPU云租赁价格同步走高",
+          "url": "https://36kr.com/newsflashes/3992382704237576?f=rss",
+          "link": "https://36kr.com/newsflashes/3992382704237576?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "AI Infra",
+          "summary": "中信建投研报称，智谱在国产算力集群上推出GLM-5.3-FlashX，并将2026年末ARR指引从24亿美元上调至30亿美元；海外GPU云厂商Nebius亦上调租赁价格，光互连产能继续扩充。相关数字来自公司及券商口径，仍待财务与交付数据验证。",
+          "why_it_matters": "模型收入预期与算力价格同时上行，反映需求增长仍在向GPU云、网络和国产算力链传导。",
+          "why_important": "模型收入预期与算力价格同时上行，反映需求增长仍在向GPU云、网络和国产算力链传导。",
+          "investment_observation": "关注智谱ARR的收入确认与客户集中度、Nebius利用率和续约价，以及高速互连扩产能否转化为订单和现金流。",
+          "investment_angle": "关注智谱ARR的收入确认与客户集中度、Nebius利用率和续约价，以及高速互连扩产能否转化为订单和现金流。",
+          "companies": [
+            "智谱",
+            "Nebius",
+            "Marvell",
+            "GlobalFoundries",
+            "NVIDIA"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [
+            "GLM-5.3-FlashX"
+          ],
+          "technologies": [
+            "GPU云",
+            "高速光互连",
+            "国产算力"
+          ],
+          "entities": {
+            "companies": [
+              "智谱",
+              "Nebius",
+              "Marvell",
+              "GlobalFoundries",
+              "NVIDIA"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [
+              "GLM-5.3-FlashX"
+            ],
+            "technologies": [
+              "GPU云",
+              "高速光互连",
+              "国产算力"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "基础模型",
+            "投资"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "OpenAI推出Sponsored Agents，探索AI广告新形态",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "link": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI官方",
+          "published_at": "2026-09-16",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI介绍面向营销人员的AI广告体验，包括Sponsored Agents及与HubSpot、Shopify等平台的集成，试图让品牌从静态展示转向可对话、可执行的客户旅程。本期作为近期尚未覆盖的重要商业化动作补收。",
+          "why_it_matters": "广告可能成为消费级AI的重要变现路径，也会重新定义推荐、代理行为和商业内容披露边界。",
+          "why_important": "广告可能成为消费级AI的重要变现路径，也会重新定义推荐、代理行为和商业内容披露边界。",
+          "investment_observation": "关注广告与自然回答是否清晰分离、转化率和获客成本、品牌安全、用户信任及平台分成；官方案例需要第三方效果数据验证。",
+          "investment_angle": "关注广告与自然回答是否清晰分离、转化率和获客成本、品牌安全、用户信任及平台分成；官方案例需要第三方效果数据验证。",
+          "companies": [
+            "OpenAI",
+            "HubSpot",
+            "Shopify"
+          ],
+          "people": [],
+          "products": [
+            "Sponsored Agents"
+          ],
+          "technologies": [
+            "对话式广告",
+            "Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "HubSpot",
+              "Shopify"
+            ],
+            "people": [],
+            "products": [
+              "Sponsored Agents"
+            ],
+            "technologies": [
+              "对话式广告",
+              "Agent"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "商业化",
+            "Agent"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "飞钛完成数千万元融资，聚焦航空航天装配机器人",
+          "url": "https://36kr.com/p/3991119011052291?f=rss",
+          "link": "https://36kr.com/p/3991119011052291?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "机器人",
+          "summary": "航空航天装配机器人公司飞钛智造完成数千万元融资，由海愿资本、浙大控股领投。公司称其设备已覆盖国内航空航天装配机器人较高份额，产品聚焦高精度装配和大型构件制造，但市场份额仍需客户与订单数据佐证。",
+          "why_it_matters": "航空制造的小批量、高精度场景为具身智能和工业机器人提供了高价值、强壁垒的落地路径。",
+          "why_important": "航空制造的小批量、高精度场景为具身智能和工业机器人提供了高价值、强壁垒的落地路径。",
+          "investment_observation": "关注在手订单、头部客户验收、设备复购、毛利率和航空认证周期；融资规模较小，量产与回款能力比概念更关键。",
+          "investment_angle": "关注在手订单、头部客户验收、设备复购、毛利率和航空认证周期；融资规模较小，量产与回款能力比概念更关键。",
+          "companies": [
+            "飞钛智造",
+            "海愿资本",
+            "浙大控股"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "航空航天装配机器人",
+            "高精度制造"
+          ],
+          "entities": {
+            "companies": [
+              "飞钛智造",
+              "海愿资本",
+              "浙大控股"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "航空航天装配机器人",
+              "高精度制造"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "智能制造"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "ScrollEd融资探索把教材重构为短视频式学习流",
+          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok",
+          "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok",
+          "source": "TechCrunch",
+          "published_at": "2026-09-20",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "产品应用",
+          "summary": "教育科技初创公司ScrollEd把教材拆解为可滚动的信息流，混合视频、音频和测验，希望用类似社交应用的交互降低学习门槛。产品由学生创业者创立，仍处于验证内容质量和学习效果的早期阶段。",
+          "why_it_matters": "生成式AI正在降低多模态课程制作成本，但教育产品最终必须用学习结果而非停留时长证明价值。",
+          "why_important": "生成式AI正在降低多模态课程制作成本，但教育产品最终必须用学习结果而非停留时长证明价值。",
+          "investment_observation": "关注课程完成率、知识留存、教师采用、内容版权和获客成本；短视频式交互若只提高使用时长而不改善成绩，商业价值有限。",
+          "investment_angle": "关注课程完成率、知识留存、教师采用、内容版权和获客成本；短视频式交互若只提高使用时长而不改善成绩，商业价值有限。",
+          "companies": [
+            "ScrollEd"
+          ],
+          "people": [
+            "Utsav Gupta"
+          ],
+          "products": [
+            "ScrollEd"
+          ],
+          "technologies": [
+            "多模态学习",
+            "生成式内容"
+          ],
+          "entities": {
+            "companies": [
+              "ScrollEd"
+            ],
+            "people": [
+              "Utsav Gupta"
+            ],
+            "products": [
+              "ScrollEd"
+            ],
+            "technologies": [
+              "多模态学习",
+              "生成式内容"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "教育AI",
+            "创业"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "AI虚拟演员Tilly Norwood受访异常，再次暴露可控性短板",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+          "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+          "source": "TechCrunch",
+          "published_at": "2026-09-19",
+          "selected_at": "2026-09-21T08:06:10+08:00",
+          "category": "产品应用",
+          "summary": "AI虚拟演员Tilly Norwood在宣传采访中出现答非所问并突然切换中文等异常表现，使虚拟角色的稳定性、披露方式和责任归属再次成为焦点。该事件更接近产品可靠性样本，而非基础模型突破。",
+          "why_it_matters": "面向公众的AI角色一旦参与品牌传播，输出失控会直接转化为声誉和合规风险。",
+          "why_important": "面向公众的AI角色一旦参与品牌传播，输出失控会直接转化为声誉和合规风险。",
+          "investment_observation": "关注生成流程是否有人类审核、品牌方责任、角色一致性和事故率；短期话题流量不等于可持续IP价值。",
+          "investment_angle": "关注生成流程是否有人类审核、品牌方责任、角色一致性和事故率；短期话题流量不等于可持续IP价值。",
+          "companies": [],
+          "people": [],
+          "products": [
+            "Tilly Norwood"
+          ],
+          "technologies": [
+            "AI虚拟人",
+            "生成式媒体"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [
+              "Tilly Norwood"
+            ],
+            "technologies": [
+              "AI虚拟人",
+              "生成式媒体"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI安全",
+            "媒体"
+          ],
+          "importance_score": 7.6
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "count": 8,
