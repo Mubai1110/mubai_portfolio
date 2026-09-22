@@ -1,8 +1,458 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-21T08:06:10+08:00",
-  "digest_count": 53,
-  "article_count": 458,
+  "generated_at": "2026-09-22T08:39:57+08:00",
+  "digest_count": 54,
+  "article_count": 468,
   "digests": [
+    {
+      "date": "2026-09-22",
+      "count": 10,
+      "articles": [
+        {
+          "title": "联合国科学小组呼吁在风险完全确定前为AI设防",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "source": "The Verge",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "AI治理",
+          "summary": "联合国科学小组在其首份主要报告中警告，能力不断增强的AI Agent不应等到风险被完全证明后才治理，并以近期生态安全事件说明预防原则的必要性。报道把模型能力、开放生态和安全责任放进同一套全球治理框架。",
+          "why_it_matters": "这是国际AI治理从原则讨论转向评测、报告和提前干预机制的信号，可能影响前沿模型与开源平台的合规成本。",
+          "why_important": "这是国际AI治理从原则讨论转向评测、报告和提前干预机制的信号，可能影响前沿模型与开源平台的合规成本。",
+          "investment_observation": "关注各国是否把建议转成强制评测、事故披露和模型访问控制；规则碎片化会增加跨境部署成本，也会利好安全评测与治理工具。",
+          "investment_angle": "关注各国是否把建议转成强制评测、事故披露和模型访问控制；规则碎片化会增加跨境部署成本，也会利好安全评测与治理工具。",
+          "companies": [
+            "United Nations",
+            "Hugging Face"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "风险评测"
+          ],
+          "entities": {
+            "companies": [
+              "United Nations",
+              "Hugging Face"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "风险评测"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "AI安全",
+            "国际政策"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "NVIDIA展示埃及AI生态从人才培训走向生产部署",
+          "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+          "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+          "source": "NVIDIA官方",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA在埃及举行生态活动，集中展示当地AI原生企业、开发者、科研团队和产业应用，强调生态建设正在从人才赋能转向生产级部署。该内容属于厂商官方案例，项目规模和实际收入仍需客户数据验证。",
+          "why_it_matters": "新兴市场能否形成算力、人才和行业应用的闭环，决定全球AI基础设施需求是否从少数地区向更广范围扩散。",
+          "why_important": "新兴市场能否形成算力、人才和行业应用的闭环，决定全球AI基础设施需求是否从少数地区向更广范围扩散。",
+          "investment_observation": "关注埃及本地GPU容量、云服务利用率、开发者转付费比例和可复用行业方案；官方生态叙事应与订单、部署和续费数据交叉验证。",
+          "investment_angle": "关注埃及本地GPU容量、云服务利用率、开发者转付费比例和可复用行业方案；官方生态叙事应与订单、部署和续费数据交叉验证。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GPU",
+            "AI生态"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GPU",
+              "AI生态"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "新兴市场",
+            "产业应用"
+          ],
+          "importance_score": 8.1
+        },
+        {
+          "title": "OceanBase方案登顶Data Agent Benchmark",
+          "url": "https://www.qbitai.com/2026/09/493231.html",
+          "link": "https://www.qbitai.com/2026/09/493231.html",
+          "source": "量子位",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "数据",
+          "summary": "OceanBase团队提交的Data Agent方案在国际Data Agent Benchmark取得榜首成绩，展示国产数据库在自然语言理解、查询规划和复杂数据任务执行上的新能力。榜单领先是工程信号，但仍需在真实企业数据和权限环境中复测。",
+          "why_it_matters": "数据库厂商正从存储与查询层向可执行的数据智能体延伸，可能改变企业分析工具和数据平台的产品边界。",
+          "why_important": "数据库厂商正从存储与查询层向可执行的数据智能体延伸，可能改变企业分析工具和数据平台的产品边界。",
+          "investment_observation": "关注基准可复现性、复杂查询正确率、幻觉与权限隔离、跨数据库兼容性，以及该能力能否转化为企业升级和增购收入。",
+          "investment_angle": "关注基准可复现性、复杂查询正确率、幻觉与权限隔离、跨数据库兼容性，以及该能力能否转化为企业升级和增购收入。",
+          "companies": [
+            "OceanBase"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Data Agent",
+            "数据库"
+          ],
+          "entities": {
+            "companies": [
+              "OceanBase"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Data Agent",
+              "数据库"
+            ]
+          },
+          "tags": [
+            "数据",
+            "Agent",
+            "国产软件"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Amazon阻止Meta Muse Agent访问其电商网站",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "source": "TechCrunch",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "Agent",
+          "summary": "Amazon阻止Meta的Muse AI Agent使用Amazon.com。报道指出，Amazon自身拥有基础模型和推理平台，因此没有动力无条件开放交易入口给竞争对手的代理。事件凸显Agent替用户浏览和下单时，平台仍掌握访问与商业规则。",
+          "why_it_matters": "Agent竞争不仅是模型能力竞争，也取决于网站、账户、支付和商品数据是否允许第三方代理访问。",
+          "why_important": "Agent竞争不仅是模型能力竞争，也取决于网站、账户、支付和商品数据是否允许第三方代理访问。",
+          "investment_observation": "关注平台是否推出Agent API、访问收费与归因规则，以及封禁是否扩散到更多服务；拥有高频交易入口的平台可能获得更强议价权。",
+          "investment_angle": "关注平台是否推出Agent API、访问收费与归因规则，以及封禁是否扩散到更多服务；拥有高频交易入口的平台可能获得更强议价权。",
+          "companies": [
+            "Amazon",
+            "Meta"
+          ],
+          "people": [],
+          "products": [
+            "Muse"
+          ],
+          "technologies": [
+            "AI Agent",
+            "电商平台"
+          ],
+          "entities": {
+            "companies": [
+              "Amazon",
+              "Meta"
+            ],
+            "people": [],
+            "products": [
+              "Muse"
+            ],
+            "technologies": [
+              "AI Agent",
+              "电商平台"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "平台治理",
+            "产品应用"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "清华与无问芯穹等开源RPent具身智能框架",
+          "url": "https://www.qbitai.com/2026/09/493218.html",
+          "link": "https://www.qbitai.com/2026/09/493218.html",
+          "source": "量子位",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "机器人",
+          "summary": "清华团队联合无问芯穹等机构开源RPent，尝试把GPT-6 Astra等模型能力接入机器人，使智能体能在物理环境中规划并执行任务。项目提供了具身Agent的工程框架，但真实任务成功率、延迟和安全边界仍需独立验证。",
+          "why_it_matters": "把通用模型接入机器人是从数字Agent走向物理执行的重要一步，也会拉动推理、传感、控制和数据闭环需求。",
+          "why_important": "把通用模型接入机器人是从数字Agent走向物理执行的重要一步，也会拉动推理、传感、控制和数据闭环需求。",
+          "investment_observation": "关注开源完整度、仿真到真实迁移、单任务成本、失败恢复和硬件适配范围；演示效果只有在重复成功率稳定后才具备商业价值。",
+          "investment_angle": "关注开源完整度、仿真到真实迁移、单任务成本、失败恢复和硬件适配范围；演示效果只有在重复成功率稳定后才具备商业价值。",
+          "companies": [
+            "清华大学",
+            "无问芯穹",
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "RPent",
+            "GPT-6 Astra"
+          ],
+          "technologies": [
+            "具身智能",
+            "机器人控制"
+          ],
+          "entities": {
+            "companies": [
+              "清华大学",
+              "无问芯穹",
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "RPent",
+              "GPT-6 Astra"
+            ],
+            "technologies": [
+              "具身智能",
+              "机器人控制"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "开源",
+            "Agent"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Linear称AI编程让CI成为新瓶颈并重构流水线",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "link": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear官方",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "开发者工具",
+          "summary": "Linear分享其工程实践：AI编程提高代码产出速度后，持续集成的排队、反馈和测试时间反而成为瓶颈，因此团队重构CI以缩短反馈环路。文章在开发者社区获得大量讨论，反映AI工具正在把效率压力传导到软件交付基础设施。",
+          "why_it_matters": "当代码生成速度上升，测试、审查和发布能力将决定AI编程能否真正提升团队吞吐量。",
+          "why_important": "当代码生成速度上升，测试、审查和发布能力将决定AI编程能否真正提升团队吞吐量。",
+          "investment_observation": "关注CI时长、失败重跑率、测试成本和每位工程师的合并吞吐量；受益者可能从代码助手扩展到构建缓存、测试选择和工程可观测性平台。",
+          "investment_angle": "关注CI时长、失败重跑率、测试成本和每位工程师的合并吞吐量；受益者可能从代码助手扩展到构建缓存、测试选择和工程可观测性平台。",
+          "companies": [
+            "Linear"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI coding",
+            "CI/CD"
+          ],
+          "entities": {
+            "companies": [
+              "Linear"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI coding",
+              "CI/CD"
+            ]
+          },
+          "tags": [
+            "开发者工具",
+            "AI编程",
+            "AI Infra"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Tim Dettmers发布本地前沿AI开源实践周",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+          "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+          "source": "Tim Dettmers博客",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "开源",
+          "summary": "研究者Tim Dettmers以“Frontier AI on Your Own Hardware”为主题发布开源实践内容，聚焦在个人或自有硬件上运行先进模型的工具与方法。社区关注说明低成本量化、显存优化和本地部署仍是开源AI扩散的核心需求。",
+          "why_it_matters": "本地运行能力能降低云端依赖并改善数据控制，但性能、兼容性和运维门槛决定其企业可用程度。",
+          "why_important": "本地运行能力能降低云端依赖并改善数据控制，但性能、兼容性和运维门槛决定其企业可用程度。",
+          "investment_observation": "关注不同硬件上的实测吞吐、精度损失、能耗和工具维护活跃度；量化与推理优化若标准化，将利好端侧硬件和私有部署生态。",
+          "investment_angle": "关注不同硬件上的实测吞吐、精度损失、能耗和工具维护活跃度；量化与推理优化若标准化，将利好端侧硬件和私有部署生态。",
+          "companies": [],
+          "people": [
+            "Tim Dettmers"
+          ],
+          "products": [],
+          "technologies": [
+            "本地推理",
+            "模型量化"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Tim Dettmers"
+            ],
+            "products": [],
+            "technologies": [
+              "本地推理",
+              "模型量化"
+            ]
+          },
+          "tags": [
+            "开源",
+            "AI Infra",
+            "端侧AI"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "Higgsfield用GPT-6 Astra将视频功能开发缩短至一天",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI官方",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI客户案例称，Higgsfield使用GPT-6 Astra开发视频广告功能，可让小企业从一条高表现广告生成多国版本，并由一名工程师在一天内推出新探索功能。数据来自供应商与客户自述，尚不是独立生产率研究。",
+          "why_it_matters": "案例展示长任务规划和代码能力如何同时进入内容生产与产品研发流程，缩短创意工具迭代周期。",
+          "why_important": "案例展示长任务规划和代码能力如何同时进入内容生产与产品研发流程，缩短创意工具迭代周期。",
+          "investment_observation": "关注功能上线后的使用率、广告转化、推理成本和工程缺陷率；客户案例应以持续交付数据和独立效果指标验证。",
+          "investment_angle": "关注功能上线后的使用率、广告转化、推理成本和工程缺陷率；客户案例应以持续交付数据和独立效果指标验证。",
+          "companies": [
+            "OpenAI",
+            "Higgsfield AI"
+          ],
+          "people": [
+            "Alex Mashrabov"
+          ],
+          "products": [
+            "GPT-6 Astra"
+          ],
+          "technologies": [
+            "视频生成",
+            "长任务规划"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Higgsfield AI"
+            ],
+            "people": [
+              "Alex Mashrabov"
+            ],
+            "products": [
+              "GPT-6 Astra"
+            ],
+            "technologies": [
+              "视频生成",
+              "长任务规划"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "基础模型",
+            "视频AI"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Meta Muse早期移动端增速据称超过ChatGPT同期",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "source": "TechCrunch",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "产品应用",
+          "summary": "据Appfigures估算，Meta新AI Agent Muse在美国和加拿大上线同期的下载量与日活用户高于ChatGPT早期移动端表现。第三方估算可反映初始动量，但不能直接证明长期留存、全球规模或付费能力。",
+          "why_it_matters": "Meta的分发能力可能让Agent产品更快获得用户，重新打开消费级AI入口竞争。",
+          "why_important": "Meta的分发能力可能让Agent产品更快获得用户，重新打开消费级AI入口竞争。",
+          "investment_observation": "关注30日留存、日活/月活、任务完成率、付费转化和地区扩张；首发下载容易受营销推动，持续使用才决定平台价值。",
+          "investment_angle": "关注30日留存、日活/月活、任务完成率、付费转化和地区扩张；首发下载容易受营销推动，持续使用才决定平台价值。",
+          "companies": [
+            "Meta",
+            "OpenAI",
+            "Appfigures"
+          ],
+          "people": [],
+          "products": [
+            "Muse",
+            "ChatGPT"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "OpenAI",
+              "Appfigures"
+            ],
+            "people": [],
+            "products": [
+              "Muse",
+              "ChatGPT"
+            ],
+            "technologies": [
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "用户增长"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "方奇科技获千万级天使轮，研发具身智能通用大脑",
+          "url": "https://36kr.com/p/3991565233257221?f=rss",
+          "link": "https://36kr.com/p/3991565233257221?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-21",
+          "selected_at": "2026-09-22T08:39:57+08:00",
+          "category": "融资",
+          "summary": "具身智能通用大脑公司方奇科技完成千万级天使轮融资，由启迪之星创投等投资。公司由清华计算机系博士王心舟创立，团队曾参与腾讯混元3D与物理AI算法，融资将用于技术研发、团队扩充和典型场景验证。",
+          "why_it_matters": "早期资本继续投入机器人“大脑”层，表明市场仍在寻找可跨硬件和任务复用的具身智能软件栈。",
+          "why_important": "早期资本继续投入机器人“大脑”层，表明市场仍在寻找可跨硬件和任务复用的具身智能软件栈。",
+          "investment_observation": "关注首批场景客户、机器人本体适配数量、真实任务成功率、数据获取成本和后续融资；天使轮阶段的团队履历不能替代交付验证。",
+          "investment_angle": "关注首批场景客户、机器人本体适配数量、真实任务成功率、数据获取成本和后续融资；天使轮阶段的团队履历不能替代交付验证。",
+          "companies": [
+            "方奇科技",
+            "启迪之星创投",
+            "腾讯"
+          ],
+          "people": [
+            "王心舟"
+          ],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "物理AI"
+          ],
+          "entities": {
+            "companies": [
+              "方奇科技",
+              "启迪之星创投",
+              "腾讯"
+            ],
+            "people": [
+              "王心舟"
+            ],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "物理AI"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "具身智能"
+          ],
+          "importance_score": 8.4
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "count": 10,
