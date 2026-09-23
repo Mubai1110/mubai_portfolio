@@ -1,8 +1,450 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-22T08:39:57+08:00",
-  "digest_count": 54,
-  "article_count": 468,
+  "generated_at": "2026-09-23T01:16:01+00:00",
+  "digest_count": 55,
+  "article_count": 478,
   "digests": [
+    {
+      "date": "2026-09-23",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+          "source": "Hacker News",
+          "published_at": "2026-09-22T19:03:38Z",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "AI安全",
+          "summary": "彭博调查称，美国国防体系对AI输出的过度依赖，是伊朗一所学校遭导弹袭击事件的促成因素之一。事件暴露高风险决策中自动化判断、人工复核与责任链条的缺口。",
+          "why_it_matters": "这是AI从辅助分析进入致命决策链后最严峻的治理警示之一。高风险系统不能只看模型准确率，还必须具备来源校验、人工否决、审计记录和明确问责。",
+          "why_important": "这是AI从辅助分析进入致命决策链后最严峻的治理警示之一。高风险系统不能只看模型准确率，还必须具备来源校验、人工否决、审计记录和明确问责。",
+          "investment_observation": "国防与关键基础设施AI采购将更重视可解释性、验证和人机协同。关注安全评测、决策审计、数据溯源与仿真验证供应商，同时警惕缺乏人工复核机制的高风险部署。",
+          "investment_angle": "国防与关键基础设施AI采购将更重视可解释性、验证和人机协同。关注安全评测、决策审计、数据溯源与仿真验证供应商，同时警惕缺乏人工复核机制的高风险部署。",
+          "companies": [
+            "Bloomberg"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "军事AI",
+            "决策支持系统"
+          ],
+          "entities": {
+            "companies": [
+              "Bloomberg"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "军事AI",
+              "决策支持系统"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "军事AI",
+            "治理"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "Anthropic CEO Amodei将向联合国安理会介绍人工智能风险",
+          "url": "https://36kr.com/newsflashes/3995242957607048?f=rss",
+          "link": "https://36kr.com/newsflashes/3995242957607048?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-23 08:33:07  +0800",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "关键人物",
+          "summary": "Anthropic首席执行官Dario Amodei将向联合国安理会介绍AI发展及潜在风险。Sam Altman、Yoshua Bengio与Hugging Face首席执行官Clément Delangue等关键人物也将参与相关会议。",
+          "why_it_matters": "AI风险首次更直接进入联合国安理会这一全球安全治理场域，意味着前沿模型、开源生态和国家安全之间的政策协调将进一步加速。",
+          "why_important": "AI风险首次更直接进入联合国安理会这一全球安全治理场域，意味着前沿模型、开源生态和国家安全之间的政策协调将进一步加速。",
+          "investment_observation": "持续跟踪会议是否形成模型评测、出口管制、开源责任或国际治理的新框架；政策预期变化会直接影响前沿模型公司、算力供应链及合规工具的估值。",
+          "investment_angle": "持续跟踪会议是否形成模型评测、出口管制、开源责任或国际治理的新框架；政策预期变化会直接影响前沿模型公司、算力供应链及合规工具的估值。",
+          "companies": [
+            "Anthropic",
+            "OpenAI",
+            "Hugging Face"
+          ],
+          "people": [
+            "Dario Amodei",
+            "Sam Altman",
+            "Yoshua Bengio",
+            "Clément Delangue"
+          ],
+          "products": [],
+          "technologies": [
+            "前沿模型治理"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "OpenAI",
+              "Hugging Face"
+            ],
+            "people": [
+              "Dario Amodei",
+              "Sam Altman",
+              "Yoshua Bengio",
+              "Clément Delangue"
+            ],
+            "products": [],
+            "technologies": [
+              "前沿模型治理"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI治理",
+            "AI安全"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 22 Sep 2026 21:56:43 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "融资",
+          "summary": "AI数据公司Snorkel AI完成3.5亿美元E轮融资，估值升至35亿美元。公司以数据即服务和程序化标注为核心，受益于企业对训练、微调和评测数据的持续需求。",
+          "why_it_matters": "高质量专有数据正成为模型差异化的关键约束。大额后期融资表明资本仍愿意为能把企业原始数据转化为可训练、可评测资产的平台支付溢价。",
+          "why_important": "高质量专有数据正成为模型差异化的关键约束。大额后期融资表明资本仍愿意为能把企业原始数据转化为可训练、可评测资产的平台支付溢价。",
+          "investment_observation": "重点核查收入增速、毛利率、客户集中度及服务收入占比。长期护城河取决于数据工作流嵌入程度、领域专家网络和自动化工具，而非一次性标注项目。",
+          "investment_angle": "重点核查收入增速、毛利率、客户集中度及服务收入占比。长期护城河取决于数据工作流嵌入程度、领域专家网络和自动化工具，而非一次性标注项目。",
+          "companies": [
+            "Snorkel AI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "数据标注",
+            "训练数据",
+            "程序化标注"
+          ],
+          "entities": {
+            "companies": [
+              "Snorkel AI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "数据标注",
+              "训练数据",
+              "程序化标注"
+            ]
+          },
+          "tags": [
+            "融资",
+            "数据",
+            "后训练"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Don’t be fooled by this summer of AI hype",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+          "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 22 Sep 2026 11:04:51 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "基础模型",
+          "summary": "MIT Technology Review梳理近期多项高调AI声明，提醒市场区分基准成绩、实验性演示与可重复的真实能力；以Anthropic关于Claude Mythos发现软件漏洞的说法为例，强调能力边界与验证条件同样重要。",
+          "why_it_matters": "模型能力叙事正在从跑分竞争转向可验证的实际效果。对企业采购和资本判断而言，独立复现、评测口径与部署成本比单次宣传数字更有参考价值。",
+          "why_important": "模型能力叙事正在从跑分竞争转向可验证的实际效果。对企业采购和资本判断而言，独立复现、评测口径与部署成本比单次宣传数字更有参考价值。",
+          "investment_observation": "关注能够提供独立评测、红队测试和生产环境观测的基础设施公司；对模型厂商的能力声明，应结合第三方复现、客户留存和单位任务成本交叉验证。",
+          "investment_angle": "关注能够提供独立评测、红队测试和生产环境观测的基础设施公司；对模型厂商的能力声明，应结合第三方复现、客户留存和单位任务成本交叉验证。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Claude Mythos"
+          ],
+          "technologies": [
+            "模型评测",
+            "漏洞发现"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Claude Mythos"
+            ],
+            "technologies": [
+              "模型评测",
+              "漏洞发现"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "模型评测",
+            "AI安全"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+          "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+          "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 21 Sep 2026 18:00:07 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA推出DSX Ready计划，用于认证符合AI工厂架构要求的供电与冷却产品。随着高密度算力扩张，电力、散热、水资源、场地和电网接入已成为数据中心建设的核心约束。",
+          "why_it_matters": "算力扩张的瓶颈正从芯片供应延伸到机电基础设施。标准化认证有望缩短部署周期，并强化NVIDIA对整座AI数据中心设计规范的影响力。",
+          "why_important": "算力扩张的瓶颈正从芯片供应延伸到机电基础设施。标准化认证有望缩短部署周期，并强化NVIDIA对整座AI数据中心设计规范的影响力。",
+          "investment_observation": "关注液冷、电源、配电、热管理和数据中心工程企业的认证进展与订单兑现；同时评估认证生态是否提高供应商准入门槛和客户对单一平台的依赖。",
+          "investment_angle": "关注液冷、电源、配电、热管理和数据中心工程企业的认证进展与订单兑现；同时评估认证生态是否提高供应商准入门槛和客户对单一平台的依赖。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "DSX Ready"
+          ],
+          "technologies": [
+            "液冷",
+            "数据中心供电",
+            "AI工厂"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "DSX Ready"
+            ],
+            "technologies": [
+              "液冷",
+              "数据中心供电",
+              "AI工厂"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "数据中心",
+            "液冷"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 22 Sep 2026 20:00:00 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "智能硬件",
+          "summary": "高通发布两款强调端侧AI能力的智能手机芯片，其中旗舰芯片可在本地运行约300亿参数的混合专家模型，显示手机SoC正把生成式AI推理作为核心卖点。",
+          "why_it_matters": "大模型从云端下沉到手机将降低延迟与云推理成本，并改善隐私；同时会重塑手机换机理由、应用分发方式和芯片厂商的软件生态竞争。",
+          "why_important": "大模型从云端下沉到手机将降低延迟与云推理成本，并改善隐私；同时会重塑手机换机理由、应用分发方式和芯片厂商的软件生态竞争。",
+          "investment_observation": "重点观察终端厂商采用节奏、真实功耗和持续推理性能，以及开发者是否围绕端侧模型形成高频应用。受益环节包括先进制程、内存、散热与模型压缩工具。",
+          "investment_angle": "重点观察终端厂商采用节奏、真实功耗和持续推理性能，以及开发者是否围绕端侧模型形成高频应用。受益环节包括先进制程、内存、散热与模型压缩工具。",
+          "companies": [
+            "Qualcomm"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "端侧AI",
+            "混合专家模型",
+            "智能手机SoC"
+          ],
+          "entities": {
+            "companies": [
+              "Qualcomm"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "端侧AI",
+              "混合专家模型",
+              "智能手机SoC"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "AI芯片",
+            "端侧AI"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "source": "The Verge AI",
+          "published_at": "2026-09-22T16:52:40-04:00",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "产品应用",
+          "summary": "Rabbit推出可脱离R1硬件单独使用的AI代理，把核心能力从专用设备扩展到软件服务。此举意味着公司正尝试降低使用门槛，并为此前硬件驱动的产品路线寻找更广泛入口。",
+          "why_it_matters": "AI硬件创业公司转向跨设备软件代理，反映专用硬件获客和留存的现实压力，也验证“代理能力是否必须绑定新硬件”这一关键商业问题。",
+          "why_important": "AI硬件创业公司转向跨设备软件代理，反映专用硬件获客和留存的现实压力，也验证“代理能力是否必须绑定新硬件”这一关键商业问题。",
+          "investment_observation": "关注独立代理的活跃度、付费转化、任务成功率及与手机系统级助手的差异化。若软件留存改善但硬件价值被削弱，商业模式和渠道投入都需要重新评估。",
+          "investment_angle": "关注独立代理的活跃度、付费转化、任务成功率及与手机系统级助手的差异化。若软件留存改善但硬件价值被削弱，商业模式和渠道投入都需要重新评估。",
+          "companies": [
+            "Rabbit"
+          ],
+          "people": [],
+          "products": [
+            "R1",
+            "Rabbit AI Agent"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Rabbit"
+            ],
+            "people": [],
+            "products": [
+              "R1",
+              "Rabbit AI Agent"
+            ],
+            "technologies": [
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "AI Agent",
+            "智能硬件"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Agent时代，CPU的价值该重估了",
+          "url": "https://www.qbitai.com/2026/09/494430.html",
+          "link": "https://www.qbitai.com/2026/09/494430.html",
+          "source": "量子位",
+          "published_at": "Tue, 22 Sep 2026 15:46:54 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "AI Infra",
+          "summary": "量子位分析Agent工作负载对CPU的重新需求：随着工具调用、任务编排、数据处理与多模型协同增加，系统瓶颈不再只在GPU，部分部署中的CPU与GPU资源配置正趋向更均衡。",
+          "why_it_matters": "Agent把推理系统从单一矩阵计算扩展为复杂的软件执行链，可能改变数据中心资源配比，并提升通用计算、内存、网络和调度软件的重要性。",
+          "why_important": "Agent把推理系统从单一矩阵计算扩展为复杂的软件执行链，可能改变数据中心资源配比，并提升通用计算、内存、网络和调度软件的重要性。",
+          "investment_observation": "关注云厂商和整机厂的CPU/GPU采购比例、Agent推理的单位任务成本，以及异构调度软件的实际利用率提升；避免仅凭单一配置案例外推整个市场。",
+          "investment_angle": "关注云厂商和整机厂的CPU/GPU采购比例、Agent推理的单位任务成本，以及异构调度软件的实际利用率提升；避免仅凭单一配置案例外推整个市场。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "CPU",
+            "GPU",
+            "AI Agent",
+            "异构计算"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "CPU",
+              "GPU",
+              "AI Agent",
+              "异构计算"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "CPU",
+            "AI Agent"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+          "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 22 Sep 2026 14:30:00 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "机器人",
+          "summary": "Hello Robot联合创始人兼首席执行官Aaron Edsinger将在TechCrunch Disrupt 2026现场演示Stretch 4。该产品延续移动操作机器人路线，面向真实空间中的感知、移动与抓取任务。",
+          "why_it_matters": "移动操作是具身智能从实验室走向家庭与服务场景的关键形态；公开现场演示比概念视频更能检验硬件可靠性、操作泛化和人机协作能力。",
+          "why_important": "移动操作是具身智能从实验室走向家庭与服务场景的关键形态；公开现场演示比概念视频更能检验硬件可靠性、操作泛化和人机协作能力。",
+          "investment_observation": "关注Stretch 4的定价、交付量、开发者生态和真实客户场景。机器人平台的长期价值取决于硬件毛利、软件复用率以及数据闭环能否随部署规模增强。",
+          "investment_angle": "关注Stretch 4的定价、交付量、开发者生态和真实客户场景。机器人平台的长期价值取决于硬件毛利、软件复用率以及数据闭环能否随部署规模增强。",
+          "companies": [
+            "Hello Robot",
+            "TechCrunch"
+          ],
+          "people": [
+            "Aaron Edsinger"
+          ],
+          "products": [
+            "Stretch 4"
+          ],
+          "technologies": [
+            "移动操作机器人",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "Hello Robot",
+              "TechCrunch"
+            ],
+            "people": [
+              "Aaron Edsinger"
+            ],
+            "products": [
+              "Stretch 4"
+            ],
+            "technologies": [
+              "移动操作机器人",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "智能硬件",
+            "具身智能"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+          "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+          "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 21 Sep 2026 12:00:00 +0000",
+          "selected_at": "2026-09-23T01:16:01+00:00",
+          "category": "AI治理",
+          "summary": "MIT Technology Review在调查美国边境“虚拟墙”监控塔与死亡事件后，提出四项改进方向，核心涉及透明度、效果评估、监督问责以及对高风险群体影响的审查。",
+          "why_it_matters": "边境监控展示了AI与传感器系统在公共部门部署时的典型难题：技术效果、执法激励和人权影响相互交织，单纯增加设备并不等于改善安全。",
+          "why_important": "边境监控展示了AI与传感器系统在公共部门部署时的典型难题：技术效果、执法激励和人权影响相互交织，单纯增加设备并不等于改善安全。",
+          "investment_observation": "公共部门AI项目将越来越需要影响评估、独立审计和持续监测。合规与审计服务存在需求，但供应商也需计入采购周期长、政治风险和声誉风险。",
+          "investment_angle": "公共部门AI项目将越来越需要影响评估、独立审计和持续监测。合规与审计服务存在需求，但供应商也需计入采购周期长、政治风险和声誉风险。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "计算机视觉",
+            "边境监控"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "计算机视觉",
+              "边境监控"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "公共部门",
+            "计算机视觉"
+          ],
+          "importance_score": 8.5
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "count": 10,
