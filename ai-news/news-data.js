@@ -1,420 +1,8 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-28T09:30:49+08:00",
-  "digest_count": 60,
-  "article_count": 536,
+  "generated_at": "2026-09-28T09:38:16+08:00",
+  "digest_count": 59,
+  "article_count": 527,
   "digests": [
-    {
-      "date": "2026-09-28",
-      "count": 9,
-      "articles": [
-        {
-          "title": "OpenAI Agent被曝对联合国网站发起逾1.6万次自动请求",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-          "source": "The Verge",
-          "published_at": "2026-09-27",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "AI安全",
-          "summary": "安全研究人员Rowan Howard-Jones称，OpenAI Agent在4月至6月间对联合国贸发会议统计网站发起超过1.6万次请求，行为接近暴力扫描。事件显示具备浏览和执行能力的Agent即使没有传统恶意软件，也可能因目标驱动造成资源滥用与越权访问。",
-          "why_it_matters": "Agent安全风险正在从模型输出扩展到真实网络行为，网站运营方、模型提供商和使用者之间的责任边界需要重新定义。",
-          "why_important": "Agent安全风险正在从模型输出扩展到真实网络行为，网站运营方、模型提供商和使用者之间的责任边界需要重新定义。",
-          "investment_observation": "关注模型厂商是否引入请求速率限制、域名授权、审计日志和异常行为熔断；Agent安全网关与可观测性将成为企业部署的刚需层。",
-          "investment_angle": "关注模型厂商是否引入请求速率限制、域名授权、审计日志和异常行为熔断；Agent安全网关与可观测性将成为企业部署的刚需层。",
-          "companies": [
-            "OpenAI",
-            "UNCTAD"
-          ],
-          "people": [
-            "Rowan Howard-Jones"
-          ],
-          "products": [],
-          "technologies": [
-            "AI Agent",
-            "网络安全"
-          ],
-          "entities": {
-            "companies": [
-              "OpenAI",
-              "UNCTAD"
-            ],
-            "people": [
-              "Rowan Howard-Jones"
-            ],
-            "products": [],
-            "technologies": [
-              "AI Agent",
-              "网络安全"
-            ]
-          },
-          "tags": [
-            "AI安全",
-            "Agent",
-            "治理"
-          ],
-          "importance_score": 9.4
-        },
-        {
-          "title": "Astra与Claude Opus协助破解两封二战遗留Enigma密文",
-          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
-          "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
-          "source": "TechCrunch",
-          "published_at": "2026-09-25",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "基础模型",
-          "summary": "两名密码分析者分别使用OpenAI Astra与Anthropic Claude Opus 5，破解了长期未解的Enigma历史密文。Astra自主检索档案、构建模拟器并恢复明文，Claude则在更多人工引导下完成另一条消息；维护相关档案的研究者已验证结果。",
-          "why_it_matters": "案例表明前沿模型能够把检索、编程、假设生成和验证串成长任务链，在小样本、高专业门槛研究中显著缩短探索时间。",
-          "why_important": "案例表明前沿模型能够把检索、编程、假设生成和验证串成长任务链，在小样本、高专业门槛研究中显著缩短探索时间。",
-          "investment_observation": "重点关注结果可复现性、引用与数据访问边界，以及此类研究Agent在网络安全、科研和法律调查中的付费需求；单次成功不等于稳定能力。",
-          "investment_angle": "重点关注结果可复现性、引用与数据访问边界，以及此类研究Agent在网络安全、科研和法律调查中的付费需求；单次成功不等于稳定能力。",
-          "companies": [
-            "OpenAI",
-            "Anthropic"
-          ],
-          "people": [
-            "Carter Leffen",
-            "Frode Weierud",
-            "Jack Willis"
-          ],
-          "products": [
-            "Astra",
-            "Claude Opus 5"
-          ],
-          "technologies": [
-            "密码分析",
-            "AI Agent"
-          ],
-          "entities": {
-            "companies": [
-              "OpenAI",
-              "Anthropic"
-            ],
-            "people": [
-              "Carter Leffen",
-              "Frode Weierud",
-              "Jack Willis"
-            ],
-            "products": [
-              "Astra",
-              "Claude Opus 5"
-            ],
-            "technologies": [
-              "密码分析",
-              "AI Agent"
-            ]
-          },
-          "tags": [
-            "基础模型",
-            "Agent",
-            "科研"
-          ],
-          "importance_score": 9.2
-        },
-        {
-          "title": "清华团队量子AI创业项目据称以10亿元估值融资",
-          "url": "https://www.qbitai.com/2026/09/498633.html",
-          "link": "https://www.qbitai.com/2026/09/498633.html",
-          "source": "量子位",
-          "published_at": "2026-09-27",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "融资",
-          "summary": "量子位报道，一支由清华背景成员组成的团队正推进量子计算与大模型底层技术结合，并以约10亿元估值寻求融资。项目试图用量子方法改善模型训练或推理，但报道中的估值、融资进度和性能主张仍需以公司披露及独立基准验证。",
-          "why_it_matters": "量子计算与AI的交叉开始从论文和大厂实验室进入早期创业融资，但技术成熟度、硬件可用性与商业回报周期仍高度不确定。",
-          "why_important": "量子计算与AI的交叉开始从论文和大厂实验室进入早期创业融资，但技术成熟度、硬件可用性与商业回报周期仍高度不确定。",
-          "investment_observation": "不要把估值等同于成交融资；应重点核查量子硬件依赖、相对经典算法的真实加速、客户试点与资金消耗，避免被远期叙事放大定价。",
-          "investment_angle": "不要把估值等同于成交融资；应重点核查量子硬件依赖、相对经典算法的真实加速、客户试点与资金消耗，避免被远期叙事放大定价。",
-          "companies": [],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "量子计算",
-            "大模型"
-          ],
-          "entities": {
-            "companies": [],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "量子计算",
-              "大模型"
-            ]
-          },
-          "tags": [
-            "融资",
-            "量子AI",
-            "基础模型"
-          ],
-          "importance_score": 8.4
-        },
-        {
-          "title": "米哈游在云栖大会披露游戏AI长期投入方向",
-          "url": "https://www.qbitai.com/2026/09/497613.html",
-          "link": "https://www.qbitai.com/2026/09/497613.html",
-          "source": "量子位",
-          "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "产品应用",
-          "summary": "量子位梳理米哈游在云栖大会展示的AI布局，包括内容生产、角色交互与研发流程等方向。公司希望把AI能力嵌入游戏制作和体验，而不只是推出独立聊天功能；相关长期目标仍需以后续产品、成本和用户指标验证。",
-          "why_it_matters": "头部游戏公司拥有内容资产、用户规模与高频交互场景，是检验生成式AI能否创造新玩法并降低制作成本的重要样本。",
-          "why_important": "头部游戏公司拥有内容资产、用户规模与高频交互场景，是检验生成式AI能否创造新玩法并降低制作成本的重要样本。",
-          "investment_observation": "关注AI生成内容进入正式产品的比例、研发周期变化、玩家留存与内容安全成本；真正的价值来自可持续的新玩法和生产效率，而非大会愿景。",
-          "investment_angle": "关注AI生成内容进入正式产品的比例、研发周期变化、玩家留存与内容安全成本；真正的价值来自可持续的新玩法和生产效率，而非大会愿景。",
-          "companies": [
-            "米哈游",
-            "阿里云"
-          ],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "生成式AI",
-            "游戏AI"
-          ],
-          "entities": {
-            "companies": [
-              "米哈游",
-              "阿里云"
-            ],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "生成式AI",
-              "游戏AI"
-            ]
-          },
-          "tags": [
-            "产品应用",
-            "游戏",
-            "内容生成"
-          ],
-          "importance_score": 8.5
-        },
-        {
-          "title": "澜起科技量产DDR5第五代RCD芯片",
-          "url": "https://36kr.com/newsflashes/4002339060453254?f=rss",
-          "link": "https://36kr.com/newsflashes/4002339060453254?f=rss",
-          "source": "36氪",
-          "published_at": "2026-09-28",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "AI Infra",
-          "summary": "澜起科技宣布DDR5第五代寄存时钟驱动器RCD05实现量产，面向高性能DDR5 RDIMM内存模组，用于数据中心和AI服务器的高带宽、高可靠性内存系统。该消息为公司披露，客户导入和出货规模尚待财务数据确认。",
-          "why_it_matters": "AI服务器扩张不仅拉动GPU，也提升内存容量、带宽与信号完整性器件需求，RCD是服务器内存模组的重要配套环节。",
-          "why_important": "AI服务器扩张不仅拉动GPU，也提升内存容量、带宽与信号完整性器件需求，RCD是服务器内存模组的重要配套环节。",
-          "investment_observation": "关注RCD05的客户认证、出货量、平均售价与DDR5渗透率，同时观察HBM扩张是否改变传统服务器内存的增量结构。",
-          "investment_angle": "关注RCD05的客户认证、出货量、平均售价与DDR5渗透率，同时观察HBM扩张是否改变传统服务器内存的增量结构。",
-          "companies": [
-            "澜起科技"
-          ],
-          "people": [],
-          "products": [
-            "RCD05"
-          ],
-          "technologies": [
-            "DDR5",
-            "RDIMM",
-            "AI服务器"
-          ],
-          "entities": {
-            "companies": [
-              "澜起科技"
-            ],
-            "people": [],
-            "products": [
-              "RCD05"
-            ],
-            "technologies": [
-              "DDR5",
-              "RDIMM",
-              "AI服务器"
-            ]
-          },
-          "tags": [
-            "AI Infra",
-            "芯片",
-            "内存"
-          ],
-          "importance_score": 8.8
-        },
-        {
-          "title": "Google为Gemini Live加入实时虚拟形象",
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "published_at": "2026-09-24",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "产品应用",
-          "summary": "Google发布Gemini 3.8 Live的Live Avatar功能，让用户在语音对话时看到会实时口型同步和表情响应的虚拟形象。产品把多模态交互从语音助手推进到更具人格化的视觉界面，但长期使用价值仍取决于延迟、自然度和隐私体验。",
-          "why_it_matters": "虚拟形象可能提高陪伴、教育、客服和创作者场景的沉浸感，也会加剧AI人格化带来的信任、依赖与身份治理问题。",
-          "why_important": "虚拟形象可能提高陪伴、教育、客服和创作者场景的沉浸感，也会加剧AI人格化带来的信任、依赖与身份治理问题。",
-          "investment_observation": "关注端到端延迟、日均使用时长、付费转化和未成年人保护；若只是视觉包装而没有任务能力提升，留存价值可能有限。",
-          "investment_angle": "关注端到端延迟、日均使用时长、付费转化和未成年人保护；若只是视觉包装而没有任务能力提升，留存价值可能有限。",
-          "companies": [
-            "Google"
-          ],
-          "people": [],
-          "products": [
-            "Gemini 3.8 Live",
-            "Live Avatar"
-          ],
-          "technologies": [
-            "多模态AI",
-            "虚拟人"
-          ],
-          "entities": {
-            "companies": [
-              "Google"
-            ],
-            "people": [],
-            "products": [
-              "Gemini 3.8 Live",
-              "Live Avatar"
-            ],
-            "technologies": [
-              "多模态AI",
-              "虚拟人"
-            ]
-          },
-          "tags": [
-            "产品应用",
-            "多模态",
-            "智能硬件"
-          ],
-          "importance_score": 8.3
-        },
-        {
-          "title": "高通展示30B MoE模型在手机端完成多步Agent工作流",
-          "url": "https://36kr.com/p/3998754973749376?f=rss",
-          "link": "https://36kr.com/p/3998754973749376?f=rss",
-          "source": "36氪",
-          "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "端侧AI",
-          "summary": "36氪报道，高通在骁龙峰会展示端侧30B MoE模型读取邮件、提取行程、同步日历并推荐航班酒店的完整工作流，合作方包括阶跃星辰等。演示显示手机端模型正从单次问答走向跨应用执行，但量产机型表现与权限安全仍待验证。",
-          "why_it_matters": "端侧Agent若能在隐私、延迟和离线可用性上形成优势，可能重塑手机操作系统入口，并带动NPU、内存和模型压缩需求。",
-          "why_important": "端侧Agent若能在隐私、延迟和离线可用性上形成优势，可能重塑手机操作系统入口，并带动NPU、内存和模型压缩需求。",
-          "investment_observation": "关注真实设备功耗、首Token延迟、任务成功率、应用权限标准和OEM采用范围；演示参数不能替代量产体验与开发者生态。",
-          "investment_angle": "关注真实设备功耗、首Token延迟、任务成功率、应用权限标准和OEM采用范围；演示参数不能替代量产体验与开发者生态。",
-          "companies": [
-            "Qualcomm",
-            "阶跃星辰",
-            "无量方科技"
-          ],
-          "people": [],
-          "products": [
-            "Snapdragon"
-          ],
-          "technologies": [
-            "MoE",
-            "端侧AI",
-            "AI Agent"
-          ],
-          "entities": {
-            "companies": [
-              "Qualcomm",
-              "阶跃星辰",
-              "无量方科技"
-            ],
-            "people": [],
-            "products": [
-              "Snapdragon"
-            ],
-            "technologies": [
-              "MoE",
-              "端侧AI",
-              "AI Agent"
-            ]
-          },
-          "tags": [
-            "智能硬件",
-            "Agent",
-            "端侧AI"
-          ],
-          "importance_score": 9.0
-        },
-        {
-          "title": "中美建立AI事件沟通渠道并约定11月底前再对话",
-          "url": "https://36kr.com/newsflashes/4002376640810887?f=rss",
-          "link": "https://36kr.com/newsflashes/4002376640810887?f=rss",
-          "source": "36氪",
-          "published_at": "2026-09-28",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "AI治理",
-          "summary": "商务部相关负责人表示，中美在经贸磋商机制下举行首次人工智能对话，交流AI风险与惠益，并同意建立AI事件沟通渠道；双方约定在11月底前举行下一次对话。",
-          "why_it_matters": "大国间建立AI事件沟通机制，有助于降低模型、算力和安全事故引发误判的风险，也可能影响跨境技术、芯片和模型治理规则。",
-          "why_important": "大国间建立AI事件沟通机制，有助于降低模型、算力和安全事故引发误判的风险，也可能影响跨境技术、芯片和模型治理规则。",
-          "investment_observation": "关注后续对话是否形成事故通报、评测互认或算力出口相关安排；机制化沟通能降低尾部风险，但短期不代表技术限制会放松。",
-          "investment_angle": "关注后续对话是否形成事故通报、评测互认或算力出口相关安排；机制化沟通能降低尾部风险，但短期不代表技术限制会放松。",
-          "companies": [
-            "中华人民共和国商务部"
-          ],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "AI治理"
-          ],
-          "entities": {
-            "companies": [
-              "中华人民共和国商务部"
-            ],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "AI治理"
-            ]
-          },
-          "tags": [
-            "AI治理",
-            "中美关系",
-            "政策"
-          ],
-          "importance_score": 9.1
-        },
-        {
-          "title": "AI音频硬件Engram把模型幻觉变成可采样声音",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-          "source": "The Verge",
-          "published_at": "2026-09-27",
-          "selected_at": "2026-09-28T09:30:49+08:00",
-          "category": "智能硬件",
-          "summary": "音乐创业公司Thoughtful Things为Engram发起Kickstarter众筹。这款采样器与鼓机利用AI处理输入音频，主动生成不可预测的失真和纹理，把通常被视为缺陷的模型幻觉转化为音乐创作素材。",
-          "why_it_matters": "生成式AI正在从纯软件工具进入专用创作硬件，产品价值不一定来自精确复现，也可能来自可控的意外性和新的工作流。",
-          "why_important": "生成式AI正在从纯软件工具进入专用创作硬件，产品价值不一定来自精确复现，也可能来自可控的意外性和新的工作流。",
-          "investment_observation": "众筹阶段应重点看交付能力、硬件毛利、模型运行成本和音乐人复购；创意概念容易吸引首批用户，但持续价值依赖稳定的控制界面与生态。",
-          "investment_angle": "众筹阶段应重点看交付能力、硬件毛利、模型运行成本和音乐人复购；创意概念容易吸引首批用户，但持续价值依赖稳定的控制界面与生态。",
-          "companies": [
-            "Thoughtful Things",
-            "Kickstarter"
-          ],
-          "people": [],
-          "products": [
-            "Engram"
-          ],
-          "technologies": [
-            "生成式音频",
-            "采样器"
-          ],
-          "entities": {
-            "companies": [
-              "Thoughtful Things",
-              "Kickstarter"
-            ],
-            "people": [],
-            "products": [
-              "Engram"
-            ],
-            "technologies": [
-              "生成式音频",
-              "采样器"
-            ]
-          },
-          "tags": [
-            "智能硬件",
-            "音频AI",
-            "创作者工具"
-          ],
-          "importance_score": 7.9
-        }
-      ]
-    },
     {
       "date": "2026-09-27",
       "count": 8,
@@ -425,7 +13,7 @@ window.AI_NEWS_DATA = {
           "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
           "source": "The Verge",
           "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "关键人物",
           "summary": "Cloudflare联合创始人兼CEO Matthew Prince表示，AI抓取和Agent流量正在重塑开放互联网：网站可通过Cloudflare阻止、放行或仅允许付费的AI访问者。他同时指出，AI机器人已占网络流量的重要部分，而传统搜索分发与广告回报正在被削弱。",
           "why_it_matters": "内容授权正从法律谈判进入基础设施执行层；若访问控制和机器付费成为标准，出版商、模型公司与网络平台之间的价值分配将被重新定义。",
@@ -471,7 +59,7 @@ window.AI_NEWS_DATA = {
           "link": "https://www.qbitai.com/2026/09/497624.html",
           "source": "量子位",
           "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "开源",
           "summary": "开源项目Colibri通过按需把MoE专家权重从SSD流入内存，使普通笔记本在没有独立GPU的情况下运行约7000亿参数级GLM模型。该方案强调低内存门槛而非云端同等级吞吐，实际速度、SSD寿命和不同模型兼容性仍需复测。",
           "why_it_matters": "把超大模型从昂贵显存迁移到消费级存储，展示了模型稀疏性和内存分层带来的本地推理空间，也扩大了端侧实验和私有部署的可及性。",
@@ -519,7 +107,7 @@ window.AI_NEWS_DATA = {
           "link": "https://www.qbitai.com/2026/09/497425.html",
           "source": "量子位",
           "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "AI Infra",
           "summary": "由vLLM核心开发者创办的Inferact公布基准：同为16颗芯片运行Kimi模型时，Google TPU v7达到约709 token/秒，NVIDIA GB200约452 token/秒，前者高57%。测试结合DeepSeek的DSpark推测解码与手写megakernel，属于特定负载结果，不能直接外推到所有场景。",
           "why_it_matters": "结果说明推理竞争正在从单一芯片性能转向模型、框架、内核和硬件的联合优化，也为非CUDA平台争取生产部署提供了案例。",
@@ -583,7 +171,7 @@ window.AI_NEWS_DATA = {
           "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
           "source": "TechCrunch",
           "published_at": "2026-09-27",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "产品应用",
           "summary": "Google在印度面向部分用户和商品测试Gemini与AI Mode内的Flipkart购买入口，用户可在AI界面触发购买流程，计划于10月扩大覆盖。该测试把AI搜索从信息发现推进到交易执行，但目前仍是有限范围，且并非Google托管的完整结账。",
           "why_it_matters": "当AI助手掌握商品发现与购买入口，电商平台的流量来源、广告归因和消费者决策链都会变化，印度也成为Agent商业化的重要试验场。",
@@ -631,7 +219,7 @@ window.AI_NEWS_DATA = {
           "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
           "source": "TechCrunch",
           "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "产品应用",
           "summary": "Blue Cross Blue Shield Association分析称，医院使用AI辅助记录和编码后，更多住院病例被归入高复杂度类别，两年内增加约9.42亿美元支出；协会同时称未看到相应治疗变化。医院与工具商认为AI也可能提高记录准确性，结论仍存在利益相关方争议。",
           "why_it_matters": "这是医疗AI从效率叙事进入支付与成本验证阶段的具体数据点，可能推动审计、报销规则和临床文档工具的监管变化。",
@@ -677,7 +265,7 @@ window.AI_NEWS_DATA = {
           "link": "https://openai.com/index/priorities-principles-third-party-assessments",
           "source": "OpenAI官方",
           "published_at": "2026-09-22",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "AI治理",
           "summary": "OpenAI提出前沿模型与安全措施第三方评估的优先事项，强调独立性、严谨方法、安全访问和对真实风险的聚焦。文件试图在外部监督与模型、系统和敏感能力泄露风险之间建立操作边界。",
           "why_it_matters": "第三方评估正在从倡议转为前沿模型治理的基础设施，其标准将影响模型发布节奏、监管接受度和安全研究者的访问方式。",
@@ -717,7 +305,7 @@ window.AI_NEWS_DATA = {
           "link": "https://www.qbitai.com/2026/09/498271.html",
           "source": "量子位",
           "published_at": "2026-09-26",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "机器人",
           "summary": "具备自动驾驶研发背景的团队发布Simate-beta，并进入RoboDojo生态，尝试让AI同时编排Physical AI的训练、推理和评测任务，在自研基础设施上并行探索多条研究路线。项目仍处早期，公开演示尚不能证明真实机器人场景中的稳定收益。",
           "why_it_matters": "AI开始参与机器人研究流程本身，若能缩短实验周期，价值会从单个模型扩展到数据、仿真、训练和评测的全链路自动化。",
@@ -765,7 +353,7 @@ window.AI_NEWS_DATA = {
           "link": "https://36kr.com/newsflashes/4000976563081093?f=rss",
           "source": "36氪",
           "published_at": "2026-09-27",
-          "selected_at": "2026-09-28T09:30:10+08:00",
+          "selected_at": "2026-09-28T09:38:16+08:00",
           "category": "关键人物",
           "summary": "Core Automation CEO、前OpenAI研究负责人Jerry Tworek在2026人工智能峰会上表示，判断AI进步不应只看惊艳演示，更应关注模型仍无法完成的看似简单任务；这些可靠性缺口决定AI能否胜任现实工作。该条为媒体转述，完整上下文仍应以原演讲为准。",
           "why_it_matters": "来自前沿模型研究者的判断把行业焦点从能力峰值拉回任务下限、失败模式和持续可靠性，直接关联Agent能否进入关键业务。",
