@@ -1,8 +1,460 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-09-29T09:15:29+08:00",
-  "digest_count": 61,
-  "article_count": 544,
+  "generated_at": "2026-09-30T09:37:10+08:00",
+  "digest_count": 62,
+  "article_count": 553,
   "digests": [
+    {
+      "date": "2026-09-30",
+      "count": 9,
+      "articles": [
+        {
+          "title": "OpenAI在DevDay推出常驻Agent Dots并扩展开发者产品线",
+          "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
+          "link": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
+          "source": "Axios",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "产品",
+          "summary": "OpenAI在DevDay 2026发布常驻AI Agent Dots，并集中展示20余项产品与功能，推动模型从对话工具转向可持续运行、代表用户执行任务的软件。公司此前因安全顾虑暂停GPT-6.1 Astra，Dots的权限边界与监控因此成为发布重点。",
+          "why_it_matters": "常驻Agent把竞争焦点从单次回答转向长期记忆、跨应用执行和权限治理，也会重塑开发者入口、软件分发与API消费结构。",
+          "why_important": "常驻Agent把竞争焦点从单次回答转向长期记忆、跨应用执行和权限治理，也会重塑开发者入口、软件分发与API消费结构。",
+          "investment_observation": "重点跟踪Dots的任务成功率、人工介入率、调用成本、第三方应用接入和付费转化；产品数量不是护城河，可靠执行与安全审计才决定企业采用。",
+          "investment_angle": "重点跟踪Dots的任务成功率、人工介入率、调用成本、第三方应用接入和付费转化；产品数量不是护城河，可靠执行与安全审计才决定企业采用。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "Dots",
+            "GPT-6.1 Astra"
+          ],
+          "technologies": [
+            "AI Agent",
+            "长期记忆",
+            "工具调用"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "Dots",
+              "GPT-6.1 Astra"
+            ],
+            "technologies": [
+              "AI Agent",
+              "长期记忆",
+              "工具调用"
+            ]
+          },
+          "tags": [
+            "产品",
+            "Agent",
+            "开发者生态"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "OpenAI年化经常性收入据报接近700亿美元",
+          "url": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+          "link": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+          "source": "Axios",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "商业化",
+          "summary": "Axios援引知情人士称，OpenAI年化经常性收入已接近700亿美元。增长发生在公司准备上市、持续投入模型训练与推理基础设施之际，收入扩张与巨额算力支出将同时接受公开市场检验。",
+          "why_it_matters": "这是衡量生成式AI真实商业需求和资本开支可持续性的关键指标，也为模型公司、云厂商与算力供应链提供新的估值锚。",
+          "why_important": "这是衡量生成式AI真实商业需求和资本开支可持续性的关键指标，也为模型公司、云厂商与算力供应链提供新的估值锚。",
+          "investment_observation": "报道数字尚待正式财务披露验证；应同步观察净收入留存、企业与消费者收入结构、推理毛利、算力承诺及现金消耗，避免只按ARR给出高估值。",
+          "investment_angle": "报道数字尚待正式财务披露验证；应同步观察净收入留存、企业与消费者收入结构、推理毛利、算力承诺及现金消耗，避免只按ARR给出高估值。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "模型推理"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "模型推理"
+            ]
+          },
+          "tags": [
+            "商业化",
+            "基础模型",
+            "AI Infra"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "Anthropic招股材料披露高速增长与逾80亿美元经营亏损",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+          "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "资本市场",
+          "summary": "据Reuters审阅的Anthropic招股材料，公司2025年收入增长约12倍至近46亿美元，经营亏损超过80亿美元；接近420亿美元的净亏损中约340亿美元来自与历史融资相关的非现金会计调整。材料还把先进AI的潜在灾难性风险列为重要风险因素。",
+          "why_it_matters": "前沿模型公司的增长、算力成本和治理风险首次以接近公开市场披露的方式被同时量化，将影响整个基础模型行业的估值与披露标准。",
+          "why_important": "前沿模型公司的增长、算力成本和治理风险首次以接近公开市场披露的方式被同时量化，将影响整个基础模型行业的估值与披露标准。",
+          "investment_observation": "区分经营亏损与非现金会计损失，重点跟踪2026年收入质量、Claude Code等产品贡献、云与算力长期承诺、毛利改善和治理控制权；招股数字仍需以正式文件为准。",
+          "investment_angle": "区分经营亏损与非现金会计损失，重点跟踪2026年收入质量、Claude Code等产品贡献、云与算力长期承诺、毛利改善和治理控制权；招股数字仍需以正式文件为准。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [
+            "Dario Amodei"
+          ],
+          "products": [
+            "Claude",
+            "Claude Code"
+          ],
+          "technologies": [
+            "基础模型",
+            "AI计算"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [
+              "Dario Amodei"
+            ],
+            "products": [
+              "Claude",
+              "Claude Code"
+            ],
+            "technologies": [
+              "基础模型",
+              "AI计算"
+            ]
+          },
+          "tags": [
+            "IPO",
+            "基础模型",
+            "资本市场"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "美国政府与头部AI公司签署行业自律安全协议",
+          "url": "https://apnews.com/article/595796511f110fc006cca0d01329733e",
+          "link": "https://apnews.com/article/595796511f110fc006cca0d01329733e",
+          "source": "AP",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "AI治理",
+          "summary": "美国总统特朗普与Anthropic、Google、Meta、OpenAI、NVIDIA及xAI等公司负责人签署AI行业自律协议，要求企业就先进系统的安全开发作出共同承诺。参与者包括Dario Amodei、Sundar Pichai、Mark Zuckerberg、Greg Brockman、Jensen Huang和Elon Musk。",
+          "why_it_matters": "多家竞争实验室和算力平台被纳入同一政策框架，意味着前沿AI治理正从单家公司规则走向行业级责任与政府监督。",
+          "why_important": "多家竞争实验室和算力平台被纳入同一政策框架，意味着前沿AI治理正从单家公司规则走向行业级责任与政府监督。",
+          "investment_observation": "关注协议是否形成可审计的测试、事故报告、模型暂停和责任条款；若仅为原则声明，约束力有限，若进入采购或许可规则，则将抬高中小模型公司的合规成本。",
+          "investment_angle": "关注协议是否形成可审计的测试、事故报告、模型暂停和责任条款；若仅为原则声明，约束力有限，若进入采购或许可规则，则将抬高中小模型公司的合规成本。",
+          "companies": [
+            "Anthropic",
+            "Google",
+            "Meta",
+            "OpenAI",
+            "NVIDIA",
+            "xAI"
+          ],
+          "people": [
+            "Donald Trump",
+            "Dario Amodei",
+            "Sundar Pichai",
+            "Mark Zuckerberg",
+            "Greg Brockman",
+            "Jensen Huang",
+            "Elon Musk"
+          ],
+          "products": [],
+          "technologies": [
+            "前沿AI",
+            "安全评测"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic",
+              "Google",
+              "Meta",
+              "OpenAI",
+              "NVIDIA",
+              "xAI"
+            ],
+            "people": [
+              "Donald Trump",
+              "Dario Amodei",
+              "Sundar Pichai",
+              "Mark Zuckerberg",
+              "Greg Brockman",
+              "Jensen Huang",
+              "Elon Musk"
+            ],
+            "products": [],
+            "technologies": [
+              "前沿AI",
+              "安全评测"
+            ]
+          },
+          "tags": [
+            "AI治理",
+            "AI安全",
+            "关键人物"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "OpenAI提出前沿强化学习训练的Safety Case指南",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI",
+          "published_at": "2026-09-28",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "AI安全",
+          "summary": "OpenAI发布前沿AI训练Safety Case初步指南，要求在继续高风险强化学习训练前，用结构化证据说明技术防护、运营流程和失准事件调查足以控制风险，并把评估结论与训练决策连接起来。",
+          "why_it_matters": "安全论证从模型发布前评测前移到训练阶段，有助于把暂停、恢复和升级训练的依据变成可记录、可复核的治理流程。",
+          "why_important": "安全论证从模型发布前评测前移到训练阶段，有助于把暂停、恢复和升级训练的依据变成可记录、可复核的治理流程。",
+          "investment_observation": "关注指南是否形成外部审计、明确阈值和事故披露，以及其他实验室是否采用兼容标准；评测、训练监控、模型权重保护和合规工具链可能形成持续预算。",
+          "investment_angle": "关注指南是否形成外部审计、明确阈值和事故披露，以及其他实验室是否采用兼容标准；评测、训练监控、模型权重保护和合规工具链可能形成持续预算。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "强化学习",
+            "Safety Case",
+            "前沿模型训练"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "强化学习",
+              "Safety Case",
+              "前沿模型训练"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "后训练",
+            "AI治理"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "AI安全研究者公开视频警告超级智能风险",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+          "source": "The Verge",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "关键人物",
+          "summary": "来自OpenAI、Google DeepMind和Anthropic等机构的研究者通过系列公开视频讨论超级智能风险。前OpenAI与DeepMind研究员Geoffrey Irving称其个人判断中，人类灭绝风险约为五五开，受访者呼吁更强的技术防护、制度监督与公众讨论。",
+          "why_it_matters": "前沿实验室内部和离职研究者的公开表态，会影响政策窗口、人才流动与安全投入，也显示能力进展与风险治理之间的分歧正在扩大。",
+          "why_important": "前沿实验室内部和离职研究者的公开表态，会影响政策窗口、人才流动与安全投入，也显示能力进展与风险治理之间的分歧正在扩大。",
+          "investment_observation": "将个人风险判断与可验证证据区分开；重点观察实验室是否增加可量化评测、训练暂停机制和外部监督，而非只跟踪舆论热度。",
+          "investment_angle": "将个人风险判断与可验证证据区分开；重点观察实验室是否增加可量化评测、训练暂停机制和外部监督，而非只跟踪舆论热度。",
+          "companies": [
+            "OpenAI",
+            "Google DeepMind",
+            "Anthropic"
+          ],
+          "people": [
+            "Geoffrey Irving"
+          ],
+          "products": [],
+          "technologies": [
+            "超级智能",
+            "AI对齐"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Google DeepMind",
+              "Anthropic"
+            ],
+            "people": [
+              "Geoffrey Irving"
+            ],
+            "products": [],
+            "technologies": [
+              "超级智能",
+              "AI对齐"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI安全",
+            "基础模型"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "诺因智能完成数亿元融资，累计融资超10亿元",
+          "url": "https://www.qbitai.com/2026/09/499135.html",
+          "link": "https://www.qbitai.com/2026/09/499135.html",
+          "source": "量子位",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "融资",
+          "summary": "消费级具身智能公司诺因智能完成数亿元天使+++轮融资，由京东相关基金领投，正心谷资本、南山战新投和华登投资跟投；公司称成立一年已完成5轮融资、累计超过10亿元，资金用于GLOW模型数据、KNOWIN-X1工程验证和量产准备。",
+          "why_it_matters": "高频融资反映资本继续押注家庭机器人与具身基础模型，但技术演示距离稳定量产、成本控制和真实家庭留存仍有明显距离。",
+          "why_important": "高频融资反映资本继续押注家庭机器人与具身基础模型，但技术演示距离稳定量产、成本控制和真实家庭留存仍有明显距离。",
+          "investment_observation": "重点核验2027年一季度量产计划、单机成本、真实环境任务成功率、数据闭环与售后体系；公司披露的仿真基准需要第三方复现和实机长期验证。",
+          "investment_angle": "重点核验2027年一季度量产计划、单机成本、真实环境任务成功率、数据闭环与售后体系；公司披露的仿真基准需要第三方复现和实机长期验证。",
+          "companies": [
+            "诺因智能",
+            "京东",
+            "正心谷资本",
+            "华登投资"
+          ],
+          "people": [],
+          "products": [
+            "GLOW",
+            "KNOWIN-X1",
+            "KnowinBrain-1.5"
+          ],
+          "technologies": [
+            "具身智能",
+            "机器人",
+            "多模态模型"
+          ],
+          "entities": {
+            "companies": [
+              "诺因智能",
+              "京东",
+              "正心谷资本",
+              "华登投资"
+            ],
+            "people": [],
+            "products": [
+              "GLOW",
+              "KNOWIN-X1",
+              "KnowinBrain-1.5"
+            ],
+            "technologies": [
+              "具身智能",
+              "机器人",
+              "多模态模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "具身智能"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "途见科技获亿元级Pre-A++轮融资，加码柔性触觉传感器",
+          "url": "https://36kr.com/p/4001313474645888?f=rss",
+          "link": "https://36kr.com/p/4001313474645888?f=rss",
+          "source": "36氪",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "融资",
+          "summary": "途见科技完成亿元级Pre-A++轮融资，由北京市人工智能产业投资基金和北京市新材料产业投资基金联合领投。资金将用于多模态柔性触觉传感器与电子皮肤研发、自动化产线和工艺迭代，并完善具身智能数据采集工具及终端供应链。",
+          "why_it_matters": "触觉是机器人从视觉识别走向精细操作的重要感知层，材料、传感器、标定与数据采集的协同能力可能成为具身智能量产瓶颈。",
+          "why_important": "触觉是机器人从视觉识别走向精细操作的重要感知层，材料、传感器、标定与数据采集的协同能力可能成为具身智能量产瓶颈。",
+          "investment_observation": "关注传感器良率、寿命、单位面积成本、客户定点与批量出货，区分实验室性能和量产一致性；产业基金领投有助产线建设，但商业验证仍取决于机器人客户放量。",
+          "investment_angle": "关注传感器良率、寿命、单位面积成本、客户定点与批量出货，区分实验室性能和量产一致性；产业基金领投有助产线建设，但商业验证仍取决于机器人客户放量。",
+          "companies": [
+            "途见科技",
+            "北京市人工智能产业投资基金",
+            "北京市新材料产业投资基金"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "柔性触觉传感器",
+            "电子皮肤",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "途见科技",
+              "北京市人工智能产业投资基金",
+              "北京市新材料产业投资基金"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "柔性触觉传感器",
+              "电子皮肤",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "智能硬件"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "研究发现多款对话式AI客户端向第三方暴露会话衍生数据",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "PoPETs研究论文",
+          "published_at": "2026-09-29",
+          "selected_at": "2026-09-30T09:37:10+08:00",
+          "category": "隐私安全",
+          "summary": "一项对9款主流对话式AI服务网页端和移动端的系统分析发现，6款网页客户端及3款Android客户端会把会话标题、提示词、截图或分享链接等衍生信息传给第三方追踪服务，部分数据还与持久用户标识关联。",
+          "why_it_matters": "对话内容比普通网页行为更敏感，广告和分析追踪进入AI助手后，会扩大企业合规、个人隐私与会话分享链接的攻击面。",
+          "why_important": "对话内容比普通网页行为更敏感，广告和分析追踪进入AI助手后，会扩大企业合规、个人隐私与会话分享链接的攻击面。",
+          "investment_observation": "关注服务商修复披露、默认追踪设置、付费与免费层差异以及GDPR执法；企业级AI产品的本地化、数据最小化和可验证隐私控制会成为采购门槛。",
+          "investment_angle": "关注服务商修复披露、默认追踪设置、付费与免费层差异以及GDPR执法；企业级AI产品的本地化、数据最小化和可验证隐私控制会成为采购门槛。",
+          "companies": [],
+          "people": [
+            "Guilherme Oliveira",
+            "Miguel Sanchez",
+            "Jorge Garcia-Herrero"
+          ],
+          "products": [],
+          "technologies": [
+            "对话式AI",
+            "第三方追踪",
+            "隐私分析"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [
+              "Guilherme Oliveira",
+              "Miguel Sanchez",
+              "Jorge Garcia-Herrero"
+            ],
+            "products": [],
+            "technologies": [
+              "对话式AI",
+              "第三方追踪",
+              "隐私分析"
+            ]
+          },
+          "tags": [
+            "隐私",
+            "AI安全",
+            "研究"
+          ],
+          "importance_score": 8.7
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "count": 8,
