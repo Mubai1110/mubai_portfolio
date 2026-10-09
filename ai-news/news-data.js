@@ -1,8 +1,550 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-08T09:41:33+08:00",
-  "digest_count": 64,
-  "article_count": 571,
+  "generated_at": "2026-10-09T09:12:01+08:00",
+  "digest_count": 65,
+  "article_count": 581,
   "digests": [
+    {
+      "date": "2026-10-09",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Google推出统一企业Agent，贯通Workspace与业务数据",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source": "Google Cloud",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "产品",
+          "summary": "Google Cloud在Gemini at Work 2026发布面向企业的统一Gemini Agent，可作为个人助理、团队项目经理或特定岗位成员，在Gmail、Drive、Docs、Slides、Sheets、Chat和Calendar中延续同一套记忆、技能与治理策略，并加入金融、法律及数据分析等专业能力。",
+          "why_it_matters": "企业Agent的竞争正在从单一聊天入口转向跨应用执行、身份权限和组织级治理。Google把Workspace分发入口、Cloud数据和Agent运行时打通，可能显著改变企业软件预算与协作方式。",
+          "why_important": "企业Agent的竞争正在从单一聊天入口转向跨应用执行、身份权限和组织级治理。Google把Workspace分发入口、Cloud数据和Agent运行时打通，可能显著改变企业软件预算与协作方式。",
+          "investment_observation": "重点验证跨应用任务完成率、权限边界、审计能力、第三方连接器覆盖和企业增购收入；近80%客户使用AI、近90%财富100强采用Gemini Enterprise等官方口径仍需结合活跃使用与付费数据判断。",
+          "investment_angle": "重点验证跨应用任务完成率、权限边界、审计能力、第三方连接器覆盖和企业增购收入；近80%客户使用AI、近90%财富100强采用Gemini Enterprise等官方口径仍需结合活跃使用与付费数据判断。",
+          "companies": [
+            "Google Cloud",
+            "Google"
+          ],
+          "people": [
+            "Thomas Kurian"
+          ],
+          "products": [
+            "Gemini Agent",
+            "Gemini Enterprise",
+            "Google Workspace"
+          ],
+          "technologies": [
+            "AI Agent",
+            "身份与权限管理",
+            "企业AI"
+          ],
+          "entities": {
+            "companies": [
+              "Google Cloud",
+              "Google"
+            ],
+            "people": [
+              "Thomas Kurian"
+            ],
+            "products": [
+              "Gemini Agent",
+              "Gemini Enterprise",
+              "Google Workspace"
+            ],
+            "technologies": [
+              "AI Agent",
+              "身份与权限管理",
+              "企业AI"
+            ]
+          },
+          "tags": [
+            "产品",
+            "Agent",
+            "企业AI"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "Manus完成逾5亿美元融资并重启北京扩张",
+          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+          "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "融资",
+          "summary": "Manus母公司蝴蝶效应宣布完成超过5亿美元融资，由博裕资本和IDG资本领投，腾讯、HSG与真格基金等老股东参与；这是Meta约20亿美元收购被迫终止后的首轮新融资。公司未披露估值，并同步恢复北京办公室招聘、继续扩充海内外团队。",
+          "why_it_matters": "这笔交易显示通用Agent仍能吸引超大额资本，也反映跨境监管可直接重塑公司控制权、融资结构和人才布局。Manus回到中国扩张，将加剧国内Agent人才与企业客户竞争。",
+          "why_important": "这笔交易显示通用Agent仍能吸引超大额资本，也反映跨境监管可直接重塑公司控制权、融资结构和人才布局。Manus回到中国扩张，将加剧国内Agent人才与企业客户竞争。",
+          "investment_observation": "关注估值与交割条件、收入真实性、北京团队规模、推理成本和客户留存；大额融资可延长竞争窗口，但不能替代Agent稳定执行、合规进入海外市场和持续付费的证明。",
+          "investment_angle": "关注估值与交割条件、收入真实性、北京团队规模、推理成本和客户留存；大额融资可延长竞争窗口，但不能替代Agent稳定执行、合规进入海外市场和持续付费的证明。",
+          "companies": [
+            "Manus",
+            "蝴蝶效应",
+            "博裕资本",
+            "IDG资本",
+            "腾讯",
+            "HSG",
+            "真格基金",
+            "Meta"
+          ],
+          "people": [],
+          "products": [
+            "Manus"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Manus",
+              "蝴蝶效应",
+              "博裕资本",
+              "IDG资本",
+              "腾讯",
+              "HSG",
+              "真格基金",
+              "Meta"
+            ],
+            "people": [],
+            "products": [
+              "Manus"
+            ],
+            "technologies": [
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "Agent",
+            "中国AI"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "OpenAI披露俄伊利用AI运营“假门面”影响行动",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+          "source": "OpenAI",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "AI安全",
+          "summary": "OpenAI披露并封禁两组源自俄罗斯和伊朗的隐蔽影响行动：前者通过虚假智库、伪造泄露文件和音频脚本传播地缘政治叙事，后者用七个虚构记者身份向全球中小媒体投稿。OpenAI称伊朗行动近百篇文章曾被刊发或转载，但社交互动有限。",
+          "why_it_matters": "生成式AI并未创造全新的影响行动模式，却降低了多语言写作、虚假身份维护和内部报告生产成本。内容被真实媒体接纳，说明防线需要从平台账号延伸到编辑核验与来源追踪。",
+          "why_important": "生成式AI并未创造全新的影响行动模式，却降低了多语言写作、虚假身份维护和内部报告生产成本。内容被真实媒体接纳，说明防线需要从平台账号延伸到编辑核验与来源追踪。",
+          "investment_observation": "关注媒体身份验证、内容溯源、异常账号图谱和跨平台威胁情报需求；报告由平台自身发布，应结合独立研究评估实际触达，但近百篇稿件落地说明检测和披露工具存在刚性市场。",
+          "investment_angle": "关注媒体身份验证、内容溯源、异常账号图谱和跨平台威胁情报需求；报告由平台自身发布，应结合独立研究评估实际触达，但近百篇稿件落地说明检测和披露工具存在刚性市场。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "影响行动",
+            "内容溯源",
+            "威胁情报"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "影响行动",
+              "内容溯源",
+              "威胁情报"
+            ]
+          },
+          "tags": [
+            "AI安全",
+            "治理",
+            "网络安全"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "STEPX Neo智能体手机定档10月13日发布",
+          "url": "https://www.qbitai.com/2026/10/501915.html",
+          "link": "https://www.qbitai.com/2026/10/501915.html",
+          "source": "量子位",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "智能硬件",
+          "summary": "阶跃终端宣布首款大模型原生智能体手机STEPX Neo将于10月13日发布。产品运行Step AOS并内置个人智能体阶跃Amoo，采用端云协同执行和可撤回、可回滚的权限设计；此前已完成生成式AI服务备案与工信部入网许可。",
+          "why_it_matters": "手机厂商正尝试把Agent从独立App提升到操作系统层，使其直接读取上下文、调用应用并完成任务。若权限与生态落地，入口价值可能从传统应用分发转向任务编排。",
+          "why_important": "手机厂商正尝试把Agent从独立App提升到操作系统层，使其直接读取上下文、调用应用并完成任务。若权限与生态落地，入口价值可能从传统应用分发转向任务编排。",
+          "investment_observation": "发布前仍应把官方演示与真实体验分开。重点看售价、续航、端侧任务占比、第三方应用适配、权限提示是否清晰，以及发布后的销量、留存和任务成功率。",
+          "investment_angle": "发布前仍应把官方演示与真实体验分开。重点看售价、续航、端侧任务占比、第三方应用适配、权限提示是否清晰，以及发布后的销量、留存和任务成功率。",
+          "companies": [
+            "阶跃终端",
+            "阶跃星辰"
+          ],
+          "people": [],
+          "products": [
+            "STEPX Neo",
+            "Step AOS",
+            "阶跃Amoo"
+          ],
+          "technologies": [
+            "端云协同",
+            "AI Agent",
+            "端侧AI"
+          ],
+          "entities": {
+            "companies": [
+              "阶跃终端",
+              "阶跃星辰"
+            ],
+            "people": [],
+            "products": [
+              "STEPX Neo",
+              "Step AOS",
+              "阶跃Amoo"
+            ],
+            "technologies": [
+              "端云协同",
+              "AI Agent",
+              "端侧AI"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "Agent",
+            "手机"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "AI眼镜品牌NIMO获数亿元天使轮融资",
+          "url": "https://www.36kr.com/p/4016645063217281",
+          "link": "https://www.36kr.com/p/4016645063217281",
+          "source": "36氪",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "融资",
+          "summary": "NIMO所属公司比特幻境完成数亿元人民币天使轮融资，投后估值约15亿元，博华资本、戈壁创投、元禾璞华和尚势资本等参与。公司称首款产品月销量已达数千台，并与数百家线下门店及雅视光学合作。",
+          "why_it_matters": "AI眼镜的竞争焦点正从功能堆叠转向佩戴舒适、渠道和日常使用频率。早期公司在天使轮获得数亿元资金，说明资本仍押注眼镜成为下一代AI入口，但量产与复购尚待验证。",
+          "why_important": "AI眼镜的竞争焦点正从功能堆叠转向佩戴舒适、渠道和日常使用频率。早期公司在天使轮获得数亿元资金，说明资本仍押注眼镜成为下一代AI入口，但量产与复购尚待验证。",
+          "investment_observation": "重点核验实际出货和退货率、渠道库存、毛利、续航及日活；15亿元估值与数千台月销之间需要更强增长兑现，线下试戴网络和传统眼镜供应链可能比单项AI功能更构成壁垒。",
+          "investment_angle": "重点核验实际出货和退货率、渠道库存、毛利、续航及日活；15亿元估值与数千台月销之间需要更强增长兑现，线下试戴网络和传统眼镜供应链可能比单项AI功能更构成壁垒。",
+          "companies": [
+            "比特幻境",
+            "NIMO",
+            "博华资本",
+            "戈壁创投",
+            "元禾璞华",
+            "雅视光学"
+          ],
+          "people": [
+            "何迪龙"
+          ],
+          "products": [
+            "NIMO智能眼镜"
+          ],
+          "technologies": [
+            "AI眼镜",
+            "显示光学"
+          ],
+          "entities": {
+            "companies": [
+              "比特幻境",
+              "NIMO",
+              "博华资本",
+              "戈壁创投",
+              "元禾璞华",
+              "雅视光学"
+            ],
+            "people": [
+              "何迪龙"
+            ],
+            "products": [
+              "NIMO智能眼镜"
+            ],
+            "technologies": [
+              "AI眼镜",
+              "显示光学"
+            ]
+          },
+          "tags": [
+            "融资",
+            "智能硬件",
+            "AI眼镜"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "卫澜深海9个月完成5轮融资，训练水下具身模型",
+          "url": "https://www.36kr.com/p/4016617284014210",
+          "link": "https://www.36kr.com/p/4016617284014210",
+          "source": "36氪",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "机器人",
+          "summary": "海洋具身智能公司卫澜深海在9个月内完成5轮融资，推进至天使++++轮，股东包括深创投、元禾原点、国策资本和持续加注的英诺天使。资金将用于训练水下具身模型、建设训练中心，并扩展海洋油气能源场景。",
+          "why_it_matters": "水下作业昂贵且高危，是机器人可创造直接经济价值的工业场景。真实巡检和能源任务能形成稀缺数据，但水下通信、定位、耐压和可靠性也显著高于普通陆地机器人。",
+          "why_important": "水下作业昂贵且高危，是机器人可创造直接经济价值的工业场景。真实巡检和能源任务能形成稀缺数据，但水下通信、定位、耐压和可靠性也显著高于普通陆地机器人。",
+          "investment_observation": "融资金额和订单规模未披露，应重点跟踪已交付客户、单次作业成本、故障率、自主作业时长及服务收入；连续融资说明资本关注度高，也提高了后续商业化兑现压力。",
+          "investment_angle": "融资金额和订单规模未披露，应重点跟踪已交付客户、单次作业成本、故障率、自主作业时长及服务收入；连续融资说明资本关注度高，也提高了后续商业化兑现压力。",
+          "companies": [
+            "卫澜深海",
+            "深创投",
+            "元禾原点",
+            "国策资本",
+            "英诺天使"
+          ],
+          "people": [
+            "张大禹"
+          ],
+          "products": [
+            "超级蛙人号"
+          ],
+          "technologies": [
+            "水下机器人",
+            "具身智能",
+            "自主巡检"
+          ],
+          "entities": {
+            "companies": [
+              "卫澜深海",
+              "深创投",
+              "元禾原点",
+              "国策资本",
+              "英诺天使"
+            ],
+            "people": [
+              "张大禹"
+            ],
+            "products": [
+              "超级蛙人号"
+            ],
+            "technologies": [
+              "水下机器人",
+              "具身智能",
+              "自主巡检"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "工业AI"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "NVIDIA用前沿Agent自动构建物理仿真工作流",
+          "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+          "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+          "source": "NVIDIA",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA展示开发者如何让GPT-6 Astra与Claude Fable 5等Agent调用Omniverse库，构建仓储人形机器人、自动驾驶测试、数字孪生、机器人拆解和房间重建等仿真应用。案例包含传感器差异测量、物理试验和人工验收的迭代流程。",
+          "why_it_matters": "Agent开始从生成代码延伸到调用物理引擎、传感器模型和工程工具。仿真若能被自然语言编排，可降低机器人和自动驾驶测试门槛，但结果仍必须经过指标化验证与人工审查。",
+          "why_important": "Agent开始从生成代码延伸到调用物理引擎、传感器模型和工程工具。仿真若能被自然语言编排，可降低机器人和自动驾驶测试门槛，但结果仍必须经过指标化验证与人工审查。",
+          "investment_observation": "这些是NVIDIA自有案例，尚非独立性能基准。关注开发时长、失败率、仿真到现实差距、Omniverse工具调用量和企业付费；仿真数据、Agent可观测性与验证工具有望成为Physical AI基础设施。",
+          "investment_angle": "这些是NVIDIA自有案例，尚非独立性能基准。关注开发时长、失败率、仿真到现实差距、Omniverse工具调用量和企业付费；仿真数据、Agent可观测性与验证工具有望成为Physical AI基础设施。",
+          "companies": [
+            "NVIDIA",
+            "Anthropic",
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "NVIDIA Omniverse",
+            "GPT-6 Astra",
+            "Claude Fable 5",
+            "Isaac Sim"
+          ],
+          "technologies": [
+            "物理仿真",
+            "数字孪生",
+            "AI Agent",
+            "OpenUSD"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Anthropic",
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "NVIDIA Omniverse",
+              "GPT-6 Astra",
+              "Claude Fable 5",
+              "Isaac Sim"
+            ],
+            "technologies": [
+              "物理仿真",
+              "数字孪生",
+              "AI Agent",
+              "OpenUSD"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "机器人",
+            "Agent"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Persona获1000万美元融资，押注按需唤醒的AI手环",
+          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "融资",
+          "summary": "Cal AI联合创始人Zach Yadegari创办个人AI助理Persona，并获Vine Ventures领投的1000万美元融资。公司计划12月推出179美元手环，以按钮或手腕动作唤醒而非持续录音；当前iMessage测试版有数千名用户，预售收入达五位数美元。",
+          "why_it_matters": "消费者AI硬件正在探索常时录音之外的交互方式，也把隐私、广告推荐和交易授权集中到同一产品。按需唤醒能减少隐私阻力，但云端处理意味着数据安全与网络依赖仍未消失。",
+          "why_important": "消费者AI硬件正在探索常时录音之外的交互方式，也把隐私、广告推荐和交易授权集中到同一产品。按需唤醒能减少隐私阻力，但云端处理意味着数据安全与网络依赖仍未消失。",
+          "investment_observation": "重点看12月交付、退货率、活跃用户、订阅或广告收入和任务成功率；数千名测试用户与五位数预售仍是早期信号，广告与“无偏推荐”的承诺也需要透明机制验证。",
+          "investment_angle": "重点看12月交付、退货率、活跃用户、订阅或广告收入和任务成功率；数千名测试用户与五位数预售仍是早期信号，广告与“无偏推荐”的承诺也需要透明机制验证。",
+          "companies": [
+            "Persona",
+            "Vine Ventures",
+            "MyFitnessPal",
+            "Stripe"
+          ],
+          "people": [
+            "Zach Yadegari"
+          ],
+          "products": [
+            "Persona Band",
+            "Persona"
+          ],
+          "technologies": [
+            "可穿戴AI",
+            "AI Agent",
+            "隐私计算"
+          ],
+          "entities": {
+            "companies": [
+              "Persona",
+              "Vine Ventures",
+              "MyFitnessPal",
+              "Stripe"
+            ],
+            "people": [
+              "Zach Yadegari"
+            ],
+            "products": [
+              "Persona Band",
+              "Persona"
+            ],
+            "technologies": [
+              "可穿戴AI",
+              "AI Agent",
+              "隐私计算"
+            ]
+          },
+          "tags": [
+            "融资",
+            "智能硬件",
+            "Agent"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Pollo AI用OpenAI模型打通广告图像与视频生产",
+          "url": "https://openai.com/index/pollo-ai",
+          "link": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-08",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "产品",
+          "summary": "OpenAI客户案例显示，创意平台Pollo AI组合GPT-5.6、GPT-6 Astra与GPT-Image-2.5，把营销构思、图像生成和视频广告制作串成工作流，帮助创作者从文字想法生成可投放素材。该信息属于合作方案例，并非独立产品评测。",
+          "why_it_matters": "多模型编排正把生成式AI从单点素材工具变成端到端营销生产线。真正的商业价值取决于品牌一致性、修改成本、版权合规和投放转化，而非单张样片质量。",
+          "why_important": "多模型编排正把生成式AI从单点素材工具变成端到端营销生产线。真正的商业价值取决于品牌一致性、修改成本、版权合规和投放转化，而非单张样片质量。",
+          "investment_observation": "关注客户留存、单条成片成本、人工返工率和广告转化提升；由于来源是供应商客户故事，应避免直接采用宣传结论，并用真实付费、版权纠纷与规模化交付检验成效。",
+          "investment_angle": "关注客户留存、单条成片成本、人工返工率和广告转化提升；由于来源是供应商客户故事，应避免直接采用宣传结论，并用真实付费、版权纠纷与规模化交付检验成效。",
+          "companies": [
+            "Pollo AI",
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "Pollo AI",
+            "GPT-5.6",
+            "GPT-6 Astra",
+            "GPT-Image-2.5"
+          ],
+          "technologies": [
+            "生成视频",
+            "多模型编排",
+            "营销自动化"
+          ],
+          "entities": {
+            "companies": [
+              "Pollo AI",
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "Pollo AI",
+              "GPT-5.6",
+              "GPT-6 Astra",
+              "GPT-Image-2.5"
+            ],
+            "technologies": [
+              "生成视频",
+              "多模型编排",
+              "营销自动化"
+            ]
+          },
+          "tags": [
+            "产品",
+            "生成视频",
+            "应用"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "MIT科技评论：公众反感AI却持续增加使用",
+          "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+          "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+          "source": "MIT Technology Review",
+          "published_at": "2026-10-05",
+          "selected_at": "2026-10-09T09:12:01+08:00",
+          "category": "趋势",
+          "summary": "MIT Technology Review分析公众对AI的负面态度与实际使用增长并存的现象，并讨论新创公司Springboards试图让大模型产生更具差异性的回答。该文发布于10月5日，属于本期补充收录的滞后趋势分析，并非当天产品发布。",
+          "why_it_matters": "使用增长不等于信任提升。AI若成为工作和消费服务的默认基础设施，用户可能在缺乏替代选择时继续使用，同时对同质化、透明度、就业与控制权保持反感。",
+          "why_important": "使用增长不等于信任提升。AI若成为工作和消费服务的默认基础设施，用户可能在缺乏替代选择时继续使用，同时对同质化、透明度、就业与控制权保持反感。",
+          "investment_observation": "关注活跃使用与净推荐值的背离、企业强制部署带来的留存假象，以及差异化模型是否能提高付费意愿；情绪调查不能代替行为数据，但品牌信任会影响监管、采购和长期获客成本。",
+          "investment_angle": "关注活跃使用与净推荐值的背离、企业强制部署带来的留存假象，以及差异化模型是否能提高付费意愿；情绪调查不能代替行为数据，但品牌信任会影响监管、采购和长期获客成本。",
+          "companies": [
+            "Springboards"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "大语言模型",
+            "模型多样性"
+          ],
+          "entities": {
+            "companies": [
+              "Springboards"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "大语言模型",
+              "模型多样性"
+            ]
+          },
+          "tags": [
+            "趋势",
+            "用户行为",
+            "模型"
+          ],
+          "importance_score": 8.2
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "count": 10,
