@@ -1,8 +1,440 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-11T18:42:58+08:00",
-  "digest_count": 66,
-  "article_count": 591,
+  "generated_at": "2026-10-13T10:18:37+08:00",
+  "digest_count": 67,
+  "article_count": 599,
   "digests": [
+    {
+      "date": "2026-10-13",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Meta发布首批前沿模型Muse Wonder与Wonder Full",
+          "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+          "link": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+          "source": "Meta",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "基础模型",
+          "summary": "Meta发布Muse Wonder和Muse Wonder Full，称其为公司迄今能力最强的模型，重点面向个人与专业Agent、记忆和代码任务。Wonder已通过Meta Model API和Muse Code提供，Wonder Full面向Muse Code订阅用户；官方基准结论仍需独立复现。",
+          "why_it_matters": "这是Meta重组AI研发体系后首次推出前沿级模型，意味着头部竞争重新扩展到OpenAI、Anthropic、Google之外，也把Meta的消费入口、Agent产品与自有模型重新连成一体。",
+          "why_important": "这是Meta重组AI研发体系后首次推出前沿级模型，意味着头部竞争重新扩展到OpenAI、Anthropic、Google之外，也把Meta的消费入口、Agent产品与自有模型重新连成一体。",
+          "investment_observation": "关注真实任务成功率、API用量、推理毛利和Muse订阅转化。Meta拥有分发优势，但高价前沿模型能否形成持续开发者需求，取决于稳定性、工具生态和单位任务成本。",
+          "investment_angle": "关注真实任务成功率、API用量、推理毛利和Muse订阅转化。Meta拥有分发优势，但高价前沿模型能否形成持续开发者需求，取决于稳定性、工具生态和单位任务成本。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Alexandr Wang",
+            "Mark Zuckerberg"
+          ],
+          "products": [
+            "Muse Wonder",
+            "Muse Wonder Full",
+            "Muse Code"
+          ],
+          "technologies": [
+            "大语言模型",
+            "AI Agent",
+            "长程记忆"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [
+              "Alexandr Wang",
+              "Mark Zuckerberg"
+            ],
+            "products": [
+              "Muse Wonder",
+              "Muse Wonder Full",
+              "Muse Code"
+            ],
+            "technologies": [
+              "大语言模型",
+              "AI Agent",
+              "长程记忆"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "Agent",
+            "Meta"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "微软公布Maia 300，计划2027年扩展至多吉瓦部署",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+          "link": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+          "source": "Microsoft",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "AI Infra",
+          "summary": "微软公布第三代自研AI加速系统Maia 300，面向长上下文、低延迟对话和多步Agent推理，采用TSMC N2P计算芯粒、8组HBM4和96加速器机架设计。公司称其每兆瓦token产出较领先GPU系统高40%，计划2027年开始生产部署并让Maia成为微软产品和服务的主要推理系统。",
+          "why_it_matters": "微软正把模型、软件、芯片、网络和数据中心做系统级协同，以降低对通用GPU的单一依赖。若大规模落地，将改变云端推理的成本结构和NVIDIA在超大规模客户中的份额边界。",
+          "why_important": "微软正把模型、软件、芯片、网络和数据中心做系统级协同，以降低对通用GPU的单一依赖。若大规模落地，将改变云端推理的成本结构和NVIDIA在超大规模客户中的份额边界。",
+          "investment_observation": "性能数字来自微软自身测算，需等待量产、第三方基准和实际利用率验证。重点观察Maia占微软AI芯片采购比例、良率、HBM供应与Copilot单位推理成本。",
+          "investment_angle": "性能数字来自微软自身测算，需等待量产、第三方基准和实际利用率验证。重点观察Maia占微软AI芯片采购比例、良率、HBM供应与Copilot单位推理成本。",
+          "companies": [
+            "Microsoft",
+            "TSMC",
+            "NVIDIA"
+          ],
+          "people": [
+            "Scott Guthrie"
+          ],
+          "products": [
+            "Azure Maia 300",
+            "Maia 200",
+            "Copilot"
+          ],
+          "technologies": [
+            "AI加速器",
+            "HBM4",
+            "芯粒",
+            "推理"
+          ],
+          "entities": {
+            "companies": [
+              "Microsoft",
+              "TSMC",
+              "NVIDIA"
+            ],
+            "people": [
+              "Scott Guthrie"
+            ],
+            "products": [
+              "Azure Maia 300",
+              "Maia 200",
+              "Copilot"
+            ],
+            "technologies": [
+              "AI加速器",
+              "HBM4",
+              "芯粒",
+              "推理"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "Microsoft"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "NVIDIA向OCP开放Vera Rubin机架与计算托盘设计",
+          "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "source": "NVIDIA",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA在OCP全球峰会宣布，通过开放MGX架构向Open Compute Project贡献Vera Rubin机架和计算托盘设计，Cisco、Google、Meta、Microsoft等合作伙伴参与相关基础设施建设。目标是让下一代AI工厂在供电、散热、网络和系统集成上采用更统一的规范。",
+          "why_it_matters": "AI集群扩展到吉瓦级后，竞争不再只在GPU，而在整机柜、网络、电力和冷却的交付效率。开放参考设计能扩大供应链覆盖，同时巩固NVIDIA对数据中心系统标准的影响力。",
+          "why_important": "AI集群扩展到吉瓦级后，竞争不再只在GPU，而在整机柜、网络、电力和冷却的交付效率。开放参考设计能扩大供应链覆盖，同时巩固NVIDIA对数据中心系统标准的影响力。",
+          "investment_observation": "关注OCP设计的实际采用率、Vera Rubin出货节奏、800V直流与液冷配套投资，以及ODM/OEM的价值分配。开放接口扩大生态，但也可能为客户自研芯片接入创造空间。",
+          "investment_angle": "关注OCP设计的实际采用率、Vera Rubin出货节奏、800V直流与液冷配套投资，以及ODM/OEM的价值分配。开放接口扩大生态，但也可能为客户自研芯片接入创造空间。",
+          "companies": [
+            "NVIDIA",
+            "Cisco",
+            "Google",
+            "Meta",
+            "Microsoft",
+            "Open Compute Project"
+          ],
+          "people": [],
+          "products": [
+            "Vera Rubin",
+            "MGX"
+          ],
+          "technologies": [
+            "机架级计算",
+            "液冷",
+            "数据中心",
+            "开放标准"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Cisco",
+              "Google",
+              "Meta",
+              "Microsoft",
+              "Open Compute Project"
+            ],
+            "people": [],
+            "products": [
+              "Vera Rubin",
+              "MGX"
+            ],
+            "technologies": [
+              "机架级计算",
+              "液冷",
+              "数据中心",
+              "开放标准"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "NVIDIA",
+            "数据中心"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "Intel D270以480GB内存切入长上下文AI推理",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "source": "Intel",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "AI Infra",
+          "summary": "Intel推出面向推理的数据中心GPU D270，单卡最高配备480GB LPDDR5X内存，功耗350W，采用标准PCIe 5.0和风冷形态，并宣称可支持PyTorch、vLLM等开放软件生态。产品重点针对长上下文、RAG和高并发Agent工作负载，而非大规模训练。",
+          "why_it_matters": "D270用大容量低功耗内存和现有服务器兼容性差异化竞争，试图绕开高端HBM与专有互联的成本瓶颈，为企业推理和主权云提供NVIDIA之外的选项。",
+          "why_important": "D270用大容量低功耗内存和现有服务器兼容性差异化竞争，试图绕开高端HBM与专有互联的成本瓶颈，为企业推理和主权云提供NVIDIA之外的选项。",
+          "investment_observation": "Intel页面中的性能比较主要来自内部分析，需等待价格、上市时间、实测吞吐和软件成熟度。关键指标是每美元token、模型兼容性、量产供货和云服务商采用。",
+          "investment_angle": "Intel页面中的性能比较主要来自内部分析，需等待价格、上市时间、实测吞吐和软件成熟度。关键指标是每美元token、模型兼容性、量产供货和云服务商采用。",
+          "companies": [
+            "Intel",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Intel GPU D270"
+          ],
+          "technologies": [
+            "LPDDR5X",
+            "PCIe 5.0",
+            "AI推理",
+            "vLLM"
+          ],
+          "entities": {
+            "companies": [
+              "Intel",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Intel GPU D270"
+            ],
+            "technologies": [
+              "LPDDR5X",
+              "PCIe 5.0",
+              "AI推理",
+              "vLLM"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "推理"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "Volta五十亿美元AI算力贷款凸显高杠杆融资压力",
+          "url": "https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html",
+          "link": "https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html",
+          "source": "Bloomberg / Mint",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "融资",
+          "summary": "据Bloomberg报道，摩根大通和高盛牵头为AI云初创公司Volta Infrastructure安排约50亿美元贷款，但只承销其中13亿美元定期贷款，未承销约37亿美元GPU贷款。该融资向投资者提供约11%的收益率，显示市场正要求更高回报来承担AI算力资产和客户风险。",
+          "why_it_matters": "AI基础设施正在从股权融资转向项目贷款和杠杆贷款。银行限制承销敞口、融资成本升至两位数，说明资本市场开始更严格地区分有长期合同保障的算力资产与高风险扩张。",
+          "why_important": "AI基础设施正在从股权融资转向项目贷款和杠杆贷款。银行限制承销敞口、融资成本升至两位数，说明资本市场开始更严格地区分有长期合同保障的算力资产与高风险扩张。",
+          "investment_observation": "关注贷款最终认购、抵押品、客户合同期限、GPU残值和再融资条件。高利率可能压缩新云厂商毛利，并使拥有低成本资本和稳定客户的运营商获得整合优势。",
+          "investment_angle": "关注贷款最终认购、抵押品、客户合同期限、GPU残值和再融资条件。高利率可能压缩新云厂商毛利，并使拥有低成本资本和稳定客户的运营商获得整合优势。",
+          "companies": [
+            "Volta Infrastructure",
+            "JPMorgan Chase",
+            "Goldman Sachs",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "GPU云",
+            "数据中心融资",
+            "杠杆贷款"
+          ],
+          "entities": {
+            "companies": [
+              "Volta Infrastructure",
+              "JPMorgan Chase",
+              "Goldman Sachs",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "GPU云",
+              "数据中心融资",
+              "杠杆贷款"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "风险"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "WindBorne获美国空军最高4900万美元气象数据合同",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+          "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "产品应用",
+          "summary": "美国空军与WindBorne签订最高约4900万美元的气象数据采购合同，按需购买其约700个自主气象气球采集的数据；目前已下单约170万美元。数据也被用于WindBorne自研的AI天气预报模型WeatherMesh，合同将支持气球网络扩张和硬件研发。",
+          "why_it_matters": "该项目展示了高价值AI应用不仅依赖模型，还依赖持续、独占的现实世界数据采集。政府采购为气象AI建立收入锚点，也验证了传感器网络与深度学习模型结合的商业路径。",
+          "why_important": "该项目展示了高价值AI应用不仅依赖模型，还依赖持续、独占的现实世界数据采集。政府采购为气象AI建立收入锚点，也验证了传感器网络与深度学习模型结合的商业路径。",
+          "investment_observation": "合同上限不等于已确认收入，应跟踪实际订单、气球覆盖率、预报精度的独立验证和民用客户增长。数据网络、硬件可靠性和长期政府关系构成主要壁垒。",
+          "investment_angle": "合同上限不等于已确认收入，应跟踪实际订单、气球覆盖率、预报精度的独立验证和民用客户增长。数据网络、硬件可靠性和长期政府关系构成主要壁垒。",
+          "companies": [
+            "WindBorne Systems",
+            "U.S. Air Force"
+          ],
+          "people": [
+            "John Dean",
+            "Andrey Sushko"
+          ],
+          "products": [
+            "WeatherMesh 6"
+          ],
+          "technologies": [
+            "气象AI",
+            "自主气球",
+            "传感器数据"
+          ],
+          "entities": {
+            "companies": [
+              "WindBorne Systems",
+              "U.S. Air Force"
+            ],
+            "people": [
+              "John Dean",
+              "Andrey Sushko"
+            ],
+            "products": [
+              "WeatherMesh 6"
+            ],
+            "technologies": [
+              "气象AI",
+              "自主气球",
+              "传感器数据"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "数据",
+            "政府合同"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "华为研究以RSI框架降低游戏Agent的大模型调用",
+          "url": "https://www.qbitai.com/2026/10/502654.html",
+          "link": "https://www.qbitai.com/2026/10/502654.html",
+          "source": "量子位",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "后训练",
+          "summary": "量子位报道，华为研究团队提出RSI游戏Agent方法，在25款游戏任务中完成通关，并称操作次数较人类少56%；部分阶段可将决策能力迁移到轻量策略，不再持续调用大模型。相关结果应以论文、评测设置和独立复现为准。",
+          "why_it_matters": "若Agent能把大模型规划逐步蒸馏成低成本策略，将减少长程任务的推理费用与延迟，对机器人、游戏和自动化控制具有通用价值。",
+          "why_important": "若Agent能把大模型规划逐步蒸馏成低成本策略，将减少长程任务的推理费用与延迟，对机器人、游戏和自动化控制具有通用价值。",
+          "investment_observation": "重点关注RSI的完整论文、训练成本、跨游戏泛化和失败率。商业价值取决于能否把一次性学习迁移到开放环境，而不是只在固定游戏基准中优化。",
+          "investment_angle": "重点关注RSI的完整论文、训练成本、跨游戏泛化和失败率。商业价值取决于能否把一次性学习迁移到开放环境，而不是只在固定游戏基准中优化。",
+          "companies": [
+            "Huawei"
+          ],
+          "people": [],
+          "products": [
+            "RSI"
+          ],
+          "technologies": [
+            "AI Agent",
+            "策略蒸馏",
+            "强化学习",
+            "大模型推理"
+          ],
+          "entities": {
+            "companies": [
+              "Huawei"
+            ],
+            "people": [],
+            "products": [
+              "RSI"
+            ],
+            "technologies": [
+              "AI Agent",
+              "策略蒸馏",
+              "强化学习",
+              "大模型推理"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "Agent",
+            "研究"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Danu Robotics融资500万美元推进AI回收分拣机器人",
+          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+          "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-09",
+          "selected_at": "2026-10-13T10:18:37+08:00",
+          "category": "机器人",
+          "summary": "苏格兰初创公司Danu Robotics完成500万美元后期种子轮融资，用于商业化H.E.R.O.回收分拣机器人。公司采用夹爪而非吸盘拾取物品，并让视觉与控制软件在运行中持续改进；目前披露约50万美元已签合同和超过200家潜在客户。本条为10月9日发布、此前未收录的滞后补充。",
+          "why_it_matters": "废弃物分拣是环境复杂、人工成本高但可量化回报的机器人场景，适合检验具身AI能否从演示进入持续运营。早期合同显示需求存在，但规模化仍依赖可靠性和维护经济性。",
+          "why_important": "废弃物分拣是环境复杂、人工成本高但可量化回报的机器人场景，适合检验具身AI能否从演示进入持续运营。早期合同显示需求存在，但规模化仍依赖可靠性和维护经济性。",
+          "investment_observation": "关注每小时分拣量、纯度、停机率、维护成本和客户从意向到部署的转化。500万美元规模较小，后续制造资金和渠道伙伴将决定扩张速度。",
+          "investment_angle": "关注每小时分拣量、纯度、停机率、维护成本和客户从意向到部署的转化。500万美元规模较小，后续制造资金和渠道伙伴将决定扩张速度。",
+          "companies": [
+            "Danu Robotics"
+          ],
+          "people": [
+            "Amy Ma"
+          ],
+          "products": [
+            "H.E.R.O."
+          ],
+          "technologies": [
+            "计算机视觉",
+            "机器人抓取",
+            "废弃物分拣"
+          ],
+          "entities": {
+            "companies": [
+              "Danu Robotics"
+            ],
+            "people": [
+              "Amy Ma"
+            ],
+            "products": [
+              "H.E.R.O."
+            ],
+            "technologies": [
+              "计算机视觉",
+              "机器人抓取",
+              "废弃物分拣"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "融资",
+            "产品应用"
+          ],
+          "importance_score": 8.5
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "count": 10,
