@@ -1,8 +1,515 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-13T10:18:37+08:00",
-  "digest_count": 67,
-  "article_count": 599,
+  "generated_at": "2026-10-14T09:46:16+08:00",
+  "digest_count": 68,
+  "article_count": 609,
   "digests": [
+    {
+      "date": "2026-10-14",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Google发布Gemini 4 Argon并扩展至机器人研究工作流",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "基础模型",
+          "summary": "Google DeepMind发布Gemini 4 Argon的机器人研究能力展示：模型可阅读控制论文与公开检查点，把物理模型和闭环控制器移植为可运行的MuJoCo WebAssembly实验，并在无头浏览器中验证。Argon同时已通过Gemini API、AI Studio与Google Cloud向开发者和企业开放；机器人结果仍主要来自官方演示与评测。",
+          "why_it_matters": "前沿模型正从生成代码迈向复现、迁移和验证完整研究系统。若这种长程技术工作可靠，模型价值会从聊天和辅助编程扩展到机器人研发、仿真和工程验证。",
+          "why_important": "前沿模型正从生成代码迈向复现、迁移和验证完整研究系统。若这种长程技术工作可靠，模型价值会从聊天和辅助编程扩展到机器人研发、仿真和工程验证。",
+          "investment_observation": "重点观察第三方对复杂论文复现成功率、错误发现率、运行成本与人工复核时间的评估。机器人软件栈和仿真工具可能率先受益，但官方案例不能替代真实硬件验证。",
+          "investment_angle": "重点观察第三方对复杂论文复现成功率、错误发现率、运行成本与人工复核时间的评估。机器人软件栈和仿真工具可能率先受益，但官方案例不能替代真实硬件验证。",
+          "companies": [
+            "Google",
+            "Google DeepMind"
+          ],
+          "people": [],
+          "products": [
+            "Gemini 4 Argon",
+            "Gemini API",
+            "Google AI Studio"
+          ],
+          "technologies": [
+            "大语言模型",
+            "机器人控制",
+            "MuJoCo",
+            "代码生成"
+          ],
+          "entities": {
+            "companies": [
+              "Google",
+              "Google DeepMind"
+            ],
+            "people": [],
+            "products": [
+              "Gemini 4 Argon",
+              "Gemini API",
+              "Google AI Studio"
+            ],
+            "technologies": [
+              "大语言模型",
+              "机器人控制",
+              "MuJoCo",
+              "代码生成"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "机器人",
+            "Google"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "Character.AI申请Chapter 11并寻求法院监督出售",
+          "url": "https://blog.character.ai/an-update-on-character-ai",
+          "link": "https://blog.character.ai/an-update-on-character-ai",
+          "source": "Character.AI",
+          "published_at": "2026-10-12",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "公司",
+          "summary": "Character.AI宣布启动自愿Chapter 11破产程序，目的是在法院监督下出售公司。公司称平台在程序期间将继续运营，用户角色、聊天和服务不会因申请本身立即消失；最终交易结构和买方尚未确定。",
+          "why_it_matters": "这是一家头部消费级AI陪伴产品的重大资本事件，说明高使用量并不自动转化为可持续现金流，也会重新触发对未成年人安全、模型成本和平台责任的审视。",
+          "why_important": "这是一家头部消费级AI陪伴产品的重大资本事件，说明高使用量并不自动转化为可持续现金流，也会重新触发对未成年人安全、模型成本和平台责任的审视。",
+          "investment_observation": "关注法院文件中的收入、算力负担、负债与潜在买方，而不是把Chapter 11误读为即时停服。收购价格和用户留存将为消费AI应用的资产价值提供新锚点。",
+          "investment_angle": "关注法院文件中的收入、算力负担、负债与潜在买方，而不是把Chapter 11误读为即时停服。收购价格和用户留存将为消费AI应用的资产价值提供新锚点。",
+          "companies": [
+            "Character.AI"
+          ],
+          "people": [],
+          "products": [
+            "Character.AI"
+          ],
+          "technologies": [
+            "AI陪伴",
+            "大语言模型"
+          ],
+          "entities": {
+            "companies": [
+              "Character.AI"
+            ],
+            "people": [],
+            "products": [
+              "Character.AI"
+            ],
+            "technologies": [
+              "AI陪伴",
+              "大语言模型"
+            ]
+          },
+          "tags": [
+            "公司",
+            "消费AI",
+            "破产重组"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "无问芯穹完成23亿元C轮融资，累计融资43亿元",
+          "url": "https://www.qbitai.com/2026/10/502767.html",
+          "link": "https://www.qbitai.com/2026/10/502767.html",
+          "source": "量子位",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "融资",
+          "summary": "AI基础设施公司无问芯穹宣布完成23亿元C轮融资，成立以来累计融资约43亿元；报道将其称为中国AI原生基础设施赛道单轮及累计融资纪录。公司同时布局异构算力调度、模型服务和行业解决方案，具体收入结构与估值未公开。",
+          "why_it_matters": "大额融资显示国产异构算力平台仍是资本重点，竞争从单纯卖算力转向芯片适配、集群调度、模型服务和行业交付的全栈能力。",
+          "why_important": "大额融资显示国产异构算力平台仍是资本重点，竞争从单纯卖算力转向芯片适配、集群调度、模型服务和行业交付的全栈能力。",
+          "investment_observation": "融资纪录属于公司及媒体口径，需结合投资方、估值、现金消耗、GPU利用率和付费客户验证。重点看多芯片调度能否形成可持续毛利，而非依赖项目制集成。",
+          "investment_angle": "融资纪录属于公司及媒体口径，需结合投资方、估值、现金消耗、GPU利用率和付费客户验证。重点看多芯片调度能否形成可持续毛利，而非依赖项目制集成。",
+          "companies": [
+            "无问芯穹"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Infra",
+            "异构算力",
+            "模型服务",
+            "集群调度"
+          ],
+          "entities": {
+            "companies": [
+              "无问芯穹"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Infra",
+              "异构算力",
+              "模型服务",
+              "集群调度"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI Infra",
+            "国产算力"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "AI实验室开始收购停运初创公司的数据资产",
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+          "source": "MIT Technology Review",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "数据",
+          "summary": "MIT Technology Review调查称，部分AI实验室和数据中介正在购买已经停运或清算初创公司的用户与业务数据，用于模型训练。交易把原本被视为低价值的遗留数据变成可出售资产，也带来用户授权、隐私承诺和数据来源透明度问题。",
+          "why_it_matters": "高质量真实世界数据日益稀缺，训练数据市场正在延伸到公司清算环节。数据权利若在企业倒闭后被重新解释，可能推动更严格的合同、披露和审计要求。",
+          "why_important": "高质量真实世界数据日益稀缺，训练数据市场正在延伸到公司清算环节。数据权利若在企业倒闭后被重新解释，可能推动更严格的合同、披露和审计要求。",
+          "investment_observation": "关注数据经纪、授权管理、去标识化和训练数据审计工具。数据资产价格可能上升，但未经清晰同意的交易面临诉讼、监管和模型下架风险。",
+          "investment_angle": "关注数据经纪、授权管理、去标识化和训练数据审计工具。数据资产价格可能上升，但未经清晰同意的交易面临诉讼、监管和模型下架风险。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "训练数据",
+            "数据授权",
+            "隐私",
+            "数据治理"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "训练数据",
+              "数据授权",
+              "隐私",
+              "数据治理"
+            ]
+          },
+          "tags": [
+            "数据",
+            "治理",
+            "训练"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Shopify向更多AI购物Agent开放商品目录",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "source": "The Verge",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "产品应用",
+          "summary": "Shopify扩大Agent商业生态，让更多第三方AI Agent浏览其商家商品并发起购买流程。此举把商品发现入口从搜索、社交和店铺页面进一步延伸到对话式代理，但支付控制、商家归因和平台抽成等细节仍决定实际采用。",
+          "why_it_matters": "电商平台正在争夺Agent时代的商品索引和交易协议控制权。若消费者把选品交给Agent，流量分配、广告和转化归因都会发生结构性变化。",
+          "why_important": "电商平台正在争夺Agent时代的商品索引和交易协议控制权。若消费者把选品交给Agent，流量分配、广告和转化归因都会发生结构性变化。",
+          "investment_observation": "观察接入Agent数量、Agent带来的成交额、退货率、商家获客成本和支付闭环。开放目录能扩大分发，但平台必须避免商品信息被错误解释或商家品牌被中介化。",
+          "investment_angle": "观察接入Agent数量、Agent带来的成交额、退货率、商家获客成本和支付闭环。开放目录能扩大分发，但平台必须避免商品信息被错误解释或商家品牌被中介化。",
+          "companies": [
+            "Shopify"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "Agent商业",
+            "电商"
+          ],
+          "entities": {
+            "companies": [
+              "Shopify"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "Agent商业",
+              "电商"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "电商"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "法院要求OpenAI提交苹果商业秘密案相关招聘材料",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+          "source": "TechCrunch",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "公司",
+          "summary": "美国联邦法官裁定，苹果可加速获取OpenAI招聘前苹果员工时的部分面试材料、私人消息并安排相关证词；OpenAI需在规定期限内提交已收集及其他相关材料。法官同时拒绝了苹果部分更宽泛的加速取证请求，案件指控尚未经最终裁判。",
+          "why_it_matters": "OpenAI消费硬件与机器人团队的招聘正在演变为知识产权诉讼。判决结果可能影响AI公司从成熟硬件团队挖角时的合规边界和产品开发节奏。",
+          "why_important": "OpenAI消费硬件与机器人团队的招聘正在演变为知识产权诉讼。判决结果可能影响AI公司从成熟硬件团队挖角时的合规边界和产品开发节奏。",
+          "investment_observation": "关注后续禁令、和解、核心人员变动和硬件发布时间。现阶段应区分苹果的指控、法院准许的取证范围与最终责任认定，避免把诉讼材料当成已证实事实。",
+          "investment_angle": "关注后续禁令、和解、核心人员变动和硬件发布时间。现阶段应区分苹果的指控、法院准许的取证范围与最终责任认定，避免把诉讼材料当成已证实事实。",
+          "companies": [
+            "OpenAI",
+            "Apple"
+          ],
+          "people": [
+            "Edward Davila",
+            "Tang Yew Tan",
+            "Chang Liu",
+            "Alyssa Peng"
+          ],
+          "products": [],
+          "technologies": [
+            "消费硬件",
+            "商业秘密"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Apple"
+            ],
+            "people": [
+              "Edward Davila",
+              "Tang Yew Tan",
+              "Chang Liu",
+              "Alyssa Peng"
+            ],
+            "products": [],
+            "technologies": [
+              "消费硬件",
+              "商业秘密"
+            ]
+          },
+          "tags": [
+            "公司",
+            "OpenAI",
+            "Apple",
+            "法律"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "三凯机电完成数亿元B轮融资扩产机器人关节减速器",
+          "url": "https://36kr.com/p/4023807119789956",
+          "link": "https://36kr.com/p/4023807119789956",
+          "source": "36氪",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "融资",
+          "summary": "浙江三凯机电完成数亿元B轮融资，由工业母机产业投资基金与物产中大投资联合领投，资金用于人形机器人关节减速器及驱动一体化研发和精密减速器扩产。公司称产品已向多家头部机器人企业供货，新产能达产后计划形成百万套级年产能力。",
+          "why_it_matters": "减速器是机器人关节的关键成本与性能环节，成熟工业传动厂商正在借制造和客户基础切入人形机器人供应链，国产替代也从样品验证进入产能建设。",
+          "why_important": "减速器是机器人关节的关键成本与性能环节，成熟工业传动厂商正在借制造和客户基础切入人形机器人供应链，国产替代也从样品验证进入产能建设。",
+          "investment_observation": "供货、精度和产能数字主要来自公司披露，需看批量收入、良率、寿命、客户集中度和扩产利用率。行业路线仍在变化，过早扩产可能带来设备闲置风险。",
+          "investment_angle": "供货、精度和产能数字主要来自公司披露，需看批量收入、良率、寿命、客户集中度和扩产利用率。行业路线仍在变化，过早扩产可能带来设备闲置风险。",
+          "companies": [
+            "三凯机电",
+            "物产中大",
+            "财通资本"
+          ],
+          "people": [
+            "江建斌"
+          ],
+          "products": [],
+          "technologies": [
+            "精密减速器",
+            "机器人关节",
+            "伺服驱动"
+          ],
+          "entities": {
+            "companies": [
+              "三凯机电",
+              "物产中大",
+              "财通资本"
+            ],
+            "people": [
+              "江建斌"
+            ],
+            "products": [],
+            "technologies": [
+              "精密减速器",
+              "机器人关节",
+              "伺服驱动"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "供应链"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "DeepSeek据报拟领投具身智能初创Winverse AI",
+          "url": "https://www.qbitai.com/2026/10/503093.html",
+          "link": "https://www.qbitai.com/2026/10/503093.html",
+          "source": "量子位",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "融资",
+          "summary": "多家媒体援引知情人士称，DeepSeek拟领投由前腾讯科学家、Swin Transformer作者胡瀚创办的Winverse AI种子轮，投后估值约4亿美元，美团旗下龙珠投资等也被报道参与。交易截至报道时未获相关方正式确认，Winverse的具体产品路线也尚未公开。",
+          "why_it_matters": "若交易完成，意味着以语言模型著称的DeepSeek开始通过投资补足视觉、世界模型和具身智能能力，也反映顶尖研究人才创业项目在产品落地前即可获得高估值。",
+          "why_important": "若交易完成，意味着以语言模型著称的DeepSeek开始通过投资补足视觉、世界模型和具身智能能力，也反映顶尖研究人才创业项目在产品落地前即可获得高估值。",
+          "investment_observation": "这仍是未确认交易，应等待公司或投资方公告。重点看融资是否交割、技术团队、首个产品和机器人数据来源；早期高估值会显著抬高后续商业化门槛。",
+          "investment_angle": "这仍是未确认交易，应等待公司或投资方公告。重点看融资是否交割、技术团队、首个产品和机器人数据来源；早期高估值会显著抬高后续商业化门槛。",
+          "companies": [
+            "DeepSeek",
+            "Winverse AI",
+            "Long-Z Investments",
+            "Meituan"
+          ],
+          "people": [
+            "梁文锋",
+            "胡瀚"
+          ],
+          "products": [
+            "Swin Transformer"
+          ],
+          "technologies": [
+            "具身智能",
+            "世界模型",
+            "计算机视觉"
+          ],
+          "entities": {
+            "companies": [
+              "DeepSeek",
+              "Winverse AI",
+              "Long-Z Investments",
+              "Meituan"
+            ],
+            "people": [
+              "梁文锋",
+              "胡瀚"
+            ],
+            "products": [
+              "Swin Transformer"
+            ],
+            "technologies": [
+              "具身智能",
+              "世界模型",
+              "计算机视觉"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "DeepSeek"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "NVIDIA完善RTX Spark本地Agent软硬件生态",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+          "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+          "source": "NVIDIA",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "智能硬件",
+          "summary": "NVIDIA公布RTX Spark上市前的软件与应用更新：设备最高配备128GB统一内存和约1 petaflop AI算力，支持本地与云端模型路由；Nemotron 3.5 Bolt 74B、PAIR、Broadcast 2.3及多款Agent工具将陆续适配。RTX Spark笔记本计划10月16日上市，性能数据来自官方。",
+          "why_it_matters": "个人电脑正在从AI加速终端转为可持续运行本地Agent的计算节点。大内存、模型路由与安全沙箱的组合，有望降低隐私敏感任务对云端推理的依赖。",
+          "why_important": "个人电脑正在从AI加速终端转为可持续运行本地Agent的计算节点。大内存、模型路由与安全沙箱的组合，有望降低隐私敏感任务对云端推理的依赖。",
+          "investment_observation": "关注售价、续航、真实token吞吐、应用适配和消费者采用率。硬件参数强不代表Agent体验成熟，本地模型质量、权限控制和软件易用性才决定换机需求。",
+          "investment_angle": "关注售价、续航、真实token吞吐、应用适配和消费者采用率。硬件参数强不代表Agent体验成熟，本地模型质量、权限控制和软件易用性才决定换机需求。",
+          "companies": [
+            "NVIDIA",
+            "Microsoft",
+            "Adobe"
+          ],
+          "people": [],
+          "products": [
+            "RTX Spark",
+            "Nemotron 3.5 Bolt 74B",
+            "NVIDIA PAIR",
+            "Broadcast 2.3",
+            "Switchyard"
+          ],
+          "technologies": [
+            "本地AI",
+            "统一内存",
+            "模型路由",
+            "AI PC"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Microsoft",
+              "Adobe"
+            ],
+            "people": [],
+            "products": [
+              "RTX Spark",
+              "Nemotron 3.5 Bolt 74B",
+              "NVIDIA PAIR",
+              "Broadcast 2.3",
+              "Switchyard"
+            ],
+            "technologies": [
+              "本地AI",
+              "统一内存",
+              "模型路由",
+              "AI PC"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "本地AI",
+            "NVIDIA"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "深度云海获千万级天使轮，押注GEO与Agent营销",
+          "url": "https://36kr.com/p/4023041152585603",
+          "link": "https://36kr.com/p/4023041152585603",
+          "source": "36氪",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-14T09:46:16+08:00",
+          "category": "融资",
+          "summary": "GEO营销公司深度云海完成千万级天使轮融资，由华工科技领投，资金用于技术底座、海外市场、产品和AI人才。公司由前百度搜索团队创办，试图帮助企业理解并优化品牌在生成式搜索和AI Agent中的呈现与交易转化。",
+          "why_it_matters": "随着用户入口从关键词搜索迁移到AI答案和Agent，品牌需要新的可见性、内容结构化与效果归因工具。搜索营销经验可能复用，但行业标准和平台规则仍未稳定。",
+          "why_important": "随着用户入口从关键词搜索迁移到AI答案和Agent，品牌需要新的可见性、内容结构化与效果归因工具。搜索营销经验可能复用，但行业标准和平台规则仍未稳定。",
+          "investment_observation": "关注可验证的客户续费、AI答案曝光到成交的归因、平台依赖和毛利率。GEO概念热度高，真正壁垒来自持续数据、跨平台测量和直接收入提升，而非内容代运营。",
+          "investment_angle": "关注可验证的客户续费、AI答案曝光到成交的归因、平台依赖和毛利率。GEO概念热度高，真正壁垒来自持续数据、跨平台测量和直接收入提升，而非内容代运营。",
+          "companies": [
+            "深度云海",
+            "华工科技",
+            "Baidu"
+          ],
+          "people": [
+            "钱程",
+            "杨海玲",
+            "龙杰"
+          ],
+          "products": [],
+          "technologies": [
+            "GEO",
+            "生成式搜索",
+            "AI Agent",
+            "营销技术"
+          ],
+          "entities": {
+            "companies": [
+              "深度云海",
+              "华工科技",
+              "Baidu"
+            ],
+            "people": [
+              "钱程",
+              "杨海玲",
+              "龙杰"
+            ],
+            "products": [],
+            "technologies": [
+              "GEO",
+              "生成式搜索",
+              "AI Agent",
+              "营销技术"
+            ]
+          },
+          "tags": [
+            "融资",
+            "产品应用",
+            "GEO"
+          ],
+          "importance_score": 8.4
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "count": 8,
