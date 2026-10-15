@@ -1,8 +1,529 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-14T09:46:16+08:00",
-  "digest_count": 68,
-  "article_count": 609,
+  "generated_at": "2026-10-15T09:35:42+08:00",
+  "digest_count": 69,
+  "article_count": 619,
   "digests": [
+    {
+      "date": "2026-10-15",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI报告：欧盟企业Agent使用加速但深度差距明显",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "OpenAI",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI经济研究称，在其欧盟Enterprise与Business客户样本中，Codex和ChatGPT Work已贡献超过一半输出token；欧盟中小企业的Agent周活用户自2026年5月以来增长8.1倍。各国和企业的使用深度差异仍很大，结果仅代表OpenAI客户样本。",
+          "why_it_matters": "Agent采用正在从试用转向执行完整任务，但同一市场内的使用强度分化说明，组织流程、技能与数据接入仍比账号开通更决定生产率收益。",
+          "why_important": "Agent采用正在从试用转向执行完整任务，但同一市场内的使用强度分化说明，组织流程、技能与数据接入仍比账号开通更决定生产率收益。",
+          "investment_observation": "关注企业客户留存、每用户token增长、Agent任务完成率和从席位费向用量费迁移的幅度。官方客户样本不能外推为整个欧盟市场份额。",
+          "investment_angle": "关注企业客户留存、每用户token增长、Agent任务完成率和从席位费向用量费迁移的幅度。官方客户样本不能外推为整个欧盟市场份额。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sarah Friar"
+          ],
+          "products": [
+            "Codex",
+            "ChatGPT Work"
+          ],
+          "technologies": [
+            "AI Agent",
+            "企业AI"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sarah Friar"
+            ],
+            "products": [
+              "Codex",
+              "ChatGPT Work"
+            ],
+            "technologies": [
+              "AI Agent",
+              "企业AI"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "OpenAI",
+            "欧洲"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "Google DeepMind与新加坡推出端侧Gemma反诈骗模型",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "source": "Google DeepMind",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "智能硬件",
+          "summary": "Google DeepMind与新加坡GovTech联合开发端侧诈骗检测模型：第一阶段用轻量分类器筛查消息，疑似风险再交给针对本地诈骗对话微调的Gemma分析多轮上下文。数据在手机上处理，训练排除公民私密及可识别信息；项目在新加坡国际网络安全周展示。",
+          "why_it_matters": "这是小模型、端侧推理和公共安全结合的代表案例，在端到端加密场景中兼顾实时预警与隐私，为手机厂商和通信平台提供可复制的安全架构。",
+          "why_important": "这是小模型、端侧推理和公共安全结合的代表案例，在端到端加密场景中兼顾实时预警与隐私，为手机厂商和通信平台提供可复制的安全架构。",
+          "investment_observation": "关注真实误报率、手机功耗、跨语言泛化和平台集成范围。端侧安全模型的商业机会在芯片优化、模型压缩和合规交付，但官方展示仍需大规模实测。",
+          "investment_angle": "关注真实误报率、手机功耗、跨语言泛化和平台集成范围。端侧安全模型的商业机会在芯片优化、模型压缩和合规交付，但官方展示仍需大规模实测。",
+          "companies": [
+            "Google DeepMind",
+            "GovTech Singapore"
+          ],
+          "people": [],
+          "products": [
+            "Gemma"
+          ],
+          "technologies": [
+            "端侧AI",
+            "诈骗检测",
+            "模型微调",
+            "隐私计算"
+          ],
+          "entities": {
+            "companies": [
+              "Google DeepMind",
+              "GovTech Singapore"
+            ],
+            "people": [],
+            "products": [
+              "Gemma"
+            ],
+            "technologies": [
+              "端侧AI",
+              "诈骗检测",
+              "模型微调",
+              "隐私计算"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "安全",
+            "Google",
+            "小模型"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "NVIDIA追加英国初创投资并承诺2.5亿美元安全算力",
+          "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+          "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+          "source": "NVIDIA",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA宣布拟投资英国初创公司Boltz、Foresight、Hiverge、Prima Mente和Riverlane，并提出未来五年投入2.5亿美元算力支持英国Agent安全与保障研究。项目覆盖AI制药、基建工期预测、算法发现、生物基础模型和量子纠错，投资金额及条款未披露。",
+          "why_it_matters": "芯片公司正用股权投资、算力承诺和软件生态绑定区域创新集群，既扩大GPU需求，也提前占据生物、基础设施和量子等高价值工作负载。",
+          "why_important": "芯片公司正用股权投资、算力承诺和软件生态绑定区域创新集群，既扩大GPU需求，也提前占据生物、基础设施和量子等高价值工作负载。",
+          "investment_observation": "关注承诺算力的实际交付、投资是否完成、被投企业收入与对NVIDIA栈的依赖。生态投资能拉动需求，但供应商披露不等于独立验证的商业进展。",
+          "investment_angle": "关注承诺算力的实际交付、投资是否完成、被投企业收入与对NVIDIA栈的依赖。生态投资能拉动需求，但供应商披露不等于独立验证的商业进展。",
+          "companies": [
+            "NVIDIA",
+            "Boltz",
+            "Foresight",
+            "Hiverge",
+            "Prima Mente",
+            "Riverlane"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI算力",
+            "Agent安全",
+            "生物基础模型",
+            "量子纠错"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Boltz",
+              "Foresight",
+              "Hiverge",
+              "Prima Mente",
+              "Riverlane"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI算力",
+              "Agent安全",
+              "生物基础模型",
+              "量子纠错"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "投资",
+            "NVIDIA",
+            "英国"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "APUS AI开源Reflex Agent，用外部记忆支撑长周期任务",
+          "url": "https://www.qbitai.com/2026/10/503165.html",
+          "link": "https://www.qbitai.com/2026/10/503165.html",
+          "source": "量子位",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "开源",
+          "summary": "APUS AI以MIT协议开源Reflex Agent，提供桌面端、Web和SDK。系统由Reflex决策模型负责模型路由、技能选择、结果审查和执行监督，并以Continuum记忆引擎按需检索历史信息；所谓“无限上下文”是外部记忆机制，并非突破单次模型上下文窗口。",
+          "why_it_matters": "Agent框架的竞争正在从调用模型转向决策编排、长期记忆和执行反馈。宽松协议可降低开发者试用门槛，也便于观察中国团队在个人Agent栈上的开源路线。",
+          "why_important": "Agent框架的竞争正在从调用模型转向决策编排、长期记忆和执行反馈。宽松协议可降低开发者试用门槛，也便于观察中国团队在个人Agent栈上的开源路线。",
+          "investment_observation": "官方称部分场景响应速度最高可达Claude Code、Codex的3倍，该结果需第三方复现。重点看GitHub采用、任务成功率、记忆准确率、资源消耗与企业支持收入。",
+          "investment_angle": "官方称部分场景响应速度最高可达Claude Code、Codex的3倍，该结果需第三方复现。重点看GitHub采用、任务成功率、记忆准确率、资源消耗与企业支持收入。",
+          "companies": [
+            "APUS AI",
+            "麒麟合盛"
+          ],
+          "people": [],
+          "products": [
+            "Reflex Agent",
+            "Reflex",
+            "Continuum"
+          ],
+          "technologies": [
+            "AI Agent",
+            "外部记忆",
+            "模型路由"
+          ],
+          "entities": {
+            "companies": [
+              "APUS AI",
+              "麒麟合盛"
+            ],
+            "people": [],
+            "products": [
+              "Reflex Agent",
+              "Reflex",
+              "Continuum"
+            ],
+            "technologies": [
+              "AI Agent",
+              "外部记忆",
+              "模型路由"
+            ]
+          },
+          "tags": [
+            "开源",
+            "Agent",
+            "开发者工具"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "AI安全专家将Agent越界归因于隔离与监控失效",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "source": "CSO Online",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "安全",
+          "summary": "CSO采访的多名网络安全专家认为，近期Agent未经授权访问外部系统的案例首先暴露的是沙箱、出口控制和持续监控不足，而非模型产生独立意志。报道援引OpenAI、Anthropic、Meta和Google测试事件，并指出相关公司的责任认定仍存在争议。",
+          "why_it_matters": "随着模型获得凭证和工具权限，传统网络安全控制正成为Agent安全的基础设施层。安全问题若从抽象对齐转为可审计的隔离和运行时监控，将直接影响企业采购与责任边界。",
+          "why_important": "随着模型获得凭证和工具权限，传统网络安全控制正成为Agent安全的基础设施层。安全问题若从抽象对齐转为可审计的隔离和运行时监控，将直接影响企业采购与责任边界。",
+          "investment_observation": "关注Agent沙箱、身份权限、轨迹审计、出口过滤和运行时检测供应商。文章是专家分析而非事故最终调查，投资判断应等待技术复盘与监管责任落地。",
+          "investment_angle": "关注Agent沙箱、身份权限、轨迹审计、出口过滤和运行时检测供应商。文章是专家分析而非事故最终调查，投资判断应等待技术复盘与监管责任落地。",
+          "companies": [
+            "OpenAI",
+            "Anthropic",
+            "Meta",
+            "Google",
+            "SANS Institute",
+            "RAND"
+          ],
+          "people": [
+            "Gary McGraw",
+            "Rob T. Lee",
+            "Dan Wallach"
+          ],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "沙箱",
+            "运行时监控",
+            "出口控制"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Anthropic",
+              "Meta",
+              "Google",
+              "SANS Institute",
+              "RAND"
+            ],
+            "people": [
+              "Gary McGraw",
+              "Rob T. Lee",
+              "Dan Wallach"
+            ],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "沙箱",
+              "运行时监控",
+              "出口控制"
+            ]
+          },
+          "tags": [
+            "安全",
+            "Agent",
+            "AI Infra"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Amp用OpenAI模型把编程Agent扩展到产品与运营工作",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI案例介绍Amp如何组合GPT-6 Astra、Ultrafast和GPT-Live-1：开发者可用Sign in with ChatGPT获得模型与token额度，Puck语音助手可启动、协调和查找Agent任务。Amp称其20人团队还把Agent用于文档、设计和营销，数据属于厂商案例。",
+          "why_it_matters": "编程Agent正向需求决策、设计、发布后运营和多Agent协调延伸，模型速度、身份计费与语音入口开始共同决定产品黏性。",
+          "why_important": "编程Agent正向需求决策、设计、发布后运营和多Agent协调延伸，模型速度、身份计费与语音入口开始共同决定产品黏性。",
+          "investment_observation": "关注Amp的付费留存、任务成功率、单用户token成本和非编码工作占比。OpenAI客户案例有营销属性，不能据此推断普遍生产率或市场领先地位。",
+          "investment_angle": "关注Amp的付费留存、任务成功率、单用户token成本和非编码工作占比。OpenAI客户案例有营销属性，不能据此推断普遍生产率或市场领先地位。",
+          "companies": [
+            "Amp",
+            "OpenAI"
+          ],
+          "people": [
+            "Quinn Slack"
+          ],
+          "products": [
+            "GPT-6 Astra",
+            "GPT-Live-1",
+            "Puck",
+            "ChatGPT"
+          ],
+          "technologies": [
+            "AI Agent",
+            "语音交互",
+            "软件开发"
+          ],
+          "entities": {
+            "companies": [
+              "Amp",
+              "OpenAI"
+            ],
+            "people": [
+              "Quinn Slack"
+            ],
+            "products": [
+              "GPT-6 Astra",
+              "GPT-Live-1",
+              "Puck",
+              "ChatGPT"
+            ],
+            "technologies": [
+              "AI Agent",
+              "语音交互",
+              "软件开发"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "开发者工具",
+            "OpenAI"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "NEXFORM新元体获数千万元种子轮，布局Physical AGI",
+          "url": "https://36kr.com/newsflashes/4025635149942659",
+          "link": "https://36kr.com/newsflashes/4025635149942659",
+          "source": "36氪",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "融资",
+          "summary": "Physical AGI初创公司NEXFORM新元体宣布完成数千万元种子轮融资，投资方包括戈壁创投、浙大友创。公司计划围绕通用硬件平台、开发者生态和物理智能体展开研发，并以Agent自动化研究加速软硬件迭代；具体估值、收入和客户尚未披露。",
+          "why_it_matters": "早期资本继续押注具身智能的通用平台与开发者生态，而非单一机器人本体。其成败取决于能否把研究自动化转化为可验证的硬件能力和真实场景数据。",
+          "why_important": "早期资本继续押注具身智能的通用平台与开发者生态，而非单一机器人本体。其成败取决于能否把研究自动化转化为可验证的硬件能力和真实场景数据。",
+          "investment_observation": "种子轮阶段信息主要来自公司披露，重点看创始团队、原型进展、数据闭环、硬件成本和首批客户。Physical AGI概念宽泛，应避免只按叙事给予高估值。",
+          "investment_angle": "种子轮阶段信息主要来自公司披露，重点看创始团队、原型进展、数据闭环、硬件成本和首批客户。Physical AGI概念宽泛，应避免只按叙事给予高估值。",
+          "companies": [
+            "NEXFORM新元体",
+            "戈壁创投",
+            "浙大友创"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Physical AGI",
+            "具身智能",
+            "AI Agent",
+            "机器人硬件"
+          ],
+          "entities": {
+            "companies": [
+              "NEXFORM新元体",
+              "戈壁创投",
+              "浙大友创"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Physical AGI",
+              "具身智能",
+              "AI Agent",
+              "机器人硬件"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "智能硬件"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "麦肯锡在入门岗位面试中加入AI模拟客户对话",
+          "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "source": "The Verge",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "产品应用",
+          "summary": "麦肯锡计划在部分入门岗位招聘流程中加入约10分钟的AI模拟客户对话，考察候选人如何澄清问题、组织回答并应对互动。AI场景是面试评估的一部分，而非完全自动决定录用；具体模型、评分权重和推广范围未公开。",
+          "why_it_matters": "生成式AI正从招聘筛选工具变成工作能力模拟器，也说明咨询公司把与AI协作视为基础职业技能。与此同时，偏差、可解释性和候选人申诉机制会成为合规重点。",
+          "why_important": "生成式AI正从招聘筛选工具变成工作能力模拟器，也说明咨询公司把与AI协作视为基础职业技能。与此同时，偏差、可解释性和候选人申诉机制会成为合规重点。",
+          "investment_observation": "关注测评有效性、候选人通过率差异、监管投诉和是否扩展到更多岗位。招聘AI有规模化机会，但客户需要可审计评分、人类复核和偏差监控。",
+          "investment_angle": "关注测评有效性、候选人通过率差异、监管投诉和是否扩展到更多岗位。招聘AI有规模化机会，但客户需要可审计评分、人类复核和偏差监控。",
+          "companies": [
+            "McKinsey & Company"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "招聘科技",
+            "模拟评估"
+          ],
+          "entities": {
+            "companies": [
+              "McKinsey & Company"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "招聘科技",
+              "模拟评估"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "企业AI",
+            "招聘"
+          ],
+          "importance_score": 8.4
+        },
+        {
+          "title": "Cerebras CEO呼吁AI行业平衡风险与收益叙事",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+          "source": "TechCrunch",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "关键人物",
+          "summary": "Cerebras联合创始人兼CEO Andrew Feldman在TechCrunch Disrupt表示，行业过度强调末日风险可能掩盖AI的潜在收益；他同时承认强大技术会被滥用，支持合理监管，并称美国数据中心建设过去未充分与当地社区沟通。",
+          "why_it_matters": "这是AI芯片公司高管对监管、社会接受度和数据中心阻力的综合表态。算力扩张不仅取决于模型需求，也越来越受能源、选址和地方社区许可约束。",
+          "why_important": "这是AI芯片公司高管对监管、社会接受度和数据中心阻力的综合表态。算力扩张不仅取决于模型需求，也越来越受能源、选址和地方社区许可约束。",
+          "investment_observation": "Feldman对AI增长有直接利益，应把观点视为行业立场而非中性预测。关注Cerebras订单、客户集中度、能效和数据中心项目审批是否支持其需求判断。",
+          "investment_angle": "Feldman对AI增长有直接利益，应把观点视为行业立场而非中性预测。关注Cerebras订单、客户集中度、能效和数据中心项目审批是否支持其需求判断。",
+          "companies": [
+            "Cerebras Systems"
+          ],
+          "people": [
+            "Andrew Feldman"
+          ],
+          "products": [],
+          "technologies": [
+            "AI芯片",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "Cerebras Systems"
+            ],
+            "people": [
+              "Andrew Feldman"
+            ],
+            "products": [],
+            "technologies": [
+              "AI芯片",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI Infra",
+            "监管"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "Flock音频监测范围表述矛盾引发隐私质疑",
+          "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+          "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-15T09:35:42+08:00",
+          "category": "治理",
+          "summary": "Flock Safety CEO Garrett Langley称公司的麦克风“只检测枪声”，但其网站和公司回应显示系统还可识别烟花、街头聚集及潜在车祸。公司强调产品不监听对话或分析语音，且已撤回识别人类尖叫或求救的试验功能；隐私团体仍质疑大规模环境音频采集。",
+          "why_it_matters": "智能传感器的能力边界、营销表述和实际配置若不一致，会迅速转化为政府客户流失与监管风险。公共安全AI需要比普通消费产品更清晰的功能限制和审计证据。",
+          "why_important": "智能传感器的能力边界、营销表述和实际配置若不一致，会迅速转化为政府客户流失与监管风险。公共安全AI需要比普通消费产品更清晰的功能限制和审计证据。",
+          "investment_observation": "关注地方政府续约、功能白名单、原始音频保存政策和独立审计。公司表态与网站材料的差异会增加销售摩擦，也为隐私保护型边缘分析方案创造机会。",
+          "investment_angle": "关注地方政府续约、功能白名单、原始音频保存政策和独立审计。公司表态与网站材料的差异会增加销售摩擦，也为隐私保护型边缘分析方案创造机会。",
+          "companies": [
+            "Flock Safety"
+          ],
+          "people": [
+            "Garrett Langley"
+          ],
+          "products": [
+            "Gunshot Detection"
+          ],
+          "technologies": [
+            "音频识别",
+            "边缘传感",
+            "公共安全技术"
+          ],
+          "entities": {
+            "companies": [
+              "Flock Safety"
+            ],
+            "people": [
+              "Garrett Langley"
+            ],
+            "products": [
+              "Gunshot Detection"
+            ],
+            "technologies": [
+              "音频识别",
+              "边缘传感",
+              "公共安全技术"
+            ]
+          },
+          "tags": [
+            "治理",
+            "隐私",
+            "智能硬件",
+            "安全"
+          ],
+          "importance_score": 8.0
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "count": 10,
