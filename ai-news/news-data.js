@@ -1,8 +1,486 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-15T09:35:42+08:00",
-  "digest_count": 69,
-  "article_count": 619,
+  "generated_at": "2026-10-16T11:40:00+08:00",
+  "digest_count": 70,
+  "article_count": 629,
   "digests": [
+    {
+      "date": "2026-10-16",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Meta与Apple让Muse Spark Open在Mac本地运行",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+          "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+          "source": "TechCrunch",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "开源模型",
+          "summary": "Meta发布8160亿参数的Muse Spark Open，并与Apple合作，让模型通过MLX框架在两台或四台M5 Ultra Mac Studio上本地运行。模型可免费下载并允许商业使用，也将进入云平台与开发工具。",
+          "why_it_matters": "大型开放权重模型首次以Apple高端桌面硬件展示本地部署，说明企业私有推理的硬件选择正从NVIDIA服务器扩展到统一内存架构的Mac集群。",
+          "why_important": "大型开放权重模型首次以Apple高端桌面硬件展示本地部署，说明企业私有推理的硬件选择正从NVIDIA服务器扩展到统一内存架构的Mac集群。",
+          "investment_observation": "关注实际推理速度、内存占用、量化后能力和商业许可证限制。若本地部署成本可控，Apple Silicon、MLX工具链和私有AI集成商将受益。",
+          "investment_angle": "关注实际推理速度、内存占用、量化后能力和商业许可证限制。若本地部署成本可控，Apple Silicon、MLX工具链和私有AI集成商将受益。",
+          "companies": [
+            "Meta",
+            "Apple"
+          ],
+          "people": [
+            "Alexandr Wang"
+          ],
+          "products": [
+            "Muse Spark Open",
+            "Mac Studio"
+          ],
+          "technologies": [
+            "开放权重模型",
+            "本地推理",
+            "MLX"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "Apple"
+            ],
+            "people": [
+              "Alexandr Wang"
+            ],
+            "products": [
+              "Muse Spark Open",
+              "Mac Studio"
+            ],
+            "technologies": [
+              "开放权重模型",
+              "本地推理",
+              "MLX"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "开源",
+            "端侧AI"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "美国多州以消费者保护法起诉OpenAI",
+          "url": "https://apnews.com/article/openai-lawsuits-chatbot-chatgpt-artificial-intelligence-f29fa6c206cfe41d46ba38ee7be78218",
+          "link": "https://apnews.com/article/openai-lawsuits-chatbot-chatgpt-artificial-intelligence-f29fa6c206cfe41d46ba38ee7be78218",
+          "source": "Associated Press",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "政策监管",
+          "summary": "至少八个州分别起诉OpenAI，指控ChatGPT对未成年人和脆弱用户造成伤害，并质疑公司对安全测试和Agent风险的陈述。OpenAI表示正在审阅诉状，并称已持续加强青少年保护。相关主张仍需法院审理。",
+          "why_it_matters": "这是州级消费者保护法对通用AI产品的协调执法升级，可能把青少年安全、模型测试披露和Agent责任从自愿承诺推向可诉标准。",
+          "why_important": "这是州级消费者保护法对通用AI产品的协调执法升级，可能把青少年安全、模型测试披露和Agent责任从自愿承诺推向可诉标准。",
+          "investment_observation": "关注禁令、和解条款、年龄验证和独立评测要求，而非只看诉讼金额。合规成本会抬高通用聊天产品门槛，并利好安全评测和身份治理服务。",
+          "investment_angle": "关注禁令、和解条款、年龄验证和独立评测要求，而非只看诉讼金额。合规成本会抬高通用聊天产品门槛，并利好安全评测和身份治理服务。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "AI安全",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "AI安全",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "监管",
+            "安全",
+            "OpenAI"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "Apple智能在中国测试版接入阿里千问",
+          "url": "https://www.qbitai.com/2026/10/503640.html",
+          "link": "https://www.qbitai.com/2026/10/503640.html",
+          "source": "量子位",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "产品应用",
+          "summary": "据量子位报道，Tim Cook表示Apple智能将在中国市场接入阿里千问大模型，计划10月底推出测试版本；此次范围暂不包含Siri AI。正式功能、覆盖设备和监管审批仍以Apple后续公告为准。",
+          "why_it_matters": "Apple在中国采用本土模型伙伴，体现跨国终端厂商必须在模型能力、数据合规与本地生态之间重新组合技术栈。",
+          "why_important": "Apple在中国采用本土模型伙伴，体现跨国终端厂商必须在模型能力、数据合规与本地生态之间重新组合技术栈。",
+          "investment_observation": "重点观察测试覆盖规模、端云分工、是否带动换机以及阿里云的模型调用收入。Siri未同步上线意味着短期体验和商业化边界仍有限。",
+          "investment_angle": "重点观察测试覆盖规模、端云分工、是否带动换机以及阿里云的模型调用收入。Siri未同步上线意味着短期体验和商业化边界仍有限。",
+          "companies": [
+            "Apple",
+            "阿里巴巴"
+          ],
+          "people": [
+            "Tim Cook"
+          ],
+          "products": [
+            "Apple智能",
+            "通义千问"
+          ],
+          "technologies": [
+            "大语言模型",
+            "端云协同"
+          ],
+          "entities": {
+            "companies": [
+              "Apple",
+              "阿里巴巴"
+            ],
+            "people": [
+              "Tim Cook"
+            ],
+            "products": [
+              "Apple智能",
+              "通义千问"
+            ],
+            "technologies": [
+              "大语言模型",
+              "端云协同"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "中国",
+            "产品"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "OpenAI与Sullivan & Cromwell推出合同审阅工具",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "link": "https://openai.com/index/sullivan-cromwell",
+          "source": "OpenAI",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "产品应用",
+          "summary": "Sullivan & Cromwell与OpenAI联合开发Agreement Analyzer，用于在协议草案中识别潜在问题，并把律师专业判断嵌入审阅流程。该案例是客户实践，效果指标主要来自合作双方披露。",
+          "why_it_matters": "法律服务是高价值、强责任场景；从通用问答转向可审计的协议审阅工作流，是企业Agent能否进入核心业务的关键验证。",
+          "why_important": "法律服务是高价值、强责任场景；从通用问答转向可审计的协议审阅工作流，是企业Agent能否进入核心业务的关键验证。",
+          "investment_observation": "关注节省工时、漏检率、引用可追溯性和责任分配。若大型律所形成可复用模板，将扩大法律AI集成与私有知识库市场。",
+          "investment_angle": "关注节省工时、漏检率、引用可追溯性和责任分配。若大型律所形成可复用模板，将扩大法律AI集成与私有知识库市场。",
+          "companies": [
+            "OpenAI",
+            "Sullivan & Cromwell"
+          ],
+          "people": [],
+          "products": [
+            "Agreement Analyzer"
+          ],
+          "technologies": [
+            "法律AI",
+            "企业Agent"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Sullivan & Cromwell"
+            ],
+            "people": [],
+            "products": [
+              "Agreement Analyzer"
+            ],
+            "technologies": [
+              "法律AI",
+              "企业Agent"
+            ]
+          },
+          "tags": [
+            "企业AI",
+            "Agent",
+            "法律"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "中湾智能微型无人机累计融资超亿元",
+          "url": "https://36kr.com/p/4027925884310145?f=rss",
+          "link": "https://36kr.com/p/4027925884310145?f=rss",
+          "source": "36氪",
+          "published_at": "2026-10-16",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "融资",
+          "summary": "36氪报道，常州中湾智能围绕空中无人智能体连续完成天使轮至A轮多轮融资，累计金额超过1亿元，并称年内已签下数亿元订单。投资方包括中科创星、毅达资本、方广资本等；订单与交付数据为公司披露。",
+          "why_it_matters": "微型无人机把感知、导航和任务规划带入高约束真实环境，是具身智能从演示走向订单验证的重要分支，也兼具军民两用供应链属性。",
+          "why_important": "微型无人机把感知、导航和任务规划带入高约束真实环境，是具身智能从演示走向订单验证的重要分支，也兼具军民两用供应链属性。",
+          "investment_observation": "需核验订单确认收入、客户集中度、续单、量产良率和合规边界。若交付兑现，上游传感器、飞控、通信和轻量化算力将同步受益。",
+          "investment_angle": "需核验订单确认收入、客户集中度、续单、量产良率和合规边界。若交付兑现，上游传感器、飞控、通信和轻量化算力将同步受益。",
+          "companies": [
+            "中湾智能",
+            "中科创星",
+            "毅达资本",
+            "方广资本"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "无人机",
+            "具身智能",
+            "边缘AI"
+          ],
+          "entities": {
+            "companies": [
+              "中湾智能",
+              "中科创星",
+              "毅达资本",
+              "方广资本"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "无人机",
+              "具身智能",
+              "边缘AI"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "智能硬件"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "AI芯片设计公司Ricursive瞄准算力效率瓶颈",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "AI Infra",
+          "summary": "Ricursive Intelligence创始人Anna Goldie与Azalia Mirhoseini介绍其用AI自动设计并迭代芯片的方法，希望把部分芯片设计周期从数月或数年缩短到周级。其性能与周期主张尚待公开流片结果验证。",
+          "why_it_matters": "AI辅助芯片设计把模型能力反向用于提升算力供给效率，若能跨越EDA验证、物理实现与制造约束，可能降低定制芯片门槛。",
+          "why_important": "AI辅助芯片设计把模型能力反向用于提升算力供给效率，若能跨越EDA验证、物理实现与制造约束，可能降低定制芯片门槛。",
+          "investment_observation": "关注首颗流片、PPA指标、与EDA厂商和晶圆厂的接口，以及客户是否愿意采用非传统布局。技术叙事只有在硅上结果和设计赢单出现后才具估值支撑。",
+          "investment_angle": "关注首颗流片、PPA指标、与EDA厂商和晶圆厂的接口，以及客户是否愿意采用非传统布局。技术叙事只有在硅上结果和设计赢单出现后才具估值支撑。",
+          "companies": [
+            "Ricursive Intelligence"
+          ],
+          "people": [
+            "Anna Goldie",
+            "Azalia Mirhoseini"
+          ],
+          "products": [],
+          "technologies": [
+            "AI芯片设计",
+            "EDA"
+          ],
+          "entities": {
+            "companies": [
+              "Ricursive Intelligence"
+            ],
+            "people": [
+              "Anna Goldie",
+              "Azalia Mirhoseini"
+            ],
+            "products": [],
+            "technologies": [
+              "AI芯片设计",
+              "EDA"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "芯片",
+            "创业公司"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "YouTube Music为AI生成音乐增加分级标签",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+          "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "内容治理",
+          "summary": "YouTube Music开始在播放页标注音乐是否完全或部分由生成式AI制作，并把标签扩展到YouTube主应用。平台允许合作方申报，同时使用检测工具；AI参与本身不会自动取消变现资格。",
+          "why_it_matters": "平台正在把AI内容治理从二元封禁转向来源披露和细粒度分类，这会直接影响版权归属、推荐分发、版税和训练数据合规。",
+          "why_important": "平台正在把AI内容治理从二元封禁转向来源披露和细粒度分类，这会直接影响版权归属、推荐分发、版税和训练数据合规。",
+          "investment_observation": "关注标签准确率、创作者申报执行、版权投诉和AI音乐的推荐权重。内容识别、溯源水印与权利管理工具可能成为基础服务。",
+          "investment_angle": "关注标签准确率、创作者申报执行、版权投诉和AI音乐的推荐权重。内容识别、溯源水印与权利管理工具可能成为基础服务。",
+          "companies": [
+            "YouTube",
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "YouTube Music"
+          ],
+          "technologies": [
+            "生成式音乐",
+            "内容溯源"
+          ],
+          "entities": {
+            "companies": [
+              "YouTube",
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "YouTube Music"
+            ],
+            "technologies": [
+              "生成式音乐",
+              "内容溯源"
+            ]
+          },
+          "tags": [
+            "内容治理",
+            "AI音乐",
+            "产品"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Zenzap融资4400万美元押注移动端企业Agent通信",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "融资",
+          "summary": "企业通信初创公司Zenzap获得4400万美元融资，投资方包括Bessemer、Lightspeed和The Garage。产品面向一线员工，提供聊天、任务、AI搜索、转录及工作流Agent，付费版从20人每月51美元起。",
+          "why_it_matters": "企业Agent的落地不只发生在知识工作者桌面端；移动优先、受IT管理的一线协作场景可能形成区别于Slack和Teams的新入口。",
+          "why_important": "企业Agent的落地不只发生在知识工作者桌面端；移动优先、受IT管理的一线协作场景可能形成区别于Slack和Teams的新入口。",
+          "investment_observation": "关注付费组织数、席位留存、Agent用量收入以及列名客户的真实部署深度。低价协作工具容易获客，但安全、集成和渠道成本决定长期毛利。",
+          "investment_angle": "关注付费组织数、席位留存、Agent用量收入以及列名客户的真实部署深度。低价协作工具容易获客，但安全、集成和渠道成本决定长期毛利。",
+          "companies": [
+            "Zenzap",
+            "Bessemer",
+            "Lightspeed"
+          ],
+          "people": [
+            "Guy Weiss"
+          ],
+          "products": [
+            "Zenzap"
+          ],
+          "technologies": [
+            "企业通信",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Zenzap",
+              "Bessemer",
+              "Lightspeed"
+            ],
+            "people": [
+              "Guy Weiss"
+            ],
+            "products": [
+              "Zenzap"
+            ],
+            "technologies": [
+              "企业通信",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "企业AI",
+            "Agent"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Scimplify融资2500万美元用AI加速关键材料制造",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "融资",
+          "summary": "印度特种化学品公司Scimplify获得2500万美元融资，计划用AI辅助研发、工艺放大和供应链执行，聚焦关键材料的本地化生产。报道中的产能和替代目标仍需以工厂交付及客户认证验证。",
+          "why_it_matters": "AI正进入材料发现之后的工艺放大与制造环节；若能缩短配方到量产周期，价值将从软件效率扩展到真实供应链韧性。",
+          "why_important": "AI正进入材料发现之后的工艺放大与制造环节；若能缩短配方到量产周期，价值将从软件效率扩展到真实供应链韧性。",
+          "investment_observation": "关注客户认证周期、毛利率、产能利用率和环境合规。材料制造资本密集，融资额之外更重要的是长期采购协议与稳定量产。",
+          "investment_angle": "关注客户认证周期、毛利率、产能利用率和环境合规。材料制造资本密集，融资额之外更重要的是长期采购协议与稳定量产。",
+          "companies": [
+            "Scimplify"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "材料AI",
+            "化学制造"
+          ],
+          "entities": {
+            "companies": [
+              "Scimplify"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "材料AI",
+              "化学制造"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI for Science",
+            "供应链"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "AWS开源AI编码Agent自适应工作流规则",
+          "url": "https://github.com/awslabs/aidlc-workflows",
+          "link": "https://github.com/awslabs/aidlc-workflows",
+          "source": "AWS Labs / GitHub",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-16T11:40:00+08:00",
+          "category": "开源",
+          "summary": "AWS Labs开源AI-DLC Workflows，为AI编码Agent提供可按任务进展调整的工作流与约束规则，覆盖需求、设计、实现和验证阶段。项目在开发者社区获得关注，但实际效果仍取决于模型、代码库和团队流程。",
+          "why_it_matters": "编码Agent竞争正从单次生成能力转向流程治理、上下文管理和验证闭环；开放工作流有助于企业把隐性工程规范转化为可执行规则。",
+          "why_important": "编码Agent竞争正从单次生成能力转向流程治理、上下文管理和验证闭环；开放工作流有助于企业把隐性工程规范转化为可执行规则。",
+          "investment_observation": "关注真实仓库任务成功率、人工接管次数、CI缺陷率和对不同模型的兼容性。围绕Agent可观测性、策略管理和评测的工具层仍有机会。",
+          "investment_angle": "关注真实仓库任务成功率、人工接管次数、CI缺陷率和对不同模型的兼容性。围绕Agent可观测性、策略管理和评测的工具层仍有机会。",
+          "companies": [
+            "Amazon Web Services"
+          ],
+          "people": [],
+          "products": [
+            "AI-DLC Workflows"
+          ],
+          "technologies": [
+            "AI编码",
+            "Agent工作流"
+          ],
+          "entities": {
+            "companies": [
+              "Amazon Web Services"
+            ],
+            "people": [],
+            "products": [
+              "AI-DLC Workflows"
+            ],
+            "technologies": [
+              "AI编码",
+              "Agent工作流"
+            ]
+          },
+          "tags": [
+            "开源",
+            "开发工具",
+            "Agent"
+          ],
+          "importance_score": 8.3
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "count": 10,
