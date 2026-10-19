@@ -1,8 +1,536 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-16T11:40:00+08:00",
-  "digest_count": 70,
-  "article_count": 629,
+  "generated_at": "2026-10-19T09:30:47+08:00",
+  "digest_count": 71,
+  "article_count": 639,
   "digests": [
+    {
+      "date": "2026-10-19",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Anthropic拟将5%股份投入公共利益基金",
+          "url": "https://www.anthropic.com/news/public-benefit-fund",
+          "link": "https://www.anthropic.com/news/public-benefit-fund",
+          "source": "Anthropic",
+          "published_at": "2026-10-18",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "治理",
+          "summary": "Anthropic宣布设立公共利益基金，并计划在股东批准后先投入公司5%的股份；此后公司估值每较基准提高50%，董事会可酌情再增加2%。基金的治理结构、估值基准和具体受益方式尚待未来数月披露。",
+          "why_it_matters": "这是头部模型公司把公共利益承诺与股权价值直接绑定的罕见安排，可能影响AI公司的公司治理、利益分配和社会许可讨论。",
+          "why_important": "这是头部模型公司把公共利益承诺与股权价值直接绑定的罕见安排，可能影响AI公司的公司治理、利益分配和社会许可讨论。",
+          "investment_observation": "5%股份并不等于已经变现的捐款，且方案仍需股东批准。重点看治理独立性、股份稀释安排、资金兑现节奏和受益对象，避免只按 headline 估算公益规模。",
+          "investment_angle": "5%股份并不等于已经变现的捐款，且方案仍需股东批准。重点看治理独立性、股份稀释安排、资金兑现节奏和受益对象，避免只按 headline 估算公益规模。",
+          "companies": [
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [
+            "Anthropic Public Benefit Fund"
+          ],
+          "technologies": [
+            "公司治理",
+            "AI安全"
+          ],
+          "entities": {
+            "companies": [
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [
+              "Anthropic Public Benefit Fund"
+            ],
+            "technologies": [
+              "公司治理",
+              "AI安全"
+            ]
+          },
+          "tags": [
+            "治理",
+            "Anthropic",
+            "关键公司"
+          ],
+          "importance_score": 9.8
+        },
+        {
+          "title": "HybridAgents融合潜空间推理与文本工具调用",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "link": "https://arxiv.org/abs/2610.18861",
+          "source": "arXiv",
+          "published_at": "2026-10-13",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "后训练",
+          "summary": "斯坦福等机构研究者提出Hybrid Reasoning Agents，通过HybridLink在潜空间推理与文本交互间动态切换，并用HybridSFT、HybridRL训练模型决定何时内部思考、何时用文本调用工具。作者在3种模型规模、11个数学、科学、医学、搜索与Agent基准上报告平均性能提升10.4%、token减少35.5%至54.7%、推理加速1.8至2.6倍。",
+          "why_it_matters": "如果结果可复现，Agent可以在保留工具调用和一定可检查性的同时，降低长链文本推理的延迟与成本，为后训练和推理架构提供新路线。",
+          "why_important": "如果结果可复现，Agent可以在保留工具调用和一定可检查性的同时，降低长链文本推理的延迟与成本，为后训练和推理架构提供新路线。",
+          "investment_observation": "论文指标尚未经广泛独立复现，且跨模型、长任务和生产工具环境的收益可能不同。关注开源代码采用、复现实验、训练复杂度以及节省的token是否真正转化为服务毛利。",
+          "investment_angle": "论文指标尚未经广泛独立复现，且跨模型、长任务和生产工具环境的收益可能不同。关注开源代码采用、复现实验、训练复杂度以及节省的token是否真正转化为服务毛利。",
+          "companies": [
+            "Stanford University",
+            "University of Illinois Urbana-Champaign"
+          ],
+          "people": [
+            "James Zou",
+            "Jiaru Zou"
+          ],
+          "products": [
+            "HybridAgent",
+            "HybridLink"
+          ],
+          "technologies": [
+            "潜空间推理",
+            "HybridSFT",
+            "HybridRL",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Stanford University",
+              "University of Illinois Urbana-Champaign"
+            ],
+            "people": [
+              "James Zou",
+              "Jiaru Zou"
+            ],
+            "products": [
+              "HybridAgent",
+              "HybridLink"
+            ],
+            "technologies": [
+              "潜空间推理",
+              "HybridSFT",
+              "HybridRL",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "后训练",
+            "研究",
+            "Agent",
+            "推理效率"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "Itaú用生成式AI服务首批30万银行客户",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "link": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI",
+          "published_at": "2026-10-16",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "产品应用",
+          "summary": "巴西银行Itaú通过对话界面ia.i和治理平台IARA把生成式AI用于客户服务、员工流程及法律文档。OpenAI案例称首阶段覆盖约30万客户，目标在2026年底覆盖全部客户；法律知识库超过9000万份文档，部分部门流程效率提升20%至80%。OpenAI只是该环境中的模型供应商之一。",
+          "why_it_matters": "大型强监管银行把生成式AI从员工助手推向客户入口，说明治理、模型路由和业务系统集成正在成为规模化落地的核心能力。",
+          "why_important": "大型强监管银行把生成式AI从员工助手推向客户入口，说明治理、模型路由和业务系统集成正在成为规模化落地的核心能力。",
+          "investment_observation": "数据来自OpenAI与客户案例，需等待独立披露验证。关注客户使用率、误答和投诉、合规成本、模型供应商份额及效率收益能否转化为成本下降或交叉销售。",
+          "investment_angle": "数据来自OpenAI与客户案例，需等待独立披露验证。关注客户使用率、误答和投诉、合规成本、模型供应商份额及效率收益能否转化为成本下降或交叉销售。",
+          "companies": [
+            "Itaú",
+            "OpenAI"
+          ],
+          "people": [
+            "Carlos Eduardo Mazzei"
+          ],
+          "products": [
+            "ia.i",
+            "IARA"
+          ],
+          "technologies": [
+            "生成式AI",
+            "模型治理",
+            "银行AI"
+          ],
+          "entities": {
+            "companies": [
+              "Itaú",
+              "OpenAI"
+            ],
+            "people": [
+              "Carlos Eduardo Mazzei"
+            ],
+            "products": [
+              "ia.i",
+              "IARA"
+            ],
+            "technologies": [
+              "生成式AI",
+              "模型治理",
+              "银行AI"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "金融",
+            "OpenAI",
+            "企业AI"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "网站加码拦截AI Agent，开放网络面临权限摩擦",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "The Verge",
+          "published_at": "2026-10-17",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "AI Infra",
+          "summary": "The Verge梳理了网站通过robots规则、登录墙、验证码及流量策略限制自动化Agent访问的趋势。随着OpenAI、Meta、Google等推动可代用户浏览和执行任务的产品，网站方担忧抓取成本、内容授权、安全风险及流量与广告收益被中介层截走。",
+          "why_it_matters": "Agent能否稳定使用开放网络，不只取决于模型能力，还取决于身份、授权、付费和反机器人基础设施；这会决定通用Agent的可用边界。",
+          "why_important": "Agent能否稳定使用开放网络，不只取决于模型能力，还取决于身份、授权、付费和反机器人基础设施；这会决定通用Agent的可用边界。",
+          "investment_observation": "关注标准化Agent身份、按次付费访问、网站授权协议、浏览器执行成功率和合规责任。阻断增加会抬高通用Agent成本，也可能催生验证、授权和内容交易基础设施。",
+          "investment_angle": "关注标准化Agent身份、按次付费访问、网站授权协议、浏览器执行成功率和合规责任。阻断增加会抬高通用Agent成本，也可能催生验证、授权和内容交易基础设施。",
+          "companies": [
+            "OpenAI",
+            "Meta",
+            "Google"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "网络访问",
+            "身份验证",
+            "robots.txt"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Meta",
+              "Google"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "网络访问",
+              "身份验证",
+              "robots.txt"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "Agent",
+            "数据",
+            "治理"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "清华开源智能体操作系统，强调分层记忆与MCP兼容",
+          "url": "https://www.qbitai.com/2026/10/503935.html",
+          "link": "https://www.qbitai.com/2026/10/503935.html",
+          "source": "量子位",
+          "published_at": "2026-10-17",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "开源",
+          "summary": "量子位报道清华团队开源一套智能体操作系统，提供可查询、修改的分层记忆，并原生支持MCP工具接口。团队称其可通过记忆复用和任务编排将特定评测中的任务成本降低83%；该数字来自项目方测试，适用任务、基线和生产稳定性仍需第三方复核。",
+          "why_it_matters": "可编辑记忆和标准工具协议是长期运行Agent的关键基础能力，开源实现有助于开发者验证跨任务复用、可控遗忘和工具生态兼容性。",
+          "why_important": "可编辑记忆和标准工具协议是长期运行Agent的关键基础能力，开源实现有助于开发者验证跨任务复用、可控遗忘和工具生态兼容性。",
+          "investment_observation": "重点看代码活跃度、真实任务成功率、记忆污染与权限隔离、token成本和企业支持模式。不要把单一评测的83%降本直接外推到通用生产环境。",
+          "investment_angle": "重点看代码活跃度、真实任务成功率、记忆污染与权限隔离、token成本和企业支持模式。不要把单一评测的83%降本直接外推到通用生产环境。",
+          "companies": [
+            "Tsinghua University"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "MCP",
+            "分层记忆",
+            "智能体操作系统"
+          ],
+          "entities": {
+            "companies": [
+              "Tsinghua University"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "MCP",
+              "分层记忆",
+              "智能体操作系统"
+            ]
+          },
+          "tags": [
+            "开源",
+            "Agent",
+            "数据",
+            "MCP"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "格物通智获近亿元天使轮，训练物理反演世界模型",
+          "url": "https://36kr.com/p/4025325566054529",
+          "link": "https://36kr.com/p/4025325566054529",
+          "source": "36氪",
+          "published_at": "2026-10-18",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "融资",
+          "summary": "36氪报道，杭州具身智能公司格物通智完成近亿元人民币天使轮融资，投资方包括匹克投资、鸿富资产、杭州资本、杭州人才集团及产业资本，枫承资本担任独家财务顾问。资金计划用于物理反演世界模型预训练、软硬件本体、人才扩充、场景PoC和真实数据采集。",
+          "why_it_matters": "资本继续把世界模型、真实数据闭环和机器人本体视为一体化能力，团队从汽车世界模型向具身场景迁移也体现人才与技术路线的交叉流动。",
+          "why_important": "资本继续把世界模型、真实数据闭环和机器人本体视为一体化能力，团队从汽车世界模型向具身场景迁移也体现人才与技术路线的交叉流动。",
+          "investment_observation": "天使轮数据主要来自公司与融资顾问披露。关注PoC转付费、真实数据规模、模型泛化、本体成本和后续算力消耗；世界模型叙事需要用稳定任务成功率验证。",
+          "investment_angle": "天使轮数据主要来自公司与融资顾问披露。关注PoC转付费、真实数据规模、模型泛化、本体成本和后续算力消耗；世界模型叙事需要用稳定任务成功率验证。",
+          "companies": [
+            "格物通智",
+            "匹克投资",
+            "鸿富资产",
+            "杭州资本",
+            "杭州人才集团",
+            "枫承资本"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "世界模型",
+            "具身智能",
+            "机器人"
+          ],
+          "entities": {
+            "companies": [
+              "格物通智",
+              "匹克投资",
+              "鸿富资产",
+              "杭州资本",
+              "杭州人才集团",
+              "枫承资本"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "世界模型",
+              "具身智能",
+              "机器人"
+            ]
+          },
+          "tags": [
+            "融资",
+            "机器人",
+            "具身智能",
+            "世界模型"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "新芯航途完成战略融资，累计融资约50亿元",
+          "url": "https://www.36kr.com/p/4028536443327112",
+          "link": "https://www.36kr.com/p/4028536443327112",
+          "source": "36氪",
+          "published_at": "2026-10-16",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "融资",
+          "summary": "36氪称物理AI算力芯片公司新芯航途XHEART完成战略轮融资，雷诺集团首次投资，奇瑞汽车追加投资，长鑫科技参与；公司历史累计融资约50亿元。其X7芯片面向L2++城区辅助驾驶及L3/L4市场，已进入上汽、通用和奇瑞部分车型，下一代产品瞄准更大参数模型。",
+          "why_it_matters": "车企、存储厂商和物理AI芯片公司形成股权与供应链绑定，反映自动驾驶芯片竞争正从单颗算力扩展到算法协同、存储成本、量产经验与海外客户渠道。",
+          "why_important": "车企、存储厂商和物理AI芯片公司形成股权与供应链绑定，反映自动驾驶芯片竞争正从单颗算力扩展到算法协同、存储成本、量产经验与海外客户渠道。",
+          "investment_observation": "报道未披露本轮金额、估值和实际出货收入，累计融资也不等于现金余额。关注X7量产规模、单车价值、长鑫供货协同、海外定点和车企自研芯片的竞争压力。",
+          "investment_angle": "报道未披露本轮金额、估值和实际出货收入，累计融资也不等于现金余额。关注X7量产规模、单车价值、长鑫供货协同、海外定点和车企自研芯片的竞争压力。",
+          "companies": [
+            "新芯航途XHEART",
+            "Renault Group",
+            "Chery Automobile",
+            "ChangXin Memory Technologies",
+            "Momenta"
+          ],
+          "people": [],
+          "products": [
+            "X7"
+          ],
+          "technologies": [
+            "自动驾驶芯片",
+            "物理AI",
+            "智能汽车"
+          ],
+          "entities": {
+            "companies": [
+              "新芯航途XHEART",
+              "Renault Group",
+              "Chery Automobile",
+              "ChangXin Memory Technologies",
+              "Momenta"
+            ],
+            "people": [],
+            "products": [
+              "X7"
+            ],
+            "technologies": [
+              "自动驾驶芯片",
+              "物理AI",
+              "智能汽车"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI芯片",
+            "自动驾驶",
+            "智能硬件"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "RTX Spark笔记本上市，推动本地Agent进入Windows PC",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+          "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+          "source": "NVIDIA",
+          "published_at": "2026-10-17",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "智能硬件",
+          "summary": "NVIDIA宣布RTX Spark Windows笔记本开始上市，采用Blackwell RTX GPU与Grace CPU，最高配备128GB统一内存和约1 petaflop FP4 AI算力，面向本地模型与常驻Agent。相关生态包括Windows安全原语、OpenShell、模型路由和本地推理工具；具体续航与应用性能仍取决于机型和工作负载。",
+          "why_it_matters": "高内存统一架构和系统级Agent安全把AI PC从轻量推理推向更大模型与长期任务，可能改变本地和云端算力的分工。",
+          "why_important": "高内存统一架构和系统级Agent安全把AI PC从轻量推理推向更大模型与长期任务，可能改变本地和云端算力的分工。",
+          "investment_observation": "关注实际售价、出货量、功耗续航、开发者工具成熟度和本地模型使用频次。1 petaflop为特定低精度峰值，不应等同于所有任务的持续性能。",
+          "investment_angle": "关注实际售价、出货量、功耗续航、开发者工具成熟度和本地模型使用频次。1 petaflop为特定低精度峰值，不应等同于所有任务的持续性能。",
+          "companies": [
+            "NVIDIA",
+            "Microsoft"
+          ],
+          "people": [
+            "Jensen Huang",
+            "Satya Nadella"
+          ],
+          "products": [
+            "RTX Spark",
+            "OpenShell"
+          ],
+          "technologies": [
+            "Blackwell",
+            "Grace CPU",
+            "本地AI",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Microsoft"
+            ],
+            "people": [
+              "Jensen Huang",
+              "Satya Nadella"
+            ],
+            "products": [
+              "RTX Spark",
+              "OpenShell"
+            ],
+            "technologies": [
+              "Blackwell",
+              "Grace CPU",
+              "本地AI",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "AI PC",
+            "NVIDIA",
+            "Agent"
+          ],
+          "importance_score": 8.7
+        },
+        {
+          "title": "Stack Overflow称ChatGPT插件使注册量一夜增至3倍",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI",
+          "published_at": "2026-10-16",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "产品应用",
+          "summary": "OpenAI客户案例称，Stack Overflow两名工程师用Codex在数周内构建Stack Overflow for Agents；ChatGPT插件上线后，注册量一夜增至3倍、Agent创建量一度增至10倍。公司还称Codex把一个企业连接器的开发周期从通常3至6周缩短至4天，最近一次缩短到1天。",
+          "why_it_matters": "插件分发和低摩擦安装可能成为Agent产品获客的重要渠道，知识平台也在从人类问答转向为Agent提供可验证上下文。",
+          "why_important": "插件分发和低摩擦安装可能成为Agent产品获客的重要渠道，知识平台也在从人类问答转向为Agent提供可验证上下文。",
+          "investment_observation": "增长和效率数字均为Stack Overflow在OpenAI案例中的自报，基数、观察期和付费转化未披露。关注留存、活跃Agent、企业收入、内容质量及平台渠道依赖。",
+          "investment_angle": "增长和效率数字均为Stack Overflow在OpenAI案例中的自报，基数、观察期和付费转化未披露。关注留存、活跃Agent、企业收入、内容质量及平台渠道依赖。",
+          "companies": [
+            "Stack Overflow",
+            "OpenAI"
+          ],
+          "people": [
+            "Alexandra Lato"
+          ],
+          "products": [
+            "Stack Overflow for Agents",
+            "Codex",
+            "ChatGPT plugin"
+          ],
+          "technologies": [
+            "AI Agent",
+            "知识管理",
+            "MCP"
+          ],
+          "entities": {
+            "companies": [
+              "Stack Overflow",
+              "OpenAI"
+            ],
+            "people": [
+              "Alexandra Lato"
+            ],
+            "products": [
+              "Stack Overflow for Agents",
+              "Codex",
+              "ChatGPT plugin"
+            ],
+            "technologies": [
+              "AI Agent",
+              "知识管理",
+              "MCP"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "开发者工具",
+            "OpenAI"
+          ],
+          "importance_score": 8.5
+        },
+        {
+          "title": "Bluesky将Attie扩展为可分享的社交小应用生成器",
+          "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+          "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+          "source": "The Verge",
+          "published_at": "2026-10-15",
+          "selected_at": "2026-10-19T09:30:47+08:00",
+          "category": "产品应用",
+          "summary": "Bluesky把此前用于创建自定义信息流的AI工具Attie扩展到可生成并分享轻量社交应用，包括小游戏、投票和仪表盘。用户以自然语言描述需求后即可在社交网络中分发，产品仍以小型互动体验为主。",
+          "why_it_matters": "社交平台正尝试把生成式AI从内容生产转向应用生产，让普通用户成为小工具开发者，并用社交关系链解决分发问题。",
+          "why_important": "社交平台正尝试把生成式AI从内容生产转向应用生产，让普通用户成为小工具开发者，并用社交关系链解决分发问题。",
+          "investment_observation": "关注创作完成率、分享与复用、用户留存、内容审核以及生成应用的权限边界。若只有短期试玩而缺乏持续使用，产品价值会明显低于传播热度。",
+          "investment_angle": "关注创作完成率、分享与复用、用户留存、内容审核以及生成应用的权限边界。若只有短期试玩而缺乏持续使用，产品价值会明显低于传播热度。",
+          "companies": [
+            "Bluesky"
+          ],
+          "people": [],
+          "products": [
+            "Attie"
+          ],
+          "technologies": [
+            "生成式AI",
+            "自然语言编程",
+            "社交应用"
+          ],
+          "entities": {
+            "companies": [
+              "Bluesky"
+            ],
+            "people": [],
+            "products": [
+              "Attie"
+            ],
+            "technologies": [
+              "生成式AI",
+              "自然语言编程",
+              "社交应用"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "社交平台",
+            "低代码"
+          ],
+          "importance_score": 8.1
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "count": 10,
