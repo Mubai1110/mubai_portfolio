@@ -1,8 +1,428 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-19T09:30:47+08:00",
-  "digest_count": 71,
-  "article_count": 639,
+  "generated_at": "2026-10-20T00:05:14+00:00",
+  "digest_count": 72,
+  "article_count": 649,
   "digests": [
+    {
+      "date": "2026-10-20",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+          "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 19 Oct 2026 22:49:27 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "治理",
+          "summary": "Hugging Face 政策负责人指出，把评测器直接嵌入 AI 系统并不能自动解决模型评估难题：评测标准仍会受到任务定义、数据偏差和利益相关方选择的影响，所谓“中立分数”需要持续审计。",
+          "why_it_matters": "模型评测正从排行榜工具变成采购、监管和上线许可的基础设施。若评测器本身不可解释或容易被针对性优化，企业和监管机构就可能建立在错误信号上做决策。",
+          "why_important": "模型评测正从排行榜工具变成采购、监管和上线许可的基础设施。若评测器本身不可解释或容易被针对性优化，企业和监管机构就可能建立在错误信号上做决策。",
+          "investment_observation": "关注可复现评测、持续红队、领域数据集和第三方审计工具。商业机会不只在做新基准，更在证明评测结果与真实业务风险、事故率和部署收益相关。",
+          "investment_angle": "关注可复现评测、持续红队、领域数据集和第三方审计工具。商业机会不只在做新基准，更在证明评测结果与真实业务风险、事故率和部署收益相关。",
+          "companies": [
+            "Hugging Face"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 评测"
+          ],
+          "entities": {
+            "companies": [
+              "Hugging Face"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 评测"
+            ]
+          },
+          "tags": [
+            "模型评测",
+            "AI治理",
+            "Hugging Face"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+          "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 19 Oct 2026 18:37:27 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "融资",
+          "summary": "据 TechCrunch 报道，AI 芯片公司 Tenstorrent 完成 15 亿美元融资，估值达到 62 亿美元；公司在此前获得收购兴趣后选择保持独立，并继续押注开放权重模型所需的训练与推理芯片。",
+          "why_it_matters": "这笔大额融资显示，资本仍愿意为 NVIDIA 之外的 AI 加速器架构下注。开放权重模型扩散，也为更灵活、可本地部署的芯片与软件栈创造了差异化窗口。",
+          "why_important": "这笔大额融资显示，资本仍愿意为 NVIDIA 之外的 AI 加速器架构下注。开放权重模型扩散，也为更灵活、可本地部署的芯片与软件栈创造了差异化窗口。",
+          "investment_observation": "融资额和估值仍需用量产节奏、编译器成熟度、开发者迁移成本及真实客户收入验证。芯片创业公司的核心风险是资本开支高、生态建设慢，以及先进制程和供应链约束。",
+          "investment_angle": "融资额和估值仍需用量产节奏、编译器成熟度、开发者迁移成本及真实客户收入验证。芯片创业公司的核心风险是资本开支高、生态建设慢，以及先进制程和供应链约束。",
+          "companies": [
+            "Tenstorrent",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI 加速器",
+            "开放权重模型"
+          ],
+          "entities": {
+            "companies": [
+              "Tenstorrent",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI 加速器",
+              "开放权重模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "AI芯片",
+            "开放权重"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+          "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+          "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+          "source": "NVIDIA Blog",
+          "published_at": "Mon, 19 Oct 2026 19:27:08 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "产业",
+          "summary": "德国总理 Friedrich Merz 与 NVIDIA CEO 黄仁勋在柏林讨论德国的工业 AI 路线，重点围绕制造业数字化、算力基础设施和本土产业竞争力；文章来自 NVIDIA，相关成效与投资规模应以项目落地为准。",
+          "why_it_matters": "德国拥有强制造业基础，工业 AI 若进入工厂设计、数字孪生、机器人和质量控制，将成为检验生成式 AI 能否转化为实体生产率的重要样本。",
+          "why_important": "德国拥有强制造业基础，工业 AI 若进入工厂设计、数字孪生、机器人和质量控制，将成为检验生成式 AI 能否转化为实体生产率的重要样本。",
+          "investment_observation": "关注实际数据中心建设、工业客户上线、系统集成周期及节省的停机和能耗成本。供应商宣传需要用订单、利用率和可复制案例验证。",
+          "investment_angle": "关注实际数据中心建设、工业客户上线、系统集成周期及节省的停机和能耗成本。供应商宣传需要用订单、利用率和可复制案例验证。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [
+            "Friedrich Merz",
+            "Jensen Huang"
+          ],
+          "products": [],
+          "technologies": [
+            "工业 AI",
+            "数字孪生"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [
+              "Friedrich Merz",
+              "Jensen Huang"
+            ],
+            "products": [],
+            "technologies": [
+              "工业 AI",
+              "数字孪生"
+            ]
+          },
+          "tags": [
+            "工业AI",
+            "算力基础设施",
+            "关键人物"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+          "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+          "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 19 Oct 2026 17:45:55 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "研究",
+          "summary": "MIT Technology Review 报道，Goodfire 研究员 Nick Cammarata 发起的一场长篇公开讨论重新挑战人们对神经网络内部机制的理解。该观点在研究社区引发强烈反响，但仍属于需要独立实验和同行检验的研究主张。",
+          "why_it_matters": "可解释性研究若能更可靠地说明模型内部表征和因果机制，将直接影响安全评测、模型调试与高风险行业采用；反之，未经验证的宏大解释也容易误导治理判断。",
+          "why_important": "可解释性研究若能更可靠地说明模型内部表征和因果机制，将直接影响安全评测、模型调试与高风险行业采用；反之，未经验证的宏大解释也容易误导治理判断。",
+          "investment_observation": "把关注点放在可重复实验、跨模型泛化和能否降低故障排查成本，而不是讨论热度。真正可商业化的可解释性工具需要嵌入训练、评测和生产监控流程。",
+          "investment_angle": "把关注点放在可重复实验、跨模型泛化和能否降低故障排查成本，而不是讨论热度。真正可商业化的可解释性工具需要嵌入训练、评测和生产监控流程。",
+          "companies": [
+            "Goodfire"
+          ],
+          "people": [
+            "Nick Cammarata"
+          ],
+          "products": [],
+          "technologies": [
+            "神经网络可解释性"
+          ],
+          "entities": {
+            "companies": [
+              "Goodfire"
+            ],
+            "people": [
+              "Nick Cammarata"
+            ],
+            "products": [],
+            "technologies": [
+              "神经网络可解释性"
+            ]
+          },
+          "tags": [
+            "基础研究",
+            "可解释性",
+            "模型安全"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+          "url": "https://news.ycombinator.com/item?id=50154029",
+          "link": "https://news.ycombinator.com/item?id=50154029",
+          "source": "Hacker News",
+          "published_at": "2026-10-19T16:00:18Z",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "产品",
+          "summary": "YC S24 公司 Laminar 发布一款用强化学习训练的模型，用于在 Agent 执行轨迹中定位错误；Hacker News 的讨论显示开发者对 Agent 调试、失败归因和可观测性的需求正在升温。产品效果目前主要来自团队演示与社区反馈。",
+          "why_it_matters": "Agent 进入生产环境后，企业真正需要的是能解释哪一步出错、为何出错并帮助回归测试的工具。轨迹级诊断可能成为 Agent 工程栈中的基础环节。",
+          "why_important": "Agent 进入生产环境后，企业真正需要的是能解释哪一步出错、为何出错并帮助回归测试的工具。轨迹级诊断可能成为 Agent 工程栈中的基础环节。",
+          "investment_observation": "重点验证错误定位准确率、对不同模型和框架的泛化、误报率，以及能否缩短调试时间。仅有社区热度不足以证明企业付费和长期壁垒。",
+          "investment_angle": "重点验证错误定位准确率、对不同模型和框架的泛化、误报率，以及能否缩短调试时间。仅有社区热度不足以证明企业付费和长期壁垒。",
+          "companies": [
+            "Laminar",
+            "Y Combinator"
+          ],
+          "people": [],
+          "products": [
+            "Laminar"
+          ],
+          "technologies": [
+            "AI Agent",
+            "强化学习",
+            "可观测性"
+          ],
+          "entities": {
+            "companies": [
+              "Laminar",
+              "Y Combinator"
+            ],
+            "people": [],
+            "products": [
+              "Laminar"
+            ],
+            "technologies": [
+              "AI Agent",
+              "强化学习",
+              "可观测性"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "开发者工具",
+            "强化学习"
+          ],
+          "importance_score": 8.0
+        },
+        {
+          "title": "Making the internet better for AI agents might make it worse for everyone else",
+          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+          "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+          "source": "MIT Technology Review AI",
+          "published_at": "Mon, 19 Oct 2026 18:22:47 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "治理",
+          "summary": "MIT Technology Review 分析，为 AI Agent 重构网站接口和访问规则，可能提升机器操作效率，却也可能让网页更加排斥普通用户、加剧平台封闭，并扩大自动化滥用与访问不平等问题。",
+          "why_it_matters": "Agent 正把互联网从“给人浏览”推向“给机器执行”。身份、授权、付费、反机器人和内容可见性规则如何设计，将决定开放网络与平台控制权的下一轮边界。",
+          "why_important": "Agent 正把互联网从“给人浏览”推向“给机器执行”。身份、授权、付费、反机器人和内容可见性规则如何设计，将决定开放网络与平台控制权的下一轮边界。",
+          "investment_observation": "关注 Agent 身份认证、权限委托、支付、审计和反滥用基础设施。可持续产品需要同时服务机器效率与人的可访问性，并避免依赖平台单方面放行。",
+          "investment_angle": "关注 Agent 身份认证、权限委托、支付、审计和反滥用基础设施。可持续产品需要同时服务机器效率与人的可访问性，并避免依赖平台单方面放行。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "机器可读互联网"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "机器可读互联网"
+            ]
+          },
+          "tags": [
+            "Agent",
+            "互联网治理",
+            "身份权限"
+          ],
+          "importance_score": 8.3
+        },
+        {
+          "title": "前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发",
+          "url": "https://36kr.com/p/4025325566054529?f=rss",
+          "link": "https://36kr.com/p/4025325566054529?f=rss",
+          "source": "36氪",
+          "published_at": "2026-10-18 09:30:00  +0800",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "融资",
+          "summary": "36氪报道称，杭州具身大脑公司格物通智完成近亿元人民币天使轮融资，资金计划用于物理反演世界模型预训练、硬件本体、人才扩充、场景 PoC 和真实数据采集；融资信息及性能指标以公司披露为主。",
+          "why_it_matters": "具身智能竞争正从机器人本体延伸到世界模型、数据闭环和控制系统。创始团队来自华为车 BU，也体现自动驾驶人才与技术向机器人领域迁移。",
+          "why_important": "具身智能竞争正从机器人本体延伸到世界模型、数据闭环和控制系统。创始团队来自华为车 BU，也体现自动驾驶人才与技术向机器人领域迁移。",
+          "investment_observation": "近亿元天使轮反映赛道热度，但应重点核验真实场景成功率、数据获取成本、跨本体泛化和客户付费。PoC 数量不等于规模化收入。",
+          "investment_angle": "近亿元天使轮反映赛道热度，但应重点核验真实场景成功率、数据获取成本、跨本体泛化和客户付费。PoC 数量不等于规模化收入。",
+          "companies": [
+            "格物通智",
+            "华为"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "具身智能",
+            "世界模型"
+          ],
+          "entities": {
+            "companies": [
+              "格物通智",
+              "华为"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "具身智能",
+              "世界模型"
+            ]
+          },
+          "tags": [
+            "融资",
+            "具身智能",
+            "世界模型"
+          ],
+          "importance_score": 8.2
+        },
+        {
+          "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+          "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+          "source": "The Verge AI",
+          "published_at": "2026-10-19T10:30:00-04:00",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "人物",
+          "summary": "伊利诺伊州州长 JB Pritzker 在 The Verge 访谈中讨论 AI 的长期机遇与核武器级风险比喻，并谈到隐私、数据中心、Flock 监控技术和国会立法。他的表态体现州级政府正在把 AI 产业政策与民权议题同时处理。",
+          "why_it_matters": "美国 AI 治理并非只由联邦政府决定，州政府在数据中心审批、能源、隐私和监控采购上的选择，会直接影响基础设施布局和产品准入。",
+          "why_important": "美国 AI 治理并非只由联邦政府决定，州政府在数据中心审批、能源、隐私和监控采购上的选择，会直接影响基础设施布局和产品准入。",
+          "investment_observation": "跟踪州级隐私法、数据中心电力与用水许可，以及公共部门对监控产品的采购限制。政治表态需等待具体法案、预算和执法动作兑现。",
+          "investment_angle": "跟踪州级隐私法、数据中心电力与用水许可，以及公共部门对监控产品的采购限制。政治表态需等待具体法案、预算和执法动作兑现。",
+          "companies": [
+            "Flock Safety"
+          ],
+          "people": [
+            "JB Pritzker"
+          ],
+          "products": [],
+          "technologies": [
+            "AI 监控",
+            "数据中心"
+          ],
+          "entities": {
+            "companies": [
+              "Flock Safety"
+            ],
+            "people": [
+              "JB Pritzker"
+            ],
+            "products": [],
+            "technologies": [
+              "AI 监控",
+              "数据中心"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "AI政策",
+            "隐私"
+          ],
+          "importance_score": 7.9
+        },
+        {
+          "title": "Democrats think cracking down on AI could give them an edge",
+          "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+          "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+          "source": "The Verge AI",
+          "published_at": "2026-10-19T08:00:00-04:00",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "政策",
+          "summary": "The Verge 报道，美国民主党部分候选人与政策人士正把更严格的 AI 监管视为中期选举议题，关注就业、深度伪造、消费者保护和科技公司权力；报道描述的是政治策略与政策分歧，不代表法案已经落地。",
+          "why_it_matters": "AI 监管开始进入选举政治，意味着政策方向可能随国会席位变化而显著摆动。模型公司、广告平台和企业用户都需面对更高的不确定性与合规成本。",
+          "why_important": "AI 监管开始进入选举政治，意味着政策方向可能随国会席位变化而显著摆动。模型公司、广告平台和企业用户都需面对更高的不确定性与合规成本。",
+          "investment_observation": "关注具体提案是否涉及责任分配、版权、选举内容标识和州法优先权。市场口号的影响有限，真正重要的是可执行条款、执法机构和生效时间。",
+          "investment_angle": "关注具体提案是否涉及责任分配、版权、选举内容标识和州法优先权。市场口号的影响有限，真正重要的是可执行条款、执法机构和生效时间。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式 AI"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式 AI"
+            ]
+          },
+          "tags": [
+            "美国政策",
+            "AI监管",
+            "选举"
+          ],
+          "importance_score": 7.8
+        },
+        {
+          "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+          "url": "https://www.qbitai.com/2026/10/504136.html",
+          "link": "https://www.qbitai.com/2026/10/504136.html",
+          "source": "量子位",
+          "published_at": "Sun, 18 Oct 2026 11:49:49 +0000",
+          "selected_at": "2026-10-20T00:05:14+00:00",
+          "category": "开源",
+          "summary": "量子位报道，VAST 开源实时世界模型 EdenLive，宣称可在单张消费级显卡上以 720p、超过 24 FPS 生成可交互世界。帧率与画质数据来自项目方，应结合硬件型号、场景复杂度和独立复现理解。",
+          "why_it_matters": "实时世界模型若能在消费级硬件运行，将降低交互式内容、仿真和机器人数据生成的门槛；开源发布也有助于开发者检验模型能力与部署成本。",
+          "why_important": "实时世界模型若能在消费级硬件运行，将降低交互式内容、仿真和机器人数据生成的门槛；开源发布也有助于开发者检验模型能力与部署成本。",
+          "investment_observation": "重点验证长时一致性、输入响应延迟、显存占用、可控性和商用许可。高帧率演示只有在复杂场景中稳定复现，才可能转化为游戏、仿真和机器人收入。",
+          "investment_angle": "重点验证长时一致性、输入响应延迟、显存占用、可控性和商用许可。高帧率演示只有在复杂场景中稳定复现，才可能转化为游戏、仿真和机器人收入。",
+          "companies": [
+            "VAST"
+          ],
+          "people": [],
+          "products": [
+            "EdenLive"
+          ],
+          "technologies": [
+            "实时世界模型"
+          ],
+          "entities": {
+            "companies": [
+              "VAST"
+            ],
+            "people": [],
+            "products": [
+              "EdenLive"
+            ],
+            "technologies": [
+              "实时世界模型"
+            ]
+          },
+          "tags": [
+            "开源",
+            "世界模型",
+            "边缘推理"
+          ],
+          "importance_score": 8.1
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "count": 10,
@@ -24704,49 +25124,8 @@ window.AI_NEWS_DATA = {
     },
     {
       "date": "2026-07-21",
-      "count": 10,
+      "count": 9,
       "articles": [
-        {
-          "title": "OpenAI is scared of open-weight models. Should the US be?",
-          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
-          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
-          "source": "TechCrunch AI",
-          "published_at": "Mon, 20 Jul 2026 19:33:25 +0000",
-          "selected_at": "2026-07-21T04:58:00+00:00",
-          "category": "公司",
-          "summary": "TechCrunch 关注的核心不是一条单独政策，而是 OpenAI 对中国开源权重模型的警惕已经外溢到美国政策讨论层面。开源权重模型正在把竞争焦点从“谁先发”转向“谁能在更低成本下扩散能力”。",
-          "why_it_matters": "如果美国头部公司开始通过政策而不是产品优势来延缓开源扩散，说明闭源模型的护城河正面临真实压力。这会直接影响模型分发、监管口径以及企业客户对开源替代路线的接受度。",
-          "why_important": "如果美国头部公司开始通过政策而不是产品优势来延缓开源扩散，说明闭源模型的护城河正面临真实压力。这会直接影响模型分发、监管口径以及企业客户对开源替代路线的接受度。",
-          "investment_observation": "重点跟踪美国后续是否出现更明确的出口、托管或开源限制信号，以及企业采购是否因此转向“美国闭源 + 中国开源”的双栈结构。受益方向包括模型网关、安全治理和低成本推理基础设施。",
-          "investment_angle": "重点跟踪美国后续是否出现更明确的出口、托管或开源限制信号，以及企业采购是否因此转向“美国闭源 + 中国开源”的双栈结构。受益方向包括模型网关、安全治理和低成本推理基础设施。",
-          "companies": [
-            "OpenAI"
-          ],
-          "people": [],
-          "products": [],
-          "technologies": [
-            "开源权重模型",
-            "LLM"
-          ],
-          "entities": {
-            "companies": [
-              "OpenAI"
-            ],
-            "people": [],
-            "products": [],
-            "technologies": [
-              "开源权重模型",
-              "LLM"
-            ]
-          },
-          "tags": [
-            "政策",
-            "开源模型",
-            "OpenAI",
-            "中美AI竞争"
-          ],
-          "importance_score": 8.8
-        },
         {
           "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
           "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
@@ -25222,8 +25601,46 @@ window.AI_NEWS_DATA = {
     },
     {
       "date": "2026-07-20",
-      "count": 5,
+      "count": 6,
       "articles": [
+        {
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
+          "source": "TechCrunch AI",
+          "published_at": "Mon, 20 Jul 2026 19:33:25 +0000",
+          "selected_at": "2026-07-21T07:54:24+00:00",
+          "category": "公司",
+          "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business。",
+          "why_it_matters": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "why_important": "OpenAI反映头部公司的监管、生态或商业动作，往往会重排上下游合作关系和竞争边界。",
+          "investment_observation": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "investment_angle": "围绕OpenAI，重点看监管博弈、渠道控制权和生态绑定是否强化；这些变化通常比短期舆论更影响中长期估值。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "LLM"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "LLM"
+            ]
+          },
+          "tags": [
+            "公司",
+            "OpenAI",
+            "LLM"
+          ],
+          "importance_score": 8.65
+        },
         {
           "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
           "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
