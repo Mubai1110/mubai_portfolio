@@ -1,8 +1,592 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-20T00:05:14+00:00",
-  "digest_count": 72,
-  "article_count": 649,
+  "generated_at": "2026-10-21T07:42:03+00:00",
+  "digest_count": 73,
+  "article_count": 661,
   "digests": [
+    {
+      "date": "2026-10-21",
+      "count": 12,
+      "articles": [
+        {
+          "title": "跨行业AI采用路径显示：流程重构比追逐模型更关键",
+          "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+          "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 20 Oct 2026 12:00:00 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "产品",
+          "summary": "MIT Technology Review梳理多个行业的AI落地差异：科技业的高渗透并不能直接复制到医疗、金融和制造等强监管或重流程行业，真正的采用速度取决于数据基础、工作流重构和一线人员参与。",
+          "why_it_matters": "跨行业对照提醒企业，AI回报并非只由模型能力决定；数据治理、流程所有权和组织激励才是把试点变成生产系统的关键。",
+          "why_important": "跨行业对照提醒企业，AI回报并非只由模型能力决定；数据治理、流程所有权和组织激励才是把试点变成生产系统的关键。",
+          "investment_observation": "优先关注能嵌入垂直流程、缩短部署周期并提供可审计结果的产品。只卖通用能力、却不能量化客户生产率提升的项目，续费与估值都更脆弱。",
+          "investment_angle": "优先关注能嵌入垂直流程、缩短部署周期并提供可审计结果的产品。只卖通用能力、却不能量化客户生产率提升的项目，续费与估值都更脆弱。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "生成式AI",
+            "企业AI"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "生成式AI",
+              "企业AI"
+            ]
+          },
+          "tags": [
+            "产品",
+            "企业AI",
+            "行业应用"
+          ],
+          "importance_score": 9.28
+        },
+        {
+          "title": "Figma扩展MCP生态，但Dylan Field警告数据开放存在不对称风险",
+          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+          "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 20 Oct 2026 14:13:32 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "人物",
+          "summary": "Figma宣布新增20个MCP合作伙伴，同时联合创始人Dylan Field表示MCP仍不完善：协议更有利于前沿模型公司，工具方开放越多数据，滥用风险也越高。Figma仍计划兼容更多标准并支持Pi。",
+          "why_it_matters": "MCP正在成为Agent连接外部工具的事实标准，但上下文共享、权限和价值分配尚未解决。大型SaaS厂商的态度会直接影响Agent生态的开放程度。",
+          "why_important": "MCP正在成为Agent连接外部工具的事实标准，但上下文共享、权限和价值分配尚未解决。大型SaaS厂商的态度会直接影响Agent生态的开放程度。",
+          "investment_observation": "关注权限控制、审计、数据最小化和跨协议网关。若工具厂商不愿无条件开放高价值上下文，围绕安全代理层和双向价值交换的基础设施将出现机会。",
+          "investment_angle": "关注权限控制、审计、数据最小化和跨协议网关。若工具厂商不愿无条件开放高价值上下文，围绕安全代理层和双向价值交换的基础设施将出现机会。",
+          "companies": [
+            "Figma",
+            "Anthropic"
+          ],
+          "people": [
+            "Dylan Field"
+          ],
+          "products": [
+            "MCP",
+            "Pi"
+          ],
+          "technologies": [
+            "AI Agent",
+            "Model Context Protocol"
+          ],
+          "entities": {
+            "companies": [
+              "Figma",
+              "Anthropic"
+            ],
+            "people": [
+              "Dylan Field"
+            ],
+            "products": [
+              "MCP",
+              "Pi"
+            ],
+            "technologies": [
+              "AI Agent",
+              "Model Context Protocol"
+            ]
+          },
+          "tags": [
+            "人物",
+            "MCP",
+            "Agent",
+            "数据治理"
+          ],
+          "importance_score": 8.75
+        },
+        {
+          "title": "Otter.ai获3.2亿美元非稀释增长资金，加码企业会议Agent",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+          "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+          "source": "TechCrunch AI",
+          "published_at": "Tue, 20 Oct 2026 11:00:00 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "融资",
+          "summary": "Otter.ai获得General Catalyst Customer Value Fund提供的3.2亿美元增长资金，用于企业拓展、国际化和产品创新。该资金按营销结果获取回报，不稀释股权；公司此前ARR已超过1亿美元，累计用户达4000万。",
+          "why_it_matters": "大额非稀释资金显示成熟AI应用开始用收入与获客效率融资，而不仅依赖股权故事；会议记录工具也正向可执行工作流Agent升级。",
+          "why_important": "大额非稀释资金显示成熟AI应用开始用收入与获客效率融资，而不仅依赖股权故事；会议记录工具也正向可执行工作流Agent升级。",
+          "investment_observation": "重点看月活、流失率、企业席位扩张及从转写到自动执行的收入贡献。赛道竞争拥挤，4000万累计用户不等于高留存，资金效率将决定估值质量。",
+          "investment_angle": "重点看月活、流失率、企业席位扩张及从转写到自动执行的收入贡献。赛道竞争拥挤，4000万累计用户不等于高留存，资金效率将决定估值质量。",
+          "companies": [
+            "Otter.ai",
+            "General Catalyst"
+          ],
+          "people": [],
+          "products": [
+            "Otter AI"
+          ],
+          "technologies": [
+            "语音AI",
+            "会议Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Otter.ai",
+              "General Catalyst"
+            ],
+            "people": [],
+            "products": [
+              "Otter AI"
+            ],
+            "technologies": [
+              "语音AI",
+              "会议Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "企业AI",
+            "语音AI",
+            "Agent"
+          ],
+          "importance_score": 8.45
+        },
+        {
+          "title": "三星扩建半导体基地，押注AI带来的高带宽存储需求",
+          "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+          "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+          "source": "MIT Technology Review AI",
+          "published_at": "Tue, 20 Oct 2026 09:00:00 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "硬件",
+          "summary": "三星正在其大型半导体制造基地扩充产能，以应对生成式AI GPU对高带宽存储和先进封装的持续需求。报道强调，GPU供给扩张越来越依赖存储芯片、封装与制造协同，而非单一计算芯片。",
+          "why_it_matters": "HBM和先进封装已成为AI算力供应链的关键瓶颈。三星的扩产进度将影响GPU交付、存储价格以及其与SK海力士、台积电等厂商的竞争格局。",
+          "why_important": "HBM和先进封装已成为AI算力供应链的关键瓶颈。三星的扩产进度将影响GPU交付、存储价格以及其与SK海力士、台积电等厂商的竞争格局。",
+          "investment_observation": "跟踪HBM良率、客户认证、先进封装产能与资本开支兑现。扩产若快于真实需求可能带来周期压力，但通过头部GPU客户认证将显著改善盈利弹性。",
+          "investment_angle": "跟踪HBM良率、客户认证、先进封装产能与资本开支兑现。扩产若快于真实需求可能带来周期压力，但通过头部GPU客户认证将显著改善盈利弹性。",
+          "companies": [
+            "Samsung"
+          ],
+          "people": [],
+          "products": [
+            "HBM"
+          ],
+          "technologies": [
+            "高带宽存储",
+            "先进封装",
+            "GPU"
+          ],
+          "entities": {
+            "companies": [
+              "Samsung"
+            ],
+            "people": [],
+            "products": [
+              "HBM"
+            ],
+            "technologies": [
+              "高带宽存储",
+              "先进封装",
+              "GPU"
+            ]
+          },
+          "tags": [
+            "硬件",
+            "半导体",
+            "HBM",
+            "AI Infra"
+          ],
+          "importance_score": 8.28
+        },
+        {
+          "title": "DeepSeek开源DeepInfer，大规模推理框架获开发者集中关注",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "link": "https://github.com/deepseek-ai/DeepInfer",
+          "source": "Hacker News",
+          "published_at": "2026-10-20T09:08:54Z",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "开源",
+          "summary": "DeepSeek开源面向自家模型的高性能、大规模推理框架DeepInfer，采用Apache-2.0许可证。项目上线后在GitHub迅速积累约1.5万星标，并在Hacker News获得高度讨论。",
+          "why_it_matters": "推理层开源会降低DeepSeek模型的大规模部署门槛，并把竞争从模型权重延伸到调度、并行和服务效率。社区热度也验证了企业对低成本推理栈的强需求。",
+          "why_important": "推理层开源会降低DeepSeek模型的大规模部署门槛，并把竞争从模型权重延伸到调度、并行和服务效率。社区热度也验证了企业对低成本推理栈的强需求。",
+          "investment_observation": "关注真实吞吐、延迟、硬件兼容性和生产稳定性，而非仅看星标。若DeepInfer形成生态，模型服务、推理优化和国产算力适配厂商的竞争格局会被重塑。",
+          "investment_angle": "关注真实吞吐、延迟、硬件兼容性和生产稳定性，而非仅看星标。若DeepInfer形成生态，模型服务、推理优化和国产算力适配厂商的竞争格局会被重塑。",
+          "companies": [
+            "DeepSeek"
+          ],
+          "people": [],
+          "products": [
+            "DeepInfer"
+          ],
+          "technologies": [
+            "大模型推理",
+            "分布式推理"
+          ],
+          "entities": {
+            "companies": [
+              "DeepSeek"
+            ],
+            "people": [],
+            "products": [
+              "DeepInfer"
+            ],
+            "technologies": [
+              "大模型推理",
+              "分布式推理"
+            ]
+          },
+          "tags": [
+            "开源",
+            "推理",
+            "AI Infra",
+            "DeepSeek"
+          ],
+          "importance_score": 7.83
+        },
+        {
+          "title": "Lightroom移动端上线AI睁眼修复，一键处理闭眼照片",
+          "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+          "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+          "source": "The Verge AI",
+          "published_at": "2026-10-20T09:06:44-04:00",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "产品",
+          "summary": "Adobe在iOS、iPadOS和Android版Lightroom中加入生成式AI快捷操作，可识别闭眼人物并一键生成自然睁眼效果，把过去需要精细编辑的修图任务压缩为移动端单步操作。",
+          "why_it_matters": "生成式AI正在从独立功能变成成熟创作软件的默认交互。Adobe依靠既有用户、工作流和版权治理，将模型能力转化为高频、低学习成本的产品价值。",
+          "why_important": "生成式AI正在从独立功能变成成熟创作软件的默认交互。Adobe依靠既有用户、工作流和版权治理，将模型能力转化为高频、低学习成本的产品价值。",
+          "investment_observation": "观察该功能是否提升移动端活跃度、订阅转化和生成式额度消耗。单点AI修图易被复制，真正护城河仍是工作流、素材生态和跨端用户关系。",
+          "investment_angle": "观察该功能是否提升移动端活跃度、订阅转化和生成式额度消耗。单点AI修图易被复制，真正护城河仍是工作流、素材生态和跨端用户关系。",
+          "companies": [
+            "Adobe"
+          ],
+          "people": [],
+          "products": [
+            "Lightroom"
+          ],
+          "technologies": [
+            "生成式AI",
+            "图像编辑"
+          ],
+          "entities": {
+            "companies": [
+              "Adobe"
+            ],
+            "people": [],
+            "products": [
+              "Lightroom"
+            ],
+            "technologies": [
+              "生成式AI",
+              "图像编辑"
+            ]
+          },
+          "tags": [
+            "产品",
+            "生成式AI",
+            "创意工具"
+          ],
+          "importance_score": 7.65
+        },
+        {
+          "title": "Terminal X用GPT-6.1将资深投资判断一致率提升至88.6%",
+          "url": "https://openai.com/index/terminal-x",
+          "link": "https://openai.com/index/terminal-x",
+          "source": "OpenAI News",
+          "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "应用",
+          "summary": "Terminal X把投资机构的备忘录、流程和隐性判断编码为专属Agent，并用54项标准的Eval Agent持续评分。GPT-6.1 Sol让越界建议检出率较次优模型高25%，单次查询成本低约30%，一个客户的尽调流程年化节省约240万美元。",
+          "why_it_matters": "该案例展示了企业Agent从生成答案走向可测量、可审计的专业判断：核心资产不是聊天界面，而是机构私有的决策标准、记忆和评估闭环。",
+          "why_important": "该案例展示了企业Agent从生成答案走向可测量、可审计的专业判断：核心资产不是聊天界面，而是机构私有的决策标准、记忆和评估闭环。",
+          "investment_observation": "重点看前置实施成本、客户部署周期、判断一致率与节省金额能否跨机构复制。能把专家经验结构化并持续评测的垂直Agent，更可能形成高迁移成本。",
+          "investment_angle": "重点看前置实施成本、客户部署周期、判断一致率与节省金额能否跨机构复制。能把专家经验结构化并持续评测的垂直Agent，更可能形成高迁移成本。",
+          "companies": [
+            "Terminal X",
+            "OpenAI"
+          ],
+          "people": [
+            "Hyun Hong"
+          ],
+          "products": [
+            "Capital Memory",
+            "Eval Agent",
+            "GPT-6.1 Sol"
+          ],
+          "technologies": [
+            "AI Agent",
+            "模型评测",
+            "长上下文"
+          ],
+          "entities": {
+            "companies": [
+              "Terminal X",
+              "OpenAI"
+            ],
+            "people": [
+              "Hyun Hong"
+            ],
+            "products": [
+              "Capital Memory",
+              "Eval Agent",
+              "GPT-6.1 Sol"
+            ],
+            "technologies": [
+              "AI Agent",
+              "模型评测",
+              "长上下文"
+            ]
+          },
+          "tags": [
+            "应用",
+            "金融AI",
+            "Agent",
+            "评测"
+          ],
+          "importance_score": 7.38
+        },
+        {
+          "title": "OpenAI收购Orchestra Bio，补齐药物研发流程Agent",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "source": "OpenAI News",
+          "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "并购",
+          "summary": "OpenAI收购药物研发协同平台Orchestra Bio，并将其团队和技术并入生命科学产品Rosalind。双方计划打造能跟踪研究、识别进度依赖并协调下一步工作的Agent，连接科学发现与药物开发执行。",
+          "why_it_matters": "这是OpenAI从提供通用模型向掌握高价值行业工作流延伸的重要动作。药物研发周期长、数据碎片化，流程协同层可能成为AI进入生命科学的关键入口。",
+          "why_important": "这是OpenAI从提供通用模型向掌握高价值行业工作流延伸的重要动作。药物研发周期长、数据碎片化，流程协同层可能成为AI进入生命科学的关键入口。",
+          "investment_observation": "关注收购后的产品整合、药企付费、监管合规和研发周期缩短证据。通用模型厂商纵向并购会压缩独立生命科学Agent的空间，也可能带动数据与验证工具需求。",
+          "investment_angle": "关注收购后的产品整合、药企付费、监管合规和研发周期缩短证据。通用模型厂商纵向并购会压缩独立生命科学Agent的空间，也可能带动数据与验证工具需求。",
+          "companies": [
+            "OpenAI",
+            "Orchestra Bio",
+            "Novo Nordisk",
+            "Moderna"
+          ],
+          "people": [],
+          "products": [
+            "Rosalind",
+            "GPT-Rosalind",
+            "Rosalind Workbench"
+          ],
+          "technologies": [
+            "生命科学AI",
+            "AI Agent",
+            "药物研发"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Orchestra Bio",
+              "Novo Nordisk",
+              "Moderna"
+            ],
+            "people": [],
+            "products": [
+              "Rosalind",
+              "GPT-Rosalind",
+              "Rosalind Workbench"
+            ],
+            "technologies": [
+              "生命科学AI",
+              "AI Agent",
+              "药物研发"
+            ]
+          },
+          "tags": [
+            "并购",
+            "OpenAI",
+            "生命科学",
+            "Agent"
+          ],
+          "importance_score": 7.38
+        },
+        {
+          "title": "Google将个性化Gemini接入汽车，打通Android Auto用户数据",
+          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "source": "The Verge AI",
+          "published_at": "2026-10-20T18:11:34-04:00",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "智能硬件",
+          "summary": "Google把Personal Intelligence能力带入Android Auto和内置Google服务的汽车，使Gemini可结合用户授权的Google应用信息，在驾驶场景提供更个性化的导航、沟通和任务协助。",
+          "why_it_matters": "座舱正成为个人Agent的重要入口。Google把账户数据、移动生态和车载系统结合，可提升服务连续性，也让隐私、驾驶安全和车企数据主权成为竞争焦点。",
+          "why_important": "座舱正成为个人Agent的重要入口。Google把账户数据、移动生态和车载系统结合，可提升服务连续性，也让隐私、驾驶安全和车企数据主权成为竞争焦点。",
+          "investment_observation": "关注支持车型、使用频率、车企分成和权限边界。车载Agent价值取决于低干扰交互和跨应用执行能力；仅将手机助手搬进车内，商业增量有限。",
+          "investment_angle": "关注支持车型、使用频率、车企分成和权限边界。车载Agent价值取决于低干扰交互和跨应用执行能力；仅将手机助手搬进车内，商业增量有限。",
+          "companies": [
+            "Google"
+          ],
+          "people": [],
+          "products": [
+            "Gemini",
+            "Android Auto",
+            "Personal Intelligence"
+          ],
+          "technologies": [
+            "车载AI",
+            "多模态交互"
+          ],
+          "entities": {
+            "companies": [
+              "Google"
+            ],
+            "people": [],
+            "products": [
+              "Gemini",
+              "Android Auto",
+              "Personal Intelligence"
+            ],
+            "technologies": [
+              "车载AI",
+              "多模态交互"
+            ]
+          },
+          "tags": [
+            "智能硬件",
+            "汽车",
+            "Gemini",
+            "Agent"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "MiniMax升级M2-Flash，主打Agent性能与分时低价策略",
+          "url": "https://www.qbitai.com/2026/10/504517.html",
+          "link": "https://www.qbitai.com/2026/10/504517.html",
+          "source": "量子位",
+          "published_at": "Tue, 20 Oct 2026 13:29:54 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "基础模型",
+          "summary": "MiniMax发布升级版M2-Flash，重点强化Agent任务表现，并以分时段低价策略降低高并发调用成本。量子位报道称该模型在国内模型Agent评测中居前，试图用性能与价格同时争夺开发者。",
+          "why_it_matters": "基础模型竞争已从单次榜单转向Agent可靠性、延迟和单位任务成本。动态定价说明厂商开始主动调度需求，提升算力利用率并争夺工作负载。",
+          "why_important": "基础模型竞争已从单次榜单转向Agent可靠性、延迟和单位任务成本。动态定价说明厂商开始主动调度需求，提升算力利用率并争夺工作负载。",
+          "investment_observation": "需要核验第三方基准、真实任务完成率与高峰期稳定性。低价能促使用量，但长期价值取决于开发者留存、毛利率和是否形成工具调用生态。",
+          "investment_angle": "需要核验第三方基准、真实任务完成率与高峰期稳定性。低价能促使用量，但长期价值取决于开发者留存、毛利率和是否形成工具调用生态。",
+          "companies": [
+            "MiniMax"
+          ],
+          "people": [],
+          "products": [
+            "M2-Flash"
+          ],
+          "technologies": [
+            "基础模型",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "MiniMax"
+            ],
+            "people": [],
+            "products": [
+              "M2-Flash"
+            ],
+            "technologies": [
+              "基础模型",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "基础模型",
+            "MiniMax",
+            "Agent",
+            "模型价格"
+          ],
+          "importance_score": 7.28
+        },
+        {
+          "title": "巴塞罗那超算中心联合NVIDIA，为西班牙初创公司开放主权算力",
+          "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+          "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+          "source": "NVIDIA Blog",
+          "published_at": "Tue, 20 Oct 2026 05:00:00 +0000",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "AI Infra",
+          "summary": "巴塞罗那超级计算中心的AI Factory加速计划已进入正式运营，为西班牙初创公司提供主权算力、技术支持和产业连接，NVIDIA参与构建本地AI创新与商业化基础设施。",
+          "why_it_matters": "欧洲正在用公共超算与产业伙伴降低本土初创公司的算力门槛。主权AI不只是数据合规议题，也在形成区域化的算力分配和模型生态。",
+          "why_important": "欧洲正在用公共超算与产业伙伴降低本土初创公司的算力门槛。主权AI不只是数据合规议题，也在形成区域化的算力分配和模型生态。",
+          "investment_observation": "关注加速计划的算力利用率、毕业项目融资与商业收入。公共资源可降低早期成本，但持续竞争力仍取决于数据、人才和跨欧洲市场扩张。",
+          "investment_angle": "关注加速计划的算力利用率、毕业项目融资与商业收入。公共资源可降低早期成本，但持续竞争力仍取决于数据、人才和跨欧洲市场扩张。",
+          "companies": [
+            "NVIDIA",
+            "Barcelona Supercomputing Center"
+          ],
+          "people": [],
+          "products": [
+            "AI Factory Accelerator Programme"
+          ],
+          "technologies": [
+            "超级计算",
+            "主权AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Barcelona Supercomputing Center"
+            ],
+            "people": [],
+            "products": [
+              "AI Factory Accelerator Programme"
+            ],
+            "technologies": [
+              "超级计算",
+              "主权AI"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "主权AI",
+            "创业生态",
+            "NVIDIA"
+          ],
+          "importance_score": 7.12
+        },
+        {
+          "title": "亚马逊提前锁定约50亿美元GB300机架，电力不足造成闲置风险",
+          "url": "https://36kr.com/newsflashes/4035259452314505?f=rss",
+          "link": "https://36kr.com/newsflashes/4035259452314505?f=rss",
+          "source": "36氪",
+          "published_at": "2026-10-21 14:38:11  +0800",
+          "selected_at": "2026-10-21T07:42:03+00:00",
+          "category": "AI Infra",
+          "summary": "报道称亚马逊启动“提前接收机架”计划，在部分数据中心电力尚未就绪时先接收约50亿美元的NVIDIA GB300服务器机架，并计划持续追加采购。硬件交付与供电建设错配，可能导致设备阶段性闲置。",
+          "why_it_matters": "AI基础设施的瓶颈正从GPU采购转向电力、并网和机房交付。提前锁货反映头部云厂商争夺算力供给，也暴露巨额资本开支无法及时转化为可售计算的问题。",
+          "why_important": "AI基础设施的瓶颈正从GPU采购转向电力、并网和机房交付。提前锁货反映头部云厂商争夺算力供给，也暴露巨额资本开支无法及时转化为可售计算的问题。",
+          "investment_observation": "同时跟踪GPU订单、上电率、并网周期和折旧。受益方向从芯片扩展到电力设备、液冷和数据中心建设；若闲置时间拉长，云厂商资本回报率将承压。",
+          "investment_angle": "同时跟踪GPU订单、上电率、并网周期和折旧。受益方向从芯片扩展到电力设备、液冷和数据中心建设；若闲置时间拉长，云厂商资本回报率将承压。",
+          "companies": [
+            "Amazon",
+            "AWS",
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "GB300"
+          ],
+          "technologies": [
+            "GPU",
+            "数据中心",
+            "电力基础设施"
+          ],
+          "entities": {
+            "companies": [
+              "Amazon",
+              "AWS",
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "GB300"
+            ],
+            "technologies": [
+              "GPU",
+              "数据中心",
+              "电力基础设施"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "AWS",
+            "NVIDIA",
+            "数据中心"
+          ],
+          "importance_score": 6.95
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "count": 10,
