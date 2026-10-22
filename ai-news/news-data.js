@@ -1,8 +1,522 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-21T07:42:03+00:00",
-  "digest_count": 73,
-  "article_count": 661,
+  "generated_at": "2026-10-22T09:03:24+08:00",
+  "digest_count": 74,
+  "article_count": 671,
   "digests": [
+    {
+      "date": "2026-10-22",
+      "count": 10,
+      "articles": [
+        {
+          "title": "千诀发布Polibrain预测式世界模型，探索跨本体机器人复用",
+          "url": "https://www.qbitai.com/2026/10/504653.html",
+          "link": "https://www.qbitai.com/2026/10/504653.html",
+          "source": "量子位",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "机器人",
+          "summary": "清华系团队千诀展示Polibrain预测式世界模型：不以完整生成未来画面为目标，而在潜在表征空间预测与任务有关的状态变化，并将环境理解与具体本体动作相对解耦。团队称已适配人形、轮式、单臂和双臂等形态，并以多项式表征、有效阶和因果记忆研究支持跨场景泛化；公开材料仍缺少大规模真实任务成功率数据。",
+          "why_it_matters": "世界模型如果能跨本体复用状态表征，可能缓解具身智能数据割裂与每种机器人重复训练的问题，把竞争从单一本体扩展到通用机器人“大脑”和数据网络。",
+          "why_important": "世界模型如果能跨本体复用状态表征，可能缓解具身智能数据割裂与每种机器人重复训练的问题，把竞争从单一本体扩展到通用机器人“大脑”和数据网络。",
+          "investment_observation": "重点跟踪第三方实测、跨本体迁移成功率、客户数量、真实数据授权及模型与控制栈的接口成本。研究领先与演示效果不能直接等同于可规模交付。",
+          "investment_angle": "重点跟踪第三方实测、跨本体迁移成功率、客户数量、真实数据授权及模型与控制栈的接口成本。研究领先与演示效果不能直接等同于可规模交付。",
+          "companies": [
+            "千诀",
+            "Tsinghua University"
+          ],
+          "people": [
+            "高海川",
+            "Yann LeCun"
+          ],
+          "products": [
+            "Polibrain"
+          ],
+          "technologies": [
+            "世界模型",
+            "多项式表征",
+            "因果记忆",
+            "具身智能"
+          ],
+          "entities": {
+            "companies": [
+              "千诀",
+              "Tsinghua University"
+            ],
+            "people": [
+              "高海川",
+              "Yann LeCun"
+            ],
+            "products": [
+              "Polibrain"
+            ],
+            "technologies": [
+              "世界模型",
+              "多项式表征",
+              "因果记忆",
+              "具身智能"
+            ]
+          },
+          "tags": [
+            "机器人",
+            "世界模型",
+            "研究",
+            "具身智能"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "黄仁勋在GTC Berlin强调欧洲AI基础设施与本地生产能力",
+          "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
+          "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
+          "source": "NVIDIA",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "关键人物",
+          "summary": "NVIDIA CEO黄仁勋在GTC Berlin表示，欧洲要参与AI经济，不应只消费AI，还要建设能源、计算、AI工厂、模型和应用的完整能力。NVIDIA称已与欧洲超过1.2万家伙伴合作，并在欧洲技术生态承诺投入近100亿美元；大会覆盖Agent、机器人、物理AI、开放模型和加速计算。",
+          "why_it_matters": "头部算力公司把主权AI叙事进一步落到欧洲资本投入和伙伴网络，说明区域算力、能源与本地模型正成为产业政策和企业采购的共同约束。",
+          "why_important": "头部算力公司把主权AI叙事进一步落到欧洲资本投入和伙伴网络，说明区域算力、能源与本地模型正成为产业政策和企业采购的共同约束。",
+          "investment_observation": "近100亿美元属于公司口径的生态承诺，不等于单一资本开支。关注项目落地节奏、GPU利用率、欧洲电力和许可瓶颈，以及主权算力是否形成持续云收入。",
+          "investment_angle": "近100亿美元属于公司口径的生态承诺，不等于单一资本开支。关注项目落地节奏、GPU利用率、欧洲电力和许可瓶颈，以及主权算力是否形成持续云收入。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [
+            "Jensen Huang"
+          ],
+          "products": [
+            "GTC Berlin 2026"
+          ],
+          "technologies": [
+            "AI基础设施",
+            "AI工厂",
+            "物理AI"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [
+              "Jensen Huang"
+            ],
+            "products": [
+              "GTC Berlin 2026"
+            ],
+            "technologies": [
+              "AI基础设施",
+              "AI工厂",
+              "物理AI"
+            ]
+          },
+          "tags": [
+            "关键人物",
+            "NVIDIA",
+            "AI Infra",
+            "欧洲"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "OpenAI启动Patch the Planet，协同修复PHP关键漏洞",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "安全",
+          "summary": "OpenAI披露Patch the Planet协调机制：研究人员使用GPT-5.6 Sol发现PHP关键漏洞，Wiz也独立发现并报告相关问题；PHP维护者主导修复与发布，Cloudflare等参与防护和披露协调。项目提供PHP版本检查工具，并计划推出Codex技能帮助运营者识别可能受影响的版本。",
+          "why_it_matters": "AI Agent正从发现漏洞走向协调修复和验证补丁，既提高开源生态防御效率，也把负责任披露、敏感信息分级和维护者响应能力变成安全基础设施的一部分。",
+          "why_important": "AI Agent正从发现漏洞走向协调修复和验证补丁，既提高开源生态防御效率，也把负责任披露、敏感信息分级和维护者响应能力变成安全基础设施的一部分。",
+          "investment_observation": "关注Agent发现的有效漏洞率、误报、补丁验证、责任边界和维护者采用。安全价值取决于修复闭环，而不是单纯增加漏洞数量；相关模型和工具也可能形成企业安全产品入口。",
+          "investment_angle": "关注Agent发现的有效漏洞率、误报、补丁验证、责任边界和维护者采用。安全价值取决于修复闭环，而不是单纯增加漏洞数量；相关模型和工具也可能形成企业安全产品入口。",
+          "companies": [
+            "OpenAI",
+            "Wiz",
+            "Cloudflare",
+            "PHP"
+          ],
+          "people": [],
+          "products": [
+            "Patch the Planet",
+            "GPT-5.6 Sol"
+          ],
+          "technologies": [
+            "AI安全",
+            "漏洞发现",
+            "负责任披露"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "Wiz",
+              "Cloudflare",
+              "PHP"
+            ],
+            "people": [],
+            "products": [
+              "Patch the Planet",
+              "GPT-5.6 Sol"
+            ],
+            "technologies": [
+              "AI安全",
+              "漏洞发现",
+              "负责任披露"
+            ]
+          },
+          "tags": [
+            "安全",
+            "OpenAI",
+            "Agent",
+            "开源"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "Meta称Muse用户突破1000万，购物成为主要用途之一",
+          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+          "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+          "source": "TechCrunch",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "产品应用",
+          "summary": "Meta在第三季度业绩沟通中称，AI应用Muse用户已超过1000万，购物与个人生产力是主要活动。此前Sensor Tower估算Muse上线40天在美国获得约1020万次下载；用户数、下载量和持续活跃并非同一指标，增长也受到Meta跨应用分发与广告投放推动。",
+          "why_it_matters": "消费级AI助手开始承接购物意图，可能改变搜索、广告、电商导购和交易入口的价值分配；Meta的社交分发网络是独立AI应用难以复制的优势。",
+          "why_important": "消费级AI助手开始承接购物意图，可能改变搜索、广告、电商导购和交易入口的价值分配；Meta的社交分发网络是独立AI应用难以复制的优势。",
+          "investment_observation": "重点看日周活、留存、购物转化、广告获客成本和每用户推理成本。1000万用户不代表形成稳定商业模式，需区分自然使用、付费投放和跨应用导流。",
+          "investment_angle": "重点看日周活、留存、购物转化、广告获客成本和每用户推理成本。1000万用户不代表形成稳定商业模式，需区分自然使用、付费投放和跨应用导流。",
+          "companies": [
+            "Meta",
+            "Sensor Tower"
+          ],
+          "people": [],
+          "products": [
+            "Muse"
+          ],
+          "technologies": [
+            "AI助手",
+            "推荐系统",
+            "AI购物"
+          ],
+          "entities": {
+            "companies": [
+              "Meta",
+              "Sensor Tower"
+            ],
+            "people": [],
+            "products": [
+              "Muse"
+            ],
+            "technologies": [
+              "AI助手",
+              "推荐系统",
+              "AI购物"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Meta",
+            "电商",
+            "消费者AI"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Google Cloud与NVIDIA宣布Vera Rubin基础设施即将全面可用",
+          "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+          "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+          "source": "NVIDIA",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "AI Infra",
+          "summary": "Google Cloud与NVIDIA宣布基于Vera Rubin NVL72的基础设施将在次月进入通用可用阶段，并计划扩展至欧洲，用于训练、推理和大规模部署。该平台结合Vera CPU、Rubin GPU和高速网络；官方宣称相较上一代可实现最高10倍的每兆瓦token吞吐和更低推理成本，属于厂商基准口径。",
+          "why_it_matters": "新一代整机柜系统进入云端可用阶段，意味着芯片发布开始转化为客户可购买算力；性能功耗比将直接影响受电力约束的数据中心扩容和推理毛利。",
+          "why_important": "新一代整机柜系统进入云端可用阶段，意味着芯片发布开始转化为客户可购买算力；性能功耗比将直接影响受电力约束的数据中心扩容和推理毛利。",
+          "investment_observation": "关注实际可用区域、交付数量、客户利用率、单位token价格与独立基准。10倍指标依赖具体模型、精度和系统配置，不能直接外推到所有生产负载。",
+          "investment_angle": "关注实际可用区域、交付数量、客户利用率、单位token价格与独立基准。10倍指标依赖具体模型、精度和系统配置，不能直接外推到所有生产负载。",
+          "companies": [
+            "NVIDIA",
+            "Google Cloud"
+          ],
+          "people": [],
+          "products": [
+            "Vera Rubin NVL72",
+            "Google Cloud A5X"
+          ],
+          "technologies": [
+            "Vera CPU",
+            "Rubin GPU",
+            "推理",
+            "强化学习"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Google Cloud"
+            ],
+            "people": [],
+            "products": [
+              "Vera Rubin NVL72",
+              "Google Cloud A5X"
+            ],
+            "technologies": [
+              "Vera CPU",
+              "Rubin GPU",
+              "推理",
+              "强化学习"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "NVIDIA",
+            "云计算",
+            "AI芯片"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "OpenAI披露ChatGPT广告技术栈，年化收入运行率超10亿美元",
+          "url": "https://openai.com/index/building-chatgpt-ad-stack",
+          "link": "https://openai.com/index/building-chatgpt-ad-stack",
+          "source": "OpenAI",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "商业化",
+          "summary": "OpenAI介绍ChatGPT广告系统：用定制后训练模型理解多轮对话意图，并调用检索、资格过滤、排序和竞价工具；广告选择与回答生成使用独立服务和模型。公司称广告上线不足200天达到超过10亿美元年化收入运行率，已有超过10万广告主投放，这些数字来自OpenAI自身披露。",
+          "why_it_matters": "对话式广告把商业化从关键词和页面浏览升级为跨轮意图理解，同时要求回答中立性与广告系统隔离；这可能重塑搜索广告、推荐和Agent交易入口。",
+          "why_important": "对话式广告把商业化从关键词和页面浏览升级为跨轮意图理解，同时要求回答中立性与广告系统隔离；这可能重塑搜索广告、推荐和Agent交易入口。",
+          "investment_observation": "关注广告展示率、点击与转化、用户流失、隐私设置、推理成本和答案独立性。年化运行率不等于已实现全年收入，平台需证明广告增长不会损害信任和核心留存。",
+          "investment_angle": "关注广告展示率、点击与转化、用户流失、隐私设置、推理成本和答案独立性。年化运行率不等于已实现全年收入，平台需证明广告增长不会损害信任和核心留存。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [
+            "ChatGPT Ads",
+            "Codex"
+          ],
+          "technologies": [
+            "LLM编排",
+            "广告检索",
+            "推荐系统",
+            "工具调用"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [
+              "ChatGPT Ads",
+              "Codex"
+            ],
+            "technologies": [
+              "LLM编排",
+              "广告检索",
+              "推荐系统",
+              "工具调用"
+            ]
+          },
+          "tags": [
+            "商业化",
+            "OpenAI",
+            "广告",
+            "产品应用"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "报告警告数据中心扩张可能逆转得州空气质量改善",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+          "source": "The Verge",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "AI Infra",
+          "summary": "The Verge援引研究称，数据中心建设热潮及其电力需求可能令得州空气污染回到多年未见水平。风险不只来自数据中心自身备用发电设备，也来自电网为新增负荷启用或延长化石燃料机组；具体排放取决于项目位置、电源结构和实际利用率。",
+          "why_it_matters": "电力、排放许可和社区健康成本正从外部议题变成AI基础设施扩张的硬约束，可能影响项目审批、选址、融资成本和上线时间。",
+          "why_important": "电力、排放许可和社区健康成本正从外部议题变成AI基础设施扩张的硬约束，可能影响项目审批、选址、融资成本和上线时间。",
+          "investment_observation": "关注州级许可、并网排队、清洁电力采购、燃气机组建设与环境诉讼。算力需求增长将利好电网和能效技术，但高排放项目面临更高政策与社会许可风险。",
+          "investment_angle": "关注州级许可、并网排队、清洁电力采购、燃气机组建设与环境诉讼。算力需求增长将利好电网和能效技术，但高排放项目面临更高政策与社会许可风险。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "数据中心",
+            "电力",
+            "空气污染",
+            "AI基础设施"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "数据中心",
+              "电力",
+              "空气污染",
+              "AI基础设施"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "能源",
+            "数据中心",
+            "治理"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Walmart将开放AI购物Agent并保留用户确认环节",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+          "source": "The Verge",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "产品应用",
+          "summary": "Walmart计划从次月起允许AI Agent在其网站代用户选购商品，并设置用户确认机制后再完成关键操作。该方案把零售网站从面向人类点击的界面转向可被外部Agent调用的交易环境，涉及商品检索、购物车、身份、支付和售后等环节。",
+          "why_it_matters": "大型零售商主动接入购物Agent，表明Agent商业竞争正进入交易执行层；谁控制商品发现、授权和结算接口，谁就可能掌握新的电商流量入口。",
+          "why_important": "大型零售商主动接入购物Agent，表明Agent商业竞争正进入交易执行层；谁控制商品发现、授权和结算接口，谁就可能掌握新的电商流量入口。",
+          "investment_observation": "关注上线范围、订单转化、退货率、欺诈责任、平台佣金和Agent渠道归因。用户确认可降低误购风险，但过多确认也会削弱自动化价值。",
+          "investment_angle": "关注上线范围、订单转化、退货率、欺诈责任、平台佣金和Agent渠道归因。用户确认可降低误购风险，但过多确认也会削弱自动化价值。",
+          "companies": [
+            "Walmart"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI Agent",
+            "Agent支付",
+            "电商基础设施"
+          ],
+          "entities": {
+            "companies": [
+              "Walmart"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI Agent",
+              "Agent支付",
+              "电商基础设施"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "电商",
+            "Agent",
+            "零售"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "Flowtica AI获数千万元融资，推出磁吸墨水屏Agent硬件",
+          "url": "https://36kr.com/p/4034229489701764",
+          "link": "https://36kr.com/p/4034229489701764",
+          "source": "36氪",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "融资",
+          "summary": "36氪报道，Flowtica AI完成数千万元人民币新一轮融资，投资方包括祥峰资本、源码资本、五源资本和清水湾基金。公司新产品Verso是一款磁吸手机背板式墨水屏Agent，主打会议记录、个人上下文、待办和工作流闭环，计划12月首批出货；公司称其上一款Scribe激活用户订阅转化率为42%。",
+          "why_it_matters": "AI硬件创业正在从录音和转写单点功能转向长期记忆与任务执行，墨水屏尝试用低干扰交互争夺个人工作上下文入口。",
+          "why_important": "AI硬件创业正在从录音和转写单点功能转向长期记忆与任务执行，墨水屏尝试用低干扰交互争夺个人工作上下文入口。",
+          "investment_observation": "融资与42%转化率均为公司或顾问口径，尚缺绝对用户数、收入和留存。关注Verso按期量产、退货率、订阅续费、隐私合规和多端生态能否形成数据壁垒。",
+          "investment_angle": "融资与42%转化率均为公司或顾问口径，尚缺绝对用户数、收入和留存。关注Verso按期量产、退货率、订阅续费、隐私合规和多端生态能否形成数据壁垒。",
+          "companies": [
+            "Flowtica AI",
+            "Vertex Ventures",
+            "Source Code Capital",
+            "5Y Capital",
+            "清水湾基金"
+          ],
+          "people": [
+            "Rian"
+          ],
+          "products": [
+            "Verso",
+            "Scribe"
+          ],
+          "technologies": [
+            "电子墨水屏",
+            "个人上下文系统",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Flowtica AI",
+              "Vertex Ventures",
+              "Source Code Capital",
+              "5Y Capital",
+              "清水湾基金"
+            ],
+            "people": [
+              "Rian"
+            ],
+            "products": [
+              "Verso",
+              "Scribe"
+            ],
+            "technologies": [
+              "电子墨水屏",
+              "个人上下文系统",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "智能硬件",
+            "Agent",
+            "消费电子"
+          ],
+          "importance_score": 8.6
+        },
+        {
+          "title": "Recursive发布Flint本地编程模型，称主要由AI研究系统构建",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+          "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+          "source": "TechCrunch",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-22T09:03:24+08:00",
+          "category": "开源",
+          "summary": "Recursive发布可在笔记本运行的免费编程模型Flint，并称其大部分研发由公司自建AI研究系统完成，用作AI改进AI的早期验证。公开信息尚不足以独立确认自动化研发贡献比例，也需要在主流代码基准、真实仓库任务和不同硬件上验证模型能力与效率。",
+          "why_it_matters": "小型本地编程模型与自动化模型研发结合，可能同时降低代码Agent的隐私、延迟和云推理成本，并测试递归式研究工作流能否加速模型迭代。",
+          "why_important": "小型本地编程模型与自动化模型研发结合，可能同时降低代码Agent的隐私、延迟和云推理成本，并测试递归式研究工作流能否加速模型迭代。",
+          "investment_observation": "关注模型权重和许可证、设备兼容、真实任务通过率、训练成本及AI生成研究决策的可审计性。公司自述的“主要由AI构建”应视为待验证主张。",
+          "investment_angle": "关注模型权重和许可证、设备兼容、真实任务通过率、训练成本及AI生成研究决策的可审计性。公司自述的“主要由AI构建”应视为待验证主张。",
+          "companies": [
+            "Recursive"
+          ],
+          "people": [],
+          "products": [
+            "Flint"
+          ],
+          "technologies": [
+            "代码模型",
+            "本地推理",
+            "AI辅助研究"
+          ],
+          "entities": {
+            "companies": [
+              "Recursive"
+            ],
+            "people": [],
+            "products": [
+              "Flint"
+            ],
+            "technologies": [
+              "代码模型",
+              "本地推理",
+              "AI辅助研究"
+            ]
+          },
+          "tags": [
+            "开源",
+            "编程",
+            "本地AI",
+            "模型"
+          ],
+          "importance_score": 8.5
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "count": 12,
