@@ -1,8 +1,502 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-22T09:03:24+08:00",
-  "digest_count": 74,
-  "article_count": 671,
+  "generated_at": "2026-10-23T10:11:48+08:00",
+  "digest_count": 75,
+  "article_count": 681,
   "digests": [
+    {
+      "date": "2026-10-23",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Spotify押注成为AI Agent默认调用的音乐服务",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+          "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+          "source": "TechCrunch",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "产品应用",
+          "summary": "Spotify联席CEO Gustav Söderström表示，公司希望成为ChatGPT、Claude、Meta Muse等AI Agent优先调用的媒体服务。Spotify第三季度月活达到7.88亿、收入接近50亿欧元；其策略不是把用户听歌历史交给外部模型，而是由Agent提出请求，Spotify在自身系统内利用长期偏好完成推荐和播放。",
+          "why_it_matters": "AI助手正把应用入口从图标和搜索框转向自然语言调用。Spotify拥有长期行为数据和内容授权关系，若能成为跨Agent的音乐执行层，可能在界面被上游助手弱化时仍保留推荐、履约和商业化控制。",
+          "why_important": "AI助手正把应用入口从图标和搜索框转向自然语言调用。Spotify拥有长期行为数据和内容授权关系，若能成为跨Agent的音乐执行层，可能在界面被上游助手弱化时仍保留推荐、履约和商业化控制。",
+          "investment_observation": "关注来自外部Agent的活跃用户、转化与分成条款，以及平台是否限制第三方Agent接入。7.88亿月活是Spotify整体指标，不能直接视为Agent渠道采用量；长期壁垒取决于数据不外泄前提下的推荐质量和接口覆盖。",
+          "investment_angle": "关注来自外部Agent的活跃用户、转化与分成条款，以及平台是否限制第三方Agent接入。7.88亿月活是Spotify整体指标，不能直接视为Agent渠道采用量；长期壁垒取决于数据不外泄前提下的推荐质量和接口覆盖。",
+          "companies": [
+            "Spotify",
+            "Meta",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "people": [
+            "Gustav Söderström"
+          ],
+          "products": [
+            "Spotify",
+            "ChatGPT",
+            "Claude",
+            "Muse"
+          ],
+          "technologies": [
+            "AI Agent",
+            "推荐系统",
+            "工具调用"
+          ],
+          "entities": {
+            "companies": [
+              "Spotify",
+              "Meta",
+              "OpenAI",
+              "Anthropic"
+            ],
+            "people": [
+              "Gustav Söderström"
+            ],
+            "products": [
+              "Spotify",
+              "ChatGPT",
+              "Claude",
+              "Muse"
+            ],
+            "technologies": [
+              "AI Agent",
+              "推荐系统",
+              "工具调用"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "Agent",
+            "音乐",
+            "平台生态"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "AI推理的隐性存储账单开始进入基础设施决策",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+          "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+          "source": "MIT Technology Review",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "AI Infra",
+          "summary": "MIT Technology Review指出，企业常把AI成本集中理解为GPU、电力和模型调用，却低估推理留下的提示、响应、向量、缓存、日志、检查点和合规副本。随着Agent交互拉长、上下文反复读取以及多模态数据增加，存储容量、数据移动和保留策略会成为持续成本。",
+          "why_it_matters": "推理规模化后，瓶颈会从单纯采购加速卡扩展到数据生命周期和I/O架构；这影响云账单、延迟、合规与数据中心能耗，也扩大高性能存储、向量数据库和数据治理的价值。",
+          "why_important": "推理规模化后，瓶颈会从单纯采购加速卡扩展到数据生命周期和I/O架构；这影响云账单、延迟、合规与数据中心能耗，也扩大高性能存储、向量数据库和数据治理的价值。",
+          "investment_observation": "重点跟踪每次任务写入量、数据保留周期、冷热分层、重复数据消除和跨云传输费用。文章偏趋势分析，具体成本仍取决于工作负载；投资判断应以客户生产环境中的单位任务总成本为准。",
+          "investment_angle": "重点跟踪每次任务写入量、数据保留周期、冷热分层、重复数据消除和跨云传输费用。文章偏趋势分析，具体成本仍取决于工作负载；投资判断应以客户生产环境中的单位任务总成本为准。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI推理",
+            "数据存储",
+            "向量数据库",
+            "数据治理"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI推理",
+              "数据存储",
+              "向量数据库",
+              "数据治理"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "数据",
+            "存储",
+            "推理成本"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "NVIDIA开源OpenShell，为自治Agent提供策略化隔离运行时",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "link": "https://github.com/NVIDIA/OpenShell",
+          "source": "NVIDIA GitHub",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "开源",
+          "summary": "NVIDIA开源OpenShell，面向可读写文件、安装软件、调用API和使用凭证的自治Agent提供隔离沙箱。项目通过声明式策略限制文件、系统调用和网络访问，凭证只在获准端点的请求中注入，并在策略变更前检查新增权限；当前支持Linux、Apple Silicon macOS及实验性WSL 2。",
+          "why_it_matters": "Agent越能执行真实操作，越需要把权限、凭证和网络边界变成基础设施能力。OpenShell把安全控制下沉到运行时，有助于企业从单次演示走向可审计的Agent集群部署。",
+          "why_important": "Agent越能执行真实操作，越需要把权限、凭证和网络边界变成基础设施能力。OpenShell把安全控制下沉到运行时，有助于企业从单次演示走向可审计的Agent集群部署。",
+          "investment_observation": "关注项目成熟度、策略误配率、Kubernetes与GPU工作负载适配、性能开销和企业支持收入。开源热度不等于生产可靠性，Windows、Kubernetes及部分GPU路径仍带实验属性。",
+          "investment_angle": "关注项目成熟度、策略误配率、Kubernetes与GPU工作负载适配、性能开销和企业支持收入。开源热度不等于生产可靠性，Windows、Kubernetes及部分GPU路径仍带实验属性。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "OpenShell"
+          ],
+          "technologies": [
+            "沙箱",
+            "策略引擎",
+            "形式化验证",
+            "凭证隔离"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "OpenShell"
+            ],
+            "technologies": [
+              "沙箱",
+              "策略引擎",
+              "形式化验证",
+              "凭证隔离"
+            ]
+          },
+          "tags": [
+            "开源",
+            "Agent",
+            "安全",
+            "基础设施"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "中国电信开源Xing4.0-29B-Intent及275万条意图语料",
+          "url": "https://www.qbitai.com/2026/10/504832.html",
+          "link": "https://www.qbitai.com/2026/10/504832.html",
+          "source": "量子位",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "开源",
+          "summary": "中国电信星辰实验室发布Xing4.0-29B-Intent，统一处理意图分类、参数抽取、实体识别、关系与事件抽取，并以Schema约束输出JSON。项目同步开放约275.3万条监督微调语料、模型权重和推理镜像，采用Apache 2.0许可；团队称模型已用于电信客服路由和智能家居口语指令。",
+          "why_it_matters": "企业Agent需要把自然语言稳定转换为可执行参数。专用意图模型以更短输出、更低调用成本和结构化约束，补足通用模型在高频、收敛业务流程中的稳定性问题。",
+          "why_important": "企业Agent需要把自然语言稳定转换为可执行参数。专用意图模型以更短输出、更低调用成本和结构化约束，补足通用模型在高频、收敛业务流程中的稳定性问题。",
+          "investment_observation": "模型在自建评测中领先多款通用模型，但测试方法和生产表现仍需第三方复现。关注真实场景准确率、端到端延迟、部署成本、语料许可链和开发者采用，而不是只比较厂商榜单。",
+          "investment_angle": "模型在自建评测中领先多款通用模型，但测试方法和生产表现仍需第三方复现。关注真实场景准确率、端到端延迟、部署成本、语料许可链和开发者采用，而不是只比较厂商榜单。",
+          "companies": [
+            "中国电信"
+          ],
+          "people": [],
+          "products": [
+            "Xing4.0-29B-Intent"
+          ],
+          "technologies": [
+            "意图识别",
+            "结构化输出",
+            "Function Calling",
+            "监督微调"
+          ],
+          "entities": {
+            "companies": [
+              "中国电信"
+            ],
+            "people": [],
+            "products": [
+              "Xing4.0-29B-Intent"
+            ],
+            "technologies": [
+              "意图识别",
+              "结构化输出",
+              "Function Calling",
+              "监督微调"
+            ]
+          },
+          "tags": [
+            "开源",
+            "模型",
+            "数据",
+            "Agent"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "Nirva获2500万美元融资，打造只识别佩戴者声音的AI吊坠",
+          "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+          "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+          "source": "TechCrunch",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "融资",
+          "summary": "AI可穿戴创业公司Nirva完成2500万美元Pre-A轮融资，累计融资3300万美元。其售价249美元的吊坠通过用户录制语音建立声纹，主张环境中只识别佩戴者本人说话，用于自动记录和个人建议；公司计划11月开放订购并在年底前发货。",
+          "why_it_matters": "AI硬件正在从全天候环境录音转向更窄的个人语音入口，以隐私叙事争夺长期上下文。若声纹隔离和端侧处理有效，可能降低可穿戴设备最核心的社会接受和数据合规阻力。",
+          "why_important": "AI硬件正在从全天候环境录音转向更窄的个人语音入口，以隐私叙事争夺长期上下文。若声纹隔离和端侧处理有效，可能降低可穿戴设备最核心的社会接受和数据合规阻力。",
+          "investment_observation": "关注按期交付、嘈杂环境误收音、端侧与云端处理边界、订阅价格、留存和退货率。累计3300万美元并非本轮规模；“只听本人”仍是需要独立实测的产品主张。",
+          "investment_angle": "关注按期交付、嘈杂环境误收音、端侧与云端处理边界、订阅价格、留存和退货率。累计3300万美元并非本轮规模；“只听本人”仍是需要独立实测的产品主张。",
+          "companies": [
+            "Nirva"
+          ],
+          "people": [],
+          "products": [
+            "Nirva pendant"
+          ],
+          "technologies": [
+            "声纹识别",
+            "AI可穿戴",
+            "环境计算"
+          ],
+          "entities": {
+            "companies": [
+              "Nirva"
+            ],
+            "people": [],
+            "products": [
+              "Nirva pendant"
+            ],
+            "technologies": [
+              "声纹识别",
+              "AI可穿戴",
+              "环境计算"
+            ]
+          },
+          "tags": [
+            "融资",
+            "智能硬件",
+            "隐私",
+            "消费AI"
+          ],
+          "importance_score": 9.0
+        },
+        {
+          "title": "欧洲金融机构用开放模型构建自有交易智能",
+          "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
+          "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
+          "source": "NVIDIA",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "行业应用",
+          "summary": "NVIDIA汇总欧洲金融机构采用开放模型和加速计算的案例：Lloyds Banking Group构建交易基础模型ATUM，将数十亿笔交易转为可复用表征；其他银行、支付和金融数据机构则探索在主权云或自有环境中部署模型，以控制敏感数据和定制业务能力。",
+          "why_it_matters": "金融业从采购通用聊天工具转向用专有交易数据训练基础模型，说明开放权重、主权部署和数据治理可能共同成为高监管行业的主流架构。",
+          "why_important": "金融业从采购通用聊天工具转向用专有交易数据训练基础模型，说明开放权重、主权部署和数据治理可能共同成为高监管行业的主流架构。",
+          "investment_observation": "案例来自供应商官方宣传，效率与业务收益需要客户独立披露。关注欺诈、风控和个性化场景的生产指标，以及GPU利用率、模型维护成本、监管验证和数据隔离。",
+          "investment_angle": "案例来自供应商官方宣传，效率与业务收益需要客户独立披露。关注欺诈、风控和个性化场景的生产指标，以及GPU利用率、模型维护成本、监管验证和数据隔离。",
+          "companies": [
+            "NVIDIA",
+            "Lloyds Banking Group"
+          ],
+          "people": [],
+          "products": [
+            "ATUM"
+          ],
+          "technologies": [
+            "开放模型",
+            "交易基础模型",
+            "主权云",
+            "加速计算"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Lloyds Banking Group"
+            ],
+            "people": [],
+            "products": [
+              "ATUM"
+            ],
+            "technologies": [
+              "开放模型",
+              "交易基础模型",
+              "主权云",
+              "加速计算"
+            ]
+          },
+          "tags": [
+            "行业应用",
+            "金融",
+            "开放模型",
+            "企业AI"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Canva推出会先规划版式再生成的自研图像模型Craft",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "source": "The Verge",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "产品应用",
+          "summary": "Canva发布自研生成模型Canva Craft，强调在生成前先理解设计目标和版式结构，而不是只输出扁平图片；模型面向海报、社交内容等可继续编辑的设计工作流，并与Canva的模板、品牌素材和编辑工具结合。",
+          "why_it_matters": "生成式设计竞争正从单张图片质量转向可编辑结构和完整工作流。拥有创作入口、模板数据和协作分发的应用厂商，可把模型能力直接连接到修改、审批和发布环节。",
+          "why_important": "生成式设计竞争正从单张图片质量转向可编辑结构和完整工作流。拥有创作入口、模板数据和协作分发的应用厂商，可把模型能力直接连接到修改、审批和发布环节。",
+          "investment_observation": "关注输出的可编辑程度、品牌一致性、生成成本、版权治理和付费转化。新品发布尚不能证明在专业设计质量上领先，真正壁垒可能更多来自工作流和用户分发而非模型本身。",
+          "investment_angle": "关注输出的可编辑程度、品牌一致性、生成成本、版权治理和付费转化。新品发布尚不能证明在专业设计质量上领先，真正壁垒可能更多来自工作流和用户分发而非模型本身。",
+          "companies": [
+            "Canva"
+          ],
+          "people": [],
+          "products": [
+            "Canva Craft"
+          ],
+          "technologies": [
+            "图像生成",
+            "版式规划",
+            "可编辑设计"
+          ],
+          "entities": {
+            "companies": [
+              "Canva"
+            ],
+            "people": [],
+            "products": [
+              "Canva Craft"
+            ],
+            "technologies": [
+              "图像生成",
+              "版式规划",
+              "可编辑设计"
+            ]
+          },
+          "tags": [
+            "产品应用",
+            "生成式AI",
+            "设计",
+            "创意工具"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "Meta修改商业条款后，新闻网站抓取与AI训练边界仍存争议",
+          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "source": "The Verge",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "治理",
+          "summary": "Meta在出版商反弹后删除了新商业条款中明确提及用关联网站内容训练AI的文字，但法律专家认为，更新后的条款仍可能给予Meta广泛抓取商业账户关联网站的权限。新条款计划10月30日生效，Meta则表示调整不会改变其现有爬虫做法。",
+          "why_it_matters": "平台账户、网站抓取许可与模型训练权被捆绑，可能绕开传统robots.txt和逐项内容授权，直接影响新闻机构、品牌网站和AI数据许可市场。",
+          "why_important": "平台账户、网站抓取许可与模型训练权被捆绑，可能绕开传统robots.txt和逐项内容授权，直接影响新闻机构、品牌网站和AI数据许可市场。",
+          "investment_observation": "这是仍在演变的合同与法律争议，不能把专家解读视为法院结论。关注最终条款、退出机制、出版商诉讼、许可交易和监管行动；数据权利不确定性将继续抬高模型训练合规成本。",
+          "investment_angle": "这是仍在演变的合同与法律争议，不能把专家解读视为法院结论。关注最终条款、退出机制、出版商诉讼、许可交易和监管行动；数据权利不确定性将继续抬高模型训练合规成本。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "网络爬虫",
+            "AI训练数据",
+            "robots.txt"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "网络爬虫",
+              "AI训练数据",
+              "robots.txt"
+            ]
+          },
+          "tags": [
+            "治理",
+            "版权",
+            "数据",
+            "Meta"
+          ],
+          "importance_score": 9.1
+        },
+        {
+          "title": "OpenAI与Scripps用数千个Agent并行分析百万级脑细胞数据",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "研究",
+          "summary": "OpenAI、PerturbAI与Scripps Research让数千个由GPT-Rosalind驱动的Agent并行分析小鼠全脑CRISPR图谱：每个Agent研究一个基因扰动、细胞反应和相关文献，再汇总为推理图谱。团队称对数百万脑细胞数据的核心分析耗时32分钟，并发现Tsc1/Tsc2差异及胆固醇调控与神经退行性疾病的潜在线索。",
+          "why_it_matters": "该工作展示Agent集群不只是自动写报告，而能把超大规模实验数据与文献逐项连接，帮助科学家从已有数据中发现可验证假设；生物数据分析可能成为并行Agent的高价值场景。",
+          "why_important": "该工作展示Agent集群不只是自动写报告，而能把超大规模实验数据与文献逐项连接，帮助科学家从已有数据中发现可验证假设；生物数据分析可能成为并行Agent的高价值场景。",
+          "investment_observation": "结果是研究线索而非临床结论，仍需湿实验复现和独立同行评议。关注新假设的验证成功率、计算成本、专家复核时间、数据隐私和科研机构的持续采用。",
+          "investment_angle": "结果是研究线索而非临床结论，仍需湿实验复现和独立同行评议。关注新假设的验证成功率、计算成本、专家复核时间、数据隐私和科研机构的持续采用。",
+          "companies": [
+            "OpenAI",
+            "PerturbAI",
+            "Scripps Research"
+          ],
+          "people": [],
+          "products": [
+            "GPT-Rosalind"
+          ],
+          "technologies": [
+            "多Agent系统",
+            "CRISPR",
+            "单细胞分析",
+            "文献检索"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI",
+              "PerturbAI",
+              "Scripps Research"
+            ],
+            "people": [],
+            "products": [
+              "GPT-Rosalind"
+            ],
+            "technologies": [
+              "多Agent系统",
+              "CRISPR",
+              "单细胞分析",
+              "文献检索"
+            ]
+          },
+          "tags": [
+            "研究",
+            "生物医药",
+            "Agent",
+            "科学发现"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "哈萨克斯坦扩展国家AI算力与本地模型生态",
+          "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+          "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+          "source": "NVIDIA",
+          "published_at": "2026-10-23",
+          "selected_at": "2026-10-23T10:11:48+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA介绍哈萨克斯坦从国家算力规划进入部署阶段，相关项目覆盖GPU集群、本地语言模型、教育、科研、初创企业和行业应用。该国希望把国家级计算资源与本地人才、数据及应用连接，减少仅依赖境外云服务的限制。",
+          "why_it_matters": "中型经济体也开始把主权算力、本地语言模型和产业数字化打包推进，说明AI基础设施需求正在从少数超级云区域向更多国家扩散。",
+          "why_important": "中型经济体也开始把主权算力、本地语言模型和产业数字化打包推进，说明AI基础设施需求正在从少数超级云区域向更多国家扩散。",
+          "investment_observation": "报道来自设备供应商，项目规模、利用率与经济回报仍需客户和政府数据验证。关注电力来源、集群上线进度、开发者使用率、本地模型质量及公共投入能否转化为可持续应用。",
+          "investment_angle": "报道来自设备供应商，项目规模、利用率与经济回报仍需客户和政府数据验证。关注电力来源、集群上线进度、开发者使用率、本地模型质量及公共投入能否转化为可持续应用。",
+          "companies": [
+            "NVIDIA",
+            "Kazakhtelecom"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "主权AI",
+            "GPU集群",
+            "本地语言模型"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA",
+              "Kazakhtelecom"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "主权AI",
+              "GPU集群",
+              "本地语言模型"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "主权AI",
+            "中亚",
+            "算力"
+          ],
+          "importance_score": 8.7
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "count": 10,
