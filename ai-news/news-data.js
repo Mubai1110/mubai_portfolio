@@ -1,8 +1,480 @@
 window.AI_NEWS_DATA = {
-  "generated_at": "2026-10-23T10:11:48+08:00",
-  "digest_count": 75,
-  "article_count": 681,
+  "generated_at": "2026-10-24T08:05:09+08:00",
+  "digest_count": 76,
+  "article_count": 691,
   "digests": [
+    {
+      "date": "2026-10-24",
+      "count": 10,
+      "articles": [
+        {
+          "title": "OpenAI将前沿模型训练转入离线环境，降低模型自主外联风险",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI",
+          "published_at": "2026-10-23",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "安全",
+          "summary": "OpenAI披露其前沿模型训练与评估环境已加强隔离：高风险运行不再直接接入互联网，外部资源先经过人工与自动审查后进入受控环境，并结合高算力红队测试、网络分段和权限限制。调整针对能力更强的模型可能利用联网工具扩大越权行为的风险。",
+          "why_it_matters": "模型安全正在从回答内容治理下沉到训练基础设施与运行时边界。离线环境会增加数据同步和研发成本，但也可能成为高能力模型训练的行业基线，并推动沙箱、审计和安全数据管道需求。",
+          "why_important": "模型安全正在从回答内容治理下沉到训练基础设施与运行时边界。离线环境会增加数据同步和研发成本，但也可能成为高能力模型训练的行业基线，并推动沙箱、审计和安全数据管道需求。",
+          "investment_observation": "关注隔离措施对训练效率、研究迭代速度和事故率的实际影响，以及云厂商是否把类似控制产品化。官方披露说明方向，不等同于所有风险已消除。",
+          "investment_angle": "关注隔离措施对训练效率、研究迭代速度和事故率的实际影响，以及云厂商是否把类似控制产品化。官方披露说明方向，不等同于所有风险已消除。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "模型安全",
+            "网络隔离",
+            "红队测试",
+            "访问控制"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "模型安全",
+              "网络隔离",
+              "红队测试",
+              "访问控制"
+            ]
+          },
+          "tags": [
+            "安全",
+            "基础模型",
+            "OpenAI",
+            "AI Infra"
+          ],
+          "importance_score": 9.7
+        },
+        {
+          "title": "DeepSeek据报完成约150亿美元融资，刷新中国AI融资规模",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "融资",
+          "summary": "据TechCrunch援引彭博报道，DeepSeek完成约1000亿元人民币、折合约150亿美元的新一轮融资，规模约为最初目标的两倍。融资发生在美国联邦机构被要求移除其技术之后，显示资本仍在押注中国基础模型与本土算力生态。",
+          "why_it_matters": "这笔交易若最终规模得到完整确认，将显著延长DeepSeek在训练、推理基础设施和人才上的投入周期，也抬高中美头部模型公司的资本门槛。",
+          "why_important": "这笔交易若最终规模得到完整确认，将显著延长DeepSeek在训练、推理基础设施和人才上的投入周期，也抬高中美头部模型公司的资本门槛。",
+          "investment_observation": "融资数字来自媒体信源而非公司完整公告，应继续核对投资方、估值、到账节奏和附带产业条件。重点观察资金是否转化为模型迭代、推理成本下降和企业收入，而非只扩大算力采购。",
+          "investment_angle": "融资数字来自媒体信源而非公司完整公告，应继续核对投资方、估值、到账节奏和附带产业条件。重点观察资金是否转化为模型迭代、推理成本下降和企业收入，而非只扩大算力采购。",
+          "companies": [
+            "DeepSeek",
+            "High-Flyer"
+          ],
+          "people": [
+            "梁文锋"
+          ],
+          "products": [],
+          "technologies": [
+            "基础模型",
+            "AI算力"
+          ],
+          "entities": {
+            "companies": [
+              "DeepSeek",
+              "High-Flyer"
+            ],
+            "people": [
+              "梁文锋"
+            ],
+            "products": [],
+            "technologies": [
+              "基础模型",
+              "AI算力"
+            ]
+          },
+          "tags": [
+            "融资",
+            "基础模型",
+            "中国AI",
+            "DeepSeek"
+          ],
+          "importance_score": 9.6
+        },
+        {
+          "title": "OpenAI据报推进300亿美元融资，目标估值1.25万亿美元",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "融资",
+          "summary": "TechCrunch报道，OpenAI正接近完成一轮最高300亿美元融资，目标估值约1.25万亿美元，并为后续上市保留空间。新估值低于此前市场传出的更高目标，反映超大规模算力承诺与资本市场定价之间的重新平衡。",
+          "why_it_matters": "前沿模型公司的竞争越来越依赖持续融资能力。该轮交易不仅影响OpenAI自身的训练与数据中心计划，也会成为Anthropic、云厂商和AI基础设施资产估值的重要参照。",
+          "why_important": "前沿模型公司的竞争越来越依赖持续融资能力。该轮交易不仅影响OpenAI自身的训练与数据中心计划，也会成为Anthropic、云厂商和AI基础设施资产估值的重要参照。",
+          "investment_observation": "交易仍处谈判阶段，融资额和估值都不应视为已完成事实。关注最终投资人、优先权条款、现金消耗、收入增长和算力采购承诺，尤其要区分估值提升与单位经济改善。",
+          "investment_angle": "交易仍处谈判阶段，融资额和估值都不应视为已完成事实。关注最终投资人、优先权条款、现金消耗、收入增长和算力采购承诺，尤其要区分估值提升与单位经济改善。",
+          "companies": [
+            "OpenAI"
+          ],
+          "people": [
+            "Sam Altman"
+          ],
+          "products": [
+            "ChatGPT"
+          ],
+          "technologies": [
+            "基础模型",
+            "AI算力"
+          ],
+          "entities": {
+            "companies": [
+              "OpenAI"
+            ],
+            "people": [
+              "Sam Altman"
+            ],
+            "products": [
+              "ChatGPT"
+            ],
+            "technologies": [
+              "基础模型",
+              "AI算力"
+            ]
+          },
+          "tags": [
+            "融资",
+            "OpenAI",
+            "基础模型",
+            "资本市场"
+          ],
+          "importance_score": 9.5
+        },
+        {
+          "title": "Meta扩大AI资本开支并设无投票权新股，市场重新评估算力回报",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "link": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "source": "Meta",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "公司",
+          "summary": "Meta第三季度业绩材料把2026年资本开支区间收窄至1350亿至1450亿美元，并表示2027年仍会积极投资核心业务和AI。公司同时批准创建公开交易的无投票权Class C股票，以增加长期融资灵活性并维持创始人控制权。",
+          "why_it_matters": "头部平台正从用经营现金流建设AI，走向准备更多资本市场工具。投资者开始要求把模型能力、用户增长和商业化收入与巨额数据中心投入更直接地对应起来。",
+          "why_important": "头部平台正从用经营现金流建设AI，走向准备更多资本市场工具。投资者开始要求把模型能力、用户增长和商业化收入与巨额数据中心投入更直接地对应起来。",
+          "investment_observation": "关注自由现金流、AI产品收入、Muse等产品留存、GPU利用率和新股实际发行规模。股票类别创建提供融资能力，但不代表公司已立即增发；资本开支高增长也不自动等于长期回报。",
+          "investment_angle": "关注自由现金流、AI产品收入、Muse等产品留存、GPU利用率和新股实际发行规模。股票类别创建提供融资能力，但不代表公司已立即增发；资本开支高增长也不自动等于长期回报。",
+          "companies": [
+            "Meta"
+          ],
+          "people": [
+            "Mark Zuckerberg"
+          ],
+          "products": [
+            "Muse"
+          ],
+          "technologies": [
+            "AI数据中心",
+            "GPU集群"
+          ],
+          "entities": {
+            "companies": [
+              "Meta"
+            ],
+            "people": [
+              "Mark Zuckerberg"
+            ],
+            "products": [
+              "Muse"
+            ],
+            "technologies": [
+              "AI数据中心",
+              "GPU集群"
+            ]
+          },
+          "tags": [
+            "公司",
+            "AI Infra",
+            "资本开支",
+            "Meta"
+          ],
+          "importance_score": 9.4
+        },
+        {
+          "title": "Pathos AI获2.37亿美元E轮融资，推进Agent式药物研发",
+          "url": "https://www.pathos.com/pathos-ai-secures-237-million-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline",
+          "link": "https://www.pathos.com/pathos-ai-secures-237-million-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline",
+          "source": "Pathos AI",
+          "published_at": "2026-10-23",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "融资",
+          "summary": "临床阶段AI药物公司Pathos AI宣布完成2.37亿美元E轮融资，投后估值约30亿美元。资金将用于扩展其Agent式药物研发平台并推进肿瘤管线；公司把多组学数据、临床数据和模型用于靶点选择、患者分层与试验设计。",
+          "why_it_matters": "AI制药的资本焦点正从单纯的软件平台转向拥有临床资产和验证路径的公司。大额后期融资意味着投资者更关注AI能否缩短试验周期并提高资产成功率。",
+          "why_important": "AI制药的资本焦点正从单纯的软件平台转向拥有临床资产和验证路径的公司。大额后期融资意味着投资者更关注AI能否缩短试验周期并提高资产成功率。",
+          "investment_observation": "融资与估值来自公司公告，平台效果仍需临床数据验证。关注候选药物里程碑、合作收入、试验入组效率、失败率和现金消耗，避免把模型能力直接等同于药物获批概率。",
+          "investment_angle": "融资与估值来自公司公告，平台效果仍需临床数据验证。关注候选药物里程碑、合作收入、试验入组效率、失败率和现金消耗，避免把模型能力直接等同于药物获批概率。",
+          "companies": [
+            "Pathos AI",
+            "Bristol Myers Squibb"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "AI制药",
+            "多组学",
+            "临床试验",
+            "AI Agent"
+          ],
+          "entities": {
+            "companies": [
+              "Pathos AI",
+              "Bristol Myers Squibb"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "AI制药",
+              "多组学",
+              "临床试验",
+              "AI Agent"
+            ]
+          },
+          "tags": [
+            "融资",
+            "生物医药",
+            "Agent",
+            "产品应用"
+          ],
+          "importance_score": 9.3
+        },
+        {
+          "title": "NVIDIA发布Minerva，为AI工厂提供端到端可观测性",
+          "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+          "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+          "source": "NVIDIA",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "AI Infra",
+          "summary": "NVIDIA推出AIOps平台Minerva，把GPU、网络、存储和集群软件的遥测数据汇总到统一视图，用于提前发现故障、定位性能瓶颈并提升AI工厂利用率。平台面向超大规模训练与推理环境，强调跨基础设施层的关联分析。",
+          "why_it_matters": "当GPU集群规模扩大，停机和低利用率会迅速转化为高额成本。可观测性正在成为AI基础设施的重要软件层，也让NVIDIA从芯片与网络进一步延伸到运维控制面。",
+          "why_important": "当GPU集群规模扩大，停机和低利用率会迅速转化为高额成本。可观测性正在成为AI基础设施的重要软件层，也让NVIDIA从芯片与网络进一步延伸到运维控制面。",
+          "investment_observation": "重点看故障发现时间、GPU有效利用率、对第三方硬件的兼容程度和商业定价。供应商案例需要客户生产数据验证，平台价值取决于能否真正减少停机而非只增加监控面板。",
+          "investment_angle": "重点看故障发现时间、GPU有效利用率、对第三方硬件的兼容程度和商业定价。供应商案例需要客户生产数据验证，平台价值取决于能否真正减少停机而非只增加监控面板。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Minerva"
+          ],
+          "technologies": [
+            "AIOps",
+            "可观测性",
+            "GPU集群",
+            "遥测"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Minerva"
+            ],
+            "technologies": [
+              "AIOps",
+              "可观测性",
+              "GPU集群",
+              "遥测"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "NVIDIA",
+            "运维",
+            "数据中心"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "NVIDIA扩展Cosmos开放工具链，覆盖世界模型训练到部署",
+          "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
+          "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
+          "source": "NVIDIA",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "开源",
+          "summary": "NVIDIA扩展Cosmos平台，新增用于世界模型训练、评估和部署的开放工具，帮助开发者处理视频数据、生成物理一致的合成场景，并为机器人和自动驾驶系统评测感知与决策能力。",
+          "why_it_matters": "世界模型需要大量高质量视频、仿真与评测基础设施。NVIDIA以开放模型和工具绑定GPU、仿真软件及机器人生态，有望把物理AI开发流程进一步平台化。",
+          "why_important": "世界模型需要大量高质量视频、仿真与评测基础设施。NVIDIA以开放模型和工具绑定GPU、仿真软件及机器人生态，有望把物理AI开发流程进一步平台化。",
+          "investment_observation": "关注开源许可、模型在真实机器人上的泛化、仿真到现实差距、训练成本和开发者采用。工具发布并不证明安全关键场景已经达到量产可靠性。",
+          "investment_angle": "关注开源许可、模型在真实机器人上的泛化、仿真到现实差距、训练成本和开发者采用。工具发布并不证明安全关键场景已经达到量产可靠性。",
+          "companies": [
+            "NVIDIA"
+          ],
+          "people": [],
+          "products": [
+            "Cosmos"
+          ],
+          "technologies": [
+            "世界模型",
+            "合成数据",
+            "机器人",
+            "自动驾驶"
+          ],
+          "entities": {
+            "companies": [
+              "NVIDIA"
+            ],
+            "people": [],
+            "products": [
+              "Cosmos"
+            ],
+            "technologies": [
+              "世界模型",
+              "合成数据",
+              "机器人",
+              "自动驾驶"
+            ]
+          },
+          "tags": [
+            "开源",
+            "机器人",
+            "自动驾驶",
+            "NVIDIA"
+          ],
+          "importance_score": 9.2
+        },
+        {
+          "title": "链式反应获种子轮融资，以Token计费切入Agent安全",
+          "url": "https://36kr.com/p/4037822855058307?f=rss",
+          "link": "https://36kr.com/p/4037822855058307?f=rss",
+          "source": "36氪",
+          "published_at": "2026-10-23",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "融资",
+          "summary": "AI安全初创公司链式反应完成数百万元种子轮融资。团队源自开源安全社区，尝试围绕模型与Agent调用中的越权、提示注入和工具链风险提供检测与防护，并以Token使用量而非传统席位或项目制收费。",
+          "why_it_matters": "Agent安全需求正从一次性渗透测试转向随模型调用持续发生的运行时防护。按Token计费使安全收入与AI使用量同步，但也要求产品能低延迟、低误报地嵌入推理链路。",
+          "why_important": "Agent安全需求正从一次性渗透测试转向随模型调用持续发生的运行时防护。按Token计费使安全收入与AI使用量同步，但也要求产品能低延迟、低误报地嵌入推理链路。",
+          "investment_observation": "种子轮金额较小，商业模式仍需验证。关注付费客户、每百万Token收入、误报漏报、推理延迟、毛利率和开源社区转化，避免仅凭安全事件热度判断增长。",
+          "investment_angle": "种子轮金额较小，商业模式仍需验证。关注付费客户、每百万Token收入、误报漏报、推理延迟、毛利率和开源社区转化，避免仅凭安全事件热度判断增长。",
+          "companies": [
+            "链式反应",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "Agent安全",
+            "提示注入",
+            "运行时防护"
+          ],
+          "entities": {
+            "companies": [
+              "链式反应",
+              "OpenAI",
+              "Anthropic"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "Agent安全",
+              "提示注入",
+              "运行时防护"
+            ]
+          },
+          "tags": [
+            "融资",
+            "安全",
+            "Agent",
+            "中国AI"
+          ],
+          "importance_score": 8.9
+        },
+        {
+          "title": "清华AIR孵化多智能体医疗系统，让医生AI分身协同诊疗",
+          "url": "https://www.qbitai.com/2026/10/504734.html",
+          "link": "https://www.qbitai.com/2026/10/504734.html",
+          "source": "量子位",
+          "published_at": "2026-10-21",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "行业应用",
+          "summary": "清华AIR孵化团队将专科医生知识沉淀为可协作的AI分身，通过多个Agent分工完成问诊信息整理、专科判断、方案讨论和随访支持，并在医院场景推进落地。系统强调医生监督和多角色协作，而非由单一模型直接给出结论。",
+          "why_it_matters": "医疗AI正从单点问答转向嵌入诊疗流程的多Agent系统。若能在医生负责制下减少信息整理和跨科室沟通成本，可能比完全自动诊断更早形成可复制产品。",
+          "why_important": "医疗AI正从单点问答转向嵌入诊疗流程的多Agent系统。若能在医生负责制下减少信息整理和跨科室沟通成本，可能比完全自动诊断更早形成可复制产品。",
+          "investment_observation": "报道主要来自项目方与媒体介绍，临床价值需前瞻性研究验证。关注真实医院部署数、医生节省时间、错误与转诊率、责任边界、数据合规和付费来源。",
+          "investment_angle": "报道主要来自项目方与媒体介绍，临床价值需前瞻性研究验证。关注真实医院部署数、医生节省时间、错误与转诊率、责任边界、数据合规和付费来源。",
+          "companies": [
+            "清华大学AIR"
+          ],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "多智能体系统",
+            "医疗AI",
+            "知识工程"
+          ],
+          "entities": {
+            "companies": [
+              "清华大学AIR"
+            ],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "多智能体系统",
+              "医疗AI",
+              "知识工程"
+            ]
+          },
+          "tags": [
+            "医疗",
+            "Agent",
+            "产品应用",
+            "中国AI"
+          ],
+          "importance_score": 8.8
+        },
+        {
+          "title": "企业AI竞争转向模型之外的长期推理服务架构",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+          "source": "MIT Technology Review",
+          "published_at": "2026-10-22",
+          "selected_at": "2026-10-24T08:05:09+08:00",
+          "category": "AI Infra",
+          "summary": "MIT Technology Review的行业文章指出，企业AI的长期优势越来越取决于模型之外的服务框架，包括路由、缓存、可观测性、评测、权限、成本控制和模型替换能力。企业需要把这些组件作为可持续平台，而不是围绕单一模型做一次性集成。",
+          "why_it_matters": "模型更新快且价格持续变化，稳定的服务层能减少供应商锁定，并把安全、可靠性和单位任务成本变成可管理指标。这为推理网关、评测和LLMOps厂商创造空间。",
+          "why_important": "模型更新快且价格持续变化，稳定的服务层能减少供应商锁定，并把安全、可靠性和单位任务成本变成可管理指标。这为推理网关、评测和LLMOps厂商创造空间。",
+          "investment_observation": "文章带有行业观点性质，不能视为独立市场规模证明。关注生产客户续费、每次任务成本下降、故障率、跨模型迁移速度和平台毛利，警惕仅包装开源组件的同质化产品。",
+          "investment_angle": "文章带有行业观点性质，不能视为独立市场规模证明。关注生产客户续费、每次任务成本下降、故障率、跨模型迁移速度和平台毛利，警惕仅包装开源组件的同质化产品。",
+          "companies": [],
+          "people": [],
+          "products": [],
+          "technologies": [
+            "模型服务",
+            "推理路由",
+            "LLMOps",
+            "可观测性"
+          ],
+          "entities": {
+            "companies": [],
+            "people": [],
+            "products": [],
+            "technologies": [
+              "模型服务",
+              "推理路由",
+              "LLMOps",
+              "可观测性"
+            ]
+          },
+          "tags": [
+            "AI Infra",
+            "企业AI",
+            "推理",
+            "模型服务"
+          ],
+          "importance_score": 8.7
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "count": 10,
